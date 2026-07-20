@@ -1,0 +1,30 @@
+name: Publish Daily Article
+
+on:
+  schedule:
+    - cron: "0 11,12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node scripts/publish_due_articles.mjs
+      - name: Commit published content
+        run: |
+          if git diff --quiet; then
+            echo "No due approved articles."
+          else
+            git config user.name "daily-publisher"
+            git config user.email "actions@github.com"
+            git add assets/content.js content/scheduled/articles.json
+            git commit -m "Publish due approved article"
+            git push
+          fi
