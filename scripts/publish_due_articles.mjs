@@ -42,31 +42,58 @@ if (now.hour !== 7 && process.env.PUBLISH_ANYTIME !== "1") {
 
 const content = loadContent();
 const scheduled = JSON.parse(fs.readFileSync(scheduledPath, "utf8"));
-const existing = new Set(content.articles.map((article) => article.slug));
+const existing = new Map(content.articles.map((article) => [article.slug, article]));
 let publishedCount = 0;
+let changed = false;
 
 for (const article of scheduled) {
-  if (article.status !== "approved") continue;
-  if (article.date > now.date) continue;
-  if (existing.has(article.slug)) {
-    article.status = "published";
+  const plannedArticle = content.plannedArticles?.find((item) => item.day === article.day);
+  if (plannedArticle && plannedArticle.status !== article.status) {
+    plannedArticle.status = article.status;
+    changed = true;
+  }
+
+  if (article.status === "published" && existing.has(article.slug)) {
+    const existingArticle = existing.get(article.slug);
+    if (article.seo && !existingArticle.seo) {
+      existingArticle.seo = article.seo;
+      changed = true;
+    }
     continue;
   }
 
-  content.articles.unshift({
+  if (article.status !== "approved") continue;
+  if (article.date > now.date) continue;
+  if (existing.has(article.slug)) {
+    const existingArticle = existing.get(article.slug);
+    if (article.seo && !existingArticle.seo) {
+      existingArticle.seo = article.seo;
+      changed = true;
+    }
+    article.status = "published";
+    if (plannedArticle) plannedArticle.status = "published";
+    changed = true;
+    continue;
+  }
+
+  const publishedArticle = {
     slug: article.slug,
     date: article.date,
     category: article.category,
     title: article.title,
     summary: article.summary,
+    seo: article.seo,
     body: article.body
-  });
+  };
+  content.articles.unshift(publishedArticle);
   article.status = "published";
-  existing.add(article.slug);
+  if (plannedArticle) plannedArticle.status = "published";
+  existing.set(article.slug, publishedArticle);
   publishedCount += 1;
+  changed = true;
 }
 
-if (publishedCount > 0) {
+if (changed) {
   writeContent(content);
   fs.writeFileSync(scheduledPath, `${JSON.stringify(scheduled, null, 2)}\n`);
 }
