@@ -119,13 +119,14 @@ const publishedBySlug = new Map((contentContext.window.DSG_CONTENT?.articles || 
 
 const articles = rows.map(([date, category, status, title, slug, primaryKeyword], index) => {
   const previous = originalBySlug.get(slug);
+  const preservedStatus = previous?.status && previous.status !== "draft" ? previous.status : status;
   const article = {
     day: index + 1,
     date,
     slug,
     title,
     category,
-    status,
+    status: preservedStatus,
     summary: previous?.summary || summaryFor(primaryKeyword),
     seo: {
       seoTitle: `${title} | Daily Support Guide`,
@@ -149,11 +150,14 @@ const articles = rows.map(([date, category, status, title, slug, primaryKeyword]
         "No diagnosis, treatment, dosage, cure, or prevention claims"
       ]
     },
-    review: {
-      internalLint: status === "published" ? "passed" : "pending",
-      externalAiReview: status === "published" ? "pending_record" : "pending",
-      approvedForPublishing: status === "published"
-    }
+    review:
+      preservedStatus !== status && previous?.review
+        ? previous.review
+        : {
+            internalLint: status === "published" ? "passed" : "pending",
+            externalAiReview: status === "published" ? "pending_record" : "pending",
+            approvedForPublishing: status === "published"
+          }
   };
 
   const published = publishedBySlug.get(slug);
