@@ -321,6 +321,48 @@ button.secondary {
   color: var(--muted);
 }
 
+.page-shell {
+  padding: 56px clamp(18px, 5vw, 72px);
+}
+
+.page-view {
+  width: min(820px, 100%);
+  margin: 0 auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: clamp(24px, 5vw, 54px);
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+
+.page-view h1 {
+  font-size: clamp(34px, 5vw, 56px);
+}
+
+.page-view h2 {
+  margin-top: 34px;
+  font-size: 25px;
+}
+
+.page-view p,
+.page-view li {
+  color: #303b36;
+  font-size: 18px;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  color: var(--sage-dark);
+  font-weight: 700;
+  text-decoration: none;
+}
+
 @media (max-width: 760px) {
   .site-header {
     align-items: flex-start;
