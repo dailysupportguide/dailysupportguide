@@ -82,7 +82,7 @@ Another common mix-up is assuming a small container always equals one serving. S
 
 Start at the top of the label. First, write down the serving size. Second, write down the servings per container. Third, ask whether the amount you are comparing is one serving, part of a serving, or the whole package. Fourth, use that answer before comparing calories, sodium, sugar, fiber, protein, vitamins, minerals, or other listed details.
 
-For supplements, the same basic habit helps. A Supplement Facts panel lists a serving size and amount per serving, while other parts of the label may list ingredients that do not have a Daily Value. Keeping your note focused on the stated serving prevents you from comparing unlike amounts.
+For supplements, the same basic habit helps. A Supplement Facts panel lists the serving size, dietary ingredients, amounts per serving, and percent Daily Value when one has been established. Keeping your note focused on the stated serving prevents you from comparing unlike amounts.
 
 ## A calm takeaway
 
