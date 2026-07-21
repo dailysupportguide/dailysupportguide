@@ -103,7 +103,7 @@
     "slug": "serving-size-vs-servings-per-container",
     "title": "The Difference Between Serving Size and Servings Per Container",
     "category": "Label Reading",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "A neutral guide to serving size vs servings per container so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "The Difference Between Serving Size and Servings Per Container | Daily Support Guide",
@@ -144,8 +144,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after Supplement Facts wording revision",
+        "gemini": "PASS on revised packet",
+        "claude": "PASS on revised packet",
+        "grok": "PASS on revised packet"
+      },
+      "approvedAt": "2026-07-21"
     },
     "body": [
       {
