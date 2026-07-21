@@ -6,68 +6,2634 @@
     "title": "How to Read a Serving Size Without Overthinking It",
     "category": "Label Reading",
     "status": "published",
-    "summary": "A plain way to use serving size as a comparison tool instead of a judgment.",
+    "summary": "A neutral guide to how to read serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read a Serving Size Without Overthinking It | Daily Support Guide",
+      "metaDescription": "Learn how to read serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "how to read serving size",
+      "secondaryKeywords": [
+        "how to read serving size guide",
+        "how to read serving size checklist",
+        "how to read serving size comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read a Serving Size Without Overthinking It",
+      "h2": [
+        "What how to read serving size means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about how to read serving size?",
+        "How can I use how to read serving size for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "pending_record",
+      "approvedForPublishing": true
+    },
     "body": [
-      { "type": "p", "text": "Serving size is one of the easiest lines to skip and one of the most useful lines to read first. It tells you the amount the rest of the panel is based on. That sounds obvious, but it changes how every number underneath it should be understood." },
-      { "type": "h2", "text": "Start with the line most people skip" },
-      { "type": "p", "text": "Before comparing calories, sodium, sugar, protein, vitamins, or minerals, look at the serving size and the number of servings per container. Two packages can look similar on the shelf while using very different serving amounts. Reading that first keeps the comparison grounded." },
-      { "type": "h2", "text": "Separate amount from judgment" },
-      { "type": "p", "text": "A serving size is not a personal rule. It is a standardized reference amount for the label. Your actual portion may be smaller, larger, or different depending on the situation. The practical question is not whether the number is good or bad. The useful question is: what amount are these facts describing?" },
-      { "type": "h2", "text": "Use a simple comparison routine" },
-      { "type": "p", "text": "When comparing two items, write down the serving size from each label, then check whether the amounts are similar. If one label uses one scoop and another uses two, or one uses half a package while another uses the whole package, compare the numbers with that difference in mind." },
-      { "type": "h2", "text": "Common places people get turned around" },
-      { "type": "p", "text": "Small containers can still list more than one serving. Powders can use scoop sizes that are not the same across categories. Gummies and capsules may require multiple pieces per serving. Drinks may show facts for a partial bottle. None of these details are automatically a problem, but they matter when comparing." },
-      { "type": "h2", "text": "A calm takeaway" },
-      { "type": "p", "text": "Serving size is best treated as a map key. Read it first, use it to interpret the rest of the panel, and keep your notes focused on what the label actually says. This article is general education only and is not medical advice." }
+      {
+        "type": "p",
+        "text": "Serving size is one of the easiest lines to skip and one of the most useful lines to read first. It tells you the amount the rest of the panel is based on. That sounds obvious, but it changes how every number underneath it should be understood."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the line most people skip"
+      },
+      {
+        "type": "p",
+        "text": "Before comparing calories, sodium, sugar, protein, vitamins, or minerals, look at the serving size and the number of servings per container. Two packages can look similar on the shelf while using very different serving amounts. Reading that first keeps the comparison grounded."
+      },
+      {
+        "type": "h2",
+        "text": "Separate amount from judgment"
+      },
+      {
+        "type": "p",
+        "text": "A serving size is not a personal rule. It is a standardized reference amount for the label. Your actual portion may be smaller, larger, or different depending on the situation. The practical question is not whether the number is good or bad. The useful question is: what amount are these facts describing?"
+      },
+      {
+        "type": "h2",
+        "text": "Use a simple comparison routine"
+      },
+      {
+        "type": "p",
+        "text": "When comparing two items, write down the serving size from each label, then check whether the amounts are similar. If one label uses one scoop and another uses two, or one uses half a package while another uses the whole package, compare the numbers with that difference in mind."
+      },
+      {
+        "type": "h2",
+        "text": "Common places people get turned around"
+      },
+      {
+        "type": "p",
+        "text": "Small containers can still list more than one serving. Powders can use scoop sizes that are not the same across categories. Gummies and capsules may require multiple pieces per serving. Drinks may show facts for a partial bottle. None of these details are automatically a problem, but they matter when comparing."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Serving size is best treated as a map key. Read it first, use it to interpret the rest of the panel, and keep your notes focused on what the label actually says. This article is general education only and is not medical advice."
+      }
     ]
   },
-  { "day": 2, "date": "2026-07-21", "slug": "difference-between-serving-size-and-servings-per-container", "title": "The Difference Between Serving Size and Servings Per Container", "category": "Label Reading", "status": "draft", "summary": "A simple distinction that makes package comparisons clearer." },
-  { "day": 3, "date": "2026-07-22", "slug": "compare-two-labels-without-front-claim-first", "title": "How to Compare Two Labels Without Looking at the Front Claim First", "category": "Comparison Skills", "status": "draft", "summary": "A slower first step that can prevent marketing claims from leading the comparison." },
-  { "day": 4, "date": "2026-07-23", "slug": "simple-way-to-compare-cost-per-serving", "title": "A Simple Way to Compare Cost Per Serving", "category": "Comparison Skills", "status": "draft", "summary": "A practical way to compare real cost when package sizes differ." },
-  { "day": 5, "date": "2026-07-24", "slug": "read-an-ingredient-list-from-top-to-bottom", "title": "How to Read an Ingredient List from Top to Bottom", "category": "Label Reading", "status": "draft", "summary": "A calm walkthrough for reading ingredients in order." },
-  { "day": 6, "date": "2026-07-25", "slug": "other-ingredients-on-a-supplement-facts-panel", "title": "What Other Ingredients Means on a Supplement Facts Panel", "category": "Label Reading", "status": "draft", "summary": "A neutral look at the section people often overlook." },
-  { "day": 7, "date": "2026-07-26", "slug": "compare-capsules-powders-and-gummies", "title": "How to Compare Capsules, Powders, and Gummies", "category": "Comparison Skills", "status": "draft", "summary": "A format comparison guide without naming brands or winners." },
-  { "day": 8, "date": "2026-07-27", "slug": "third-party-testing-seals-can-and-cannot-tell-you", "title": "What Third-Party Testing Seals Can and Cannot Tell You", "category": "Label Reading", "status": "draft", "summary": "How to read testing language without overreading it." },
-  { "day": 9, "date": "2026-07-28", "slug": "read-allergen-statements-without-guessing", "title": "How to Read Allergen Statements Without Guessing", "category": "Label Reading", "status": "draft", "summary": "A careful way to read allergen statements and unresolved questions." },
-  { "day": 10, "date": "2026-07-29", "slug": "beginner-checklist-for-comparing-daily-products", "title": "A Beginner-Friendly Checklist for Comparing Daily Products", "category": "Comparison Skills", "status": "draft", "summary": "A reusable checklist for everyday product comparisons." },
-  { "day": 11, "date": "2026-07-30", "slug": "build-a-screen-break-that-fits-your-workday", "title": "How to Build a Screen Break That Actually Fits Your Workday", "category": "Routine Guides", "status": "draft", "summary": "A routine guide built around real workday pauses." },
-  { "day": 12, "date": "2026-07-31", "slug": "reset-your-desk-between-tasks", "title": "A No-Drama Way to Reset Your Desk Between Tasks", "category": "Routine Guides", "status": "draft", "summary": "A short reset for keeping the next task easier to start." },
-  { "day": 13, "date": "2026-08-01", "slug": "use-natural-pauses-instead-of-timers", "title": "How to Use Natural Pauses Instead of Timers", "category": "Routine Guides", "status": "draft", "summary": "A gentler approach to daily routine cues." },
-  { "day": 14, "date": "2026-08-02", "slug": "compare-caffeinated-and-caffeine-free-drink-labels", "title": "How to Compare Caffeinated and Caffeine-Free Drink Labels", "category": "Label Reading", "status": "draft", "summary": "A neutral way to read serving and caffeine information." },
-  { "day": 15, "date": "2026-08-03", "slug": "create-an-evening-shutdown-cue", "title": "How to Create an Evening Shutdown Cue", "category": "Routine Guides", "status": "draft", "summary": "A small evening routine that reduces next-day friction." },
-  { "day": 16, "date": "2026-08-04", "slug": "make-tomorrow-morning-easier-without-a-long-routine", "title": "How to Make Tomorrow Morning Easier Without a Long Routine", "category": "Routine Guides", "status": "draft", "summary": "A short preparation habit for easier mornings." },
-  { "day": 17, "date": "2026-08-05", "slug": "read-sodium-and-sugar-lines-without-panic", "title": "How to Read Sodium and Sugar Lines Without Panic", "category": "Label Reading", "status": "draft", "summary": "A grounded way to read two common nutrition lines." },
-  { "day": 18, "date": "2026-08-06", "slug": "compare-packaged-snacks-by-portion-and-context", "title": "How to Compare Packaged Snacks by Portion and Context", "category": "Comparison Skills", "status": "draft", "summary": "A comparison guide that starts with serving context." },
-  { "day": 19, "date": "2026-08-07", "slug": "look-at-protein-sources-in-a-normal-meal", "title": "How to Look at Protein Sources in a Normal Meal", "category": "Label Reading", "status": "draft", "summary": "A normal-food approach to reading protein information." },
-  { "day": 20, "date": "2026-08-08", "slug": "keep-meal-decisions-simple-on-busy-days", "title": "How to Keep Meal Decisions Simple on Busy Days", "category": "Routine Guides", "status": "draft", "summary": "A practical guide for lowering decision friction." },
-  { "day": 21, "date": "2026-08-09", "slug": "compare-shelf-stable-pantry-items", "title": "How to Compare Shelf-Stable Pantry Items", "category": "Comparison Skills", "status": "draft", "summary": "A pantry comparison framework for common label details." },
-  { "day": 22, "date": "2026-08-10", "slug": "read-vegan-and-plant-based-labels-carefully", "title": "How to Read Vegan and Plant-Based Labels Carefully", "category": "Label Reading", "status": "draft", "summary": "A neutral way to check what these labels do and do not state." },
-  { "day": 23, "date": "2026-08-11", "slug": "compare-omega-3-label-lines-without-brand-names", "title": "How to Compare Omega-3 Label Lines Without Brand Names", "category": "Label Reading", "status": "draft", "summary": "A numbers-first way to read omega-3 label lines." },
-  { "day": 24, "date": "2026-08-12", "slug": "epa-and-dha-read-the-numbers-on-a-label", "title": "EPA and DHA: How to Read the Numbers on a Label", "category": "Label Reading", "status": "draft", "summary": "A plain guide to two common label abbreviations." },
-  { "day": 25, "date": "2026-08-13", "slug": "compare-mineral-labels-by-elemental-amount", "title": "How to Compare Mineral Labels by Elemental Amount", "category": "Label Reading", "status": "draft", "summary": "A careful approach to reading mineral label amounts." },
-  { "day": 26, "date": "2026-08-14", "slug": "compare-vitamin-labels-without-chasing-big-numbers", "title": "How to Compare Vitamin Labels Without Chasing Big Numbers", "category": "Label Reading", "status": "draft", "summary": "A calmer way to read percentages and amounts." },
-  { "day": 27, "date": "2026-08-15", "slug": "percent-daily-value-can-and-cannot-tell-you", "title": "What Percent Daily Value Can and Cannot Tell You", "category": "Label Reading", "status": "draft", "summary": "A balanced explanation of a useful but limited label tool." },
-  { "day": 28, "date": "2026-08-16", "slug": "read-directions-for-use-without-assumptions", "title": "How to Read Directions for Use Without Making Assumptions", "category": "Label Reading", "status": "draft", "summary": "A practical way to separate directions from personal advice." },
-  { "day": 29, "date": "2026-08-17", "slug": "compare-package-size-serving-count-and-real-cost", "title": "How to Compare Package Size, Serving Count, and Real Cost", "category": "Comparison Skills", "status": "draft", "summary": "A three-part comparison for packages that look similar." },
-  { "day": 30, "date": "2026-08-18", "slug": "simple-framework-for-comparing-similar-products", "title": "A Simple Framework for Comparing Similar Products", "category": "Comparison Skills", "status": "draft", "summary": "A neutral framework for staying organized while comparing." },
-  { "day": 31, "date": "2026-08-19", "slug": "notice-marketing-claims-without-letting-them-lead", "title": "How to Notice Marketing Claims Without Letting Them Lead", "category": "Comparison Skills", "status": "draft", "summary": "A method for reading claims after the facts panel." },
-  { "day": 32, "date": "2026-08-20", "slug": "read-structure-and-function-language-carefully", "title": "How to Read Structure and Function Language Carefully", "category": "Label Reading", "status": "draft", "summary": "A cautious way to understand common wellness wording." },
-  { "day": 33, "date": "2026-08-21", "slug": "compare-products-when-one-uses-a-blend", "title": "How to Compare Products When One Uses a Blend", "category": "Label Reading", "status": "draft", "summary": "How to note blend information without guessing hidden amounts." },
-  { "day": 34, "date": "2026-08-22", "slug": "compare-botanical-labels-by-plant-part-and-form", "title": "How to Compare Botanical Labels by Plant Part and Form", "category": "Label Reading", "status": "draft", "summary": "A label-reading framework for botanical information." },
-  { "day": 35, "date": "2026-08-23", "slug": "keep-a-product-comparison-notes-sheet", "title": "How to Keep a Product Comparison Notes Sheet", "category": "Comparison Skills", "status": "draft", "summary": "A simple notes format for neutral comparisons." },
-  { "day": 36, "date": "2026-08-24", "slug": "decide-what-information-is-missing-from-a-label", "title": "How to Decide What Information Is Missing from a Label", "category": "Label Reading", "status": "draft", "summary": "A way to identify gaps without filling them in yourself." },
-  { "day": 37, "date": "2026-08-25", "slug": "compare-powder-scoops-without-guessing", "title": "How to Compare Powder Scoops Without Guessing", "category": "Label Reading", "status": "draft", "summary": "A practical guide for scoop size, serving count, and notes." },
-  { "day": 38, "date": "2026-08-26", "slug": "compare-gummies-by-serving-and-added-sugar", "title": "How to Compare Gummies by Serving and Added Sugar", "category": "Label Reading", "status": "draft", "summary": "A neutral comparison method for serving size and sugar lines." },
-  { "day": 39, "date": "2026-08-27", "slug": "compare-capsules-by-count-and-serving-size", "title": "How to Compare Capsules by Count and Serving Size", "category": "Label Reading", "status": "draft", "summary": "How to translate capsule count into real serving count." },
-  { "day": 40, "date": "2026-08-28", "slug": "build-a-low-friction-weekly-label-review-habit", "title": "How to Build a Low-Friction Weekly Label Review Habit", "category": "Routine Guides", "status": "draft", "summary": "A weekly routine for keeping comparison notes manageable." },
-  { "day": 41, "date": "2026-08-29", "slug": "compare-daily-drinks-by-caffeine-and-serving", "title": "How to Compare Daily Drinks by Caffeine and Serving", "category": "Label Reading", "status": "draft", "summary": "A serving-first method for reading daily drink labels." },
-  { "day": 42, "date": "2026-08-30", "slug": "organize-a-pantry-shelf-for-easier-choices", "title": "How to Organize a Pantry Shelf for Easier Choices", "category": "Routine Guides", "status": "draft", "summary": "A small organization routine for easier everyday decisions." },
-  { "day": 43, "date": "2026-08-31", "slug": "compare-breakfast-options-without-a-diet-plan", "title": "How to Compare Breakfast Options Without a Diet Plan", "category": "Comparison Skills", "status": "draft", "summary": "A neutral way to compare breakfast labels and context." },
-  { "day": 44, "date": "2026-09-01", "slug": "read-claims-like-natural-clean-and-whole-food", "title": "How to Read Claims Like Natural, Clean, and Whole Food", "category": "Label Reading", "status": "draft", "summary": "A careful look at broad claims on front labels." },
-  { "day": 45, "date": "2026-09-02", "slug": "compare-labels-when-you-have-a-dietary-preference", "title": "How to Compare Labels When You Have a Dietary Preference", "category": "Comparison Skills", "status": "draft", "summary": "A practical note-taking approach for preferences and restrictions." },
-  { "day": 46, "date": "2026-09-03", "slug": "read-a-product-page-without-looking-for-a-winner", "title": "How to Read a Product Page Without Looking for a Winner", "category": "Comparison Skills", "status": "draft", "summary": "A way to collect facts before deciding what matters." },
-  { "day": 47, "date": "2026-09-04", "slug": "compare-similar-categories-without-health-claims", "title": "How to Compare Similar Categories Without Making Health Claims", "category": "Comparison Skills", "status": "draft", "summary": "A safe comparison approach for wellness categories." },
-  { "day": 48, "date": "2026-09-05", "slug": "keep-product-notes-neutral-and-useful", "title": "How to Keep Product Notes Neutral and Useful", "category": "Comparison Skills", "status": "draft", "summary": "A note style that stays factual and easy to review." },
-  { "day": 49, "date": "2026-09-06", "slug": "revisit-a-routine-after-two-weeks", "title": "How to Revisit a Routine After Two Weeks", "category": "Routine Guides", "status": "draft", "summary": "A simple review for routines that need adjustment." },
-  { "day": 50, "date": "2026-09-07", "slug": "ten-minute-review-for-everyday-label-confidence", "title": "A 10-Minute Review for Everyday Label Confidence", "category": "Routine Guides", "status": "draft", "summary": "A final review habit for keeping label reading calm." }
+  {
+    "day": 2,
+    "date": "2026-07-21",
+    "slug": "serving-size-vs-servings-per-container",
+    "title": "The Difference Between Serving Size and Servings Per Container",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to serving size vs servings per container so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "The Difference Between Serving Size and Servings Per Container | Daily Support Guide",
+      "metaDescription": "Learn serving size vs servings per container in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "serving size vs servings per container",
+      "secondaryKeywords": [
+        "serving size vs servings per container guide",
+        "serving size vs servings per container checklist",
+        "serving size vs servings per container comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Difference Between Serving Size and Servings Per Container",
+      "h2": [
+        "What serving size vs servings per container means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about serving size vs servings per container?",
+        "How can I use serving size vs servings per container for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 3,
+    "date": "2026-07-22",
+    "slug": "compare-two-labels",
+    "title": "How to Compare Two Labels Without Looking at the Front Claim First",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to how to compare two labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Two Labels Without Looking at the Front Claim First | Daily Support Guide",
+      "metaDescription": "Use a clear how to compare two labels approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "how to compare two labels",
+      "secondaryKeywords": [
+        "how to compare two labels guide",
+        "how to compare two labels checklist",
+        "how to compare two labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Two Labels Without Looking at the Front Claim First",
+      "h2": [
+        "Start with the facts before comparing how to compare two labels",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about how to compare two labels?",
+        "How can I use how to compare two labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 4,
+    "date": "2026-07-23",
+    "slug": "compare-cost-per-serving",
+    "title": "A Simple Way to Compare Cost Per Serving",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to cost per serving so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "A Simple Way to Compare Cost Per Serving | Daily Support Guide",
+      "metaDescription": "Use a clear cost per serving approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "cost per serving",
+      "secondaryKeywords": [
+        "cost per serving guide",
+        "cost per serving checklist",
+        "cost per serving comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Way to Compare Cost Per Serving",
+      "h2": [
+        "Start with the facts before comparing cost per serving",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about cost per serving?",
+        "How can I use cost per serving for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 5,
+    "date": "2026-07-24",
+    "slug": "how-to-read-ingredient-list",
+    "title": "How to Read an Ingredient List from Top to Bottom",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to how to read ingredient list so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read an Ingredient List from Top to Bottom | Daily Support Guide",
+      "metaDescription": "Learn how to read ingredient list in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "how to read ingredient list",
+      "secondaryKeywords": [
+        "how to read ingredient list guide",
+        "how to read ingredient list checklist",
+        "how to read ingredient list comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read an Ingredient List from Top to Bottom",
+      "h2": [
+        "What how to read ingredient list means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about how to read ingredient list?",
+        "How can I use how to read ingredient list for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 6,
+    "date": "2026-07-25",
+    "slug": "other-ingredients-supplement-facts",
+    "title": "What Other Ingredients Means on a Supplement Facts Panel",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to other ingredients supplement facts so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "What Other Ingredients Means on a Supplement Facts Panel | Daily Support Guide",
+      "metaDescription": "Learn other ingredients supplement facts in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "other ingredients supplement facts",
+      "secondaryKeywords": [
+        "other ingredients supplement facts guide",
+        "other ingredients supplement facts checklist",
+        "other ingredients supplement facts comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "What Other Ingredients Means on a Supplement Facts Panel",
+      "h2": [
+        "What other ingredients supplement facts means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about other ingredients supplement facts?",
+        "How can I use other ingredients supplement facts for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 7,
+    "date": "2026-07-26",
+    "slug": "capsules-vs-powders-vs-gummies",
+    "title": "How to Compare Capsules, Powders, and Gummies",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to capsules vs powders vs gummies so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Capsules, Powders, and Gummies | Daily Support Guide",
+      "metaDescription": "Use a clear capsules vs powders vs gummies approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "capsules vs powders vs gummies",
+      "secondaryKeywords": [
+        "capsules vs powders vs gummies guide",
+        "capsules vs powders vs gummies checklist",
+        "capsules vs powders vs gummies comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Capsules, Powders, and Gummies",
+      "h2": [
+        "Start with the facts before comparing capsules vs powders vs gummies",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about capsules vs powders vs gummies?",
+        "How can I use capsules vs powders vs gummies for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 8,
+    "date": "2026-07-27",
+    "slug": "third-party-testing-supplements",
+    "title": "What Third-Party Testing Seals Can and Cannot Tell You",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to third party testing supplements so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "What Third-Party Testing Seals Can and Cannot Tell You | Daily Support Guide",
+      "metaDescription": "Learn third party testing supplements in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "third party testing supplements",
+      "secondaryKeywords": [
+        "third party testing supplements guide",
+        "third party testing supplements checklist",
+        "third party testing supplements comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "What Third-Party Testing Seals Can and Cannot Tell You",
+      "h2": [
+        "What third party testing supplements means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about third party testing supplements?",
+        "How can I use third party testing supplements for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 9,
+    "date": "2026-07-28",
+    "slug": "how-to-read-allergen-statements",
+    "title": "How to Read Allergen Statements Without Guessing",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to how to read allergen statements so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read Allergen Statements Without Guessing | Daily Support Guide",
+      "metaDescription": "Learn how to read allergen statements in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "how to read allergen statements",
+      "secondaryKeywords": [
+        "how to read allergen statements guide",
+        "how to read allergen statements checklist",
+        "how to read allergen statements comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read Allergen Statements Without Guessing",
+      "h2": [
+        "What how to read allergen statements means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about how to read allergen statements?",
+        "How can I use how to read allergen statements for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 10,
+    "date": "2026-07-29",
+    "slug": "product-comparison-checklist",
+    "title": "A Beginner-Friendly Checklist for Comparing Daily Products",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to product comparison checklist so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "A Beginner-Friendly Checklist for Comparing Daily Products | Daily Support Guide",
+      "metaDescription": "Use a clear product comparison checklist approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "product comparison checklist",
+      "secondaryKeywords": [
+        "product comparison checklist guide",
+        "product comparison checklist checklist",
+        "product comparison checklist comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Beginner-Friendly Checklist for Comparing Daily Products",
+      "h2": [
+        "Start with the facts before comparing product comparison checklist",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about product comparison checklist?",
+        "How can I use product comparison checklist for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 11,
+    "date": "2026-07-30",
+    "slug": "screen-break-routine",
+    "title": "How to Build a Screen Break That Actually Fits Your Workday",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to screen break routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Build a Screen Break That Actually Fits Your Workday | Daily Support Guide",
+      "metaDescription": "Build a simple screen break routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "screen break routine",
+      "secondaryKeywords": [
+        "screen break routine guide",
+        "screen break routine checklist",
+        "screen break routine comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Build a Screen Break That Actually Fits Your Workday",
+      "h2": [
+        "Why screen break routine is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about screen break routine?",
+        "How can I use screen break routine for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 12,
+    "date": "2026-07-31",
+    "slug": "desk-reset-routine",
+    "title": "A No-Drama Way to Reset Your Desk Between Tasks",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to desk reset routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "A No-Drama Way to Reset Your Desk Between Tasks | Daily Support Guide",
+      "metaDescription": "Build a simple desk reset routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "desk reset routine",
+      "secondaryKeywords": [
+        "desk reset routine guide",
+        "desk reset routine checklist",
+        "desk reset routine comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "A No-Drama Way to Reset Your Desk Between Tasks",
+      "h2": [
+        "Why desk reset routine is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about desk reset routine?",
+        "How can I use desk reset routine for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 13,
+    "date": "2026-08-01",
+    "slug": "natural-pause-routine",
+    "title": "How to Use Natural Pauses Instead of Timers",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to daily routine cues so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Use Natural Pauses Instead of Timers | Daily Support Guide",
+      "metaDescription": "Build a simple daily routine cues with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "daily routine cues",
+      "secondaryKeywords": [
+        "daily routine cues guide",
+        "daily routine cues checklist",
+        "daily routine cues comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Use Natural Pauses Instead of Timers",
+      "h2": [
+        "Why daily routine cues is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about daily routine cues?",
+        "How can I use daily routine cues for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 14,
+    "date": "2026-08-02",
+    "slug": "compare-caffeine-free-drink-labels",
+    "title": "How to Compare Caffeinated and Caffeine-Free Drink Labels",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to caffeine on drink labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Caffeinated and Caffeine-Free Drink Labels | Daily Support Guide",
+      "metaDescription": "Learn caffeine on drink labels in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "caffeine on drink labels",
+      "secondaryKeywords": [
+        "caffeine on drink labels guide",
+        "caffeine on drink labels checklist",
+        "caffeine on drink labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Caffeinated and Caffeine-Free Drink Labels",
+      "h2": [
+        "What caffeine on drink labels means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about caffeine on drink labels?",
+        "How can I use caffeine on drink labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 15,
+    "date": "2026-08-03",
+    "slug": "evening-shutdown-routine",
+    "title": "How to Create an Evening Shutdown Cue",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to evening shutdown routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Create an Evening Shutdown Cue | Daily Support Guide",
+      "metaDescription": "Build a simple evening shutdown routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "evening shutdown routine",
+      "secondaryKeywords": [
+        "evening shutdown routine guide",
+        "evening shutdown routine checklist",
+        "evening shutdown routine comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Create an Evening Shutdown Cue",
+      "h2": [
+        "Why evening shutdown routine is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about evening shutdown routine?",
+        "How can I use evening shutdown routine for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 16,
+    "date": "2026-08-04",
+    "slug": "simple-morning-routine-prep",
+    "title": "How to Make Tomorrow Morning Easier Without a Long Routine",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to simple morning routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Make Tomorrow Morning Easier Without a Long Routine | Daily Support Guide",
+      "metaDescription": "Build a simple simple morning routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "simple morning routine",
+      "secondaryKeywords": [
+        "simple morning routine guide",
+        "simple morning routine checklist",
+        "simple morning routine comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Make Tomorrow Morning Easier Without a Long Routine",
+      "h2": [
+        "Why simple morning routine is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about simple morning routine?",
+        "How can I use simple morning routine for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 17,
+    "date": "2026-08-05",
+    "slug": "read-sodium-and-sugar-labels",
+    "title": "How to Read Sodium and Sugar Lines Without Panic",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to sodium and sugar on labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read Sodium and Sugar Lines Without Panic | Daily Support Guide",
+      "metaDescription": "Learn sodium and sugar on labels in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "sodium and sugar on labels",
+      "secondaryKeywords": [
+        "sodium and sugar on labels guide",
+        "sodium and sugar on labels checklist",
+        "sodium and sugar on labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read Sodium and Sugar Lines Without Panic",
+      "h2": [
+        "What sodium and sugar on labels means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about sodium and sugar on labels?",
+        "How can I use sodium and sugar on labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 18,
+    "date": "2026-08-06",
+    "slug": "compare-packaged-snacks",
+    "title": "How to Compare Packaged Snacks by Portion and Context",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to compare snack labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Packaged Snacks by Portion and Context | Daily Support Guide",
+      "metaDescription": "Use a clear compare snack labels approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "compare snack labels",
+      "secondaryKeywords": [
+        "compare snack labels guide",
+        "compare snack labels checklist",
+        "compare snack labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Packaged Snacks by Portion and Context",
+      "h2": [
+        "Start with the facts before comparing compare snack labels",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about compare snack labels?",
+        "How can I use compare snack labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 19,
+    "date": "2026-08-07",
+    "slug": "read-protein-on-food-labels",
+    "title": "How to Look at Protein Sources in a Normal Meal",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to protein on food labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Look at Protein Sources in a Normal Meal | Daily Support Guide",
+      "metaDescription": "Learn protein on food labels in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "protein on food labels",
+      "secondaryKeywords": [
+        "protein on food labels guide",
+        "protein on food labels checklist",
+        "protein on food labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Look at Protein Sources in a Normal Meal",
+      "h2": [
+        "What protein on food labels means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about protein on food labels?",
+        "How can I use protein on food labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 20,
+    "date": "2026-08-08",
+    "slug": "simple-meal-decisions",
+    "title": "How to Keep Meal Decisions Simple on Busy Days",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to simple meal decisions so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Keep Meal Decisions Simple on Busy Days | Daily Support Guide",
+      "metaDescription": "Build a simple simple meal decisions with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "simple meal decisions",
+      "secondaryKeywords": [
+        "simple meal decisions guide",
+        "simple meal decisions checklist",
+        "simple meal decisions comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Keep Meal Decisions Simple on Busy Days",
+      "h2": [
+        "Why simple meal decisions is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about simple meal decisions?",
+        "How can I use simple meal decisions for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 21,
+    "date": "2026-08-09",
+    "slug": "compare-pantry-labels",
+    "title": "How to Compare Shelf-Stable Pantry Items",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to compare pantry items so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Shelf-Stable Pantry Items | Daily Support Guide",
+      "metaDescription": "Use a clear compare pantry items approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "compare pantry items",
+      "secondaryKeywords": [
+        "compare pantry items guide",
+        "compare pantry items checklist",
+        "compare pantry items comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Shelf-Stable Pantry Items",
+      "h2": [
+        "Start with the facts before comparing compare pantry items",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about compare pantry items?",
+        "How can I use compare pantry items for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 22,
+    "date": "2026-08-10",
+    "slug": "vegan-plant-based-labels",
+    "title": "How to Read Vegan and Plant-Based Labels Carefully",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to plant based label meaning so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read Vegan and Plant-Based Labels Carefully | Daily Support Guide",
+      "metaDescription": "Learn plant based label meaning in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "plant based label meaning",
+      "secondaryKeywords": [
+        "plant based label meaning guide",
+        "plant based label meaning checklist",
+        "plant based label meaning comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read Vegan and Plant-Based Labels Carefully",
+      "h2": [
+        "What plant based label meaning means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about plant based label meaning?",
+        "How can I use plant based label meaning for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 23,
+    "date": "2026-08-11",
+    "slug": "compare-omega-3-labels",
+    "title": "How to Compare Omega-3 Label Lines Without Brand Names",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to omega 3 label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Omega-3 Label Lines Without Brand Names | Daily Support Guide",
+      "metaDescription": "Learn omega 3 label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "omega 3 label",
+      "secondaryKeywords": [
+        "omega 3 label guide",
+        "omega 3 label checklist",
+        "omega 3 label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Omega-3 Label Lines Without Brand Names",
+      "h2": [
+        "What omega 3 label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about omega 3 label?",
+        "How can I use omega 3 label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 24,
+    "date": "2026-08-12",
+    "slug": "epa-dha-label-numbers",
+    "title": "EPA and DHA: How to Read the Numbers on a Label",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to EPA DHA label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "EPA and DHA: How to Read the Numbers on a Label | Daily Support Guide",
+      "metaDescription": "Learn EPA DHA label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "EPA DHA label",
+      "secondaryKeywords": [
+        "EPA DHA label guide",
+        "EPA DHA label checklist",
+        "EPA DHA label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "EPA and DHA: How to Read the Numbers on a Label",
+      "h2": [
+        "What EPA DHA label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about EPA DHA label?",
+        "How can I use EPA DHA label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 25,
+    "date": "2026-08-13",
+    "slug": "elemental-mineral-labels",
+    "title": "How to Compare Mineral Labels by Elemental Amount",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to elemental mineral label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Mineral Labels by Elemental Amount | Daily Support Guide",
+      "metaDescription": "Learn elemental mineral label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "elemental mineral label",
+      "secondaryKeywords": [
+        "elemental mineral label guide",
+        "elemental mineral label checklist",
+        "elemental mineral label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Mineral Labels by Elemental Amount",
+      "h2": [
+        "What elemental mineral label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about elemental mineral label?",
+        "How can I use elemental mineral label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 26,
+    "date": "2026-08-14",
+    "slug": "compare-vitamin-labels",
+    "title": "How to Compare Vitamin Labels Without Chasing Big Numbers",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to vitamin label daily value so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Vitamin Labels Without Chasing Big Numbers | Daily Support Guide",
+      "metaDescription": "Learn vitamin label daily value in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "vitamin label daily value",
+      "secondaryKeywords": [
+        "vitamin label daily value guide",
+        "vitamin label daily value checklist",
+        "vitamin label daily value comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Vitamin Labels Without Chasing Big Numbers",
+      "h2": [
+        "What vitamin label daily value means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about vitamin label daily value?",
+        "How can I use vitamin label daily value for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 27,
+    "date": "2026-08-15",
+    "slug": "percent-daily-value-meaning",
+    "title": "What Percent Daily Value Can and Cannot Tell You",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to percent daily value meaning so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "What Percent Daily Value Can and Cannot Tell You | Daily Support Guide",
+      "metaDescription": "Learn percent daily value meaning in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "percent daily value meaning",
+      "secondaryKeywords": [
+        "percent daily value meaning guide",
+        "percent daily value meaning checklist",
+        "percent daily value meaning comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "What Percent Daily Value Can and Cannot Tell You",
+      "h2": [
+        "What percent daily value meaning means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about percent daily value meaning?",
+        "How can I use percent daily value meaning for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 28,
+    "date": "2026-08-16",
+    "slug": "directions-for-use-label",
+    "title": "How to Read Directions for Use Without Making Assumptions",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to directions for use label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read Directions for Use Without Making Assumptions | Daily Support Guide",
+      "metaDescription": "Learn directions for use label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "directions for use label",
+      "secondaryKeywords": [
+        "directions for use label guide",
+        "directions for use label checklist",
+        "directions for use label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read Directions for Use Without Making Assumptions",
+      "h2": [
+        "What directions for use label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about directions for use label?",
+        "How can I use directions for use label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 29,
+    "date": "2026-08-17",
+    "slug": "package-size-serving-count-cost",
+    "title": "How to Compare Package Size, Serving Count, and Real Cost",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to package size serving count so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Package Size, Serving Count, and Real Cost | Daily Support Guide",
+      "metaDescription": "Use a clear package size serving count approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "package size serving count",
+      "secondaryKeywords": [
+        "package size serving count guide",
+        "package size serving count checklist",
+        "package size serving count comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Package Size, Serving Count, and Real Cost",
+      "h2": [
+        "Start with the facts before comparing package size serving count",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about package size serving count?",
+        "How can I use package size serving count for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 30,
+    "date": "2026-08-18",
+    "slug": "compare-similar-products-framework",
+    "title": "A Simple Framework for Comparing Similar Products",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to compare similar products so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "A Simple Framework for Comparing Similar Products | Daily Support Guide",
+      "metaDescription": "Use a clear compare similar products approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "compare similar products",
+      "secondaryKeywords": [
+        "compare similar products guide",
+        "compare similar products checklist",
+        "compare similar products comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Framework for Comparing Similar Products",
+      "h2": [
+        "Start with the facts before comparing compare similar products",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about compare similar products?",
+        "How can I use compare similar products for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 31,
+    "date": "2026-08-19",
+    "slug": "read-marketing-claims-on-labels",
+    "title": "How to Notice Marketing Claims Without Letting Them Lead",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to marketing claims on labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Notice Marketing Claims Without Letting Them Lead | Daily Support Guide",
+      "metaDescription": "Use a clear marketing claims on labels approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "marketing claims on labels",
+      "secondaryKeywords": [
+        "marketing claims on labels guide",
+        "marketing claims on labels checklist",
+        "marketing claims on labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Notice Marketing Claims Without Letting Them Lead",
+      "h2": [
+        "Start with the facts before comparing marketing claims on labels",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about marketing claims on labels?",
+        "How can I use marketing claims on labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 32,
+    "date": "2026-08-20",
+    "slug": "structure-function-claims-label",
+    "title": "How to Read Structure and Function Language Carefully",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to structure function claims so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read Structure and Function Language Carefully | Daily Support Guide",
+      "metaDescription": "Learn structure function claims in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "structure function claims",
+      "secondaryKeywords": [
+        "structure function claims guide",
+        "structure function claims checklist",
+        "structure function claims comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read Structure and Function Language Carefully",
+      "h2": [
+        "What structure function claims means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about structure function claims?",
+        "How can I use structure function claims for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 33,
+    "date": "2026-08-21",
+    "slug": "proprietary-blend-label",
+    "title": "How to Compare Products When One Uses a Blend",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to proprietary blend label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Products When One Uses a Blend | Daily Support Guide",
+      "metaDescription": "Learn proprietary blend label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "proprietary blend label",
+      "secondaryKeywords": [
+        "proprietary blend label guide",
+        "proprietary blend label checklist",
+        "proprietary blend label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Products When One Uses a Blend",
+      "h2": [
+        "What proprietary blend label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about proprietary blend label?",
+        "How can I use proprietary blend label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 34,
+    "date": "2026-08-22",
+    "slug": "botanical-label-plant-part-form",
+    "title": "How to Compare Botanical Labels by Plant Part and Form",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to botanical supplement label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Botanical Labels by Plant Part and Form | Daily Support Guide",
+      "metaDescription": "Learn botanical supplement label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "botanical supplement label",
+      "secondaryKeywords": [
+        "botanical supplement label guide",
+        "botanical supplement label checklist",
+        "botanical supplement label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Botanical Labels by Plant Part and Form",
+      "h2": [
+        "What botanical supplement label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about botanical supplement label?",
+        "How can I use botanical supplement label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 35,
+    "date": "2026-08-23",
+    "slug": "product-comparison-notes",
+    "title": "How to Keep a Product Comparison Notes Sheet",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to product comparison notes so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Keep a Product Comparison Notes Sheet | Daily Support Guide",
+      "metaDescription": "Use a clear product comparison notes approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "product comparison notes",
+      "secondaryKeywords": [
+        "product comparison notes guide",
+        "product comparison notes checklist",
+        "product comparison notes comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Keep a Product Comparison Notes Sheet",
+      "h2": [
+        "Start with the facts before comparing product comparison notes",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about product comparison notes?",
+        "How can I use product comparison notes for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 36,
+    "date": "2026-08-24",
+    "slug": "missing-information-on-label",
+    "title": "How to Decide What Information Is Missing from a Label",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to missing information on label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Decide What Information Is Missing from a Label | Daily Support Guide",
+      "metaDescription": "Learn missing information on label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "missing information on label",
+      "secondaryKeywords": [
+        "missing information on label guide",
+        "missing information on label checklist",
+        "missing information on label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Decide What Information Is Missing from a Label",
+      "h2": [
+        "What missing information on label means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about missing information on label?",
+        "How can I use missing information on label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 37,
+    "date": "2026-08-25",
+    "slug": "powder-scoop-serving-size",
+    "title": "How to Compare Powder Scoops Without Guessing",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to powder scoop serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Powder Scoops Without Guessing | Daily Support Guide",
+      "metaDescription": "Learn powder scoop serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "powder scoop serving size",
+      "secondaryKeywords": [
+        "powder scoop serving size guide",
+        "powder scoop serving size checklist",
+        "powder scoop serving size comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Powder Scoops Without Guessing",
+      "h2": [
+        "What powder scoop serving size means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about powder scoop serving size?",
+        "How can I use powder scoop serving size for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 38,
+    "date": "2026-08-26",
+    "slug": "gummy-serving-size-added-sugar",
+    "title": "How to Compare Gummies by Serving and Added Sugar",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to gummy serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Gummies by Serving and Added Sugar | Daily Support Guide",
+      "metaDescription": "Learn gummy serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "gummy serving size",
+      "secondaryKeywords": [
+        "gummy serving size guide",
+        "gummy serving size checklist",
+        "gummy serving size comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Gummies by Serving and Added Sugar",
+      "h2": [
+        "What gummy serving size means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about gummy serving size?",
+        "How can I use gummy serving size for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 39,
+    "date": "2026-08-27",
+    "slug": "capsule-count-serving-size",
+    "title": "How to Compare Capsules by Count and Serving Size",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to capsule serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Capsules by Count and Serving Size | Daily Support Guide",
+      "metaDescription": "Learn capsule serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "capsule serving size",
+      "secondaryKeywords": [
+        "capsule serving size guide",
+        "capsule serving size checklist",
+        "capsule serving size comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Capsules by Count and Serving Size",
+      "h2": [
+        "What capsule serving size means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about capsule serving size?",
+        "How can I use capsule serving size for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 40,
+    "date": "2026-08-28",
+    "slug": "weekly-label-review-routine",
+    "title": "How to Build a Low-Friction Weekly Label Review Habit",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to label review routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Build a Low-Friction Weekly Label Review Habit | Daily Support Guide",
+      "metaDescription": "Build a simple label review routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "label review routine",
+      "secondaryKeywords": [
+        "label review routine guide",
+        "label review routine checklist",
+        "label review routine comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Build a Low-Friction Weekly Label Review Habit",
+      "h2": [
+        "Why label review routine is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about label review routine?",
+        "How can I use label review routine for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 41,
+    "date": "2026-08-29",
+    "slug": "daily-drink-caffeine-serving",
+    "title": "How to Compare Daily Drinks by Caffeine and Serving",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to caffeine serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Daily Drinks by Caffeine and Serving | Daily Support Guide",
+      "metaDescription": "Learn caffeine serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "caffeine serving size",
+      "secondaryKeywords": [
+        "caffeine serving size guide",
+        "caffeine serving size checklist",
+        "caffeine serving size comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Daily Drinks by Caffeine and Serving",
+      "h2": [
+        "What caffeine serving size means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about caffeine serving size?",
+        "How can I use caffeine serving size for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 42,
+    "date": "2026-08-30",
+    "slug": "organize-pantry-shelf",
+    "title": "How to Organize a Pantry Shelf for Easier Choices",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to organize pantry shelf so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Organize a Pantry Shelf for Easier Choices | Daily Support Guide",
+      "metaDescription": "Build a simple organize pantry shelf with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "organize pantry shelf",
+      "secondaryKeywords": [
+        "organize pantry shelf guide",
+        "organize pantry shelf checklist",
+        "organize pantry shelf comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Organize a Pantry Shelf for Easier Choices",
+      "h2": [
+        "Why organize pantry shelf is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about organize pantry shelf?",
+        "How can I use organize pantry shelf for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 43,
+    "date": "2026-08-31",
+    "slug": "compare-breakfast-labels",
+    "title": "How to Compare Breakfast Options Without a Diet Plan",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to compare breakfast labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Breakfast Options Without a Diet Plan | Daily Support Guide",
+      "metaDescription": "Use a clear compare breakfast labels approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "compare breakfast labels",
+      "secondaryKeywords": [
+        "compare breakfast labels guide",
+        "compare breakfast labels checklist",
+        "compare breakfast labels comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Breakfast Options Without a Diet Plan",
+      "h2": [
+        "Start with the facts before comparing compare breakfast labels",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about compare breakfast labels?",
+        "How can I use compare breakfast labels for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 44,
+    "date": "2026-09-01",
+    "slug": "natural-clean-whole-food-claims",
+    "title": "How to Read Claims Like Natural, Clean, and Whole Food",
+    "category": "Label Reading",
+    "status": "draft",
+    "summary": "A neutral guide to natural clean label claims so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read Claims Like Natural, Clean, and Whole Food | Daily Support Guide",
+      "metaDescription": "Learn natural clean label claims in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "natural clean label claims",
+      "secondaryKeywords": [
+        "natural clean label claims guide",
+        "natural clean label claims checklist",
+        "natural clean label claims comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read Claims Like Natural, Clean, and Whole Food",
+      "h2": [
+        "What natural clean label claims means on a label",
+        "Where readers often get turned around",
+        "A simple label-reading checklist",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about natural clean label claims?",
+        "How can I use natural clean label claims for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "how-to-read-ingredient-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 45,
+    "date": "2026-09-02",
+    "slug": "compare-labels-dietary-preference",
+    "title": "How to Compare Labels When You Have a Dietary Preference",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to dietary preference label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Labels When You Have a Dietary Preference | Daily Support Guide",
+      "metaDescription": "Use a clear dietary preference label approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "dietary preference label",
+      "secondaryKeywords": [
+        "dietary preference label guide",
+        "dietary preference label checklist",
+        "dietary preference label comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Labels When You Have a Dietary Preference",
+      "h2": [
+        "Start with the facts before comparing dietary preference label",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about dietary preference label?",
+        "How can I use dietary preference label for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 46,
+    "date": "2026-09-03",
+    "slug": "read-product-page-facts",
+    "title": "How to Read a Product Page Without Looking for a Winner",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to how to read product page so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Read a Product Page Without Looking for a Winner | Daily Support Guide",
+      "metaDescription": "Use a clear how to read product page approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "how to read product page",
+      "secondaryKeywords": [
+        "how to read product page guide",
+        "how to read product page checklist",
+        "how to read product page comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read a Product Page Without Looking for a Winner",
+      "h2": [
+        "Start with the facts before comparing how to read product page",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about how to read product page?",
+        "How can I use how to read product page for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 47,
+    "date": "2026-09-04",
+    "slug": "compare-wellness-categories",
+    "title": "How to Compare Similar Categories Without Making Health Claims",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to compare wellness products so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Compare Similar Categories Without Making Health Claims | Daily Support Guide",
+      "metaDescription": "Use a clear compare wellness products approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "compare wellness products",
+      "secondaryKeywords": [
+        "compare wellness products guide",
+        "compare wellness products checklist",
+        "compare wellness products comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Similar Categories Without Making Health Claims",
+      "h2": [
+        "Start with the facts before comparing compare wellness products",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about compare wellness products?",
+        "How can I use compare wellness products for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 48,
+    "date": "2026-09-05",
+    "slug": "neutral-product-notes",
+    "title": "How to Keep Product Notes Neutral and Useful",
+    "category": "Comparison Skills",
+    "status": "draft",
+    "summary": "A neutral guide to product notes template so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Keep Product Notes Neutral and Useful | Daily Support Guide",
+      "metaDescription": "Use a clear product notes template approach to compare everyday details without brand names, hype, or product picks.",
+      "primaryKeyword": "product notes template",
+      "secondaryKeywords": [
+        "product notes template guide",
+        "product notes template checklist",
+        "product notes template comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Keep Product Notes Neutral and Useful",
+      "h2": [
+        "Start with the facts before comparing product notes template",
+        "Build a side-by-side note",
+        "Common comparison mistakes",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about product notes template?",
+        "How can I use product notes template for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "product-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 49,
+    "date": "2026-09-06",
+    "slug": "revisit-routine-after-two-weeks",
+    "title": "How to Revisit a Routine After Two Weeks",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to routine review so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "How to Revisit a Routine After Two Weeks | Daily Support Guide",
+      "metaDescription": "Build a simple routine review with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "routine review",
+      "secondaryKeywords": [
+        "routine review guide",
+        "routine review checklist",
+        "routine review comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Revisit a Routine After Two Weeks",
+      "h2": [
+        "Why routine review is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about routine review?",
+        "How can I use routine review for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  },
+  {
+    "day": 50,
+    "date": "2026-09-07",
+    "slug": "ten-minute-label-review",
+    "title": "A 10-Minute Review for Everyday Label Confidence",
+    "category": "Routine Guides",
+    "status": "draft",
+    "summary": "A neutral guide to label reading checklist so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "seo": {
+      "seoTitle": "A 10-Minute Review for Everyday Label Confidence | Daily Support Guide",
+      "metaDescription": "Build a simple label reading checklist with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "primaryKeyword": "label reading checklist",
+      "secondaryKeywords": [
+        "label reading checklist guide",
+        "label reading checklist checklist",
+        "label reading checklist comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "A 10-Minute Review for Everyday Label Confidence",
+      "h2": [
+        "Why label reading checklist is easier when it stays small",
+        "A simple routine you can repeat",
+        "What to notice after one week",
+        "A calm takeaway"
+      ],
+      "faq": [
+        "What should I know about label reading checklist?",
+        "How can I use label reading checklist for a neutral comparison?",
+        "When should I ask a qualified professional instead of guessing?"
+      ],
+      "internalLinks": [
+        "screen-break-routine",
+        "evening-shutdown-routine",
+        "weekly-label-review-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No diagnosis, treatment, dosage, cure, or prevention claims"
+      ]
+    },
+    "review": {
+      "internalLint": "pending",
+      "externalAiReview": "pending",
+      "approvedForPublishing": false
+    }
+  }
 ]
