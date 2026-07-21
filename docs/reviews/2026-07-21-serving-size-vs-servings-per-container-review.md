@@ -4,7 +4,7 @@
 
 Current big goal: Build Daily Support Guide as an English-first, U.S.-audience informational site with a quiz, neutral health-adjacent education articles, SEO foundations, and no affiliate links until the site is trustworthy enough for a later monetization phase.
 
-Current project state: Article 02 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 02 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -22,8 +22,8 @@ Non-drift boundaries:
 - Title: The Difference Between Serving Size and Servings Per Container
 - Scheduled date: 2026-07-21
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: serving size vs servings per container
 - Meta description: Learn serving size vs servings per container in plain English with neutral label-reading tips, comparison questions, and practical examples.
 
@@ -87,3 +87,13 @@ For supplements, the same basic habit helps. A Supplement Facts panel lists the 
 ## A calm takeaway
 
 A practical way to remember the difference is this: serving size is the unit, and servings per container is the count. Read both before judging any other number on the label. This article is general education only and is not medical advice. If a label affects a medical condition, allergy, pregnancy concern, medication question, or personal nutrition plan, ask a qualified professional instead of guessing.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS after requested Supplement Facts wording revision.
+- Gemini: PASS on revised packet.
+- Claude: PASS on revised packet.
+- Grok: PASS on revised packet.
+
+Final status: approved for publishing.
