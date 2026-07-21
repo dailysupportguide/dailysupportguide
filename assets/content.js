@@ -6,6 +6,35 @@ window.DSG_CONTENT = {
       category: "Label Reading",
       title: "How to Read a Serving Size Without Overthinking It",
       summary: "A plain way to use serving size as a comparison tool instead of a judgment.",
+      seo: {
+        seoTitle: "How to Read a Serving Size Without Overthinking It | Daily Support Guide",
+        metaDescription: "Learn how to read serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+        primaryKeyword: "how to read serving size",
+        secondaryKeywords: [
+          "how to read serving size guide",
+          "how to read serving size checklist",
+          "how to read serving size comparison"
+        ],
+        searchIntent: "informational",
+        h1: "How to Read a Serving Size Without Overthinking It",
+        h2: [
+          "What how to read serving size means on a label",
+          "Where readers often get turned around",
+          "A simple label-reading checklist",
+          "A calm takeaway"
+        ],
+        faq: [
+          "What should I know about how to read serving size?",
+          "How can I use how to read serving size for a neutral comparison?",
+          "When should I ask a qualified professional instead of guessing?"
+        ],
+        internalLinks: [
+          "serving-size-vs-servings-per-container",
+          "percent-daily-value-meaning",
+          "how-to-read-ingredient-list"
+        ],
+        schema: ["Article", "FAQPage"]
+      },
       body: [
         { type: "p", text: "Serving size is one of the easiest lines to skip and one of the most useful lines to read first. It tells you the amount the rest of the panel is based on. That sounds obvious, but it changes how every number underneath it should be understood." },
         { type: "h2", text: "Start with the line most people skip" },
