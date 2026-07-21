@@ -134,6 +134,11 @@
     const slug = new URLSearchParams(window.location.search).get("slug");
     const article = content.articles.find((item) => item.slug === slug) || content.articles[0];
     document.title = `${article.title} | Daily Support Guide`;
+    const description = article.seo?.metaDescription || article.summary || "A neutral Daily Support Guide article.";
+    const descriptionTag = document.querySelector('meta[name="description"]');
+    const canonicalLink = document.getElementById("canonicalLink");
+    if (descriptionTag) descriptionTag.setAttribute("content", description);
+    if (canonicalLink) canonicalLink.setAttribute("href", `https://dailysupportguide.com/article.html?slug=${encodeURIComponent(article.slug)}`);
 
     view.innerHTML = "";
     view.appendChild(create("p", "meta", `${article.category} | ${article.date}`));
