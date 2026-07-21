@@ -74,6 +74,25 @@ for (const article of published.articles) {
 for (const article of scheduled) {
   const text = textOfArticle(article);
   checkText(`scheduled:${article.slug || article.title}`, text, errors);
+  if (!article.seo) {
+    errors.push(`scheduled:${article.slug}: missing seo object.`);
+  } else {
+    for (const key of ["seoTitle", "metaDescription", "primaryKeyword", "h1"]) {
+      if (!article.seo[key]) errors.push(`scheduled:${article.slug}: missing seo.${key}.`);
+    }
+    if (!Array.isArray(article.seo.secondaryKeywords) || article.seo.secondaryKeywords.length < 3) {
+      errors.push(`scheduled:${article.slug}: needs at least 3 secondary keywords.`);
+    }
+    if (!Array.isArray(article.seo.h2) || article.seo.h2.length < 3) {
+      errors.push(`scheduled:${article.slug}: needs at least 3 H2 targets.`);
+    }
+    if (!Array.isArray(article.seo.faq) || article.seo.faq.length < 3) {
+      errors.push(`scheduled:${article.slug}: needs at least 3 FAQ targets.`);
+    }
+    if (!Array.isArray(article.seo.internalLinks)) {
+      errors.push(`scheduled:${article.slug}: missing internal link targets.`);
+    }
+  }
   if ((article.status === "approved" || article.status === "published") && (!article.body || article.body.length < 3)) {
     errors.push(`scheduled:${article.slug}: approved/published articles must include a full body.`);
   }
