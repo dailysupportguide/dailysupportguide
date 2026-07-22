@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 25 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 25 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -25,8 +25,8 @@ Non-drift boundaries:
 - Title: How to Compare Mineral Labels by Elemental Amount
 - Scheduled date: 2026-08-13
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: elemental mineral label
 - Meta description: Read an elemental mineral label by checking mineral name, declared amount, serving size, percent Daily Value, and source wording.
 
@@ -124,3 +124,13 @@ If a health professional has given you personal kidney, heart, anemia, thyroid, 
 ## A calm takeaway
 
 Mineral labels are easier to compare when you separate the mineral from the source compound, read the declared elemental amount, check serving size, and use percent Daily Value for context. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS: no required changes.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
