@@ -961,34 +961,36 @@
     "slug": "how-to-read-allergen-statements",
     "title": "How to Read Allergen Statements Without Guessing",
     "category": "Label Reading",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to how to read allergen statements so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "How to Read Allergen Statements Without Guessing | Daily Support Guide",
-      "metaDescription": "Learn how to read allergen statements in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "metaDescription": "Learn how to read allergen statements with neutral label-reading tips for ingredient lists, Contains statements, and advisory language.",
       "primaryKeyword": "how to read allergen statements",
       "secondaryKeywords": [
-        "how to read allergen statements guide",
-        "how to read allergen statements checklist",
-        "how to read allergen statements comparison"
+        "food allergen labels",
+        "contains statement allergen label",
+        "allergen advisory statements"
       ],
       "searchIntent": "informational",
       "h1": "How to Read Allergen Statements Without Guessing",
       "h2": [
-        "What how to read allergen statements means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
+        "Start with the major allergen list",
+        "Check both the ingredient list and Contains statement",
+        "Treat advisory statements as separate information",
+        "Use a no-guessing note",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about how to read allergen statements?",
-        "How can I use how to read allergen statements for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What are the nine major food allergens in the United States?",
+        "Where can major allergens appear on a label?",
+        "Do advisory statements like may contain have one standard meaning?"
       ],
       "internalLinks": [
-        "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "how-to-read-ingredient-list",
+        "other-ingredients-supplement-facts",
+        "compare-two-labels",
+        "third-party-testing-supplements"
       ],
       "schema": [
         "Article",
@@ -1002,10 +1004,76 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Allergen statements can feel stressful because the words on a label matter. A better approach is to read the label in a steady order instead of trying to guess from one bold line, one warning, or one familiar ingredient name."
+      },
+      {
+        "type": "p",
+        "text": "This guide is a neutral label-reading checklist for a U.S. audience. It does not rank products, give medical advice, or replace guidance from a qualified professional for someone with an allergy or other personal health concern."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the major allergen list"
+      },
+      {
+        "type": "p",
+        "text": "The FDA identifies nine major food allergens: milk, eggs, fish, crustacean shellfish, tree nuts, peanuts, wheat, soybeans, and sesame. Sesame became the ninth major food allergen under the FASTER Act, with labeling requirements applying to packaged foods and dietary supplements beginning January 1, 2023."
+      },
+      {
+        "type": "p",
+        "text": "Some labels also need to be specific. FDA materials explain that the type of tree nut and the species of fish or crustacean shellfish must be declared. That means a careful reader should look for the source word, not only a broad category."
+      },
+      {
+        "type": "h2",
+        "text": "Check both the ingredient list and Contains statement"
+      },
+      {
+        "type": "p",
+        "text": "FDA materials explain that the food source of a major allergen can appear in parentheses after an ingredient name, or in a Contains statement immediately after or next to the ingredient list. Sometimes the common or usual ingredient name already identifies the allergen source."
+      },
+      {
+        "type": "p",
+        "text": "A no-guessing review checks both places. Read the ingredient list from top to bottom, then read any Contains statement separately. If the two sections use different wording, write down the exact words instead of smoothing them into your own shorthand."
+      },
+      {
+        "type": "h2",
+        "text": "Treat advisory statements as separate information"
+      },
+      {
+        "type": "p",
+        "text": "Advisory language such as may contain or produced in a facility that also uses is different from required major allergen labeling. FDA materials describe these advisory statements as voluntary, and FDA has noted that there is no uniform rule that makes one advisory phrase mean a higher or lower level of allergen presence than another."
+      },
+      {
+        "type": "p",
+        "text": "That means advisory wording should not be turned into a simple risk ranking. A phrase like produced in a facility does not automatically mean less concern than may contain. FDA also says advisory statements should not be used as a substitute for current good manufacturing practices and must be truthful and not misleading."
+      },
+      {
+        "type": "h2",
+        "text": "Use a no-guessing note"
+      },
+      {
+        "type": "p",
+        "text": "When a label matters, make a short note with four lines: exact allergen or source words found, where those words appeared, any advisory language, and questions that remain unresolved. This turns a fast scan into a repeatable reading process."
+      },
+      {
+        "type": "p",
+        "text": "For example, the note might say: sesame listed in Contains statement; tree nut type named in ingredient list; advisory statement present; manufacturer question still unclear. If the label is unclear and the issue involves an allergy, medical condition, medication, pregnancy, or a personal nutrition plan, ask a qualified professional or contact the manufacturer instead of guessing."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Learning how to read allergen statements is about order and precision. Check the major allergen source, read both the ingredient list and Contains statement, treat advisory language separately, and keep unresolved questions visible. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 10,
