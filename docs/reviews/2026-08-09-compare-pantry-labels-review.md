@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 21 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 21 passed ChatGPT, Gemini, Claude, and Grok review after one source-scope correction. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -24,8 +24,8 @@ Non-drift boundaries:
 - Title: How to Compare Pantry Items Without Overthinking the Label
 - Scheduled date: 2026-08-09
 - Category: Comparison Skills
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: compare pantry items
 - Meta description: Compare pantry items by serving size, percent Daily Value, storage wording, package condition, and meal role.
 
@@ -122,3 +122,15 @@ If a health professional has given you personal sodium, sugar, fiber, allergy, k
 ## A calm takeaway
 
 Pantry comparisons work best when you compare similar items, start with serving size, use percent Daily Value, check storage wording, and notice package condition. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+Correction applied before final approval: removed the unsupported seam-damage causal explanation from the deeply dented can sentence and kept the statement within the USDA FSIS source notes.
+
+- ChatGPT: PASS after dented-can source-scope correction.
+- Gemini: PASS after dented-can source-scope correction.
+- Claude: PASS after confirming prior dented-can source-scope issue was resolved.
+- Grok: PASS after dented-can source-scope correction.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.

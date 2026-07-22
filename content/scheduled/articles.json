@@ -2797,7 +2797,7 @@
     "slug": "compare-pantry-labels",
     "title": "How to Compare Pantry Items Without Overthinking the Label",
     "category": "Comparison Skills",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Compare pantry items with serving size, percent Daily Value, storage wording, package condition, and meal role without brand names or product picks.",
     "seo": {
       "seoTitle": "How to Compare Pantry Items Without Overthinking the Label | Daily Support Guide",
@@ -2844,8 +2844,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after dented-can source-scope correction",
+        "gemini": "PASS after dented-can source-scope correction",
+        "claude": "PASS after confirming prior dented-can source-scope issue was resolved",
+        "grok": "PASS after dented-can source-scope correction"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
