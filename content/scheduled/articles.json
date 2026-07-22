@@ -453,33 +453,36 @@
     "slug": "how-to-read-ingredient-list",
     "title": "How to Read an Ingredient List from Top to Bottom",
     "category": "Label Reading",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to how to read ingredient list so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "How to Read an Ingredient List from Top to Bottom | Daily Support Guide",
-      "metaDescription": "Learn how to read ingredient list in plain English with neutral label-reading tips, comparison questions, and practical examples.",
-      "primaryKeyword": "how to read ingredient list",
+      "metaDescription": "Learn how to read an ingredient list in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "primaryKeyword": "how to read an ingredient list",
       "secondaryKeywords": [
-        "how to read ingredient list guide",
-        "how to read ingredient list checklist",
-        "how to read ingredient list comparison"
+        "ingredient list order",
+        "ingredient list checklist",
+        "how to compare ingredient lists"
       ],
       "searchIntent": "informational",
       "h1": "How to Read an Ingredient List from Top to Bottom",
       "h2": [
-        "What how to read ingredient list means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
+        "Start with the order of ingredients",
+        "Look for names you need to recognize",
+        "Check allergen statements separately",
+        "Use a simple comparison note",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about how to read ingredient list?",
-        "How can I use how to read ingredient list for a neutral comparison?",
+        "Why does ingredient order matter?",
+        "How should I handle unfamiliar ingredient names?",
         "When should I ask a qualified professional instead of guessing?"
       ],
       "internalLinks": [
+        "how-to-read-a-serving-size-without-overthinking-it",
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning"
+        "compare-two-labels",
+        "compare-cost-per-serving"
       ],
       "schema": [
         "Article",
@@ -493,10 +496,76 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "An ingredient list is easy to skim and surprisingly useful when it is read in order. It does not tell the whole story of a food or supplement, but it can show what the product is made from and where a few important details may be hiding."
+      },
+      {
+        "type": "p",
+        "text": "A calm reading habit starts at the top, moves line by line, and keeps the ingredient list separate from front-of-package claims. The goal is not to judge a product from one word. The goal is to notice what the label actually says before making a comparison."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the order of ingredients"
+      },
+      {
+        "type": "p",
+        "text": "For many labels, ingredients are listed in descending order by weight. That means the first ingredients usually make up more of the product than ingredients that appear later. This can help you understand the basic makeup of the product before looking at marketing language or package design."
+      },
+      {
+        "type": "p",
+        "text": "This order is still a starting point, not a complete scorecard. A shorter list is not automatically better, and a longer list is not automatically worse. The list is a map of what is present, not a personalized recommendation."
+      },
+      {
+        "type": "h2",
+        "text": "Look for names you need to recognize"
+      },
+      {
+        "type": "p",
+        "text": "Read slowly enough to catch repeated themes, familiar food names, color additives, sweeteners, flavors, binders, fillers, or preservatives. On dietary supplements, the FDA explains that some ingredients may appear in the Supplement Facts panel, while other ingredients such as fillers, binders, excipients, preservatives, sweeteners, and flavorings may appear in an Other Ingredients list."
+      },
+      {
+        "type": "p",
+        "text": "If an ingredient name is unfamiliar, treat it as something to look up from a reliable source rather than something to fear or ignore. A neutral note can simply say: ingredient name unclear, check later."
+      },
+      {
+        "type": "h2",
+        "text": "Check allergen statements separately"
+      },
+      {
+        "type": "p",
+        "text": "Allergen information deserves its own pass. The FDA says food labels must identify the food source of major food allergens used to make the food. That information may appear in parentheses after an ingredient name or in a Contains statement near the ingredient list."
+      },
+      {
+        "type": "p",
+        "text": "If you have an allergy, sensitivity, medical condition, pregnancy concern, medication question, or personal nutrition plan, do not rely on a quick scan. Use the label as a starting point and ask a qualified professional when the decision could affect your health."
+      },
+      {
+        "type": "h2",
+        "text": "Use a simple comparison note"
+      },
+      {
+        "type": "p",
+        "text": "When comparing two labels, write down the first few ingredients, any allergen statement, and any ingredient names you want to verify later. Keep this note separate from price, serving size, and nutrition numbers so one detail does not quietly take over the whole decision."
+      },
+      {
+        "type": "p",
+        "text": "This is especially useful when two products look similar on the front. A side-by-side ingredient note can reveal whether they are built from similar base ingredients or simply presented in a similar way."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "To read an ingredient list from top to bottom, start with order, notice names you need to recognize, check allergen statements separately, and save unclear items for later verification. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 6,
