@@ -328,7 +328,7 @@
     "slug": "compare-cost-per-serving",
     "title": "A Simple Way to Compare Cost Per Serving",
     "category": "Comparison Skills",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to cost per serving so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "A Simple Way to Compare Cost Per Serving | Daily Support Guide",
@@ -353,8 +353,9 @@
         "When should I ask a qualified professional instead of guessing?"
       ],
       "internalLinks": [
-        "product-comparison-checklist",
-        "product-comparison-notes"
+        "how-to-read-a-serving-size-without-overthinking-it",
+        "serving-size-vs-servings-per-container",
+        "compare-two-labels"
       ],
       "schema": [
         "Article",
@@ -368,10 +369,76 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Cost per serving can make two packages easier to compare, but only if the serving is read carefully first. A larger container is not always the better comparison point, and a lower front price does not always mean a lower cost for the amount you actually use."
+      },
+      {
+        "type": "p",
+        "text": "The goal is not to find a winner automatically. The goal is to put price, serving size, and serving count into the same plain note so the comparison is easier to understand."
+      },
+      {
+        "type": "h2",
+        "text": "Start with serving size and serving count"
+      },
+      {
+        "type": "p",
+        "text": "Start at the top of the label. The FDA explains that serving size and servings per container appear together because the rest of the Nutrition Facts label is usually based on one serving. If two labels use different serving sizes, a cost comparison needs to account for that difference."
+      },
+      {
+        "type": "p",
+        "text": "Write down three numbers before doing any math: the package price, the serving size, and the servings per container. If the package has a dual-column label or gives information per package, note that too, but keep the serving-based comparison separate."
+      },
+      {
+        "type": "h2",
+        "text": "Use one simple formula"
+      },
+      {
+        "type": "p",
+        "text": "The basic formula is package price divided by servings per container. For example, if a package costs 6 dollars and lists 12 servings, the cost per serving is 50 cents. If another package costs 8 dollars and lists 20 servings, the cost per serving is 40 cents."
+      },
+      {
+        "type": "p",
+        "text": "This calculation is similar in spirit to unit pricing, which NIST describes as pricing based on a unit of measure such as ounce, gram, liter, or other comparable amount. Unit pricing helps people compare value across package sizes. Cost per serving is another comparison lens, but it depends on the serving information printed on the label."
+      },
+      {
+        "type": "h2",
+        "text": "Keep nutrition details separate from price"
+      },
+      {
+        "type": "p",
+        "text": "After price is clear, compare the label details separately. The FDA notes that % Daily Value can help compare food products when the serving size is the same. That reminder matters because price and label details answer different questions. Cost per serving answers a price question. Nutrition Facts answer label-information questions."
+      },
+      {
+        "type": "p",
+        "text": "A practical note might have two rows: one for cost per serving and one for the few label details you care about. Keeping those rows separate prevents the lowest price from quietly becoming a product recommendation."
+      },
+      {
+        "type": "h2",
+        "text": "Common cost comparison mistakes"
+      },
+      {
+        "type": "p",
+        "text": "One mistake is comparing package price without checking serving count. Another is comparing cost per serving when the serving sizes are not similar. A third is assuming the cheapest serving is automatically the best fit. It may be cheaper, but the label may describe a different amount, format, direction, or set of details."
+      },
+      {
+        "type": "p",
+        "text": "If the label is unclear, treat that as missing information rather than a reason to guess. If a comparison touches an allergy, medical condition, pregnancy concern, medication question, or personal nutrition plan, ask a qualified professional."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Cost per serving is useful when it stays in its lane. Read serving size, count servings, divide price by servings, and then compare label details separately. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 5,
