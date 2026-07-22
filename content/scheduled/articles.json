@@ -2631,7 +2631,7 @@
     "slug": "simple-meal-decisions",
     "title": "How to Keep Meal Decisions Simple on Busy Days",
     "category": "Routine Guides",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Keep simple meal decisions manageable by checking available food, real time, backup options, and one detail to notice next time.",
     "seo": {
       "seoTitle": "How to Keep Meal Decisions Simple on Busy Days | Daily Support Guide",
@@ -2678,8 +2678,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {

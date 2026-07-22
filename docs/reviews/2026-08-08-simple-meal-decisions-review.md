@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 20 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 20 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Keep Meal Decisions Simple on Busy Days
 - Scheduled date: 2026-08-08
 - Category: Routine Guides
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: simple meal decisions
 - Meta description: Keep simple meal decisions manageable with available food, real time, backup options, and a short busy-day checklist.
 
@@ -117,3 +117,13 @@ If a health professional has given you personal diabetes, kidney, allergy, pregn
 ## A calm takeaway
 
 Simple meal decisions are easier when you start with what is available, match the choice to your real time window, keep one backup path, and avoid making every decision at once. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS: no required changes.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
