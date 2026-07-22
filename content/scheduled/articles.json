@@ -3129,7 +3129,7 @@
     "slug": "compare-omega-3-labels",
     "title": "How to Compare Omega-3 Label Lines Without Brand Names",
     "category": "Label Reading",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Compare omega-3 label lines by checking ALA, EPA, DHA, panel type, serving size, amount per serving, and source wording without brand names.",
     "seo": {
       "seoTitle": "How to Compare Omega-3 Label Lines Without Brand Names | Daily Support Guide",
@@ -3176,8 +3176,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS: no required changes",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
