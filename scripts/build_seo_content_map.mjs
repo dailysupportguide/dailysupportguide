@@ -30,7 +30,7 @@ const rows = [
   ["2026-08-11", "Label Reading", "draft", "How to Compare Omega-3 Label Lines Without Brand Names", "compare-omega-3-labels", "omega 3 label"],
   ["2026-08-12", "Label Reading", "draft", "EPA and DHA: How to Read the Numbers on a Label", "epa-dha-label-numbers", "EPA DHA label"],
   ["2026-08-13", "Label Reading", "draft", "How to Compare Mineral Labels by Elemental Amount", "elemental-mineral-labels", "elemental mineral label"],
-  ["2026-08-14", "Label Reading", "draft", "How to Compare Vitamin Labels Without Chasing Big Numbers", "compare-vitamin-labels", "vitamin label daily value"],
+  ["2026-08-14", "Label Reading", "draft", "How to Read Vitamin Label Daily Value Without Chasing Big Numbers", "compare-vitamin-labels", "vitamin label daily value"],
   ["2026-08-15", "Label Reading", "draft", "What Percent Daily Value Can and Cannot Tell You", "percent-daily-value-meaning", "percent daily value meaning"],
   ["2026-08-16", "Label Reading", "draft", "How to Read Directions for Use Without Making Assumptions", "directions-for-use-label", "directions for use label"],
   ["2026-08-17", "Comparison Skills", "draft", "How to Compare Package Size, Serving Count, and Real Cost", "package-size-serving-count-cost", "package size serving count"],

@@ -22,7 +22,7 @@ Non-drift boundaries:
 ## Article Metadata
 
 - Slug: `compare-vitamin-labels`
-- Title: How to Compare Vitamin Labels Without Chasing Big Numbers
+- Title: How to Read Vitamin Label Daily Value Without Chasing Big Numbers
 - Scheduled date: 2026-08-14
 - Category: Label Reading
 - Status: internal_pass
@@ -72,7 +72,7 @@ Do not suggest new features, brand recommendations, affiliate strategy, medical 
 
 ## Article Draft
 
-# How to Compare Vitamin Labels Without Chasing Big Numbers
+# How to Read Vitamin Label Daily Value Without Chasing Big Numbers
 
 Vitamin labels can make large numbers feel persuasive. A high percent Daily Value may look like the easiest detail to compare, but the calmer question is simpler: what does this number describe on this label, in this serving, for this vitamin?
 

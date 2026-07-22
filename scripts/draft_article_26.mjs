@@ -159,13 +159,14 @@ article.review = {
   externalAiReview: "pending",
   approvedForPublishing: false
 };
-article.title = "How to Compare Vitamin Labels Without Chasing Big Numbers";
+article.title = "How to Read Vitamin Label Daily Value Without Chasing Big Numbers";
 article.summary =
-  "Compare vitamin labels by checking panel type, serving size, vitamin name, amount with unit, and percent Daily Value without chasing big numbers.";
+  "Read vitamin label Daily Value by checking panel type, serving size, vitamin name, amount with unit, and percent Daily Value without chasing big numbers.";
 article.body = body;
 article.seo = {
   ...article.seo,
-  seoTitle: "How to Compare Vitamin Labels Without Chasing Big Numbers | Daily Support Guide",
+  seoTitle:
+    "How to Read Vitamin Label Daily Value Without Chasing Big Numbers | Daily Support Guide",
   metaDescription:
     "Learn vitamin label daily value by checking panel type, serving size, vitamin name, amount with unit, and percent Daily Value.",
   primaryKeyword: "vitamin label daily value",
@@ -174,7 +175,7 @@ article.seo = {
     "compare vitamin labels",
     "vitamin supplement facts label"
   ],
-  h1: "How to Compare Vitamin Labels Without Chasing Big Numbers",
+  h1: "How to Read Vitamin Label Daily Value Without Chasing Big Numbers",
   h2: [
     "Start with the panel type",
     "Use percent Daily Value as context",
@@ -232,7 +233,7 @@ Non-drift boundaries:
 ## Article Metadata
 
 - Slug: \`${slug}\`
-- Title: How to Compare Vitamin Labels Without Chasing Big Numbers
+- Title: How to Read Vitamin Label Daily Value Without Chasing Big Numbers
 - Scheduled date: 2026-08-14
 - Category: Label Reading
 - Status: internal_pass
@@ -282,7 +283,7 @@ Do not suggest new features, brand recommendations, affiliate strategy, medical 
 
 ## Article Draft
 
-# How to Compare Vitamin Labels Without Chasing Big Numbers
+# How to Read Vitamin Label Daily Value Without Chasing Big Numbers
 
 ${bodyMarkdown}
 `;
