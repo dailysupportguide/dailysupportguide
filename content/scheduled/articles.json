@@ -215,7 +215,7 @@
     "slug": "compare-two-labels",
     "title": "How to Compare Two Labels Without Looking at the Front Claim First",
     "category": "Comparison Skills",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to how to compare two labels so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "How to Compare Two Labels Without Looking at the Front Claim First | Daily Support Guide",
@@ -240,9 +240,9 @@
         "When should I ask a qualified professional instead of guessing?"
       ],
       "internalLinks": [
-        "product-comparison-checklist",
-        "compare-cost-per-serving",
-        "product-comparison-notes"
+        "how-to-read-a-serving-size-without-overthinking-it",
+        "serving-size-vs-servings-per-container",
+        "compare-cost-per-serving"
       ],
       "schema": [
         "Article",
@@ -256,10 +256,64 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "The front of a package is designed to get attention quickly. That does not make every front claim wrong, but it does mean the front is not the best place to start a fair comparison. A calmer first step is to compare the structured facts that appear in the label panel."
+      },
+      {
+        "type": "p",
+        "text": "This habit keeps the comparison grounded. Instead of asking which package sounds better, ask what each label actually says, what amount the facts are based on, and whether the two labels are describing similar serving amounts."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the label panel before the front claim"
+      },
+      {
+        "type": "p",
+        "text": "When comparing two labels, start with serving size and servings per container. The FDA explains that serving size is the amount the nutrition numbers are based on, and the number of servings determines how those numbers relate to the whole package. If two labels use different serving amounts, the rest of the comparison needs that context."
+      },
+      {
+        "type": "p",
+        "text": "Next, look at the same lines on both labels. For many everyday comparisons, useful lines may include calories, sodium, added sugars, fiber, protein, saturated fat, or other listed nutrients. The point is not to turn the label into a score. The point is to compare like with like."
+      },
+      {
+        "type": "h2",
+        "text": "Build a side-by-side note"
+      },
+      {
+        "type": "p",
+        "text": "Use a short note with the same fields for both labels: serving size, servings per container, the few nutrients or details you care about, directions if relevant, and anything that is missing or unclear. Keep the note factual. Write what the label says, not what you assume it means."
+      },
+      {
+        "type": "p",
+        "text": "After the side-by-side note is done, then return to the front claim. Ask whether the claim matches the label details you just wrote down. The FTC's health product guidance emphasizes that objective claims should be truthful, not misleading, and supported by appropriate evidence. A reader does not need to prove or disprove a claim to use a careful habit: separate the claim from the facts you can verify on the label."
+      },
+      {
+        "type": "h2",
+        "text": "Common comparison mistakes"
+      },
+      {
+        "type": "p",
+        "text": "One common mistake is comparing one number without checking serving size. A label may look lower or higher only because the reference amount is smaller or larger. Another mistake is letting a front phrase decide the comparison before the label panel has been read."
+      },
+      {
+        "type": "p",
+        "text": "A third mistake is treating missing information as proof of something. Missing or unclear information is better handled as a question mark. If the topic involves an allergy, medical condition, pregnancy concern, medication question, or personal nutrition plan, ask a qualified professional instead of guessing."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "A simple order helps: facts first, front claim second, decision last. Compare serving sizes, matching label lines, and missing information before reacting to the front of the package. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 4,
