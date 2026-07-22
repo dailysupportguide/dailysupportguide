@@ -1967,7 +1967,7 @@
     "slug": "simple-morning-routine-prep",
     "title": "How to Make Tomorrow Morning Easier With a Simple Morning Routine",
     "category": "Routine Guides",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Build a simple morning routine by preparing one first step, a landing spot, a realistic food or drink choice, and a small movement cue.",
     "seo": {
       "seoTitle": "How to Make Tomorrow Morning Easier With a Simple Morning Routine | Daily Support Guide",
@@ -2014,8 +2014,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
