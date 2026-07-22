@@ -86,7 +86,7 @@ const body = [
   {
     type: "p",
     text:
-      "USDA FSIS says canned foods and other shelf-stable products should be stored in a cool, dry place, and it warns not to purchase bulging, rusted, leaking, or deeply dented cans. It also says deeply dented cans should be discarded because the seam can be damaged."
+      "USDA FSIS says canned foods and other shelf-stable products should be stored in a cool, dry place, and it warns not to purchase bulging, rusted, leaking, or deeply dented cans. USDA FSIS also says deeply dented cans should be discarded."
   },
   {
     type: "p",

@@ -103,7 +103,7 @@ That does not mean every pantry-looking item belongs at room temperature. USDA F
 
 ## Look at package condition before using cans
 
-USDA FSIS says canned foods and other shelf-stable products should be stored in a cool, dry place, and it warns not to purchase bulging, rusted, leaking, or deeply dented cans. It also says deeply dented cans should be discarded because the seam can be damaged.
+USDA FSIS says canned foods and other shelf-stable products should be stored in a cool, dry place, and it warns not to purchase bulging, rusted, leaking, or deeply dented cans. USDA FSIS also says deeply dented cans should be discarded.
 
 Package condition is not a nutrition comparison, but it is still part of a pantry check. If the package condition raises a food safety concern, do not solve that problem by comparing labels. Follow food safety guidance.
 
