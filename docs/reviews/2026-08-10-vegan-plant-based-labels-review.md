@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 22 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 22 passed ChatGPT, Gemini, Claude, and Grok review after one source-scope correction. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -24,8 +24,8 @@ Non-drift boundaries:
 - Title: How to Read Vegan and Plant-Based Labels Carefully
 - Scheduled date: 2026-08-10
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: plant based label meaning
 - Meta description: Learn plant based label meaning by checking claims, plant source, ingredients, allergens, Nutrition Facts, and food role.
 
@@ -125,3 +125,15 @@ If a health professional has given you personal allergy, kidney, diabetes, pregn
 ## A calm takeaway
 
 Plant based label meaning is easier to read when you separate front-package wording from ingredient facts, allergen information, Nutrition Facts, and the food's intended role. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+Correction applied before final approval: clarified that the plant-source category sentence is based on FDA consumer guidance for plant-based milk alternatives, added the supporting source note for grains, legumes, nuts, and seeds, and removed the sesame-based example from the plant-source example sentence to avoid confusion before the allergen section.
+
+- ChatGPT: PASS after plant-source source-scope correction.
+- Gemini: PASS after plant-source source-scope correction.
+- Claude: PASS after confirming prior plant-source scope and sesame-example clarity issues were resolved.
+- Grok: PASS after plant-source source-scope correction.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.

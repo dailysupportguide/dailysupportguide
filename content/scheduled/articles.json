@@ -2963,7 +2963,7 @@
     "slug": "vegan-plant-based-labels",
     "title": "How to Read Vegan and Plant-Based Labels Carefully",
     "category": "Label Reading",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Read vegan and plant-based labels by checking the front claim, plant source, ingredient list, allergen information, Nutrition Facts, and food role.",
     "seo": {
       "seoTitle": "How to Read Vegan and Plant-Based Labels Carefully | Daily Support Guide",
@@ -3010,8 +3010,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after plant-source source-scope correction",
+        "gemini": "PASS after plant-source source-scope correction",
+        "claude": "PASS after confirming prior plant-source scope and sesame-example clarity issues were resolved",
+        "grok": "PASS after plant-source source-scope correction"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
