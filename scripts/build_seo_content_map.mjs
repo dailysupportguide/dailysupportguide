@@ -36,7 +36,7 @@ const rows = [
   ["2026-08-17", "Comparison Skills", "draft", "Package Size Serving Count: How to Compare Real Cost", "package-size-serving-count-cost", "package size serving count"],
   ["2026-08-18", "Comparison Skills", "draft", "Compare Similar Products: A Simple No-Winner Framework", "compare-similar-products-framework", "compare similar products"],
   ["2026-08-19", "Comparison Skills", "draft", "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead", "read-marketing-claims-on-labels", "marketing claims on labels"],
-  ["2026-08-20", "Label Reading", "draft", "How to Read Structure and Function Language Carefully", "structure-function-claims-label", "structure function claims"],
+  ["2026-08-20", "Label Reading", "draft", "Structure Function Claims: How to Read Them Carefully", "structure-function-claims-label", "structure function claims"],
   ["2026-08-21", "Label Reading", "draft", "How to Compare Products When One Uses a Blend", "proprietary-blend-label", "proprietary blend label"],
   ["2026-08-22", "Label Reading", "draft", "How to Compare Botanical Labels by Plant Part and Form", "botanical-label-plant-part-form", "botanical supplement label"],
   ["2026-08-23", "Comparison Skills", "draft", "How to Keep a Product Comparison Notes Sheet", "product-comparison-notes", "product comparison notes"],
