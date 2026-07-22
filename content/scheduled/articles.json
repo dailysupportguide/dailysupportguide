@@ -1228,33 +1228,37 @@
     "slug": "screen-break-routine",
     "title": "How to Build a Screen Break That Actually Fits Your Workday",
     "category": "Routine Guides",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to screen break routine so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "How to Build a Screen Break That Actually Fits Your Workday | Daily Support Guide",
-      "metaDescription": "Build a simple screen break routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "metaDescription": "Build a simple screen break routine with eye pauses, posture changes, glare checks, and reminders that fit a real workday.",
       "primaryKeyword": "screen break routine",
       "secondaryKeywords": [
-        "screen break routine guide",
-        "screen break routine checklist",
-        "screen break routine comparison"
+        "screen break routine for work",
+        "computer break routine",
+        "20-20-20 screen break"
       ],
       "searchIntent": "informational",
       "h1": "How to Build a Screen Break That Actually Fits Your Workday",
       "h2": [
-        "Why screen break routine is easier when it stays small",
-        "A simple routine you can repeat",
-        "What to notice after one week",
+        "Start with the break you can actually repeat",
+        "Use a two-part screen pause",
+        "Make the screen easier to leave",
+        "Choose one reminder style",
+        "Notice warning signs without guessing the cause",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about screen break routine?",
-        "How can I use screen break routine for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What is a simple screen break routine?",
+        "How can I remember to take screen breaks during work?",
+        "When should screen discomfort be discussed with a qualified professional?"
       ],
       "internalLinks": [
-        "evening-shutdown-routine",
-        "weekly-label-review-routine"
+        "product-comparison-checklist",
+        "how-to-read-allergen-statements",
+        "third-party-testing-supplements",
+        "capsules-vs-powders-vs-gummies"
       ],
       "schema": [
         "Article",
@@ -1268,10 +1272,88 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "A screen break routine works best when it fits the workday you actually have. A perfect plan that interrupts every meeting, deadline, and commute will probably disappear by Wednesday. A small routine that repeats is easier to keep."
+      },
+      {
+        "type": "p",
+        "text": "This guide is general education for everyday screen use. It is not medical advice, workplace safety policy, or a treatment plan for eye, neck, wrist, or back symptoms."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the break you can actually repeat"
+      },
+      {
+        "type": "p",
+        "text": "NIOSH guidance for working from home notes that periodic rest breaks and changes in posture are beneficial, and that hourly five-minute breaks can reduce musculoskeletal discomfort and eyestrain when added to conventional rest breaks. OSHA also describes frequent short breaks, micro breaks, or rest pauses as useful recovery time during long computer tasks."
+      },
+      {
+        "type": "p",
+        "text": "That does not mean every person needs the same schedule. A practical first version can be simple: one short pause each hour, plus one longer break such as lunch. If an hour is unrealistic, attach the pause to a natural transition, such as after a call, after sending a report, or before starting a new focused block."
+      },
+      {
+        "type": "h2",
+        "text": "Use a two-part screen pause"
+      },
+      {
+        "type": "p",
+        "text": "A useful screen break does not need to be dramatic. First, look away from the screen. The American Optometric Association describes the 20-20-20 rule: every 20 minutes, take a 20-second break to view something about 20 feet away. NIOSH also mentions this rule as one way to help combat eye fatigue."
+      },
+      {
+        "type": "p",
+        "text": "Second, change body position. OSHA suggests that short computer rest pauses can include standing, stretching, and moving around. A screen break routine can pair the eye pause with a small posture change: stand up, reset your shoulders, walk to refill water, or move to a non-screen task for a few minutes."
+      },
+      {
+        "type": "h2",
+        "text": "Make the screen easier to leave"
+      },
+      {
+        "type": "p",
+        "text": "A break is easier when the workstation is not fighting you. NIOSH suggests placing an external monitor about an arm's length away, with the top of the monitor at or below eye level, and reducing glare from windows. OSHA monitor guidance also notes a preferred viewing distance of about 20 to 40 inches and placing the monitor directly in front of the user."
+      },
+      {
+        "type": "p",
+        "text": "These setup details matter because strain can make breaks feel like an emergency instead of a rhythm. Before adding more reminders, check the basics: screen distance, text size, glare, brightness, and whether you are leaning forward to read."
+      },
+      {
+        "type": "h2",
+        "text": "Choose one reminder style"
+      },
+      {
+        "type": "p",
+        "text": "Some people do well with a timer. Others ignore timers but remember transitions. Choose one reminder style for a week instead of stacking several alerts at once. The goal is to create a cue that feels boring enough to repeat."
+      },
+      {
+        "type": "p",
+        "text": "A simple note might say: after each hour, look away for 20 seconds, stand for one minute, and return with the next task written down. If meetings make that impossible, use the first minute after the meeting ends. The routine should support work, not turn into another source of pressure."
+      },
+      {
+        "type": "h2",
+        "text": "Notice warning signs without guessing the cause"
+      },
+      {
+        "type": "p",
+        "text": "OSHA lists possible signs related to computer workstation concerns, including pain in the wrists, forearms, elbows, neck, or back; dry, itchy, or sore eyes; blurred or double vision; numbness; tingling; cramping; or reduced range of motion. A routine should make those signals easier to notice, not encourage someone to guess the cause alone."
+      },
+      {
+        "type": "p",
+        "text": "If symptoms are persistent, worsening, severe, or connected to a medical condition, ask a qualified professional or appropriate workplace safety contact. A break routine can support awareness, but it is not a substitute for care or an ergonomic assessment."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "A screen break routine is easier to keep when it is small, repeatable, and tied to real work transitions. Look away, change posture, reduce glare, keep one reminder style, and notice discomfort without turning the routine into medical advice. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 12,
