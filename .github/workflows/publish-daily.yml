@@ -16,7 +16,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: node scripts/publish_due_articles.mjs
+      - run: |
+          node scripts/publish_due_articles.mjs
+          node scripts/build_sitemap.mjs
       - name: Commit published content
         run: |
           if git diff --quiet; then
@@ -24,7 +26,7 @@ jobs:
           else
             git config user.name "daily-publisher"
             git config user.email "actions@github.com"
-            git add assets/content.js content/scheduled/articles.json
+            git add assets/content.js content/scheduled/articles.json sitemap.xml robots.txt
             git commit -m "Publish due approved article"
             git push
           fi
