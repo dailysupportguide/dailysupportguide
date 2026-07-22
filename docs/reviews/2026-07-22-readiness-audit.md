@@ -10,7 +10,7 @@ Phase 7 status: locked.
 
 The site is not ready for Phase 7.
 
-The strongest blocker is the content library: 50 scheduled article records exist, but only 2 are currently published, 23 are approved, 1 is internal_pass, and 24 remain draft. Article 26 is blocked on Grok review because Grok is currently rate-limited. Article 26 must not move to approved until Grok returns PASS or required changes are resolved and the latest version passes all four AI reviewers.
+The strongest blocker is the content library: 50 scheduled article records exist, but only 2 are currently published, 23 are approved, 2 are internal_pass, and 23 remain draft. Article 26 is blocked on Grok review because Grok is currently rate-limited. Article 26 must not move to approved until Grok returns PASS or required changes are resolved and the latest version passes all four AI reviewers. Article 27 is drafted and internally linted, but it still needs external four-AI review before approval.
 
 ## Evidence Snapshot
 
@@ -19,9 +19,10 @@ The strongest blocker is the content library: 50 scheduled article records exist
 - Internal site gate lint: passed on 2026-07-22.
 - HTTPS primary URL check: `https://dailysupportguide.com/index.html` returned `HTTP/1.1 200 OK`.
 - HTTP redirect check: `http://dailysupportguide.com/index.html` returned `HTTP/1.1 301 Moved Permanently` to `https://dailysupportguide.com/index.html`.
-- Article library status: `{"published":2,"approved":23,"internal_pass":1,"draft":24}`.
+- Article library status: `{"published":2,"approved":23,"internal_pass":2,"draft":23}`.
 - Article 26 latest title: `How to Read Vitamin Label Daily Value Without Chasing Big Numbers`.
 - Article 26 latest external review state: ChatGPT PASS, Gemini PASS, Claude PASS after SEO title correction, Grok pending due rate limit.
+- Article 27 latest state: drafted, internally linted, external AI review pending.
 
 ## Category Ratings
 
