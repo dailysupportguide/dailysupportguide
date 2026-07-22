@@ -33,7 +33,8 @@ Non-drift boundaries:
 
 - FDA plant-based alternatives guidance: plant-based foods and beverages are often marketed and sold as alternatives to conventional animal products.
 - FDA plant-based alternatives guidance: consumers purchase plant-based alternatives for reasons including dietary choices, taste preferences, religious practices, and environmental concerns.
-- FDA plant-based alternatives guidance: plant-based milk alternatives can be made from nuts, seeds, rice, coconuts, oats, or legumes, and nutrient profiles vary by plant source, processing methods, and added ingredients.
+- FDA consumer guidance: plant-based milk alternatives can be made from plant sources including grains such as oat, quinoa, and rice; legumes such as pea and soy; nuts such as almond, cashew, coconut, hazelnut, macadamia, peanut, pistachio, and walnut; and seeds such as flax, hemp, and sesame.
+- FDA plant-based alternatives guidance: plant-based milk alternative nutrient profiles vary by plant source, processing methods, and added ingredients.
 - FDA plant-based alternatives guidance: consumers should be able to know the specific plant source or sources in a plant-based alternative.
 - FDA plant-based alternatives guidance: plant-based alternatives to animal-derived foods should not suggest that animal sources are present or used as ingredients.
 - FDA consumer guidance: plant-based milk alternatives can differ nutritionally, and the Nutrition Facts label can help compare nutrient content.
@@ -87,9 +88,9 @@ Do not make the front phrase do all the work. Read the statement of identity, in
 
 ## Look for the specific plant source
 
-FDA information on plant-based alternatives says these foods can be made from nuts, seeds, grains, legumes, coconuts, or other plant sources, and their nutrient profiles can vary depending on plant source, processing, and added ingredients.
+FDA consumer guidance says plant-based milk alternatives can be made from plant sources such as grains, legumes, nuts, and seeds. FDA also says their nutrient profiles can vary depending on plant source, processing, and added ingredients.
 
-That is why the specific plant source matters. Soy, almond, oat, pea, rice, coconut, cashew, and sesame-based foods can look similar in the same aisle while using very different starting ingredients. If the plant source is not obvious on the front, check the ingredient list.
+That is why the specific plant source matters. Soy, almond, oat, pea, rice, coconut, and cashew-based foods can look similar in the same aisle while using very different starting ingredients. If the plant source is not obvious on the front, check the ingredient list.
 
 ## Use Nutrition Facts instead of assumptions
 
