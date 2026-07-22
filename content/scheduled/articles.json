@@ -580,7 +580,7 @@
     "slug": "other-ingredients-supplement-facts",
     "title": "What Other Ingredients Means on a Supplement Facts Panel",
     "category": "Label Reading",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "A neutral guide to other ingredients supplement facts so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "What Other Ingredients Means on a Supplement Facts Panel | Daily Support Guide",
@@ -624,8 +624,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
