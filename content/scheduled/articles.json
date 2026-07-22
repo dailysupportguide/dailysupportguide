@@ -1088,7 +1088,7 @@
     "slug": "product-comparison-checklist",
     "title": "A Beginner-Friendly Checklist for Comparing Daily Products",
     "category": "Comparison Skills",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "A neutral guide to product comparison checklist so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "A Beginner-Friendly Checklist for Comparing Daily Products | Daily Support Guide",
@@ -1134,8 +1134,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
@@ -1234,7 +1241,7 @@
     "slug": "screen-break-routine",
     "title": "How to Build a Screen Break That Actually Fits Your Workday",
     "category": "Routine Guides",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "A neutral guide to screen break routine so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "How to Build a Screen Break That Actually Fits Your Workday | Daily Support Guide",
@@ -1279,8 +1286,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {

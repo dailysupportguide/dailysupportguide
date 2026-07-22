@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 11 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 11 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Build a Screen Break That Actually Fits Your Workday
 - Scheduled date: 2026-07-30
 - Category: Routine Guides
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: screen break routine
 - Meta description: Build a simple screen break routine with eye pauses, posture changes, glare checks, and reminders that fit a real workday.
 
@@ -108,3 +108,13 @@ If symptoms are persistent, worsening, severe, or connected to a medical conditi
 ## A calm takeaway
 
 A screen break routine is easier to keep when it is small, repeatable, and tied to real work transitions. Look away, change posture, reduce glare, keep one reminder style, and notice discomfort without turning the routine into medical advice. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
