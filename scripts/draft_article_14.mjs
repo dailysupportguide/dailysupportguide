@@ -132,12 +132,12 @@ article.review = {
   approvedForPublishing: false
 };
 article.summary =
-  "Compare caffeinated, decaffeinated, and caffeine-free drink labels by checking serving size, caffeine wording, caffeine amounts, and added sugars.";
+  "Find caffeine on drink labels by checking serving size, ingredient wording, optional caffeine amounts, and added sugars.";
 article.body = body;
 article.seo = {
   ...article.seo,
   metaDescription:
-    "Compare caffeinated, decaffeinated, and caffeine-free drink labels with serving size, caffeine wording, optional caffeine amounts, and added sugars.",
+    "Find caffeine on drink labels when comparing caffeinated, decaffeinated, and caffeine-free drinks by serving size, ingredients, and added sugars.",
   primaryKeyword: "caffeine on drink labels",
   secondaryKeywords: [
     "caffeine-free drink labels",
@@ -197,13 +197,13 @@ Non-drift boundaries:
 ## Article Metadata
 
 - Slug: \`${slug}\`
-- Title: How to Compare Caffeinated and Caffeine-Free Drink Labels
+- Title: How to Find Caffeine on Drink Labels When Comparing Drinks
 - Scheduled date: 2026-08-02
 - Category: Label Reading
 - Status: internal_pass
 - Approved for publishing: false
 - Primary keyword: caffeine on drink labels
-- Meta description: Compare caffeinated, decaffeinated, and caffeine-free drink labels with serving size, caffeine wording, optional caffeine amounts, and added sugars.
+- Meta description: Find caffeine on drink labels when comparing caffeinated, decaffeinated, and caffeine-free drinks by serving size, ingredients, and added sugars.
 
 ## Source Notes
 
@@ -243,7 +243,7 @@ Do not suggest new features, brand recommendations, affiliate strategy, medical 
 
 ## Article Draft
 
-# How to Compare Caffeinated and Caffeine-Free Drink Labels
+# How to Find Caffeine on Drink Labels When Comparing Drinks
 
 ${bodyMarkdown}
 `;
