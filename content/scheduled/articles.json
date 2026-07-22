@@ -2299,34 +2299,39 @@
     "slug": "compare-packaged-snacks",
     "title": "How to Compare Packaged Snacks by Portion and Context",
     "category": "Comparison Skills",
-    "status": "draft",
-    "summary": "A neutral guide to compare snack labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "internal_pass",
+    "summary": "Compare packaged snacks with serving size, servings per container, percent Daily Value, and practical context without brand names or product picks.",
     "seo": {
       "seoTitle": "How to Compare Packaged Snacks by Portion and Context | Daily Support Guide",
-      "metaDescription": "Use a clear compare snack labels approach to compare everyday details without brand names, hype, or product picks.",
-      "primaryKeyword": "compare snack labels",
+      "metaDescription": "Compare packaged snacks by serving size, servings per container, percent Daily Value, and context without brand names or product picks.",
+      "primaryKeyword": "compare packaged snacks",
       "secondaryKeywords": [
-        "compare snack labels guide",
-        "compare snack labels checklist",
-        "compare snack labels comparison"
+        "compare packaged snacks guide",
+        "snack label comparison",
+        "compare snack labels"
       ],
       "searchIntent": "informational",
       "h1": "How to Compare Packaged Snacks by Portion and Context",
       "h2": [
-        "Start with the facts before comparing compare snack labels",
-        "Build a side-by-side note",
-        "Common comparison mistakes",
+        "Start with the snack category",
+        "Check serving size before comparing numbers",
+        "Notice servings per container",
+        "Use percent Daily Value as the shared scale",
+        "Separate nutrients to limit from nutrients to get more of",
+        "Add context before deciding what matters",
+        "A five-line snack comparison note",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about compare snack labels?",
-        "How can I use compare snack labels for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "How do I compare packaged snacks without relying on front-package claims?",
+        "Why does serving size matter when comparing snack labels?",
+        "When should I follow professional guidance instead of a general snack comparison?"
       ],
       "internalLinks": [
-        "product-comparison-checklist",
-        "compare-cost-per-serving",
-        "product-comparison-notes"
+        "compare-two-labels",
+        "serving-size-vs-servings-per-container",
+        "percent-daily-value-meaning",
+        "read-sodium-and-sugar-labels"
       ],
       "schema": [
         "Article",
@@ -2340,10 +2345,112 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Packaged snacks are easy to compare too quickly. The front of a package may highlight one detail, while the Nutrition Facts label gives the steadier information: serving size, servings per container, percent Daily Value, and the nutrient lines that matter for the comparison."
+      },
+      {
+        "type": "p",
+        "text": "This guide is not about ranking snacks or making food rules. It is a neutral way to compare similar packaged snacks by portion and context without using brand names, product picks, or medical advice."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the snack category"
+      },
+      {
+        "type": "p",
+        "text": "A useful comparison starts with similar items. Compare crackers with crackers, chips with chips, bars with bars, and trail mixes with trail mixes. Different snack types can have different serving sizes, textures, ingredients, and uses, so comparing across categories can create more confusion than clarity."
+      },
+      {
+        "type": "p",
+        "text": "The goal is to ask a narrow question: among two similar options, what does the label actually show per serving or per package? That keeps the comparison practical instead of turning it into a general judgment."
+      },
+      {
+        "type": "h2",
+        "text": "Check serving size before comparing numbers"
+      },
+      {
+        "type": "p",
+        "text": "FDA serving size guidance says the Nutrition Facts information is usually based on one serving, and some containers may also show information per package. FDA also says serving size is not a recommendation for how much to eat or drink."
+      },
+      {
+        "type": "p",
+        "text": "For packaged snacks, this matters because one label may describe a small handful, one pouch, one bar, or part of a larger bag. Before comparing calories, sodium, added sugars, fiber, or saturated fat, write down the serving size for each option."
+      },
+      {
+        "type": "h2",
+        "text": "Notice servings per container"
+      },
+      {
+        "type": "p",
+        "text": "FDA notes that one package may contain more than one serving, and some packages use dual-column labels that show both one serving and the entire package. That can matter when a snack is commonly eaten as a whole pouch or container."
+      },
+      {
+        "type": "p",
+        "text": "A simple note can prevent overthinking: per serving, per package, or both. If one snack is individually packed and another is a multi-serving bag, compare the numbers in the context of how the package is likely to be used."
+      },
+      {
+        "type": "h2",
+        "text": "Use percent Daily Value as the shared scale"
+      },
+      {
+        "type": "p",
+        "text": "FDA explains that percent Daily Value shows how much a nutrient in one serving contributes to a total daily diet. As a general guide, 5% Daily Value or less of a nutrient per serving is low, and 20% Daily Value or more is high."
+      },
+      {
+        "type": "p",
+        "text": "That shared scale helps when two labels use different-looking numbers. Instead of reacting to grams or milligrams alone, compare the percent Daily Value for similar serving sizes. If serving sizes are not similar, make a note of that mismatch."
+      },
+      {
+        "type": "h2",
+        "text": "Separate nutrients to limit from nutrients to get more of"
+      },
+      {
+        "type": "p",
+        "text": "FDA label guidance identifies saturated fat, sodium, and added sugars as nutrients to get less of, and dietary fiber, vitamin D, calcium, iron, and potassium as nutrients to get more of. For snack comparisons, fiber, sodium, added sugars, and saturated fat are often the lines people notice first."
+      },
+      {
+        "type": "p",
+        "text": "Use those lines as comparison details, not as a verdict. One snack may have more fiber and also more sodium. Another may have lower added sugars but a smaller serving. The label is most useful when you compare trade-offs clearly."
+      },
+      {
+        "type": "h2",
+        "text": "Add context before deciding what matters"
+      },
+      {
+        "type": "p",
+        "text": "A snack for a desk drawer, a road trip, an after-school routine, or a quick side item may be used differently. Context does not change the label, but it changes which comparison question is useful."
+      },
+      {
+        "type": "p",
+        "text": "For example, you might compare whether the package is single-serve or multi-serve, whether the serving size matches your usual use, and whether the nutrient trade-offs fit the rest of the day. Keep the question concrete so the comparison stays calm."
+      },
+      {
+        "type": "h2",
+        "text": "A five-line snack comparison note"
+      },
+      {
+        "type": "p",
+        "text": "Use five lines: snack type, serving size, servings per container, percent Daily Value lines you care about, and likely use context. If the labels are not using similar serving sizes, write that down before comparing the numbers."
+      },
+      {
+        "type": "p",
+        "text": "If a health professional has given you a personal sodium, sugar, fiber, fat, allergy, diabetes, kidney, pregnancy, medication, or medical nutrition instruction, follow that guidance instead of using a general comparison article as your decision rule."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Packaged snack comparisons are easier when you compare similar items, start with serving size, check servings per container, use percent Daily Value, and add real-use context. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 19,
