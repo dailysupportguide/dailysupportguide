@@ -3295,7 +3295,7 @@
     "slug": "epa-dha-label-numbers",
     "title": "EPA and DHA: How to Read the Numbers on a Label",
     "category": "Label Reading",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Read EPA and DHA label numbers by checking serving size, amount headings, total omega-3 lines, source wording, and Daily Value notes.",
     "seo": {
       "seoTitle": "EPA and DHA: How to Read the Numbers on a Label | Daily Support Guide",
@@ -3342,8 +3342,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS: no required changes",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {

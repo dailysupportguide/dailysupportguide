@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 24 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 24 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -25,8 +25,8 @@ Non-drift boundaries:
 - Title: EPA and DHA: How to Read the Numbers on a Label
 - Scheduled date: 2026-08-12
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: EPA DHA label
 - Meta description: Read an EPA DHA label by checking serving size, amount headings, total omega-3 lines, source wording, and Daily Value notes.
 
@@ -128,3 +128,13 @@ If a health professional has given you personal heart, triglyceride, pregnancy, 
 ## A calm takeaway
 
 EPA and DHA numbers are easier to read when you identify the specific lines, match each number to serving size, copy the amount heading, notice Daily Value notes, and keep source wording separate. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS: no required changes.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
