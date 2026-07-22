@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 15 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 15 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Create an Evening Shutdown Routine
 - Scheduled date: 2026-08-03
 - Category: Routine Guides
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: evening shutdown routine
 - Meta description: Build an evening shutdown routine with one clear cue, quieter inputs, a short tomorrow note, room cues, and a simple weekly review.
 
@@ -111,3 +111,13 @@ After one week, ask three questions: which cue happened naturally, which step wa
 ## A calm takeaway
 
 An evening shutdown routine works when it is small, visible, and easy to repeat. Pick one clear cue, quiet the inputs, park tomorrow on paper, adjust one room detail, and review what happened after a week. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
