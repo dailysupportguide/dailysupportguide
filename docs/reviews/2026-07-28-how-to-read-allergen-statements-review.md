@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 09 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 09 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Read Allergen Statements Without Guessing
 - Scheduled date: 2026-07-28
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: how to read allergen statements
 - Meta description: Learn how to read allergen statements with neutral label-reading tips for ingredient lists, Contains statements, and advisory language.
 
@@ -99,3 +99,13 @@ For example, the note might say: sesame listed in Contains statement; tree nut t
 ## A calm takeaway
 
 Learning how to read allergen statements is about order and precision. Check the major allergen source, read both the ingredient list and Contains statement, treat advisory language separately, and keep unresolved questions visible. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
