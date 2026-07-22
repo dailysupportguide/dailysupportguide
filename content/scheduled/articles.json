@@ -2463,12 +2463,12 @@
     "day": 19,
     "date": "2026-08-07",
     "slug": "read-protein-on-food-labels",
-    "title": "How to Look at Protein Sources in a Normal Meal",
+    "title": "How to Read Protein on Food Labels in a Normal Meal",
     "category": "Label Reading",
     "status": "internal_pass",
     "summary": "Read protein on food labels with serving size, protein grams, food source, label trade-offs, and meal context without ranking foods.",
     "seo": {
-      "seoTitle": "How to Look at Protein Sources in a Normal Meal | Daily Support Guide",
+      "seoTitle": "How to Read Protein on Food Labels in a Normal Meal | Daily Support Guide",
       "metaDescription": "Read protein on food labels by checking serving size, protein grams, food source, label trade-offs, and normal meal context.",
       "primaryKeyword": "protein on food labels",
       "secondaryKeywords": [
@@ -2477,7 +2477,7 @@
         "protein food source label"
       ],
       "searchIntent": "informational",
-      "h1": "How to Look at Protein Sources in a Normal Meal",
+      "h1": "How to Read Protein on Food Labels in a Normal Meal",
       "h2": [
         "Start with the serving size",
         "Read protein grams as information, not a verdict",

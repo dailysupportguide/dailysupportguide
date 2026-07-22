@@ -20,7 +20,7 @@ Non-drift boundaries:
 ## Article Metadata
 
 - Slug: `read-protein-on-food-labels`
-- Title: How to Look at Protein Sources in a Normal Meal
+- Title: How to Read Protein on Food Labels in a Normal Meal
 - Scheduled date: 2026-08-07
 - Category: Label Reading
 - Status: internal_pass
@@ -69,7 +69,7 @@ Do not suggest new features, brand recommendations, affiliate strategy, medical 
 
 ## Article Draft
 
-# How to Look at Protein Sources in a Normal Meal
+# How to Read Protein on Food Labels in a Normal Meal
 
 Protein can look simple on a food label because it is usually shown as one number in grams. The useful part is not treating that number as a score. It is reading the number next to serving size, food source, and the rest of the meal.
 
