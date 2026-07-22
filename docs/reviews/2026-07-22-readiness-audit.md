@@ -10,7 +10,7 @@ Phase 7 status: locked.
 
 The site is not ready for Phase 7.
 
-The strongest blocker is the content library: 50 scheduled article records exist, but only 2 are currently published, 23 are approved, 4 are internal_pass, and 21 remain draft. Article 26 is blocked on Grok review because Grok is currently rate-limited. Article 26 must not move to approved until Grok returns PASS or required changes are resolved and the latest version passes all four AI reviewers. Articles 27, 28, and 29 are drafted and internally linted, but they still need external four-AI review before approval.
+The strongest blocker is the content library: 50 scheduled article records exist, but only 2 are currently published, 23 are approved, 5 are internal_pass, and 20 remain draft. Article 26 is blocked on Grok review because Grok is currently rate-limited. Article 26 must not move to approved until Grok returns PASS or required changes are resolved and the latest version passes all four AI reviewers. Articles 27, 28, 29, and 30 are drafted and internally linted, but they still need external four-AI review before approval.
 
 ## Evidence Snapshot
 
@@ -19,12 +19,13 @@ The strongest blocker is the content library: 50 scheduled article records exist
 - Internal site gate lint: passed on 2026-07-22.
 - HTTPS primary URL check: `https://dailysupportguide.com/index.html` returned `HTTP/1.1 200 OK`.
 - HTTP redirect check: `http://dailysupportguide.com/index.html` returned `HTTP/1.1 301 Moved Permanently` to `https://dailysupportguide.com/index.html`.
-- Article library status: `{"published":2,"approved":23,"internal_pass":4,"draft":21}`.
+- Article library status: `{"published":2,"approved":23,"internal_pass":5,"draft":20}`.
 - Article 26 latest title: `How to Read Vitamin Label Daily Value Without Chasing Big Numbers`.
 - Article 26 latest external review state: ChatGPT PASS, Gemini PASS, Claude PASS after SEO title correction, Grok pending due rate limit.
 - Article 27 latest state: drafted, internally linted, external AI review pending.
 - Article 28 latest state: drafted, internally linted, external AI review pending.
 - Article 29 latest state: drafted, internally linted, external AI review pending.
+- Article 30 latest state: drafted, internally linted, external AI review pending.
 
 ## Category Ratings
 
