@@ -33,7 +33,7 @@ const rows = [
   ["2026-08-14", "Label Reading", "draft", "How to Read Vitamin Label Daily Value Without Chasing Big Numbers", "compare-vitamin-labels", "vitamin label daily value"],
   ["2026-08-15", "Label Reading", "draft", "Percent Daily Value Meaning: What It Can and Cannot Tell You", "percent-daily-value-meaning", "percent daily value meaning"],
   ["2026-08-16", "Label Reading", "draft", "Directions for Use Label: How to Read It Without Making Assumptions", "directions-for-use-label", "directions for use label"],
-  ["2026-08-17", "Comparison Skills", "draft", "How to Compare Package Size, Serving Count, and Real Cost", "package-size-serving-count-cost", "package size serving count"],
+  ["2026-08-17", "Comparison Skills", "draft", "Package Size Serving Count: How to Compare Real Cost", "package-size-serving-count-cost", "package size serving count"],
   ["2026-08-18", "Comparison Skills", "draft", "A Simple Framework for Comparing Similar Products", "compare-similar-products-framework", "compare similar products"],
   ["2026-08-19", "Comparison Skills", "draft", "How to Notice Marketing Claims Without Letting Them Lead", "read-marketing-claims-on-labels", "marketing claims on labels"],
   ["2026-08-20", "Label Reading", "draft", "How to Read Structure and Function Language Carefully", "structure-function-claims-label", "structure function claims"],
