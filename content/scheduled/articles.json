@@ -580,34 +580,36 @@
     "slug": "other-ingredients-supplement-facts",
     "title": "What Other Ingredients Means on a Supplement Facts Panel",
     "category": "Label Reading",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to other ingredients supplement facts so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "What Other Ingredients Means on a Supplement Facts Panel | Daily Support Guide",
-      "metaDescription": "Learn other ingredients supplement facts in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "metaDescription": "Learn what Other Ingredients means on a Supplement Facts label with neutral, brand-free tips for reading supplement labels.",
       "primaryKeyword": "other ingredients supplement facts",
       "secondaryKeywords": [
-        "other ingredients supplement facts guide",
-        "other ingredients supplement facts checklist",
-        "other ingredients supplement facts comparison"
+        "other ingredients on supplement label",
+        "Supplement Facts Other Ingredients",
+        "supplement label ingredients"
       ],
       "searchIntent": "informational",
       "h1": "What Other Ingredients Means on a Supplement Facts Panel",
       "h2": [
-        "What other ingredients supplement facts means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
+        "Separate Supplement Facts from Other Ingredients",
+        "Notice what kinds of ingredients appear there",
+        "Do not treat the list as a quality score",
+        "Use a simple comparison note",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about other ingredients supplement facts?",
-        "How can I use other ingredients supplement facts for a neutral comparison?",
+        "What does Other Ingredients mean on a supplement label?",
+        "Are Other Ingredients the same as dietary ingredients?",
         "When should I ask a qualified professional instead of guessing?"
       ],
       "internalLinks": [
+        "how-to-read-a-serving-size-without-overthinking-it",
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "how-to-read-ingredient-list",
+        "compare-two-labels"
       ],
       "schema": [
         "Article",
@@ -621,10 +623,76 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "The phrase Other Ingredients can feel like a small side note on a supplement label, but it is worth reading slowly. It usually points to ingredients that are part of the product but are not being presented as the main dietary ingredients in the Supplement Facts panel."
+      },
+      {
+        "type": "p",
+        "text": "That does not make the line good or bad by itself. It simply means there is more label information to notice before comparing two products or deciding what questions to ask next."
+      },
+      {
+        "type": "h2",
+        "text": "Separate Supplement Facts from Other Ingredients"
+      },
+      {
+        "type": "p",
+        "text": "The FDA explains that dietary supplement labels use a Supplement Facts panel for nutrition labeling. That panel includes items such as serving size, servings per container, dietary ingredients, and amounts per serving when required."
+      },
+      {
+        "type": "p",
+        "text": "Other Ingredients is different. FDA guidance explains that some source ingredients may appear inside the Supplement Facts panel, while ingredients not listed there may appear in an ingredient statement. When some ingredients are identified in the nutrition label, that ingredient statement may be labeled Other Ingredients."
+      },
+      {
+        "type": "h2",
+        "text": "Notice what kinds of ingredients appear there"
+      },
+      {
+        "type": "p",
+        "text": "Other Ingredients may include items used for form, texture, flavor, color, stability, or manufacturing. FDA materials give examples such as fillers, binders, excipients, preservatives, sweeteners, colors, and flavorings."
+      },
+      {
+        "type": "p",
+        "text": "A neutral way to read the line is to ask what each item appears to be doing. Is it a capsule material, a sweetener, a flavor, a color, a binder, or something you do not recognize yet? The answer does not need to be dramatic. It can simply become a note to verify later."
+      },
+      {
+        "type": "h2",
+        "text": "Do not treat the list as a quality score"
+      },
+      {
+        "type": "p",
+        "text": "A short Other Ingredients list is not automatically better, and a longer one is not automatically worse. Different product forms often need different supporting ingredients. A tablet, capsule, gummy, liquid, and powder may each use a different format."
+      },
+      {
+        "type": "p",
+        "text": "It is also useful to remember that FDA does not approve dietary supplements for safety and effectiveness before they are sold. That makes careful label reading useful, but it does not turn the reader into a laboratory or a medical reviewer."
+      },
+      {
+        "type": "h2",
+        "text": "Use a simple comparison note"
+      },
+      {
+        "type": "p",
+        "text": "When comparing supplement labels, write down three separate things: the main dietary ingredients in the Supplement Facts panel, the Other Ingredients line, and any questions you need to verify from a reliable source. Keeping those notes separate prevents a supporting ingredient from being mistaken for the main label information."
+      },
+      {
+        "type": "p",
+        "text": "If the label raises an allergy, sensitivity, pregnancy, medication, medical condition, or personal nutrition question, do not guess from the ingredient list alone. Ask a qualified professional before relying on the product."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Other Ingredients on a supplement label is a label-reading clue, not a verdict. Read it after the Supplement Facts panel, notice the role of each item when you can, save unclear names for later verification, and keep health-related decisions with qualified professionals. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 7,
