@@ -3461,34 +3461,39 @@
     "slug": "elemental-mineral-labels",
     "title": "How to Compare Mineral Labels by Elemental Amount",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to elemental mineral label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "internal_pass",
+    "summary": "Compare mineral labels by reading the mineral name, declared elemental amount, serving size, percent Daily Value, and source wording.",
     "seo": {
       "seoTitle": "How to Compare Mineral Labels by Elemental Amount | Daily Support Guide",
-      "metaDescription": "Learn elemental mineral label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "metaDescription": "Read an elemental mineral label by checking mineral name, declared amount, serving size, percent Daily Value, and source wording.",
       "primaryKeyword": "elemental mineral label",
       "secondaryKeywords": [
         "elemental mineral label guide",
-        "elemental mineral label checklist",
-        "elemental mineral label comparison"
+        "mineral supplement facts label",
+        "elemental calcium label"
       ],
       "searchIntent": "informational",
       "h1": "How to Compare Mineral Labels by Elemental Amount",
       "h2": [
-        "What elemental mineral label means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
+        "Separate the mineral from the source compound",
+        "Read the elemental amount",
+        "Use calcium as a simple label example",
+        "Check serving size before comparing",
+        "Use percent Daily Value for context",
+        "Avoid turning source form into product advice",
+        "A five-line mineral label note",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about elemental mineral label?",
-        "How can I use elemental mineral label for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What does elemental mineral label mean?",
+        "Why does source wording matter on mineral labels?",
+        "When should I follow qualified guidance instead of a general mineral label article?"
       ],
       "internalLinks": [
-        "serving-size-vs-servings-per-container",
         "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "serving-size-vs-servings-per-container",
+        "epa-dha-label-numbers",
+        "compare-two-labels"
       ],
       "schema": [
         "Article",
@@ -3502,10 +3507,112 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Mineral supplement labels can show both a mineral name and a source compound. That can make the numbers look harder than they need to be. A calm comparison starts by finding the mineral line, the amount, the serving size, and any source wording in parentheses."
+      },
+      {
+        "type": "p",
+        "text": "This guide explains how to read an elemental mineral label in a general way. It does not rank brands, recommend products, set personal amounts, or replace medical advice from a qualified professional."
+      },
+      {
+        "type": "h2",
+        "text": "Separate the mineral from the source compound"
+      },
+      {
+        "type": "p",
+        "text": "FDA dietary supplement ingredient guidance explains that when calcium carbonate is used to provide calcium, calcium carbonate is the ingredient and calcium is the dietary ingredient. FDA also says ingredients that are sources of dietary ingredients may be listed in the Supplement Facts panel, such as Calcium (as calcium carbonate)."
+      },
+      {
+        "type": "p",
+        "text": "That parenthetical source can be useful, but it is not the same as the mineral amount. First write down the mineral name, such as calcium, magnesium, zinc, or iron. Then write down the source wording separately if it appears."
+      },
+      {
+        "type": "h2",
+        "text": "Read the elemental amount"
+      },
+      {
+        "type": "p",
+        "text": "FDA dietary supplement labeling guidance says that if calcium carbonate supplies calcium, the Supplement Facts panel should list the weight of calcium, not the weight of the entire calcium carbonate source ingredient."
+      },
+      {
+        "type": "p",
+        "text": "This is the core idea behind elemental amount. The number on the mineral line is meant to describe the mineral amount being declared, not necessarily the full weight of the source compound named in parentheses. Read the line before doing your own calculation."
+      },
+      {
+        "type": "h2",
+        "text": "Use calcium as a simple label example"
+      },
+      {
+        "type": "p",
+        "text": "NIH Office of Dietary Supplements says calcium supplements often contain calcium carbonate or calcium citrate. NIH ODS also says calcium carbonate is 40% calcium by weight and calcium citrate is 21% calcium by weight, and that elemental calcium is listed in the Supplement Facts panel so consumers do not need to calculate the amount supplied by different forms."
+      },
+      {
+        "type": "p",
+        "text": "For label reading, the practical lesson is simple: compare the declared calcium line first. The source form can be a separate note, but the Supplement Facts panel is designed so the elemental calcium amount is already listed."
+      },
+      {
+        "type": "h2",
+        "text": "Check serving size before comparing"
+      },
+      {
+        "type": "p",
+        "text": "FDA supplement labeling guidance says the Supplement Facts panel must list serving size and the names and quantities of dietary ingredients present. It also says one serving of a dietary supplement equals the maximum amount recommended on the label for one eating occasion, or one unit if no recommendation appears."
+      },
+      {
+        "type": "p",
+        "text": "Before comparing mineral amounts, copy the serving size. One label may list one tablet, two capsules, one packet, or another unit. The mineral number only makes sense when it stays attached to the serving size shown on that label."
+      },
+      {
+        "type": "h2",
+        "text": "Use percent Daily Value for context"
+      },
+      {
+        "type": "p",
+        "text": "FDA Daily Value guidance says percent Daily Value shows how much a nutrient in one serving of a packaged food or dietary supplement contributes to the daily diet. FDA supplement labeling guidance also says the Supplement Facts panel includes a column for percent Daily Value."
+      },
+      {
+        "type": "p",
+        "text": "Percent Daily Value can help keep comparisons on a shared scale when a mineral has an established Daily Value. If a mineral line shows both an amount and a percent Daily Value, copy both. If the label has a footnote or a different format, keep that note with the label instead of guessing."
+      },
+      {
+        "type": "h2",
+        "text": "Avoid turning source form into product advice"
+      },
+      {
+        "type": "p",
+        "text": "A source compound can help identify what is in the product, but it does not automatically tell a general reader what to choose. FDA guidance lets source ingredients appear in Supplement Facts, and NIH ODS calcium information shows that different forms can contain different percentages of elemental calcium."
+      },
+      {
+        "type": "p",
+        "text": "For this article, that information stays as label context. If a professional has told you to use, avoid, or compare a specific mineral form because of a health condition, medication, pregnancy, age, digestive issue, or another personal factor, follow that qualified guidance."
+      },
+      {
+        "type": "h2",
+        "text": "A five-line mineral label note"
+      },
+      {
+        "type": "p",
+        "text": "Use five lines: mineral name, declared amount, serving size, percent Daily Value, and source wording. This keeps the comparison tied to the Supplement Facts panel instead of turning it into a product ranking."
+      },
+      {
+        "type": "p",
+        "text": "If a health professional has given you personal kidney, heart, anemia, thyroid, pregnancy, breastfeeding, medication, surgery, allergy, digestive, eating disorder, or medical nutrition guidance, follow that advice instead of using a general mineral label article as your decision rule."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Mineral labels are easier to compare when you separate the mineral from the source compound, read the declared elemental amount, check serving size, and use percent Daily Value for context. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 26,
