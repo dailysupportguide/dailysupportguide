@@ -215,7 +215,7 @@
     "slug": "compare-two-labels",
     "title": "How to Compare Two Labels Without Looking at the Front Claim First",
     "category": "Comparison Skills",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "A neutral guide to how to compare two labels so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "How to Compare Two Labels Without Looking at the Front Claim First | Daily Support Guide",
@@ -257,8 +257,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
