@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 07 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 07 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Compare Capsules, Powders, and Gummies
 - Scheduled date: 2026-07-26
 - Category: Comparison Skills
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: capsules vs powders vs gummies
 - Meta description: Compare capsules vs powders vs gummies with neutral label-reading tips for serving size, ingredients, directions, and cost per serving.
 
@@ -96,3 +96,13 @@ If a comparison involves an allergy, sensitivity, medication, pregnancy concern,
 ## A calm takeaway
 
 Capsules vs powders vs gummies is best treated as a label-reading comparison, not a ranking. Read serving size, amount per serving, Other Ingredients, directions, storage, and cost per serving as separate notes. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
