@@ -89,9 +89,9 @@ Second, change body position. OSHA suggests that short computer rest pauses can 
 
 ## Make the screen easier to leave
 
-A break is easier when the workstation is not fighting you. NIOSH suggests placing an external monitor about an arm's length away, with the top of the monitor at or below eye level, and reducing glare from windows. OSHA monitor guidance also notes a preferred viewing distance of about 20 to 40 inches and placing the monitor directly in front of the user.
+A break is easier when the workstation is not fighting you. OSHA monitor guidance notes that the monitor should be directly in front of the user and at least 20 inches away, with the top line of the screen at or below eye level. OSHA also notes a preferred viewing distance of about 20 to 40 inches.
 
-These setup details matter because strain can make breaks feel like an emergency instead of a rhythm. Before adding more reminders, check the basics: screen distance, text size, glare, brightness, and whether you are leaning forward to read.
+NIOSH working-from-home guidance adds practical screen-comfort checks such as reducing glare from outside light, adjusting display brightness and contrast, and enlarging font size when needed. Before adding more reminders, check the basics: screen distance, text size, glare, brightness, and whether you are leaning forward to read.
 
 ## Choose one reminder style
 

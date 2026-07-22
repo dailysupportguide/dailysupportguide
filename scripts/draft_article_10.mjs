@@ -81,6 +81,20 @@ const body = [
   },
   {
     type: "h2",
+    text: "Check delivery, return, and refund terms"
+  },
+  {
+    type: "p",
+    text:
+      "FTC online shopping guidance also points readers to delivery, return, and refund policies. This belongs in its own checklist row because a product can look comparable on price while being very different once timing, return windows, restocking fees, or return shipping are included."
+  },
+  {
+    type: "p",
+    text:
+      "A neutral note can ask: when is the item expected to arrive, how many days are allowed for returns, who pays return shipping, whether restocking fees apply, and whether sale or clearance items have different rules. Those details are not product recommendations; they are comparison facts."
+  },
+  {
+    type: "h2",
     text: "Keep health-related claims in their own row"
   },
   {
@@ -113,7 +127,6 @@ if (!article) {
 
 article.status = "internal_pass";
 article.review = {
-  ...article.review,
   internalLint: "passed",
   externalAiReview: "pending",
   approvedForPublishing: false
@@ -134,13 +147,14 @@ article.seo = {
     "Compare total cost, not only front price",
     "Read the label facts before the claim",
     "Check reviews with a critical eye",
+    "Check delivery, return, and refund terms",
     "Keep health-related claims in their own row",
     "A calm takeaway"
   ],
   faq: [
     "What should a product comparison checklist include?",
     "Why should total cost be compared instead of only front price?",
-    "How should reviews and health-related claims be handled?"
+    "How should reviews, return terms, and health-related claims be handled?"
   ],
   internalLinks: [
     "compare-two-labels",
@@ -195,6 +209,7 @@ Non-drift boundaries:
 - FTC Online Shopping guidance: when comparison shopping, make notes about manufacturer or model number and details like size, color, and shipping fees.
 - FTC Online Shopping guidance: comparison shopping should include total cost, including shipping, handling, delivery, taxes, and other fees.
 - FTC Online Shopping guidance: read the entire product description, including fine print, and check delivery, return, and refund policies.
+- FTC Online Shopping guidance: return-policy checks can include who pays return shipping, how many days are allowed, and whether restocking fees apply.
 - FTC Online Shopping guidance: do not rely on star ratings alone because some reviews and ratings are fake or misleading; check several sources and consider the reviewer and source.
 - FDA Nutrition Facts Label guidance: serving size, servings per container, calories, and nutrient information are product-specific label details.
 - FDA Nutrition Facts Label guidance: serving sizes are standardized to make it easier to compare similar foods, and serving size is not a recommendation of how much to eat or drink.
