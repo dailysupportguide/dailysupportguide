@@ -1381,34 +1381,37 @@
     "slug": "desk-reset-routine",
     "title": "A No-Drama Way to Reset Your Desk Between Tasks",
     "category": "Routine Guides",
-    "status": "draft",
+    "status": "internal_pass",
     "summary": "A neutral guide to desk reset routine so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "A No-Drama Way to Reset Your Desk Between Tasks | Daily Support Guide",
-      "metaDescription": "Build a simple desk reset routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "metaDescription": "Build a simple desk reset routine for task changes with easy-reach items, keyboard and mouse reset, paper flow, and one movement cue.",
       "primaryKeyword": "desk reset routine",
       "secondaryKeywords": [
-        "desk reset routine guide",
-        "desk reset routine checklist",
-        "desk reset routine comparison"
+        "desk reset routine for work",
+        "desk organization routine",
+        "workspace reset checklist"
       ],
       "searchIntent": "informational",
       "h1": "A No-Drama Way to Reset Your Desk Between Tasks",
       "h2": [
-        "Why desk reset routine is easier when it stays small",
-        "A simple routine you can repeat",
-        "What to notice after one week",
+        "Start with the next task, not the whole desk",
+        "Reset the keyboard and mouse zone",
+        "Check the screen and paper path",
+        "Use one small movement break",
+        "Leave a landing spot",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about desk reset routine?",
-        "How can I use desk reset routine for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What is a desk reset routine?",
+        "How can I reset my desk between tasks without overdoing it?",
+        "What should stay within easy reach on a desk?"
       ],
       "internalLinks": [
         "screen-break-routine",
-        "evening-shutdown-routine",
-        "weekly-label-review-routine"
+        "product-comparison-checklist",
+        "compare-cost-per-serving",
+        "how-to-read-ingredient-list"
       ],
       "schema": [
         "Article",
@@ -1422,10 +1425,88 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "A desk reset routine is not a personality makeover. It is a small transition between tasks that helps the next task start with fewer loose objects, fewer awkward reaches, and a clearer place to put your attention."
+      },
+      {
+        "type": "p",
+        "text": "The best version is deliberately ordinary. It should take a few minutes, use what is already on the desk, and leave the workspace easier to use without turning every task change into a cleaning project."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the next task, not the whole desk"
+      },
+      {
+        "type": "p",
+        "text": "A reset gets easier when it is tied to what comes next. OSHA's workstation evaluation checklist notes that items used frequently should be within easy reach, generally with the elbows close to the body, while items used occasionally can be farther away. That makes a simple first question useful: what do I need for the next task?"
+      },
+      {
+        "type": "p",
+        "text": "Move only those next-task items into the easy-reach zone. Put completed papers, empty cups, extra cables, and unrelated notes outside that zone. The desk does not have to look empty. It only needs to stop asking your arms and eyes to sort through everything at once."
+      },
+      {
+        "type": "h2",
+        "text": "Reset the keyboard and mouse zone"
+      },
+      {
+        "type": "p",
+        "text": "OSHA keyboard guidance says the keyboard should be directly in front of the user, with relaxed shoulders, elbows close to the body, and wrists straight and in line with the forearms. OSHA also recommends placing the mouse as close to the keyboard as possible when choosing or arranging input devices."
+      },
+      {
+        "type": "p",
+        "text": "A desk reset can use those ideas without becoming technical. Before starting the next task, slide the keyboard back to center, bring the mouse close enough that you are not reaching, and clear the area where your forearms naturally rest. If the work surface edge feels sharp or crowded, move objects away from that contact area."
+      },
+      {
+        "type": "h2",
+        "text": "Check the screen and paper path"
+      },
+      {
+        "type": "p",
+        "text": "OSHA monitor guidance says the monitor should be directly in front of the user, at least 20 inches away, with the top line of the screen at or below eye level. OSHA's evaluation checklist also notes that a document holder, if used, should be placed at about the same height and distance as the monitor screen."
+      },
+      {
+        "type": "p",
+        "text": "That can become a quick reset step: line up the main screen, move the active paper or notebook near the same viewing path, and remove old notes that are no longer part of the task. The goal is not a perfect office photo. It is fewer neck turns and fewer repeated reaches."
+      },
+      {
+        "type": "h2",
+        "text": "Use one small movement break"
+      },
+      {
+        "type": "p",
+        "text": "CDC/NIOSH office guidance says workers should be able to work without over-reaching, sitting or standing too long, or using awkward postures. OSHA also encourages changing working position throughout the day by making small chair or backrest adjustments, stretching, standing, or walking around periodically."
+      },
+      {
+        "type": "p",
+        "text": "A desk reset can include one small movement cue: stand up while clearing the last task, refill water, stretch hands, or walk one short loop before sitting back down. Keep it simple enough that it can happen between ordinary tasks, not only on quiet days."
+      },
+      {
+        "type": "h2",
+        "text": "Leave a landing spot"
+      },
+      {
+        "type": "p",
+        "text": "The easiest reset habit is often a small landing spot for unfinished items. Choose one place for the paper, note, cable, or object that belongs to later rather than now. That keeps the easy-reach zone from becoming a storage area."
+      },
+      {
+        "type": "p",
+        "text": "A neutral end-of-reset note can be only three lines: next task, items needed now, items parked for later. If a desk is shared, mobile, or used at home, this small note can be more realistic than trying to maintain a fixed setup all day."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "A desk reset routine works when it is small enough to repeat. Pick the next-task items, recenter keyboard and mouse, align screen and active paper, add one movement cue, and leave a landing spot for later. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 13,
