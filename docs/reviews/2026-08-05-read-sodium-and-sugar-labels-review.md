@@ -96,7 +96,7 @@ A simple sodium note can have two parts: milligrams per serving and percent Dail
 
 FDA added sugars guidance says Total Sugars include sugars naturally present in foods and beverages plus any added sugars. FDA also says there is no Daily Value for Total Sugars because no daily recommendation has been made for total sugar amount.
 
-Added Sugars are different. FDA says Added Sugars include sugars added during processing, sugars packaged as sweeteners, syrups and honey, and sugars from concentrated fruit or vegetable juices. Labels show Added Sugars in grams and percent Daily Value.
+Added Sugars are different. FDA says labels show Added Sugars in grams and percent Daily Value. That gives you a separate line to compare instead of treating Total Sugars and Added Sugars as the same thing.
 
 ## Use the low and high guide for Added Sugars
 
