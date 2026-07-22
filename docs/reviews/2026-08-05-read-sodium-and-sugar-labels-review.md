@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 17 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 17 passed ChatGPT, Gemini, Claude, and Grok review after one source-scope correction. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Read Sodium and Sugar on Labels Without Panic
 - Scheduled date: 2026-08-05
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: sodium and sugar on labels
 - Meta description: Read sodium and sugar on labels with serving size, percent Daily Value, Total Sugars, Added Sugars, and simple comparison notes.
 
@@ -119,3 +119,15 @@ If a health professional has given you a personal sodium, sugar, kidney, blood p
 ## A calm takeaway
 
 Sodium and sugar on labels become easier to read when you start with serving size, use percent Daily Value, separate Total Sugars from Added Sugars, and compare similar products. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS after source-scope correction.
+- Gemini: PASS after source-scope correction.
+- Claude: PASS after confirming the prior Added Sugars source-scope issue was resolved.
+- Grok: PASS after source-scope correction.
+
+Correction applied before final approval: simplified the Added Sugars composition sentence so it only states what the supplied FDA source notes directly support.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.
