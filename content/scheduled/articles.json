@@ -1381,7 +1381,7 @@
     "slug": "desk-reset-routine",
     "title": "A No-Drama Way to Reset Your Desk Between Tasks",
     "category": "Routine Guides",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "A neutral guide to desk reset routine so readers can compare everyday information without brand names, product picks, or medical advice.",
     "seo": {
       "seoTitle": "A No-Drama Way to Reset Your Desk Between Tasks | Daily Support Guide",
@@ -1426,8 +1426,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
