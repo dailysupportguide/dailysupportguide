@@ -4,7 +4,7 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 18 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 18 passed ChatGPT, Gemini, Claude, and Grok review. It is approved for publishing.
 
 Current step: External four-AI review for one scheduled article.
 
@@ -23,8 +23,8 @@ Non-drift boundaries:
 - Title: How to Compare Packaged Snacks by Portion and Context
 - Scheduled date: 2026-08-06
 - Category: Comparison Skills
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: compare packaged snacks
 - Meta description: Compare packaged snacks by serving size, servings per container, percent Daily Value, and context without brand names or product picks.
 
@@ -119,3 +119,13 @@ If a health professional has given you a personal sodium, sugar, fiber, fat, all
 ## A calm takeaway
 
 Packaged snack comparisons are easier when you compare similar items, start with serving size, check servings per container, use percent Daily Value, and add real-use context. This article is general education only and is not medical advice.
+
+
+## Four-AI Review Result
+
+- ChatGPT: PASS.
+- Gemini: PASS.
+- Claude: PASS: no required changes.
+- Grok: PASS.
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow.

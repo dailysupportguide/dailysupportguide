@@ -2299,7 +2299,7 @@
     "slug": "compare-packaged-snacks",
     "title": "How to Compare Packaged Snacks by Portion and Context",
     "category": "Comparison Skills",
-    "status": "internal_pass",
+    "status": "approved",
     "summary": "Compare packaged snacks with serving size, servings per container, percent Daily Value, and practical context without brand names or product picks.",
     "seo": {
       "seoTitle": "How to Compare Packaged Snacks by Portion and Context | Daily Support Guide",
@@ -2346,8 +2346,15 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS",
+        "gemini": "PASS",
+        "claude": "PASS",
+        "grok": "PASS"
+      },
+      "approvedAt": "2026-07-22"
     },
     "body": [
       {
