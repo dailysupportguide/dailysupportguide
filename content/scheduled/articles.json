@@ -1812,35 +1812,40 @@
     "day": 15,
     "date": "2026-08-03",
     "slug": "evening-shutdown-routine",
-    "title": "How to Create an Evening Shutdown Cue",
+    "title": "How to Create an Evening Shutdown Routine",
     "category": "Routine Guides",
-    "status": "draft",
-    "summary": "A neutral guide to evening shutdown routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "internal_pass",
+    "summary": "Build an evening shutdown routine with one clear cue, quieter inputs, a short tomorrow note, and a simple weekly review.",
     "seo": {
-      "seoTitle": "How to Create an Evening Shutdown Cue | Daily Support Guide",
-      "metaDescription": "Build a simple evening shutdown routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
+      "seoTitle": "How to Create an Evening Shutdown Routine | Daily Support Guide",
+      "metaDescription": "Build an evening shutdown routine with one clear cue, quieter inputs, a short tomorrow note, room cues, and a simple weekly review.",
       "primaryKeyword": "evening shutdown routine",
       "secondaryKeywords": [
         "evening shutdown routine guide",
-        "evening shutdown routine checklist",
-        "evening shutdown routine comparison"
+        "evening routine cue",
+        "bedtime wind-down routine"
       ],
       "searchIntent": "informational",
-      "h1": "How to Create an Evening Shutdown Cue",
+      "h1": "How to Create an Evening Shutdown Routine",
       "h2": [
-        "Why evening shutdown routine is easier when it stays small",
-        "A simple routine you can repeat",
-        "What to notice after one week",
+        "Choose one clear shutdown cue",
+        "Use the hour before bed for quieter inputs",
+        "Park tomorrow instead of solving it",
+        "Make the room easier to wind down in",
+        "Watch caffeine and heavy meals late in the day",
+        "Review the cue after one week",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about evening shutdown routine?",
-        "How can I use evening shutdown routine for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What is an evening shutdown routine?",
+        "How can I create a shutdown cue without overplanning?",
+        "When should I ask a qualified professional about sleep trouble?"
       ],
       "internalLinks": [
         "screen-break-routine",
-        "weekly-label-review-routine"
+        "natural-pause-routine",
+        "desk-reset-routine",
+        "compare-caffeine-free-drink-labels"
       ],
       "schema": [
         "Article",
@@ -1854,10 +1859,100 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "An evening shutdown routine is a small cue that tells the day to stop expanding. It is not a perfect bedtime system. It is a repeatable way to close loose tasks, lower the number of late decisions, and make the last hour of the day feel less scattered."
+      },
+      {
+        "type": "p",
+        "text": "The best version is simple enough to use on a normal night. It should help you move from work, chores, messages, or planning into a quieter mode without turning the evening into another productivity project."
+      },
+      {
+        "type": "h2",
+        "text": "Choose one clear shutdown cue"
+      },
+      {
+        "type": "p",
+        "text": "Start by choosing a cue that already happens most evenings. It might be closing a laptop, clearing the kitchen counter, setting a phone to charge, brushing teeth, or turning off the main room light. The cue should be visible and specific."
+      },
+      {
+        "type": "p",
+        "text": "A vague goal like \"relax more\" is hard to repeat. A clearer cue like \"after I plug in my phone, I write tomorrow's first task\" gives the routine a beginning. Keep the cue neutral so missing it one night does not feel like failure."
+      },
+      {
+        "type": "h2",
+        "text": "Use the hour before bed for quieter inputs"
+      },
+      {
+        "type": "p",
+        "text": "NHLBI sleep habit guidance says the hour before bed can be used for quiet time and recommends avoiding intense exercise and bright artificial light from sources such as TV or computer screens. CDC sleep guidance also recommends turning off electronic devices at least 30 minutes before bedtime."
+      },
+      {
+        "type": "p",
+        "text": "A shutdown cue can use that idea in a practical way: lower the screen load, dim bright lights where possible, and move one step away from work-style input. If you still need a device, make the task narrow, such as setting an alarm or checking tomorrow's calendar once."
+      },
+      {
+        "type": "h2",
+        "text": "Park tomorrow instead of solving it"
+      },
+      {
+        "type": "p",
+        "text": "Many evenings get noisy because tomorrow keeps asking for attention. Try a three-line note: first task, one reminder, one thing that can wait. This gives unfinished thoughts a place to land without turning the night into a planning session."
+      },
+      {
+        "type": "p",
+        "text": "Keep the note plain. It does not need categories, colors, or a full checklist. The point is to reduce open loops, not to build a second workday at the edge of bedtime."
+      },
+      {
+        "type": "h2",
+        "text": "Make the room easier to wind down in"
+      },
+      {
+        "type": "p",
+        "text": "CDC recommends keeping the bedroom quiet, relaxing, and cool. NHLBI also recommends a quiet, cool, dark sleep space, with a dim night light if needed. You do not need a perfect room to use those ideas."
+      },
+      {
+        "type": "p",
+        "text": "Choose one room cue: clear the bed surface, close a bright screen, lower a harsh light, set out water, or move clutter away from the path you use at night. One environmental cue is easier to repeat than a full room reset."
+      },
+      {
+        "type": "h2",
+        "text": "Watch caffeine and heavy meals late in the day"
+      },
+      {
+        "type": "p",
+        "text": "NHLBI notes that caffeine and nicotine are stimulants and that caffeine effects can last up to 8 hours. CDC recommends avoiding caffeine in the afternoon or evening and avoiding large meals and alcohol before bedtime."
+      },
+      {
+        "type": "p",
+        "text": "For a shutdown routine, this does not need to become a strict rule list. It can be one check: did anything late in the day make winding down harder? If yes, write it in the weekly note and adjust gently."
+      },
+      {
+        "type": "h2",
+        "text": "Review the cue after one week"
+      },
+      {
+        "type": "p",
+        "text": "CDC says a sleep diary can include when you go to bed, wake during the night, wake in the morning, nap, exercise, drink alcohol or caffeinated drinks, and take medicines. A shutdown routine can use a much lighter version for everyday tracking."
+      },
+      {
+        "type": "p",
+        "text": "After one week, ask three questions: which cue happened naturally, which step was too big, and which evening pattern kept repeating? If sleep trouble is ongoing, severe, or affecting daytime safety or functioning, talk with a qualified professional."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "An evening shutdown routine works when it is small, visible, and easy to repeat. Pick one clear cue, quiet the inputs, park tomorrow on paper, adjust one room detail, and review what happened after a week. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 16,
