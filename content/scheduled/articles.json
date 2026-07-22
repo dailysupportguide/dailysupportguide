@@ -1661,34 +1661,38 @@
     "slug": "compare-caffeine-free-drink-labels",
     "title": "How to Compare Caffeinated and Caffeine-Free Drink Labels",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to caffeine on drink labels so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "internal_pass",
+    "summary": "Compare caffeinated, decaffeinated, and caffeine-free drink labels by checking serving size, caffeine wording, caffeine amounts, and added sugars.",
     "seo": {
       "seoTitle": "How to Compare Caffeinated and Caffeine-Free Drink Labels | Daily Support Guide",
-      "metaDescription": "Learn caffeine on drink labels in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "metaDescription": "Compare caffeinated, decaffeinated, and caffeine-free drink labels with serving size, caffeine wording, optional caffeine amounts, and added sugars.",
       "primaryKeyword": "caffeine on drink labels",
       "secondaryKeywords": [
-        "caffeine on drink labels guide",
-        "caffeine on drink labels checklist",
-        "caffeine on drink labels comparison"
+        "caffeine-free drink labels",
+        "compare drink labels",
+        "decaffeinated vs caffeine-free"
       ],
       "searchIntent": "informational",
       "h1": "How to Compare Caffeinated and Caffeine-Free Drink Labels",
       "h2": [
-        "What caffeine on drink labels means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
+        "Start with serving size",
+        "Find where caffeine appears",
+        "Do not treat decaffeinated as caffeine-free",
+        "Look for voluntary caffeine amounts",
+        "Compare added sugars too",
+        "Use a simple comparison note",
         "A calm takeaway"
       ],
       "faq": [
-        "What should I know about caffeine on drink labels?",
-        "How can I use caffeine on drink labels for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "Does decaffeinated mean caffeine-free?",
+        "Where does caffeine appear on drink labels?",
+        "How should I compare caffeine and added sugars on drinks?"
       ],
       "internalLinks": [
         "serving-size-vs-servings-per-container",
         "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "how-to-read-ingredient-list",
+        "added-sugars-vs-total-sugars"
       ],
       "schema": [
         "Article",
@@ -1702,10 +1706,100 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
+      "internalLint": "passed",
       "externalAiReview": "pending",
       "approvedForPublishing": false
-    }
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Drink labels can look simple until two bottles use different serving sizes, different caffeine wording, and different sugar numbers. A calm comparison starts with the label in front of you, not with a guess about which drink sounds lighter."
+      },
+      {
+        "type": "p",
+        "text": "This guide is for comparing caffeinated, decaffeinated, and caffeine-free drink labels in a neutral way. It does not rank drinks or tell you what to buy. It simply gives you a repeatable way to read the package."
+      },
+      {
+        "type": "h2",
+        "text": "Start with serving size"
+      },
+      {
+        "type": "p",
+        "text": "FDA serving size guidance says the Nutrition Facts label is usually based on one serving, and some containers may also show information for the full package. It also says a serving size is not a recommendation for how much to drink. It reflects the amount people typically consume."
+      },
+      {
+        "type": "p",
+        "text": "Before comparing two drinks, check whether the numbers are per 8 fluid ounces, per 12 fluid ounces, per bottle, or per can. A drink can look lower in calories, sugar, sodium, or caffeine simply because the label is using a smaller serving."
+      },
+      {
+        "type": "h2",
+        "text": "Find where caffeine appears"
+      },
+      {
+        "type": "p",
+        "text": "The FDA says packaged foods are required to list caffeine in the ingredient list when caffeine is added as a stand-alone ingredient. If caffeine is naturally present inside an ingredient, such as chocolate, the caffeine-containing ingredient may be listed without the word caffeine appearing separately."
+      },
+      {
+        "type": "p",
+        "text": "That means a careful label check has two parts. First, look for the word caffeine in the ingredients. Second, look for ingredients or product types that may naturally contain caffeine, such as coffee, tea, cocoa, chocolate, yerba mate, or guarana. If the amount is unclear, the label may not answer every question."
+      },
+      {
+        "type": "h2",
+        "text": "Do not treat decaffeinated as caffeine-free"
+      },
+      {
+        "type": "p",
+        "text": "The FDA notes that decaffeinated coffees and teas have less caffeine than regular versions, but still contain some caffeine. FDA consumer guidance gives decaf coffee as an example that may still have a small amount per 8-fluid-ounce cup."
+      },
+      {
+        "type": "p",
+        "text": "For comparison purposes, treat decaffeinated as a lower-caffeine category, not automatically as zero. If a label says caffeine-free, compare that wording separately from decaffeinated. If you are sensitive to caffeine or have been told to limit it, ask a qualified professional about your own limits."
+      },
+      {
+        "type": "h2",
+        "text": "Look for voluntary caffeine amounts"
+      },
+      {
+        "type": "p",
+        "text": "The FDA says many packaged foods, beverages, and dietary supplements that contain caffeine voluntarily provide information on the label about how much caffeine they contain. It also says the amount of caffeine in specific products and container sizes can vary."
+      },
+      {
+        "type": "p",
+        "text": "If a label gives milligrams of caffeine, compare the same unit across products. Write it as milligrams per serving and, if needed, milligrams per container. This keeps a small can, a large bottle, and a multi-serving container from being compared as if they were the same size."
+      },
+      {
+        "type": "h2",
+        "text": "Compare added sugars too"
+      },
+      {
+        "type": "p",
+        "text": "Caffeine is only one label detail. The FDA says Added Sugars on the Nutrition Facts label are shown in grams and percent Daily Value, and the agency describes 5% DV or less as low and 20% DV or more as high for added sugars."
+      },
+      {
+        "type": "p",
+        "text": "When comparing drinks, place caffeine and added sugars side by side. A caffeine-free drink can still be high in added sugars, and a caffeinated drink can have little or no added sugar. Reading both lines keeps the comparison from becoming one-dimensional."
+      },
+      {
+        "type": "h2",
+        "text": "Use a simple comparison note"
+      },
+      {
+        "type": "p",
+        "text": "A useful note can be four lines: serving size, caffeine wording, caffeine amount if listed, and added sugars. Add one more line for anything you personally need to watch, such as carbonation, sodium, or whether the package has more than one serving."
+      },
+      {
+        "type": "p",
+        "text": "If you are comparing a drink from a restaurant, cafe, or other retail food establishment, the FDA says those businesses are not required by law to tell you how much caffeine is in the products they serve. The FDA encourages asking whether a product has caffeine and how much."
+      },
+      {
+        "type": "h2",
+        "text": "A calm takeaway"
+      },
+      {
+        "type": "p",
+        "text": "A better drink-label comparison starts with serving size, then checks caffeine wording, optional caffeine amounts, and added sugars. Decaffeinated does not automatically mean caffeine-free, and caffeine-free does not automatically describe the whole nutrition profile. This article is general education only and is not medical advice."
+      }
+    ]
   },
   {
     "day": 15,
