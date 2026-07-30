@@ -13,6 +13,8 @@
   }
 
   function mergeScheduledArticles(scheduled) {
+    if (!Array.isArray(scheduled)) return;
+
     const today = easternDate();
     const bySlug = new Map((content.articles || []).map((article) => [article.slug, article]));
 
@@ -48,8 +50,12 @@
     document.body.appendChild(script);
   }
 
-  fetch("content/scheduled/articles.json", { cache: "no-store" })
-    .then((response) => (response.ok ? response.json() : []))
+  Promise.resolve()
+    .then(() => {
+      if (typeof fetch !== "function") return [];
+      return fetch("content/scheduled/articles.json", { cache: "no-store" })
+        .then((response) => (response.ok ? response.json() : []));
+    })
     .then(mergeScheduledArticles)
     .catch((error) => console.warn("Scheduled articles could not be loaded.", error))
     .finally(loadApp);
