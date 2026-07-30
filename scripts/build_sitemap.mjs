@@ -26,12 +26,17 @@ function entry(loc, lastmod, priority = "0.7") {
 
 const today = new Date().toISOString().slice(0, 10);
 const content = loadContent();
+const siteLastmod = content.articles
+  .map((article) => article.date)
+  .filter(Boolean)
+  .sort()
+  .at(-1) || today;
 const urls = [
-  entry(`${site}/index.html`, today, "1.0"),
-  entry(`${site}/about.html`, today, "0.6"),
-  entry(`${site}/privacy.html`, today, "0.5"),
-  entry(`${site}/contact.html`, today, "0.5"),
-  entry(`${site}/editorial-policy.html`, today, "0.6"),
+  entry(`${site}/index.html`, siteLastmod, "1.0"),
+  entry(`${site}/about.html`, siteLastmod, "0.6"),
+  entry(`${site}/privacy.html`, siteLastmod, "0.5"),
+  entry(`${site}/contact.html`, siteLastmod, "0.5"),
+  entry(`${site}/editorial-policy.html`, siteLastmod, "0.6"),
   ...content.articles.map((article) =>
     entry(`${site}/article.html?slug=${encodeURIComponent(article.slug)}`, article.date || today, "0.8")
   )

@@ -6,6 +6,11 @@ const root = process.cwd();
 const contentPath = path.join(root, "assets", "content.js");
 const scheduledPath = path.join(root, "content", "scheduled", "articles.json");
 
+function setOutput(name, value) {
+  if (!process.env.GITHUB_OUTPUT) return;
+  fs.appendFileSync(process.env.GITHUB_OUTPUT, `${name}=${value}\n`);
+}
+
 function easternParts(date = new Date()) {
   const parts = new Intl.DateTimeFormat("en-CA", {
     timeZone: "America/New_York",
@@ -37,6 +42,8 @@ function writeContent(content) {
 const now = easternParts();
 if (now.hour !== 7 && process.env.PUBLISH_ANYTIME !== "1") {
   console.log(`Not publishing because America/New_York hour is ${now.hour}, not 7.`);
+  setOutput("changed", "false");
+  setOutput("published_count", "0");
   process.exit(0);
 }
 
@@ -98,4 +105,6 @@ if (changed) {
   fs.writeFileSync(scheduledPath, `${JSON.stringify(scheduled, null, 2)}\n`);
 }
 
+setOutput("changed", changed ? "true" : "false");
+setOutput("published_count", String(publishedCount));
 console.log(`Published ${publishedCount} article(s).`);

@@ -16,13 +16,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: |
-          node scripts/publish_due_articles.mjs
+      - id: publish
+        env:
+          PUBLISH_ANYTIME: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: node scripts/publish_due_articles.mjs
+      - if: steps.publish.outputs.changed == 'true'
+        run: |
           node scripts/build_sitemap.mjs
       - name: Commit published content
+        if: steps.publish.outputs.changed == 'true'
         run: |
           if git diff --quiet; then
-            echo "No due approved articles."
+            echo "Publish step reported changes, but no file diff remained."
           else
             git config user.name "daily-publisher"
             git config user.email "actions@github.com"
