@@ -40,8 +40,8 @@ function writeContent(content) {
 }
 
 const now = easternParts();
-if (now.hour !== 7 && process.env.PUBLISH_ANYTIME !== "1") {
-  console.log(`Not publishing because America/New_York hour is ${now.hour}, not 7.`);
+if (now.hour < 7 && process.env.PUBLISH_ANYTIME !== "1") {
+  console.log(`Not publishing because America/New_York hour is ${now.hour}, before 7.`);
   setOutput("changed", "false");
   setOutput("published_count", "0");
   process.exit(0);
