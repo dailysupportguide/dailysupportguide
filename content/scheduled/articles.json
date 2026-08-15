@@ -4458,37 +4458,37 @@
     "slug": "read-marketing-claims-on-labels",
     "title": "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead",
     "category": "Comparison Skills",
-    "status": "internal_pass",
-    "summary": "Learn how to read marketing claims on labels by separating claim wording from serving size, label facts, qualifiers, and unanswered questions.",
+    "status": "approved",
+    "summary": "Learn how to read marketing claims on labels by copying exact wording, checking label facts, looking for qualifiers, and leaving personal questions outside the claim.",
     "seo": {
       "seoTitle": "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead | Daily Support Guide",
-      "metaDescription": "Learn how to read marketing claims on labels by separating claim wording from facts, qualifiers, serving basis, and open questions.",
+      "metaDescription": "Learn how to read marketing claims on labels by separating exact wording from label facts, qualifiers, serving basis, and open questions.",
       "primaryKeyword": "marketing claims on labels",
       "secondaryKeywords": [
         "marketing claims on labels guide",
-        "label claim reading checklist",
-        "how to read product claims"
+        "label claims comparison",
+        "read product claims carefully"
       ],
       "searchIntent": "informational",
       "h1": "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead",
       "h2": [
-        "Separate the claim from the label facts",
+        "Separate the claim from the facts",
         "Know the broad claim categories",
         "Watch for structure and function language",
-        "Notice what the claim does not say",
-        "Keep comparison notes neutral",
-        "Use a pause before reacting",
-        "A calm takeaway"
+        "Notice what the claim leaves out",
+        "Use the same note fields each time",
+        "Pause before interpreting the claim",
+        "A practical takeaway"
       ],
       "faq": [
-        "What are marketing claims on labels?",
+        "How should I read marketing claims on labels?",
         "Why should claims stay separate from label facts?",
-        "When should I ask a qualified professional instead of guessing?"
+        "When should personal questions stay outside a label-claim comparison?"
       ],
       "internalLinks": [
-        "compare-two-labels",
+        "structure-function-claims-label",
         "compare-similar-products-framework",
-        "structure-function-claims-label"
+        "read-protein-on-food-labels"
       ],
       "schema": [
         "Article",
@@ -4503,29 +4503,37 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-polish three-AI review",
+        "gemini": "PASS post-polish three-AI review",
+        "claude": "PASS post-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished version reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     },
     "body": [
       {
         "type": "p",
-        "text": "Marketing claims on labels are often the first words a reader sees. They may be large, simple, and easy to remember. That does not make every claim wrong, but it does mean the claim should not be the first or only part of the label you use."
+        "text": "Marketing claims on labels are often the first words a reader sees. They may be large, short, and easy to remember. That does not make every claim wrong, but it does mean the claim should not carry the whole comparison."
       },
       {
         "type": "p",
-        "text": "This guide explains a neutral way to notice claims without letting them lead the whole comparison. It does not name brands, recommend products, or decide what is medically or personally appropriate for a reader."
+        "text": "This article is about reading label wording. It does not name brands, recommend products, or decide what is medically or personally appropriate for a reader."
       },
       {
         "type": "h2",
-        "text": "Separate the claim from the label facts"
+        "text": "Separate the claim from the facts"
       },
       {
         "type": "p",
-        "text": "Start by copying the claim exactly as written. Then move to the structured parts of the package or product page: serving size, servings per container, Nutrition Facts or Supplement Facts, ingredient list, warnings, directions, package amount, and terms if they are relevant."
+        "text": "Start by copying the claim exactly as written. Then move to the structured parts of the label or product page: serving size, servings per container, Nutrition Facts or Supplement Facts, ingredient list, warnings, directions, package amount, and terms if they are relevant."
       },
       {
         "type": "p",
-        "text": "This creates two lanes. One lane holds the claim. The other lane holds details that can be checked. A claim may become easier to understand after the facts are written down, but it should not replace the facts."
+        "text": "This creates two lanes. One lane holds the claim. The other lane holds details that can be checked. A claim may be easier to understand after the facts are written down, but it should not replace them."
       },
       {
         "type": "h2",
@@ -4533,11 +4541,11 @@
       },
       {
         "type": "p",
-        "text": "FDA explains that food and dietary supplement labels may use several claim categories, including health claims, nutrient content claims, and structure/function claims. These categories are not all the same, and they do not all mean that FDA reviewed a product before the reader saw it."
+        "text": "FDA explains that food and dietary supplement labels may use several claim categories, including health claims, nutrient content claims, and structure/function claims. These categories are not all the same, and they do not all mean FDA reviewed a product before a reader saw it."
       },
       {
         "type": "p",
-        "text": "For a reader, the practical habit is simple: do not treat a familiar-sounding phrase as a complete explanation. Ask what type of statement it appears to be, what part of the label supports it, and whether any qualifying language appears nearby."
+        "text": "The useful habit is simple: do not treat a familiar-sounding phrase as a full explanation. Ask what type of statement it appears to be, what part of the label supports it, and whether qualifying language appears nearby."
       },
       {
         "type": "h2",
@@ -4549,23 +4557,23 @@
       },
       {
         "type": "p",
-        "text": "That means a reader should slow down when a label uses words about support, maintenance, normal function, balance, or well-being. Copy the phrase, look for nearby disclaimers or limits, and keep the article's role narrow: reading wording, not making a health decision."
+        "text": "When a label uses words about support, maintenance, normal function, balance, or well-being, copy the phrase and look for nearby disclaimers or limits. The job here is to read wording, not to make a health decision."
       },
       {
         "type": "h2",
-        "text": "Notice what the claim does not say"
+        "text": "Notice what the claim leaves out"
       },
       {
         "type": "p",
-        "text": "A claim can feel more complete than it is. It may highlight one nutrient, one ingredient, one serving detail, one package feature, or one general benefit phrase while leaving other label details elsewhere."
+        "text": "A claim can feel more complete than it is. It may highlight one nutrient, one ingredient, one serving detail, one package feature, or one broad benefit phrase while other label details sit elsewhere."
       },
       {
         "type": "p",
-        "text": "FTC health product guidance says advertising must be truthful and not misleading, and objective product claims need adequate support before they are shared with consumers. Readers do not need to investigate that support themselves to use a safer habit: treat the claim as a prompt to read the rest of the label, not as the final answer."
+        "text": "FTC health product guidance says advertising must be truthful and not misleading, and objective product claims need adequate support before being shared with consumers. A practical reader can still keep the task simple: treat the claim as a prompt to read the rest of the label, not as the final answer."
       },
       {
         "type": "h2",
-        "text": "Keep comparison notes neutral"
+        "text": "Use the same note fields each time"
       },
       {
         "type": "p",
@@ -4573,28 +4581,42 @@
       },
       {
         "type": "p",
-        "text": "Neutral notes are especially important with health-adjacent products. Do not turn a claim into a product ranking, personal amount rule, or instruction to choose one item over another."
+        "text": "This matters most with health-adjacent products. Do not turn a claim into a product ranking, personal amount rule, or instruction to choose one item over another."
       },
       {
         "type": "h2",
-        "text": "Use a pause before reacting"
+        "text": "Pause before interpreting the claim"
       },
       {
         "type": "p",
-        "text": "After copying the claim and the label facts, pause before interpreting them. Ask whether the claim is broad, whether the supporting detail is visible, whether the serving basis is clear, and whether the wording includes limits or disclaimers."
+        "text": "After copying the claim and label facts, pause before interpreting them. Ask whether the claim is broad, whether the supporting detail is visible, whether the serving basis is clear, and whether the wording includes limits or disclaimers."
       },
       {
         "type": "p",
-        "text": "If the topic connects to pregnancy, breastfeeding, medication use, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, anemia, thyroid concerns, digestion, bone health, or another personal factor, follow qualified guidance instead of using a general label article as a decision rule."
+        "text": "If the topic connects to pregnancy, breastfeeding, medication use, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, anemia, thyroid concerns, digestion, bone health, or another personal factor, follow licensed professional guidance instead of using a general label article."
       },
       {
         "type": "h2",
-        "text": "A calm takeaway"
+        "text": "A practical takeaway"
       },
       {
         "type": "p",
-        "text": "Marketing claims on labels are easier to handle when you copy the claim, separate it from checkable facts, notice the claim category, look for qualifiers, and keep notes neutral. This article is general education only and is not medical advice."
+        "text": "Marketing claims on labels are easier to handle when you copy the claim, separate it from checkable facts, notice the claim category, look for qualifiers, and keep open questions visible. This article is general education only and is not medical advice."
       }
+    ],
+    "sourceNotes": [
+      "FDA label-claims guidance: conventional food and dietary supplement labels may use health claims, nutrient content claims, and structure/function claims.",
+      "FDA label-claims guidance: health claims describe a relationship between a substance and reduced risk of a disease or health-related condition.",
+      "FDA structure/function guidance: structure/function claims may describe the role of a nutrient or dietary ingredient intended to affect normal structure or function of the human body.",
+      "FDA structure/function guidance: dietary supplement structure/function claims and related statements have special requirements, including disclaimer requirements.",
+      "FTC health-products guidance: advertising must be truthful and not misleading.",
+      "FTC health-products guidance: objective product claims, express or implied, need adequate substantiation before being shared with consumers."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/structurefunction-claims",
+      "https://www.fda.gov/food/information-industry-dietary-supplements/notifications-structurefunction-and-related-claims-dietary-supplement-labeling",
+      "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance"
     ]
   },
   {
@@ -4603,32 +4625,32 @@
     "slug": "structure-function-claims-label",
     "title": "Structure Function Claims: How to Read Them Carefully",
     "category": "Label Reading",
-    "status": "internal_pass",
-    "summary": "Learn how to read structure function claims by copying exact wording, finding qualifiers, and keeping label facts separate from personal questions.",
+    "status": "approved",
+    "summary": "Learn how to read structure function claims by copying exact wording, finding nearby qualifiers, and keeping serving facts separate from personal questions.",
     "seo": {
       "seoTitle": "Structure Function Claims: How to Read Them Carefully | Daily Support Guide",
-      "metaDescription": "Learn structure function claims in plain English by copying exact wording, reading qualifiers, and keeping label facts separate.",
+      "metaDescription": "Learn structure function claims by copying exact wording, finding nearby qualifiers, and keeping serving facts separate from personal questions.",
       "primaryKeyword": "structure function claims",
       "secondaryKeywords": [
         "structure function claims guide",
-        "supplement label claim wording",
-        "how to read label claims"
+        "supplement claim wording",
+        "read label claims carefully"
       ],
       "searchIntent": "informational",
       "h1": "Structure Function Claims: How to Read Them Carefully",
       "h2": [
         "Start by copying the exact phrase",
-        "Know what this claim type usually describes",
-        "Look for the nearby limit language",
+        "Know what this claim type describes",
+        "Look for nearby limit language",
         "Separate normal function from personal need",
         "Do not upgrade the claim in your notes",
-        "Use qualified guidance for personal questions",
-        "A calm takeaway"
+        "Keep personal questions separate",
+        "A practical takeaway"
       ],
       "faq": [
         "What are structure function claims?",
-        "Why should I copy the exact claim wording?",
-        "When should I ask a qualified professional instead of guessing?"
+        "Why should exact claim wording stay in the note?",
+        "When should personal questions stay outside a structure function claim note?"
       ],
       "internalLinks": [
         "read-marketing-claims-on-labels",
@@ -4648,17 +4670,25 @@
     },
     "review": {
       "internalLint": "passed",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-polish three-AI review",
+        "gemini": "PASS post-polish three-AI review",
+        "claude": "PASS post-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished version reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     },
     "body": [
       {
         "type": "p",
-        "text": "Structure function claims can sound familiar because they often use words about support, maintenance, normal function, or general well-being. Those words can be useful to notice, but they should not be treated as a complete explanation of a product."
+        "text": "Structure function claims can sound familiar because they often use words about support, maintenance, normal function, or general well-being. Those words are worth noticing, but they are not a full explanation of a product."
       },
       {
         "type": "p",
-        "text": "This guide explains structure function claims as a label-reading topic. It does not name brands, recommend products, set personal amounts, or replace guidance from a qualified professional."
+        "text": "This article treats structure function claims as a label-reading topic. It does not name brands, recommend products, set personal amounts, or replace guidance from a licensed professional."
       },
       {
         "type": "h2",
@@ -4666,7 +4696,7 @@
       },
       {
         "type": "p",
-        "text": "The safest first step is to copy the claim exactly as written. Do not summarize it, strengthen it, or turn it into a promise. A short phrase can change meaning when one word is added, removed, or replaced."
+        "text": "The first step is to copy the claim exactly as written. Do not summarize it, strengthen it, or turn it into a promise. A short phrase can change meaning when one word is added, removed, or replaced."
       },
       {
         "type": "p",
@@ -4674,7 +4704,7 @@
       },
       {
         "type": "h2",
-        "text": "Know what this claim type usually describes"
+        "text": "Know what this claim type describes"
       },
       {
         "type": "p",
@@ -4682,11 +4712,11 @@
       },
       {
         "type": "p",
-        "text": "For a reader, the practical point is narrow: this claim type is about wording on a label. It is not a shortcut for deciding what a person needs, how much to use, or whether a product is appropriate for a personal situation."
+        "text": "For a reader, the point is narrow: this claim type is about wording on a label. It is not a shortcut for deciding what a person needs, how much to use, or whether a product fits a personal situation."
       },
       {
         "type": "h2",
-        "text": "Look for the nearby limit language"
+        "text": "Look for nearby limit language"
       },
       {
         "type": "p",
@@ -4694,7 +4724,7 @@
       },
       {
         "type": "p",
-        "text": "A simple note can include the exact claim, the nearby disclaimer or qualifier, the ingredient or nutrient named, and the serving basis shown on the label. If the qualifier is hard to find, write that it was not easy to find rather than guessing."
+        "text": "A simple note can include the exact claim, nearby disclaimer or qualifier, ingredient or nutrient named, and serving basis shown on the label. If the qualifier is hard to find, write that down rather than guessing."
       },
       {
         "type": "h2",
@@ -4702,11 +4732,11 @@
       },
       {
         "type": "p",
-        "text": "A phrase about normal function does not tell a reader whether they personally need a product. It also does not compare one product to another by itself. The claim should stay in one column of the note, while serving size, amount, unit, ingredient name, warnings, and directions stay in other columns."
+        "text": "A phrase about normal function does not tell a reader whether they personally need a product. It also does not compare one product to another by itself. Keep the claim in one column while serving size, amount, unit, ingredient name, warnings, and directions stay in other columns."
       },
       {
         "type": "p",
-        "text": "This separation matters because health-adjacent wording can feel more specific than it is. A careful reader can notice the wording without turning it into a personal rule."
+        "text": "That separation matters because health-adjacent wording can feel more specific than it is. A reader can notice the wording without turning it into a personal rule."
       },
       {
         "type": "h2",
@@ -4718,64 +4748,80 @@
       },
       {
         "type": "p",
-        "text": "FTC health product guidance says advertising must be truthful and not misleading, and objective product claims need adequate support before they are shared with consumers. A reader's safer habit is to avoid adding stronger meaning than the wording actually gives."
+        "text": "FTC health product guidance says advertising must be truthful and not misleading, and objective product claims need adequate support before being shared with consumers. A reader's practical habit is to avoid adding stronger meaning than the wording gives."
       },
       {
         "type": "h2",
-        "text": "Use qualified guidance for personal questions"
+        "text": "Keep personal questions separate"
       },
       {
         "type": "p",
-        "text": "If a structure/function phrase connects to pregnancy, breastfeeding, medication use, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, anemia, thyroid concerns, digestion, bone health, or another personal factor, follow qualified guidance instead of using a general label article as the decision rule."
+        "text": "If a structure/function phrase connects to pregnancy, breastfeeding, medication use, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, anemia, thyroid concerns, digestion, bone health, or another personal factor, follow licensed professional guidance instead of using a general label article."
       },
       {
         "type": "p",
-        "text": "A website article can help with reading habits, but it cannot turn a label phrase into an individualized answer. Keep personal questions with someone qualified to address them."
+        "text": "A website article can help with reading habits, but it cannot turn a label phrase into an individualized answer."
       },
       {
         "type": "h2",
-        "text": "A calm takeaway"
+        "text": "A practical takeaway"
       },
       {
         "type": "p",
-        "text": "Structure function claims are easier to read when you copy the exact wording, find the nearby qualifier, keep serving facts separate, and avoid upgrading the claim in your notes. This article is general education only and is not medical advice."
+        "text": "Structure function claims are easier to read when you copy the exact wording, find nearby qualifiers, keep serving facts separate, and avoid upgrading the claim in your notes. This article is general education only and is not medical advice."
       }
+    ],
+    "sourceNotes": [
+      "FDA structure/function guidance: a structure/function claim may describe the role of a nutrient or dietary ingredient intended to affect normal structure or function in humans.",
+      "FDA structure/function guidance: structure/function claims may also characterize the means by which a nutrient or dietary ingredient acts to maintain such structure or function.",
+      "FDA dietary supplement structure/function notification guidance: these claims are not disease claims and have special requirements, including disclaimer requirements.",
+      "FDA label-claims guidance: food and dietary supplement labels can include claim categories such as health claims, nutrient content claims, and structure/function claims.",
+      "FTC health-products guidance: advertising must be truthful, not misleading, and supported for objective claims."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/structurefunction-claims",
+      "https://www.fda.gov/food/information-industry-dietary-supplements/notifications-structurefunction-and-related-claims-dietary-supplement-labeling",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements",
+      "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance"
     ]
   },
   {
     "day": 33,
     "date": "2026-08-21",
     "slug": "proprietary-blend-label",
-    "title": "How to Compare Products When One Uses a Blend",
+    "title": "Proprietary Blend Label: How to Compare What Is and Is Not Shown",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to proprietary blend label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to read a proprietary blend label by checking the blend name, total amount, ingredient order, serving size, and missing individual amounts.",
     "seo": {
-      "seoTitle": "How to Compare Products When One Uses a Blend | Daily Support Guide",
-      "metaDescription": "Learn proprietary blend label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "seoTitle": "Proprietary Blend Label: How to Compare What Is and Is Not Shown | Daily Support Guide",
+      "metaDescription": "Learn how to read a proprietary blend label by separating blend name, total amount, ingredient order, serving size, and missing details.",
       "primaryKeyword": "proprietary blend label",
       "secondaryKeywords": [
         "proprietary blend label guide",
-        "proprietary blend label checklist",
-        "proprietary blend label comparison"
+        "supplement blend label",
+        "compare blend labels"
       ],
       "searchIntent": "informational",
-      "h1": "How to Compare Products When One Uses a Blend",
+      "h1": "Proprietary Blend Label: How to Compare What Is and Is Not Shown",
       "h2": [
-        "What proprietary blend label means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
-        "A calm takeaway"
+        "Start with the blend name",
+        "Find the total amount",
+        "Keep ingredient order separate from amounts",
+        "Check serving size before comparing blends",
+        "Notice what is not shown",
+        "Do not turn a blend into a product score",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about proprietary blend label?",
-        "How can I use proprietary blend label for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What does a proprietary blend label show?",
+        "Why should blend total stay separate from individual ingredient amounts?",
+        "When should missing blend details stay unresolved?"
       ],
       "internalLinks": [
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "how-to-read-ingredient-list",
+        "product-comparison-notes"
       ],
       "schema": [
         "Article",
@@ -4789,45 +4835,156 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
-    }
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-polish three-AI review",
+        "gemini": "PASS post-polish three-AI review",
+        "claude": "PASS post-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished version reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "A proprietary blend label can look tidy because several ingredients sit under one blend name. That tidy layout can also hide the detail a reader may want most: how much of each ingredient is listed separately, if at all."
+      },
+      {
+        "type": "p",
+        "text": "This article is about reading what the label shows and what it does not show. It does not rank products, recommend brands, set personal amounts, or replace medical advice from a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the blend name"
+      },
+      {
+        "type": "p",
+        "text": "FDA dietary supplement labeling guidance discusses proprietary blends as part of Supplement Facts labeling. A blend may appear under a name or term that groups dietary ingredients together."
+      },
+      {
+        "type": "p",
+        "text": "Copy the blend name first. Then copy the exact ingredients listed under it. Do not shorten the list or add your own category name, because a small wording change can make the note less accurate."
+      },
+      {
+        "type": "h2",
+        "text": "Find the total amount"
+      },
+      {
+        "type": "p",
+        "text": "FDA guidance explains that proprietary blends are declared by total quantity rather than by listing a separate amount for each ingredient inside the blend. That total amount belongs to the blend as a whole."
+      },
+      {
+        "type": "p",
+        "text": "Write the total blend amount next to the serving size. If the label gives a total amount for the blend but not each ingredient, keep that distinction visible."
+      },
+      {
+        "type": "h2",
+        "text": "Keep ingredient order separate from amounts"
+      },
+      {
+        "type": "p",
+        "text": "FDA supplement labeling guidance indicates that dietary ingredients in a proprietary blend are listed in descending order of predominance by weight. Order can be useful, but it is not the same as an individual amount."
+      },
+      {
+        "type": "p",
+        "text": "A clean note can say: blend total shown; individual amounts not shown; ingredients listed in order. That is more accurate than guessing how much of one ingredient is present."
+      },
+      {
+        "type": "h2",
+        "text": "Check serving size before comparing blends"
+      },
+      {
+        "type": "p",
+        "text": "Serving size still matters. Two labels may both use a blend, but one serving may be one capsule, two tablets, one scoop, or another amount."
+      },
+      {
+        "type": "p",
+        "text": "Before comparing blend totals, copy serving size and servings per container. A larger blend total on a larger serving basis does not automatically mean the labels are easier to compare."
+      },
+      {
+        "type": "h2",
+        "text": "Notice what is not shown"
+      },
+      {
+        "type": "p",
+        "text": "A missing individual amount is not a reason to guess. It is a note: the label gives the blend total but not separate amounts for each ingredient."
+      },
+      {
+        "type": "p",
+        "text": "If a label detail is unclear, write that it is unclear. If a personal health question depends on the answer, a general label article is not the right place to settle it."
+      },
+      {
+        "type": "h2",
+        "text": "Do not turn a blend into a product score"
+      },
+      {
+        "type": "p",
+        "text": "A blend can be compared as a label format, not as a winner or loser. Keep the fields plain: serving size, blend name, total blend amount, ingredients listed, individual amounts shown or not shown, and questions that remain."
+      },
+      {
+        "type": "p",
+        "text": "If the topic connects to pregnancy, breastfeeding, medications, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, or a personal nutrition plan, follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "A proprietary blend label is easier to read when you separate the blend name, total amount, ingredient order, serving size, and missing individual amounts. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FDA dietary supplement labeling guidance: proprietary blends are declared by total quantity rather than by listing the amount of each dietary ingredient in the blend.",
+      "FDA dietary supplement labeling guidance: dietary ingredients in a proprietary blend are listed in descending order of predominance by weight.",
+      "FDA dietary supplement labeling guidance: the Supplement Facts panel includes serving size and related nutrition labeling information.",
+      "FDA dietary supplement labeling guidance: Supplement Facts must list names and quantities of dietary ingredients, with proprietary blend rules as a special case."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling",
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide"
+    ]
   },
   {
     "day": 34,
     "date": "2026-08-22",
     "slug": "botanical-label-plant-part-form",
-    "title": "How to Compare Botanical Labels by Plant Part and Form",
+    "title": "Botanical Label Plant Part and Form: What to Copy Before Comparing",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to botanical supplement label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to read botanical labels by copying the botanical name, plant part, form, serving size, amount, and panel location before comparing.",
     "seo": {
-      "seoTitle": "How to Compare Botanical Labels by Plant Part and Form | Daily Support Guide",
-      "metaDescription": "Learn botanical supplement label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
-      "primaryKeyword": "botanical supplement label",
+      "seoTitle": "Botanical Label Plant Part and Form: What to Copy Before Comparing | Daily Support Guide",
+      "metaDescription": "Learn how to read botanical labels by keeping botanical name, plant part, form, serving size, amount, and panel location separate.",
+      "primaryKeyword": "botanical label plant part and form",
       "secondaryKeywords": [
-        "botanical supplement label guide",
-        "botanical supplement label checklist",
-        "botanical supplement label comparison"
+        "botanical supplement label",
+        "plant part on supplement label",
+        "botanical label guide"
       ],
       "searchIntent": "informational",
-      "h1": "How to Compare Botanical Labels by Plant Part and Form",
+      "h1": "Botanical Label Plant Part and Form: What to Copy Before Comparing",
       "h2": [
-        "What botanical supplement label means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
-        "A calm takeaway"
+        "Start with the botanical name",
+        "Copy the plant part",
+        "Keep form separate from plant part",
+        "Check the panel and serving size",
+        "Do not fill in missing botanical details",
+        "Use the same fields for each label",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about botanical supplement label?",
-        "How can I use botanical supplement label for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What botanical label details should I copy?",
+        "Why should plant part and form stay separate?",
+        "When should botanical label questions stay unresolved?"
       ],
       "internalLinks": [
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "how-to-read-ingredient-list",
+        "proprietary-blend-label"
       ],
       "schema": [
         "Article",
@@ -4841,44 +4998,156 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
-    }
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-polish three-AI review",
+        "gemini": "PASS post-polish three-AI review",
+        "claude": "PASS post-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished version reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Botanical labels can include several details in a small space: a name, plant part, form, amount, and serving size. If those details are mixed together too quickly, the comparison gets blurry."
+      },
+      {
+        "type": "p",
+        "text": "This article explains what to copy before comparing botanical labels. It does not rank products, recommend brands, interpret medical use, or replace guidance from a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the botanical name"
+      },
+      {
+        "type": "p",
+        "text": "FDA consumer information explains that dietary ingredients include herbs and other botanicals. FDA supplement labeling guidance says Supplement Facts must list the names and quantities of dietary ingredients present."
+      },
+      {
+        "type": "p",
+        "text": "Start by copying the botanical name exactly as shown. If the label includes a common name and another name, keep both in the note instead of choosing one."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the plant part"
+      },
+      {
+        "type": "p",
+        "text": "FDA dietary supplement labeling guidance says the part of the plant from which a dietary ingredient is derived must be included in the Supplement Facts panel for dietary supplements."
+      },
+      {
+        "type": "p",
+        "text": "Plant part should be its own field. Leaf, root, flower, seed, fruit, bark, and other plant-part words should not be blended into a general ingredient note."
+      },
+      {
+        "type": "h2",
+        "text": "Keep form separate from plant part"
+      },
+      {
+        "type": "p",
+        "text": "A label may also include form wording, such as powder, extract, oil, or another descriptor. Form is not the same as plant part."
+      },
+      {
+        "type": "p",
+        "text": "For cleaner notes, use separate fields: botanical name, plant part, form, amount, unit, serving size, and panel location. That keeps the comparison from leaning on one word too heavily."
+      },
+      {
+        "type": "h2",
+        "text": "Check the panel and serving size"
+      },
+      {
+        "type": "p",
+        "text": "FDA supplement labeling guidance says the nutrition label for a dietary supplement is called a Supplement Facts panel. The panel must list serving size and, when required, servings per container."
+      },
+      {
+        "type": "p",
+        "text": "Before comparing two botanical lines, copy the serving size. A botanical amount tied to one capsule is not the same serving basis as an amount tied to two capsules or one scoop."
+      },
+      {
+        "type": "h2",
+        "text": "Do not fill in missing botanical details"
+      },
+      {
+        "type": "p",
+        "text": "If the label does not show a detail you expected, write \"not shown\" or \"unclear\" instead of filling it in from memory. A missing detail is a comparison note, not proof of quality or fit."
+      },
+      {
+        "type": "p",
+        "text": "If a personal question depends on the botanical, plant part, amount, medication use, pregnancy, breastfeeding, allergy, surgery, or medical condition, follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "Use the same fields for each label"
+      },
+      {
+        "type": "p",
+        "text": "A simple botanical note can use the same fields every time: botanical name, plant part, form, amount with unit, serving size, and panel location. If a label includes a blend, keep the blend total separate from individual ingredient details."
+      },
+      {
+        "type": "p",
+        "text": "The point is not to make the article decide which product is better. The point is to keep label facts organized enough to compare."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Botanical labels are easier to read when botanical name, plant part, form, amount, and serving size stay in separate fields. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FDA consumer information: dietary ingredients include herbs and other botanicals.",
+      "FDA dietary supplement labeling guidance: the nutrition label for a dietary supplement is called a Supplement Facts panel.",
+      "FDA dietary supplement labeling guidance: Supplement Facts must list names and quantities of dietary ingredients present.",
+      "FDA dietary supplement labeling guidance: the part of the plant from which a dietary ingredient is derived must be included in the Supplement Facts panel for dietary supplements."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements",
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling"
+    ]
   },
   {
     "day": 35,
     "date": "2026-08-23",
     "slug": "product-comparison-notes",
-    "title": "How to Keep a Product Comparison Notes Sheet",
+    "title": "Product Comparison Notes: A Simple Sheet for Keeping Facts Straight",
     "category": "Comparison Skills",
-    "status": "draft",
-    "summary": "A neutral guide to product comparison notes so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to keep product comparison notes by separating description, package amount, label facts, total cost, reviews, terms, and open questions.",
     "seo": {
-      "seoTitle": "How to Keep a Product Comparison Notes Sheet | Daily Support Guide",
-      "metaDescription": "Use a clear product comparison notes approach to compare everyday details without brand names, hype, or product picks.",
+      "seoTitle": "Product Comparison Notes: A Simple Sheet for Keeping Facts Straight | Daily Support Guide",
+      "metaDescription": "Learn how to keep product comparison notes by separating label facts, cost, reviews, terms, and open questions without choosing winners.",
       "primaryKeyword": "product comparison notes",
       "secondaryKeywords": [
-        "product comparison notes guide",
-        "product comparison notes checklist",
-        "product comparison notes comparison"
+        "product comparison notes sheet",
+        "compare product facts",
+        "product notes template"
       ],
       "searchIntent": "informational",
-      "h1": "How to Keep a Product Comparison Notes Sheet",
+      "h1": "Product Comparison Notes: A Simple Sheet for Keeping Facts Straight",
       "h2": [
-        "Start with the facts before comparing product comparison notes",
-        "Build a side-by-side note",
-        "Common comparison mistakes",
-        "A calm takeaway"
+        "Start with one comparison question",
+        "Use fixed fields",
+        "Keep cost separate",
+        "Read reviews as supporting notes",
+        "Record terms before deciding",
+        "Leave open questions visible",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about product comparison notes?",
-        "How can I use product comparison notes for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What belongs in product comparison notes?",
+        "Why should cost and reviews stay in separate fields?",
+        "When should a product comparison question stay unresolved?"
       ],
       "internalLinks": [
         "product-comparison-checklist",
-        "compare-cost-per-serving"
+        "compare-cost-per-serving",
+        "compare-similar-products-framework"
       ],
       "schema": [
         "Article",
@@ -4892,10 +5161,120 @@
       ]
     },
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
-    }
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-polish three-AI review",
+        "gemini": "PASS post-polish three-AI review",
+        "claude": "PASS post-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished version reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
+    },
+    "body": [
+      {
+        "type": "p",
+        "text": "Product comparison notes work best when they are boring in a useful way. The same fields, used every time, keep a bright claim or one dramatic review from taking over the whole decision."
+      },
+      {
+        "type": "p",
+        "text": "This article explains a simple note sheet for comparing product information. It does not name brands, recommend products, choose winners, or replace medical, financial, or professional advice."
+      },
+      {
+        "type": "h2",
+        "text": "Start with one comparison question"
+      },
+      {
+        "type": "p",
+        "text": "Before listing details, write one question both products must answer. The question might be about package amount, label facts, total cost, return terms, or what information is missing."
+      },
+      {
+        "type": "p",
+        "text": "FTC online shopping guidance tells consumers to check sellers and products, learn total cost, read product descriptions including fine print, and read delivery, return, and refund policies. Those steps fit well into a note sheet."
+      },
+      {
+        "type": "h2",
+        "text": "Use fixed fields"
+      },
+      {
+        "type": "p",
+        "text": "Use the same fields for each item: description, package or amount, key label facts, total cost, unit price if shown, reviews, delivery terms, return terms, and open questions."
+      },
+      {
+        "type": "p",
+        "text": "Fixed fields make comparison easier because every item has to answer the same set of questions. If a field is missing, write \"not shown\" instead of filling it in."
+      },
+      {
+        "type": "h2",
+        "text": "Keep cost separate"
+      },
+      {
+        "type": "p",
+        "text": "NIST explains that unit pricing is pricing based on cost per unit of measure. Unit price may help compare value when package sizes differ, but it should stay in its own field."
+      },
+      {
+        "type": "p",
+        "text": "A low price, low unit price, or large package should not automatically become a recommendation. Keep total cost, package size, serving count, shipping fees, and unit price separate enough to see what each number measures."
+      },
+      {
+        "type": "h2",
+        "text": "Read reviews as supporting notes"
+      },
+      {
+        "type": "p",
+        "text": "FTC consumer guidance says to read reviews with a critical eye, check several sources, and avoid relying only on star ratings because some reviews and ratings can be fake or misleading."
+      },
+      {
+        "type": "p",
+        "text": "In a note sheet, reviews belong in a supporting field. Repeated comments about size, clarity, delivery, support, packaging, or mismatch with the description can be useful. One dramatic comment should not replace the label or terms."
+      },
+      {
+        "type": "h2",
+        "text": "Record terms before deciding"
+      },
+      {
+        "type": "p",
+        "text": "FTC online shopping guidance points readers to delivery, return, and refund policies. These details can change the practical comparison, especially when two items look similar."
+      },
+      {
+        "type": "p",
+        "text": "Write terms in plain fields: expected delivery, refund window, return shipping, restocking fee if shown, support route, and any limits. Do not assume two sellers or products use the same terms."
+      },
+      {
+        "type": "h2",
+        "text": "Leave open questions visible"
+      },
+      {
+        "type": "p",
+        "text": "A good note sheet does not force every comparison into a winner. If important information is missing, write the question that remains."
+      },
+      {
+        "type": "p",
+        "text": "If the comparison involves a medical condition, medication, pregnancy, allergy, surgery, eating disorder history, or personal nutrition plan, keep the question unresolved and follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Product comparison notes are useful when they keep description, package amount, label facts, total cost, reviews, terms, and open questions in separate fields. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FTC online shopping guidance: consumers should check sellers and products, learn total cost, read descriptions and fine print, and review delivery, return, and refund policies.",
+      "FTC consumer review guidance: readers should use a critical eye, check several sources, and avoid relying only on star ratings.",
+      "NIST unit pricing guidance: unit price is based on cost per unit of measure and can help consumers compare package sizes.",
+      "FTC online shopping guidance: total cost may include shipping, handling, delivery, taxes, and other fees."
+    ],
+    "sourceUrls": [
+      "https://consumer.ftc.gov/articles/online-shopping",
+      "https://consumer.ftc.gov/shopping-and-donating/shopping",
+      "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers",
+      "https://www.nist.gov/programs-projects/uniform-unit-pricing-tools-consumers-fight-shrinkflation"
+    ]
   },
   {
     "day": 36,
