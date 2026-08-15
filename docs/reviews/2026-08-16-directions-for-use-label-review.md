@@ -4,11 +4,11 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 28 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 28 passed ChatGPT, Gemini, and Claude post-polish quick re-review. It is approved for publishing.
 
-Current step: External four-AI review for one scheduled article.
+Current step: Post-polish three-AI quick re-review for one scheduled article.
 
-Distance to goal: This packet needs ChatGPT, Gemini, Claude, and Grok review. The article can only move from `internal_pass` to `approved` after all four pass or all actionable comments are resolved and resubmitted.
+Distance to goal: This packet passed ChatGPT, Gemini, and Claude post-polish quick re-review. Grok is not required for this gate.
 
 Non-drift boundaries:
 - English-first content for a U.S. audience.
@@ -25,10 +25,10 @@ Non-drift boundaries:
 - Title: Directions for Use Label: How to Read It Without Making Assumptions
 - Scheduled date: 2026-08-16
 - Category: Label Reading
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: directions for use label
-- Meta description: Learn directions for use label reading by checking product type, Supplement Facts, serving size, exact wording, and warning language.
+- Meta description: Learn directions for use label reading by checking product type, Supplement Facts, serving size, exact wording, and warnings without making assumptions.
 
 ## Source Notes
 
@@ -73,52 +73,80 @@ Do not suggest new features, brand recommendations, affiliate strategy, medical 
 
 # Directions for Use Label: How to Read It Without Making Assumptions
 
-Directions language can look simple at first, but it is easy to read more into it than the label actually says. A careful note keeps the words on the package separate from personal advice.
+Directions language can look simple, but a few words can carry more limits than they first appear to. A good note keeps the package wording separate from personal advice.
 
-This guide explains directions for use label reading in a neutral way. It does not rank products, recommend brands, tell readers what to use, or replace medical advice from a qualified professional.
+This article is about reading directions for use on labels. It does not rank products, recommend brands, tell readers what to use, or replace medical advice from a licensed professional.
 
 ## Start with the product type
 
-FDA dietary supplement labeling guidance says dietary supplements are labeled with a statement of identity, and that required label statements include the statement of identity, net quantity of contents, nutrition labeling, ingredient list, and the name and place of business of the manufacturer, packer, or distributor.
+FDA dietary supplement labeling guidance says dietary supplements are labeled with a statement of identity. Required label statements include the statement of identity, net quantity of contents, nutrition labeling, ingredient list, and the name and place of business of the manufacturer, packer, or distributor.
 
-Before reading any directions wording, identify the label type and the panel you are using. A food label, a Supplement Facts panel, and other package text do not all carry the same kind of information.
+Before reading any directions wording, identify the label type and panel you are using. A food label, a Supplement Facts panel, and nearby package text do not all carry the same kind of information.
 
 ## Keep directions separate from Supplement Facts
 
 FDA guidance says the nutrition label for a dietary supplement is called a Supplement Facts panel. The panel must list serving size, servings per container when required, and the names and quantities of dietary ingredients present.
 
-Directions wording may sit near the panel, but it is not the same as the Supplement Facts table. A calm comparison keeps these fields separate: panel type, serving size, directions wording, ingredient lines, and any other label notes.
+Directions may sit near the panel, but they are not the same as the Supplement Facts table. Keep panel type, serving size, directions wording, ingredient lines, and warning notes in separate fields.
 
 ## Use directions only to understand the label
 
 FDA supplement labeling guidance explains that one serving of a dietary supplement equals the maximum amount recommended on the label for one eating occasion, or one unit if there are no recommendations. The guidance gives an example where directions that refer to 1-3 tablets with breakfast would make the serving size 3 tablets.
 
-For this article, that point is only label-reading context. It does not tell a reader what amount is personally appropriate. It tells the reader to notice how directions wording can affect the serving size shown on the label.
+That point is label-reading information. It does not tell a reader what amount is personally appropriate. It shows why directions wording can affect the serving size shown on the panel.
 
 ## Copy the exact wording instead of summarizing
 
-Directions can include timing words, unit words, conditions, or other short phrases. If you paraphrase too quickly, you may accidentally add a meaning that is not on the label.
+Directions can include timing words, unit words, conditions, or short warning phrases. If you summarize too quickly, you may add meaning that is not on the label.
 
-A safer note copies the wording exactly enough for comparison, then places it next to serving size and servings per container. If something is unclear, write that it is unclear rather than turning it into a personal rule.
+Copy enough of the wording to compare it later, then place it next to serving size and servings per container. If something is unclear, write that it is unclear rather than turning it into a personal rule.
 
-## Do not treat directions as a safety guarantee
+## Do not treat directions as a personal fit guarantee
 
 FDA consumer information explains that FDA does not approve dietary supplements for safety and effectiveness before they are sold to the public. FDA also explains that supplement labels must provide Supplement Facts and other required label information.
 
-That means directions wording should not be treated as a promise that a product is appropriate for a particular person. Personal factors, medications, pregnancy, breastfeeding, medical conditions, allergies, or professional nutrition instructions need qualified guidance.
+Directions wording should not be treated as a promise that a product fits a particular person. Personal factors, medications, pregnancy, breastfeeding, medical conditions, allergies, and nutrition instructions need professional guidance.
 
-## Watch for words that need qualified guidance
+## Watch for words that need professional guidance
 
-Some labels include statements about age groups, timing, warnings, allergens, or asking a professional. A general article should not interpret those statements for an individual reader.
+Some labels mention age groups, timing, warnings, allergens, or asking a professional. A general article should not interpret those statements for an individual reader.
 
-If the label tells a reader to consult a qualified professional, or if the reader has personal medical, medication, pregnancy, breastfeeding, allergy, eating disorder, surgery, kidney, liver, heart, blood pressure, diabetes, anemia, digestive, or nutrition plan concerns, qualified guidance should come before a general label comparison.
+If the label says to consult a professional, or if the reader has medical, medication, pregnancy, breastfeeding, allergy, eating disorder, surgery, kidney, liver, heart, blood pressure, diabetes, anemia, digestive, or nutrition plan concerns, that guidance should come before a label comparison.
 
 ## A five-line directions note
 
 Use five fields: product type, panel type, serving size, exact directions wording, and any warning or professional-guidance wording. Keep the note factual and avoid turning it into a product score.
 
-This format is intentionally limited. It helps compare labels without making assumptions about what a reader should personally use, avoid, increase, reduce, combine, or replace.
+This small format helps compare labels without deciding what a reader should personally use, avoid, increase, reduce, combine, or replace.
 
-## A calm takeaway
+## A practical takeaway
 
-Directions for use label reading is easier when you keep the exact wording connected to product type, panel type, serving size, and warning language. Directions can explain label context, but they cannot decide what is personally right for a reader. This article is general education only and is not medical advice.
+Directions for use are easier to read when the exact wording stays connected to product type, panel type, serving size, and warnings. Directions can explain the label, but they cannot decide what fits an individual reader. This article is general education only and is not medical advice.
+
+## External Quorum Result - 2026-08-15
+
+Required quorum for this task: ChatGPT + Gemini + Claude. Grok was not used as a required gate.
+
+| Reviewer | Verdict | Required Changes |
+| --- | --- | --- |
+| ChatGPT | PASS | None |
+| Gemini | PASS | None |
+| Claude | PASS | None |
+
+Quorum status: PASS for the pre-polish draft. Superseded by post-polish quick re-review below.
+
+Version note: A human-polish pass was applied after the PASS results above to reduce repetitive AI-style phrasing. The requested quick re-review has now been completed; see the post-polish result below.
+
+Publication note: Article status was not changed to `approved` in `content/scheduled/articles.json` during this task, to avoid triggering automatic publication of due articles before user confirmation.
+
+## Post-Polish Three-AI Quick Re-Review Result - 2026-08-16
+
+Human polish requirements sent to reviewers: articles were edited to sound more human and less templated; common AI-style wording was reduced; reviewers were instructed not to add brands, recommendations, affiliate language, medical advice, product examples, anecdotes, or sales language.
+
+| Reviewer | Verdict | Required Changes |
+| --- | --- | --- |
+| ChatGPT | PASS | None |
+| Gemini | PASS | None |
+| Claude | PASS | None |
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow after these changes are committed and pushed.

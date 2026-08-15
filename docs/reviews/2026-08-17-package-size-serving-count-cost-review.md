@@ -4,11 +4,11 @@
 
 Current big goal: Daily Support Guide must reach A+ on quiz, homepage, SEO foundation, content library, trust/compliance, and HTTPS/security before Phase 7 affiliate revenue can begin.
 
-Current project state: Article 29 is drafted and internally linted. It is not approved for publishing.
+Current project state: Article 29 passed ChatGPT, Gemini, and Claude post-polish quick re-review. It is approved for publishing.
 
-Current step: External four-AI review for one scheduled article.
+Current step: Post-polish three-AI quick re-review for one scheduled article.
 
-Distance to goal: This packet needs ChatGPT, Gemini, Claude, and Grok review. The article can only move from `internal_pass` to `approved` after all four pass or all actionable comments are resolved and resubmitted.
+Distance to goal: This packet passed ChatGPT, Gemini, and Claude post-polish quick re-review. Grok is not required for this gate.
 
 Non-drift boundaries:
 - English-first content for a U.S. audience.
@@ -25,8 +25,8 @@ Non-drift boundaries:
 - Title: Package Size Serving Count: How to Compare Real Cost
 - Scheduled date: 2026-08-17
 - Category: Comparison Skills
-- Status: internal_pass
-- Approved for publishing: false
+- Status: approved
+- Approved for publishing: true
 - Primary keyword: package size serving count
 - Meta description: Learn package size serving count comparison by checking net amount, serving size, servings per container, total price, and unit price.
 
@@ -74,52 +74,80 @@ Do not suggest new features, brand recommendations, affiliate strategy, medical 
 
 # Package Size Serving Count: How to Compare Real Cost
 
-A larger package can look like a better value, and a smaller package can look easier to understand. Neither impression is enough. Package size, serving count, and unit price need to be read together.
+A larger package can look like the better deal. A smaller package can look easier to understand. Neither first impression is enough; package size, serving count, and unit price need to be read together.
 
-This guide explains package size serving count comparison in a neutral way. It does not rank products, recommend brands, tell readers what to buy, or replace medical advice from a qualified professional.
+This article explains package size and serving count comparison. It does not rank products, recommend brands, tell readers what to buy, or replace medical advice from a licensed professional.
 
 ## Start with the net amount
 
 NIST packaging and labeling information explains that consumer packages can be labeled by weight, volume, count, or measure. That net amount is the first package-size detail to copy before comparing products.
 
-Write down the amount exactly as shown, including the unit. A package may use ounces, grams, fluid ounces, liters, pieces, packets, tablets, capsules, or another count or measure. Do not compare package numbers without the unit.
+Write down the amount exactly as shown, including the unit. A package may use ounces, grams, fluid ounces, liters, pieces, packets, tablets, capsules, or another count or measure. Numbers without units are easy to misread.
 
 ## Add serving size and servings per container
 
 FDA serving-size guidance says the Nutrition Facts label shows serving size and servings per container at the top of the label. FDA also says nutrition information is usually based on one serving, though some containers may also show information per package.
 
-For a clear note, copy package size and serving count as separate fields. A package can be larger without having the same serving size as another package. A serving count can also depend on how the label defines one serving.
+Copy package size and serving count as separate fields. A package can be larger without using the same serving size as another package. Serving count also depends on how the label defines one serving.
 
 ## Remember serving size is not advice
 
-FDA says serving sizes are based on the amount people typically consume, not how much they should consume. FDA also says the serving size is not a recommendation for how much to eat or drink.
+FDA says serving sizes are based on the amount people typically consume, not how much they should consume. FDA also says serving size is not a recommendation for how much to eat or drink.
 
-That matters for cost notes because a cost per serving is not a personal instruction. It is only a way to keep one label's serving basis attached to the price information being compared.
+That matters for cost notes because cost per serving is not a personal instruction. It is only a way to attach price information to the serving basis shown on the label.
 
 ## Use unit price when it is available
 
 NIST explains that unit pricing is pricing based on the cost per unit of measure. A unit price label may show product size, total price, and price per unit, such as price per ounce, gram, liter, quart, or another measure.
 
-Unit price can make differently sized packages easier to compare, but it still needs context. Check whether the unit is the same across the labels, and keep the total package price and package size in the same note.
+Unit price can help compare packages of different sizes. Check whether the unit is the same across labels, and keep the total package price and package size in the same note.
 
 ## Separate cost per package from cost per serving
 
 Cost per package is the front price for one package. Cost per serving uses the serving count shown by the label. Unit price uses a unit of measure such as an ounce, gram, liter, or count unit.
 
-These are three different comparison views. A calm note does not choose one as the winner. It shows what each view is measuring so the reader can see where the numbers differ.
+Those are three different views. None of them needs to crown a winner. They simply show where the numbers differ.
 
 ## Watch for package-size changes
 
 NIST describes shrinkflation as a situation where consumer products are sold at the same price while contents are reduced. NIST presents unit pricing as a tool that can help compare value when package sizes differ.
 
-For this article, the safe lesson is narrow: copy the current package size, serving count, unit price if available, and total price. Do not assume that a familiar-looking package has the same amount as before.
+Keep the lesson narrow: copy the current package size, serving count, unit price if available, and total price. Do not assume that a familiar-looking package contains the same amount as before.
 
 ## A simple comparison note
 
 Use six fields: package size, unit of measure, servings per container, serving size, total package price, and unit price if shown. If unit price is not shown, write that it is not shown rather than guessing.
 
-This note supports neutral comparison without turning price, package size, or serving count into a product ranking. It also keeps cost information separate from health, nutrition, or personal use decisions.
+This note keeps price, package size, and serving count from turning into a product ranking. It also keeps cost information separate from health, nutrition, or personal use decisions.
 
-## A calm takeaway
+## A practical takeaway
 
-Package size serving count comparison is clearest when net amount, serving size, servings per container, total price, and unit price stay in separate fields. These details can describe cost context, but they cannot decide what is personally right for a reader. This article is general education only and is not medical advice.
+Package size and serving count are easiest to compare when net amount, serving size, servings per container, total price, and unit price stay in separate fields. These details describe cost, not personal fit. This article is general education only and is not medical advice.
+
+## External Quorum Result - 2026-08-15
+
+Required quorum for this task: ChatGPT + Gemini + Claude. Grok was not used as a required gate.
+
+| Reviewer | Verdict | Required Changes |
+| --- | --- | --- |
+| ChatGPT | PASS | None |
+| Gemini | PASS | None |
+| Claude | PASS | None |
+
+Quorum status: PASS for the pre-polish draft. Superseded by post-polish quick re-review below.
+
+Version note: A human-polish pass was applied after the PASS results above to reduce repetitive AI-style phrasing. The requested quick re-review has now been completed; see the post-polish result below.
+
+Publication note: Article status was not changed to `approved` in `content/scheduled/articles.json` during this task, to avoid triggering automatic publication of due articles before user confirmation.
+
+## Post-Polish Three-AI Quick Re-Review Result - 2026-08-16
+
+Human polish requirements sent to reviewers: articles were edited to sound more human and less templated; common AI-style wording was reduced; reviewers were instructed not to add brands, recommendations, affiliate language, medical advice, product examples, anecdotes, or sales language.
+
+| Reviewer | Verdict | Required Changes |
+| --- | --- | --- |
+| ChatGPT | PASS | None |
+| Gemini | PASS | None |
+| Claude | PASS | None |
+
+Final status: approved for publishing. Publication remains controlled by the scheduled GitHub Actions workflow after these changes are committed and pushed.
