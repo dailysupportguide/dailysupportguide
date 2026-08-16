@@ -4062,35 +4062,35 @@ window.DSG_CONTENT = {
       "date": "2026-09-03",
       "title": "How to Read a Product Page Without Looking for a Winner",
       "category": "Comparison Skills",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 47,
       "date": "2026-09-04",
       "title": "How to Compare Similar Categories Without Making Health Claims",
       "category": "Comparison Skills",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 48,
       "date": "2026-09-05",
       "title": "How to Keep Product Notes Neutral and Useful",
       "category": "Comparison Skills",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 49,
       "date": "2026-09-06",
       "title": "How to Revisit a Routine After Two Weeks",
       "category": "Routine Guides",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 50,
       "date": "2026-09-07",
       "title": "A 10-Minute Review for Everyday Label Confidence",
       "category": "Routine Guides",
-      "status": "draft"
+      "status": "approved"
     }
   ]
 };
