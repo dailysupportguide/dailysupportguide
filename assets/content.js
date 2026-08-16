@@ -1,6 +1,473 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "directions-for-use-label",
+      "date": "2026-08-16",
+      "category": "Label Reading",
+      "title": "Directions for Use Label: How to Read It Without Making Assumptions",
+      "summary": "Read directions for use label wording by separating product type, Supplement Facts, serving size, exact directions, and warning language.",
+      "seo": {
+        "seoTitle": "Directions for Use Label: How to Read It Without Making Assumptions | Daily Support Guide",
+        "metaDescription": "Learn directions for use label reading by checking product type, Supplement Facts, serving size, exact wording, and warnings without making assumptions.",
+        "primaryKeyword": "directions for use label",
+        "secondaryKeywords": [
+          "directions for use label guide",
+          "supplement label directions",
+          "serving size directions label"
+        ],
+        "searchIntent": "informational",
+        "h1": "Directions for Use Label: How to Read It Without Making Assumptions",
+        "h2": [
+          "Start with the product type",
+          "Keep directions separate from Supplement Facts",
+          "Use directions only to understand the label",
+          "Copy the exact wording instead of summarizing",
+          "Do not treat directions as a personal fit guarantee",
+          "Watch for words that need professional guidance",
+          "A five-line directions note",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What should I notice on a directions for use label?",
+          "Why should directions stay separate from Supplement Facts?",
+          "When should I follow professional guidance instead of a general label article?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "percent-daily-value-meaning",
+          "other-ingredients-supplement-facts"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Directions language can look simple, but a few words can carry more limits than they first appear to. A good note keeps the package wording separate from personal advice."
+        },
+        {
+          "type": "p",
+          "text": "This article is about reading directions for use on labels. It does not rank products, recommend brands, tell readers what to use, or replace medical advice from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the product type"
+        },
+        {
+          "type": "p",
+          "text": "FDA dietary supplement labeling guidance says dietary supplements are labeled with a statement of identity. Required label statements include the statement of identity, net quantity of contents, nutrition labeling, ingredient list, and the name and place of business of the manufacturer, packer, or distributor."
+        },
+        {
+          "type": "p",
+          "text": "Before reading any directions wording, identify the label type and panel you are using. A food label, a Supplement Facts panel, and nearby package text do not all carry the same kind of information."
+        },
+        {
+          "type": "h2",
+          "text": "Keep directions separate from Supplement Facts"
+        },
+        {
+          "type": "p",
+          "text": "FDA guidance says the nutrition label for a dietary supplement is called a Supplement Facts panel. The panel must list serving size, servings per container when required, and the names and quantities of dietary ingredients present."
+        },
+        {
+          "type": "p",
+          "text": "Directions may sit near the panel, but they are not the same as the Supplement Facts table. Keep panel type, serving size, directions wording, ingredient lines, and warning notes in separate fields."
+        },
+        {
+          "type": "h2",
+          "text": "Use directions only to understand the label"
+        },
+        {
+          "type": "p",
+          "text": "FDA supplement labeling guidance explains that one serving of a dietary supplement equals the maximum amount recommended on the label for one eating occasion, or one unit if there are no recommendations. The guidance gives an example where directions that refer to 1-3 tablets with breakfast would make the serving size 3 tablets."
+        },
+        {
+          "type": "p",
+          "text": "That point is label-reading information. It does not tell a reader what amount is personally appropriate. It shows why directions wording can affect the serving size shown on the panel."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the exact wording instead of summarizing"
+        },
+        {
+          "type": "p",
+          "text": "Directions can include timing words, unit words, conditions, or short warning phrases. If you summarize too quickly, you may add meaning that is not on the label."
+        },
+        {
+          "type": "p",
+          "text": "Copy enough of the wording to compare it later, then place it next to serving size and servings per container. If something is unclear, write that it is unclear rather than turning it into a personal rule."
+        },
+        {
+          "type": "h2",
+          "text": "Do not treat directions as a personal fit guarantee"
+        },
+        {
+          "type": "p",
+          "text": "FDA consumer information explains that FDA does not approve dietary supplements for safety and effectiveness before they are sold to the public. FDA also explains that supplement labels must provide Supplement Facts and other required label information."
+        },
+        {
+          "type": "p",
+          "text": "Directions wording should not be treated as a promise that a product fits a particular person. Personal factors, medications, pregnancy, breastfeeding, medical conditions, allergies, and nutrition instructions need professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "Watch for words that need professional guidance"
+        },
+        {
+          "type": "p",
+          "text": "Some labels mention age groups, timing, warnings, allergens, or asking a professional. A general article should not interpret those statements for an individual reader."
+        },
+        {
+          "type": "p",
+          "text": "If the label says to consult a professional, or if the reader has medical, medication, pregnancy, breastfeeding, allergy, eating disorder, surgery, kidney, liver, heart, blood pressure, diabetes, anemia, digestive, or nutrition plan concerns, that guidance should come before a label comparison."
+        },
+        {
+          "type": "h2",
+          "text": "A five-line directions note"
+        },
+        {
+          "type": "p",
+          "text": "Use five fields: product type, panel type, serving size, exact directions wording, and any warning or professional-guidance wording. Keep the note factual and avoid turning it into a product score."
+        },
+        {
+          "type": "p",
+          "text": "This small format helps compare labels without deciding what a reader should personally use, avoid, increase, reduce, combine, or replace."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Directions for use are easier to read when the exact wording stays connected to product type, panel type, serving size, and warnings. Directions can explain the label, but they cannot decide what fits an individual reader. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "percent-daily-value-meaning",
+      "date": "2026-08-15",
+      "category": "Label Reading",
+      "title": "Percent Daily Value Meaning: What It Can and Cannot Tell You",
+      "summary": "Read percent Daily Value by tying it to the nutrient name, serving size, amount, unit, and panel type instead of treating the percentage as personal advice.",
+      "seo": {
+        "seoTitle": "Percent Daily Value Meaning: What It Can and Cannot Tell You | Daily Support Guide",
+        "metaDescription": "Learn percent daily value meaning by checking serving size, nutrient name, amount, unit, and panel type before comparing label percentages.",
+        "primaryKeyword": "percent daily value meaning",
+        "secondaryKeywords": [
+          "percent daily value meaning guide",
+          "percent daily value label",
+          "daily value vs percent daily value"
+        ],
+        "searchIntent": "informational",
+        "h1": "Percent Daily Value Meaning: What It Can and Cannot Tell You",
+        "h2": [
+          "Start with what percent Daily Value means",
+          "Keep the number attached to serving size",
+          "Use the low and high guide carefully",
+          "Notice when a Daily Value exists",
+          "Do not compare percentages without the nutrient name",
+          "Keep label facts separate from personal decisions",
+          "A simple percent Daily Value note",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What does percent Daily Value mean on a label?",
+          "Why should serving size stay with percent Daily Value?",
+          "When should I follow professional guidance instead of a general label article?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "compare-vitamin-labels",
+          "how-to-read-ingredient-list"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Percent Daily Value can make a label easier to read. It can also make the label feel more decisive than it really is. The number works best when it stays attached to one serving, one nutrient, and one panel."
+        },
+        {
+          "type": "p",
+          "text": "This article explains percent daily value meaning for label reading. It does not rank products, recommend brands, set personal goals, or replace medical advice from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with what percent Daily Value means"
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that Daily Values are recommended amounts of nutrients to consume or not exceed each day. FDA also explains that percent Daily Value shows how much a nutrient in one serving of a packaged food or dietary supplement contributes to the daily diet."
+        },
+        {
+          "type": "p",
+          "text": "That makes percent Daily Value a label number, not a personal rule. It can help you understand a nutrient line, but it does not finish the comparison by itself."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the number attached to serving size"
+        },
+        {
+          "type": "p",
+          "text": "FDA Nutrition Facts guidance tells readers to start with servings per container and serving size. FDA also says serving size is not a recommendation for how much to eat or drink."
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size before copying percent Daily Value. A percentage on a one-cup serving and a percentage on a two-piece serving are not describing the same setup."
+        },
+        {
+          "type": "h2",
+          "text": "Use the low and high guide carefully"
+        },
+        {
+          "type": "p",
+          "text": "FDA says 5% Daily Value or less per serving is considered low, and 20% Daily Value or more per serving is considered high. This is a general label-reading guide."
+        },
+        {
+          "type": "p",
+          "text": "Low and high can help you read the scale. They do not decide what a person should use, avoid, increase, or reduce."
+        },
+        {
+          "type": "h2",
+          "text": "Notice when a Daily Value exists"
+        },
+        {
+          "type": "p",
+          "text": "FDA provides a Daily Value reference guide for nutrients on Nutrition Facts and Supplement Facts labels. Some nutrient lines have an established Daily Value and can show percent Daily Value. Other label details may use a different format."
+        },
+        {
+          "type": "p",
+          "text": "If a label does not show percent Daily Value for a line you expected, do not fill in the blank from memory. Write what the label lists, what it does not list, and whether the line uses an amount, a percentage, a footnote, or another format."
+        },
+        {
+          "type": "h2",
+          "text": "Do not compare percentages without the nutrient name"
+        },
+        {
+          "type": "p",
+          "text": "A 20% Daily Value line for one nutrient is not the same information as a 20% Daily Value line for another nutrient. FDA's Daily Value reference guide includes nutrients with different units and reference amounts."
+        },
+        {
+          "type": "p",
+          "text": "When you take notes, keep nutrient name, amount, unit, percent Daily Value, and serving size together. That prevents the percentage from floating away from the detail it is meant to explain."
+        },
+        {
+          "type": "h2",
+          "text": "Keep label facts separate from personal decisions"
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value can help compare label information, but it does not know a reader's age, medical history, medications, pregnancy or breastfeeding status, eating pattern, allergies, or care plan."
+        },
+        {
+          "type": "p",
+          "text": "If a licensed professional has given you guidance about sodium, added sugars, fiber, vitamin D, calcium, iron, potassium, supplements, a medical condition, or a nutrition plan, follow that guidance instead of a general label article."
+        },
+        {
+          "type": "h2",
+          "text": "A simple percent Daily Value note"
+        },
+        {
+          "type": "p",
+          "text": "Use five fields: nutrient name, amount with unit, percent Daily Value, serving size, and panel type. If the label includes a footnote or leaves the percentage blank, write that down without guessing."
+        },
+        {
+          "type": "p",
+          "text": "The point is not to score the product. The point is to keep the label facts in the same place so the comparison stays readable."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value is most useful when it stays tied to nutrient name, serving size, amount, unit, and panel type. It can explain a label line, but it cannot decide what is right for an individual reader. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "compare-vitamin-labels",
+      "date": "2026-08-14",
+      "category": "Label Reading",
+      "title": "How to Read Vitamin Label Daily Value Without Chasing Big Numbers",
+      "summary": "Read vitamin label Daily Value by checking the panel type, serving size, vitamin name, amount, unit, and percent Daily Value before reacting to big numbers.",
+      "seo": {
+        "seoTitle": "How to Read Vitamin Label Daily Value Without Chasing Big Numbers | Daily Support Guide",
+        "metaDescription": "Learn vitamin label daily value by checking panel type, serving size, vitamin name, amount, unit, and percent Daily Value before comparing labels.",
+        "primaryKeyword": "vitamin label daily value",
+        "secondaryKeywords": [
+          "vitamin label daily value guide",
+          "compare vitamin labels",
+          "vitamin supplement facts label"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Read Vitamin Label Daily Value Without Chasing Big Numbers",
+        "h2": [
+          "Start with the panel type",
+          "Use percent Daily Value as a label clue",
+          "Remember the low and high guide",
+          "Check serving size before comparing numbers",
+          "Notice which vitamins must appear",
+          "Keep units with the vitamin name",
+          "Do not chase the biggest number",
+          "A five-line vitamin label note",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I read vitamin label daily value?",
+          "Why should I keep units with vitamin label numbers?",
+          "When should I follow professional guidance instead of a general vitamin label article?"
+        ],
+        "internalLinks": [
+          "percent-daily-value-meaning",
+          "serving-size-vs-servings-per-container",
+          "elemental-mineral-labels",
+          "compare-two-labels"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Vitamin labels can make large numbers feel persuasive. A high percent Daily Value may catch your eye first, but the better first question is plain: what vitamin, what serving, and what unit is this number describing?"
+        },
+        {
+          "type": "p",
+          "text": "This article is for label reading only. It does not rank brands, recommend products, set personal amounts, or replace medical advice from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the panel type"
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that packaged foods use a Nutrition Facts label, while dietary supplements use a Supplement Facts panel. The Supplement Facts panel must list the names and quantities of dietary ingredients present, plus serving size and, when required, servings per container."
+        },
+        {
+          "type": "p",
+          "text": "Before comparing vitamin numbers, note which panel you are reading. A food and a supplement can both list vitamins, but the panel type and serving size tell you what the numbers belong to."
+        },
+        {
+          "type": "h2",
+          "text": "Use percent Daily Value as a label clue"
+        },
+        {
+          "type": "p",
+          "text": "FDA says the Daily Value is the recommended amount of a nutrient to consume or not exceed each day. Percent Daily Value shows how much one serving of a packaged food or dietary supplement contributes to the daily diet."
+        },
+        {
+          "type": "p",
+          "text": "So the percentage is useful, but it is not a personal instruction. If a line shows 25%, 100%, or more, connect it back to the vitamin name, amount, unit, and serving size before deciding what the number means on that label."
+        },
+        {
+          "type": "h2",
+          "text": "Remember the low and high guide"
+        },
+        {
+          "type": "p",
+          "text": "FDA says 5% Daily Value or less per serving is considered low, and 20% Daily Value or more per serving is considered high. FDA presents this as a general label-reading guide."
+        },
+        {
+          "type": "p",
+          "text": "That guide can help you read the scale. It still does not decide what you need. A high number is one piece of label information, not a shortcut to a product choice."
+        },
+        {
+          "type": "h2",
+          "text": "Check serving size before comparing numbers"
+        },
+        {
+          "type": "p",
+          "text": "FDA Nutrition Facts guidance says to first look at servings per container and serving size, and that serving size is not a recommendation for how much to eat or drink. FDA supplement labeling guidance says one serving of a dietary supplement equals the maximum amount recommended on the label for one eating occasion, or one unit if no recommendation appears."
+        },
+        {
+          "type": "p",
+          "text": "If one label uses one tablet and another uses two capsules, the vitamin numbers are not shown on the same basis. Copy the serving size before comparing either the amount or the percent Daily Value."
+        },
+        {
+          "type": "h2",
+          "text": "Notice which vitamins must appear"
+        },
+        {
+          "type": "p",
+          "text": "FDA says vitamin D must be listed on the Nutrition Facts label. Other vitamins may be listed voluntarily unless they are added to the food or a statement is made about them. FDA supplement labeling guidance says dietary supplements list dietary ingredients present in the product."
+        },
+        {
+          "type": "p",
+          "text": "A missing vitamin line is not a broad statement about the whole food or supplement. It may reflect labeling rules, the product type, or what is present and declared on that panel."
+        },
+        {
+          "type": "h2",
+          "text": "Keep units with the vitamin name"
+        },
+        {
+          "type": "p",
+          "text": "FDA's Daily Value reference guide lists vitamin Daily Values with units such as milligrams, micrograms, milligrams NE, micrograms DFE, and micrograms RAE. FDA supplement labeling guidance says vitamin and mineral amounts should use the units specified for Daily Values."
+        },
+        {
+          "type": "p",
+          "text": "Keep the unit next to the vitamin name in your notes. Vitamin C, vitamin D, folate, niacin, and vitamin A may use different units, so bare numbers can mislead."
+        },
+        {
+          "type": "h2",
+          "text": "Do not chase the biggest number"
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that percent Daily Value can show whether a serving is high or low in a nutrient, and that Daily Values are tied to daily diet references. A bigger percentage is not a general instruction to choose that product or use more of it."
+        },
+        {
+          "type": "p",
+          "text": "If a professional has given you vitamin guidance because of pregnancy, breastfeeding, medications, surgery, kidney or liver concerns, anemia, bone health, digestion, or another personal factor, follow that advice."
+        },
+        {
+          "type": "h2",
+          "text": "A five-line vitamin label note"
+        },
+        {
+          "type": "p",
+          "text": "Use five lines: panel type, serving size, vitamin name, amount with unit, and percent Daily Value. If the label includes a footnote or form name, keep it as a separate note instead of turning it into a ranking."
+        },
+        {
+          "type": "p",
+          "text": "If you have personal pregnancy, breastfeeding, medication, surgery, kidney, liver, anemia, bone, thyroid, digestive, eating disorder, or medical nutrition guidance, use that guidance instead of a general article."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Vitamin labels are easier to compare when you start with the panel, check serving size, keep units attached, and treat percent Daily Value as one label clue. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "elemental-mineral-labels",
       "date": "2026-08-13",
       "category": "Label Reading",
@@ -3455,140 +3922,140 @@ window.DSG_CONTENT = {
       "date": "2026-08-14",
       "title": "How to Compare Vitamin Labels Without Chasing Big Numbers",
       "category": "Label Reading",
-      "status": "internal_pass"
+      "status": "published"
     },
     {
       "day": 27,
       "date": "2026-08-15",
       "title": "What Percent Daily Value Can and Cannot Tell You",
       "category": "Label Reading",
-      "status": "internal_pass"
+      "status": "published"
     },
     {
       "day": 28,
       "date": "2026-08-16",
       "title": "How to Read Directions for Use Without Making Assumptions",
       "category": "Label Reading",
-      "status": "internal_pass"
+      "status": "published"
     },
     {
       "day": 29,
       "date": "2026-08-17",
       "title": "How to Compare Package Size, Serving Count, and Real Cost",
       "category": "Comparison Skills",
-      "status": "internal_pass"
+      "status": "approved"
     },
     {
       "day": 30,
       "date": "2026-08-18",
       "title": "A Simple Framework for Comparing Similar Products",
       "category": "Comparison Skills",
-      "status": "internal_pass"
+      "status": "approved"
     },
     {
       "day": 31,
       "date": "2026-08-19",
       "title": "How to Notice Marketing Claims Without Letting Them Lead",
       "category": "Comparison Skills",
-      "status": "internal_pass"
+      "status": "approved"
     },
     {
       "day": 32,
       "date": "2026-08-20",
       "title": "How to Read Structure and Function Language Carefully",
       "category": "Label Reading",
-      "status": "internal_pass"
+      "status": "approved"
     },
     {
       "day": 33,
       "date": "2026-08-21",
       "title": "How to Compare Products When One Uses a Blend",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 34,
       "date": "2026-08-22",
       "title": "How to Compare Botanical Labels by Plant Part and Form",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 35,
       "date": "2026-08-23",
       "title": "How to Keep a Product Comparison Notes Sheet",
       "category": "Comparison Skills",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 36,
       "date": "2026-08-24",
       "title": "How to Decide What Information Is Missing from a Label",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 37,
       "date": "2026-08-25",
       "title": "How to Compare Powder Scoops Without Guessing",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 38,
       "date": "2026-08-26",
       "title": "How to Compare Gummies by Serving and Added Sugar",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 39,
       "date": "2026-08-27",
       "title": "How to Compare Capsules by Count and Serving Size",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 40,
       "date": "2026-08-28",
       "title": "How to Build a Low-Friction Weekly Label Review Habit",
       "category": "Routine Guides",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 41,
       "date": "2026-08-29",
       "title": "How to Compare Daily Drinks by Caffeine and Serving",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 42,
       "date": "2026-08-30",
       "title": "How to Organize a Pantry Shelf for Easier Choices",
       "category": "Routine Guides",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 43,
       "date": "2026-08-31",
       "title": "How to Compare Breakfast Options Without a Diet Plan",
       "category": "Comparison Skills",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 44,
       "date": "2026-09-01",
       "title": "How to Read Claims Like Natural, Clean, and Whole Food",
       "category": "Label Reading",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 45,
       "date": "2026-09-02",
       "title": "How to Compare Labels When You Have a Dietary Preference",
       "category": "Comparison Skills",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "day": 46,
