@@ -5280,36 +5280,39 @@
     "day": 36,
     "date": "2026-08-24",
     "slug": "missing-information-on-label",
-    "title": "How to Decide What Information Is Missing from a Label",
+    "title": "Missing Information on a Label: How to Notice What Is Not Shown",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to missing information on label so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to spot missing information on a label by checking serving details, panel facts, directions, terms, and open questions without guessing.",
     "seo": {
-      "seoTitle": "How to Decide What Information Is Missing from a Label | Daily Support Guide",
-      "metaDescription": "Learn missing information on label in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "seoTitle": "Missing Information on a Label: How to Notice What Is Not Shown | Daily Support Guide",
+      "metaDescription": "Learn how to spot missing information on a label by checking serving details, panel facts, directions, terms, and open questions.",
       "primaryKeyword": "missing information on label",
       "secondaryKeywords": [
-        "missing information on label guide",
-        "missing information on label checklist",
-        "missing information on label comparison"
+        "missing label information",
+        "label reading checklist",
+        "product label details"
       ],
       "searchIntent": "informational",
-      "h1": "How to Decide What Information Is Missing from a Label",
+      "h1": "Missing Information on a Label: How to Notice What Is Not Shown",
       "h2": [
-        "What missing information on label means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
-        "A calm takeaway"
+        "Start with the fields that should be easy to find",
+        "Check the panel before the front claim",
+        "Write missing details plainly",
+        "Separate unclear wording from missing facts",
+        "Do not fill gaps with assumptions",
+        "Keep personal questions out of the label note",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about missing information on label?",
-        "How can I use missing information on label for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "What missing information on a label should I notice?",
+        "Why should missing details be written plainly?",
+        "When should a label question stay unresolved?"
       ],
       "internalLinks": [
+        "read-marketing-claims-on-labels",
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "product-comparison-notes"
       ],
       "schema": [
         "Article",
@@ -5322,46 +5325,159 @@
         "No diagnosis, treatment, dosage, cure, or prevention claims"
       ]
     },
+    "body": [
+      {
+        "type": "p",
+        "text": "A label can look complete at a glance and still leave a reader with unanswered questions. The issue is not always a problem. Sometimes the detail is elsewhere on the package, on a product page, or outside what the label is meant to answer."
+      },
+      {
+        "type": "p",
+        "text": "This article is about noticing missing information on a label. It does not name brands, score products, recommend a choice, or turn missing details into medical advice."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the fields that should be easy to find"
+      },
+      {
+        "type": "p",
+        "text": "Begin with basic fields: product description, net amount, serving size, servings per container, Nutrition Facts or Supplement Facts, ingredient list, directions, warnings, and any terms that affect the comparison."
+      },
+      {
+        "type": "p",
+        "text": "If one of those fields is not visible in the material you are reading, write that down before interpreting the product. A short note such as \"serving basis not shown\" is more useful than a guess."
+      },
+      {
+        "type": "h2",
+        "text": "Check the panel before the front claim"
+      },
+      {
+        "type": "p",
+        "text": "FDA consumer information describes the Nutrition Facts label as a place to review details such as serving size and listed nutrients. FDA supplement labeling guidance says Supplement Facts must list names and quantities of dietary ingredients, serving size, and servings per container when required."
+      },
+      {
+        "type": "p",
+        "text": "That makes the panel a good second stop after the front claim. The front may explain what the seller wants noticed first; the panel shows the structured facts that are easier to compare."
+      },
+      {
+        "type": "h2",
+        "text": "Write missing details plainly"
+      },
+      {
+        "type": "p",
+        "text": "Use plain labels in your notes: \"not shown,\" \"not visible in photo,\" \"serving size unclear,\" \"amount not listed,\" or \"terms not found.\" These phrases keep the gap visible without making it sound more serious than it is."
+      },
+      {
+        "type": "p",
+        "text": "Avoid writing conclusions such as \"bad label\" or \"better product\" from one missing field. The missing field is a fact about the information available, not a complete product judgment."
+      },
+      {
+        "type": "h2",
+        "text": "Separate unclear wording from missing facts"
+      },
+      {
+        "type": "p",
+        "text": "Unclear wording and missing facts are not the same. A claim may be present but vague. A serving size may be present but hard to compare. A return policy may exist but use terms that need a closer read."
+      },
+      {
+        "type": "p",
+        "text": "FTC online shopping guidance tells consumers to read product descriptions, fine print, total cost, delivery terms, returns, and refunds. Those fields belong in the note sheet when the comparison depends on them."
+      },
+      {
+        "type": "h2",
+        "text": "Do not fill gaps with assumptions"
+      },
+      {
+        "type": "p",
+        "text": "A reader may know what a similar label often shows, but that does not mean this label shows it. Keep outside memory out of the fact column."
+      },
+      {
+        "type": "p",
+        "text": "If the amount, serving basis, plant part, ingredient form, added sugar line, or warning language is missing from the material at hand, the clean note is that it is not shown there."
+      },
+      {
+        "type": "h2",
+        "text": "Keep personal questions out of the label note"
+      },
+      {
+        "type": "p",
+        "text": "Some missing details matter more when a person has allergies, medication use, pregnancy, breastfeeding, surgery, a medical condition, or a personal nutrition plan. Those questions should stay separate from the label-reading note."
+      },
+      {
+        "type": "p",
+        "text": "A general article can help organize what is visible. It should not decide whether missing information makes something appropriate for a specific person."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Missing information on a label is easiest to handle when you name the missing field, keep it separate from unclear wording, and avoid filling the gap yourself. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FDA Nutrition Facts information: readers can use label details such as serving size and listed nutrients to understand what one serving provides.",
+      "FDA dietary supplement labeling guidance: Supplement Facts must list names and quantities of dietary ingredients, serving size, and servings per container when required.",
+      "FTC online shopping guidance: readers should read full product descriptions, fine print, total cost, delivery terms, return terms, and refund policies.",
+      "FTC advertising guidance: important qualifying information should be clear enough for consumers to notice and understand."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-education-resources-materials/nutrition-facts-label",
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling",
+      "https://consumer.ftc.gov/articles/online-shopping",
+      "https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business"
+    ],
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-draft human-polish three-AI review",
+        "gemini": "PASS post-draft human-polish three-AI review",
+        "claude": "PASS post-draft human-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished draft reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     }
   },
   {
     "day": 37,
     "date": "2026-08-25",
     "slug": "powder-scoop-serving-size",
-    "title": "How to Compare Powder Scoops Without Guessing",
+    "title": "Powder Scoop Serving Size: How to Compare Without Guessing",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to powder scoop serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to read powder scoop serving size by separating scoop wording, grams, servings per container, directions, and open questions.",
     "seo": {
-      "seoTitle": "How to Compare Powder Scoops Without Guessing | Daily Support Guide",
-      "metaDescription": "Learn powder scoop serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
+      "seoTitle": "Powder Scoop Serving Size: How to Compare Without Guessing | Daily Support Guide",
+      "metaDescription": "Learn how to read powder scoop serving size by separating scoop wording, grams, servings per container, directions, and unclear details.",
       "primaryKeyword": "powder scoop serving size",
       "secondaryKeywords": [
-        "powder scoop serving size guide",
-        "powder scoop serving size checklist",
-        "powder scoop serving size comparison"
+        "powder serving size",
+        "scoop size label",
+        "servings per container powder"
       ],
       "searchIntent": "informational",
-      "h1": "How to Compare Powder Scoops Without Guessing",
+      "h1": "Powder Scoop Serving Size: How to Compare Without Guessing",
       "h2": [
-        "What powder scoop serving size means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
-        "A calm takeaway"
+        "Copy the serving size exactly",
+        "Look for the weight beside the household measure",
+        "Keep directions separate from panel facts",
+        "Compare servings per container carefully",
+        "Notice scoop details that are not shown",
+        "Leave personal fit out of the comparison",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about powder scoop serving size?",
-        "How can I use powder scoop serving size for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "How should I read powder scoop serving size?",
+        "Why should scoop wording and grams stay together?",
+        "When should powder serving questions stay unresolved?"
       ],
       "internalLinks": [
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "directions-for-use-label",
+        "product-comparison-notes"
       ],
       "schema": [
         "Article",
@@ -5374,46 +5490,159 @@
         "No diagnosis, treatment, dosage, cure, or prevention claims"
       ]
     },
+    "body": [
+      {
+        "type": "p",
+        "text": "Powder scoop serving size can be tricky because the label may use a household measure, a scoop count, a weight, or more than one of those details. If the pieces get blended together, the comparison starts to depend on guesswork."
+      },
+      {
+        "type": "p",
+        "text": "This article explains how to read powder serving details. It does not recommend products, amounts, routines, or medical use."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the serving size exactly"
+      },
+      {
+        "type": "p",
+        "text": "Start with the serving size line. Copy it as written, including scoop count, household measure, grams, or any other unit shown near the serving size."
+      },
+      {
+        "type": "p",
+        "text": "FDA dietary supplement labeling guidance says Supplement Facts must list serving size and servings per container when required. That serving size is the base for the amounts listed in the panel."
+      },
+      {
+        "type": "h2",
+        "text": "Look for the weight beside the household measure"
+      },
+      {
+        "type": "p",
+        "text": "For powders, a household measure alone may not be enough for a clean comparison. If the label gives a scoop and a gram amount, keep both together in the same field."
+      },
+      {
+        "type": "p",
+        "text": "Do not assume two scoops are the same size across different labels. A scoop is a package tool; the label facts still need the stated serving basis."
+      },
+      {
+        "type": "h2",
+        "text": "Keep directions separate from panel facts"
+      },
+      {
+        "type": "p",
+        "text": "Directions may tell a reader how the product page says to mix or prepare something. The Supplement Facts panel tells what the listed serving contains."
+      },
+      {
+        "type": "p",
+        "text": "Those two areas can sit near each other, but they should not be merged in a comparison note. Copy serving size, directions wording, and warning language into separate fields."
+      },
+      {
+        "type": "h2",
+        "text": "Compare servings per container carefully"
+      },
+      {
+        "type": "p",
+        "text": "A container with more powder does not automatically have more servings. Serving size and servings per container must be read together."
+      },
+      {
+        "type": "p",
+        "text": "When one label uses one scoop and another uses two scoops, compare on the serving basis shown, not on scoop count alone."
+      },
+      {
+        "type": "h2",
+        "text": "Notice scoop details that are not shown"
+      },
+      {
+        "type": "p",
+        "text": "Sometimes a product page photo does not show the scoop size, gram weight, servings per container, or full directions. Write the missing field plainly instead of estimating."
+      },
+      {
+        "type": "p",
+        "text": "A note such as \"gram amount not visible\" or \"servings per container not shown in photo\" keeps the gap from becoming a made-up fact."
+      },
+      {
+        "type": "h2",
+        "text": "Leave personal fit out of the comparison"
+      },
+      {
+        "type": "p",
+        "text": "Powder serving details may connect to medication use, pregnancy, breastfeeding, allergies, surgery, a medical condition, or a personal nutrition plan. Those questions do not belong in a general comparison rule."
+      },
+      {
+        "type": "p",
+        "text": "For personal use questions, follow licensed professional guidance rather than using scoop size as a decision shortcut."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Powder scoop serving size is easier to compare when scoop wording, gram weight, servings per container, directions, and missing fields stay separate. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FDA dietary supplement labeling guidance: Supplement Facts must list serving size and servings per container when required.",
+      "21 CFR 101.36: serving size for dietary supplements should use a term appropriate to the form, such as tablets, capsules, packets, or teaspoonfuls.",
+      "FDA Nutrition Facts guidance: serving information should be read as the basis for the listed amounts.",
+      "FTC online shopping guidance: readers should read product descriptions and fine print before relying on a comparison."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-C/section-101.36",
+      "https://www.fda.gov/food/nutrition-facts-label/serving-size-nutrition-facts-label",
+      "https://consumer.ftc.gov/articles/online-shopping"
+    ],
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-draft human-polish three-AI review",
+        "gemini": "PASS post-draft human-polish three-AI review",
+        "claude": "PASS post-draft human-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished draft reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     }
   },
   {
     "day": 38,
     "date": "2026-08-26",
     "slug": "gummy-serving-size-added-sugar",
-    "title": "How to Compare Gummies by Serving and Added Sugar",
+    "title": "Gummy Serving Size and Added Sugar: What to Check Before Comparing",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to gummy serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to compare gummy serving size and added sugar by checking serving count, total sugars, added sugars, Daily Value, and open questions.",
     "seo": {
-      "seoTitle": "How to Compare Gummies by Serving and Added Sugar | Daily Support Guide",
-      "metaDescription": "Learn gummy serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
-      "primaryKeyword": "gummy serving size",
+      "seoTitle": "Gummy Serving Size and Added Sugar: What to Check Before Comparing | Daily Support Guide",
+      "metaDescription": "Learn how to compare gummy serving size and added sugar by checking serving count, total sugars, added sugars, Daily Value, and open questions.",
+      "primaryKeyword": "gummy serving size added sugar",
       "secondaryKeywords": [
-        "gummy serving size guide",
-        "gummy serving size checklist",
-        "gummy serving size comparison"
+        "gummy serving size",
+        "added sugar label",
+        "gummy label comparison"
       ],
       "searchIntent": "informational",
-      "h1": "How to Compare Gummies by Serving and Added Sugar",
+      "h1": "Gummy Serving Size and Added Sugar: What to Check Before Comparing",
       "h2": [
-        "What gummy serving size means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
-        "A calm takeaway"
+        "Start with the serving size",
+        "Keep total sugars and added sugars separate",
+        "Read percent Daily Value on the same serving basis",
+        "Check serving count before comparing containers",
+        "Do not turn sugar numbers into product advice",
+        "Write open questions instead of guessing",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about gummy serving size?",
-        "How can I use gummy serving size for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "How should I compare gummy serving size and added sugar?",
+        "Why should total sugars and added sugars stay separate?",
+        "When should gummy label questions stay unresolved?"
       ],
       "internalLinks": [
         "serving-size-vs-servings-per-container",
         "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "compare-vitamin-labels"
       ],
       "schema": [
         "Article",
@@ -5426,46 +5655,159 @@
         "No diagnosis, treatment, dosage, cure, or prevention claims"
       ]
     },
+    "body": [
+      {
+        "type": "p",
+        "text": "Gummy labels can look simple because the serving is often counted in pieces. The comparison still needs care, especially when sugar lines and serving count are part of the decision."
+      },
+      {
+        "type": "p",
+        "text": "This article is about reading gummy serving size and added sugar label facts. It does not recommend products, set limits for a person, or give medical advice."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the serving size"
+      },
+      {
+        "type": "p",
+        "text": "Copy the serving size exactly. If the label says one piece, two pieces, or another count, keep that serving count attached to every amount that follows."
+      },
+      {
+        "type": "p",
+        "text": "FDA supplement labeling guidance says Supplement Facts must list serving size and servings per container when required. The serving size is the basis for the listed amounts."
+      },
+      {
+        "type": "h2",
+        "text": "Keep total sugars and added sugars separate"
+      },
+      {
+        "type": "p",
+        "text": "FDA explains that Added Sugars on the Nutrition Facts label are shown in grams and percent Daily Value for one serving. Total sugars and added sugars are related, but they are not the same line."
+      },
+      {
+        "type": "p",
+        "text": "In a note sheet, use separate fields: serving size, total sugars, added sugars, percent Daily Value for added sugars, and the panel type."
+      },
+      {
+        "type": "h2",
+        "text": "Read percent Daily Value on the same serving basis"
+      },
+      {
+        "type": "p",
+        "text": "FDA describes percent Daily Value as a way to see how much a nutrient in a serving contributes to a daily diet. That phrase \"in a serving\" matters."
+      },
+      {
+        "type": "p",
+        "text": "If two labels use different gummy counts per serving, compare the percent Daily Value on the serving basis shown. Do not quietly convert one label unless you clearly record the math and the source numbers."
+      },
+      {
+        "type": "h2",
+        "text": "Check serving count before comparing containers"
+      },
+      {
+        "type": "p",
+        "text": "A larger bottle may not mean the same number of servings. Count, serving size, and servings per container all matter."
+      },
+      {
+        "type": "p",
+        "text": "If one label shows 60 pieces at two gummies per serving and another shows 60 pieces at one gummy per serving, the container count and serving count tell different stories."
+      },
+      {
+        "type": "h2",
+        "text": "Do not turn sugar numbers into product advice"
+      },
+      {
+        "type": "p",
+        "text": "A sugar line can be a comparison fact, but it should not become a product recommendation in a general article. Keep the number in the number field."
+      },
+      {
+        "type": "p",
+        "text": "Avoid language that tells a reader what to choose, avoid, take, or replace. The article's job is to keep the label facts clear."
+      },
+      {
+        "type": "h2",
+        "text": "Write open questions instead of guessing"
+      },
+      {
+        "type": "p",
+        "text": "If the label image does not show total sugars, added sugars, serving size, servings per container, or warning language, write the missing field plainly."
+      },
+      {
+        "type": "p",
+        "text": "If the question is personal because of pregnancy, breastfeeding, medication use, allergies, diabetes, eating disorder history, surgery, or another medical factor, follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Gummy serving size and added sugar are easier to compare when serving count, total sugars, added sugars, percent Daily Value, and missing fields stay separate. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FDA added-sugars guidance: Added Sugars on the Nutrition Facts label are shown in grams and percent Daily Value for one serving.",
+      "FDA Nutrition Facts guidance: the label includes serving size, servings per container, calories, and nutrient details.",
+      "FDA dietary supplement labeling guidance: Supplement Facts must list serving size and servings per container when required.",
+      "FDA Daily Value guidance: percent Daily Value shows how much a nutrient in a serving contributes to a daily diet."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/added-sugars-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-education-resources-materials/nutrition-facts-label",
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label"
+    ],
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-draft human-polish three-AI review",
+        "gemini": "PASS post-draft human-polish three-AI review",
+        "claude": "PASS post-draft human-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished draft reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     }
   },
   {
     "day": 39,
     "date": "2026-08-27",
     "slug": "capsule-count-serving-size",
-    "title": "How to Compare Capsules by Count and Serving Size",
+    "title": "Capsule Count and Serving Size: How to Read the Numbers Together",
     "category": "Label Reading",
-    "status": "draft",
-    "summary": "A neutral guide to capsule serving size so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Learn how to compare capsule count and serving size by keeping count, serving basis, servings per container, panel amounts, and directions separate.",
     "seo": {
-      "seoTitle": "How to Compare Capsules by Count and Serving Size | Daily Support Guide",
-      "metaDescription": "Learn capsule serving size in plain English with neutral label-reading tips, comparison questions, and practical examples.",
-      "primaryKeyword": "capsule serving size",
+      "seoTitle": "Capsule Count and Serving Size: How to Read the Numbers Together | Daily Support Guide",
+      "metaDescription": "Learn how to compare capsule count and serving size by keeping count, serving basis, servings per container, and panel amounts separate.",
+      "primaryKeyword": "capsule count serving size",
       "secondaryKeywords": [
-        "capsule serving size guide",
-        "capsule serving size checklist",
-        "capsule serving size comparison"
+        "capsule serving size",
+        "servings per container capsules",
+        "capsule label comparison"
       ],
       "searchIntent": "informational",
-      "h1": "How to Compare Capsules by Count and Serving Size",
+      "h1": "Capsule Count and Serving Size: How to Read the Numbers Together",
       "h2": [
-        "What capsule serving size means on a label",
-        "Where readers often get turned around",
-        "A simple label-reading checklist",
-        "A calm takeaway"
+        "Start with the package count",
+        "Read serving size before panel amounts",
+        "Use servings per container as a separate field",
+        "Do not compare capsule count alone",
+        "Keep directions and warnings in their own lane",
+        "Leave personal questions outside the math",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about capsule serving size?",
-        "How can I use capsule serving size for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "How should I compare capsule count and serving size?",
+        "Why is capsule count not the same as servings per container?",
+        "When should capsule label questions stay unresolved?"
       ],
       "internalLinks": [
         "serving-size-vs-servings-per-container",
-        "percent-daily-value-meaning",
-        "how-to-read-ingredient-list"
+        "directions-for-use-label",
+        "product-comparison-notes"
       ],
       "schema": [
         "Article",
@@ -5478,45 +5820,158 @@
         "No diagnosis, treatment, dosage, cure, or prevention claims"
       ]
     },
+    "body": [
+      {
+        "type": "p",
+        "text": "Capsule labels often show more than one number: package count, serving size, servings per container, amount per serving, and sometimes directions. Those numbers are easy to mix up."
+      },
+      {
+        "type": "p",
+        "text": "This article explains how to read capsule count and serving size together. It does not recommend a product, amount, schedule, or medical use."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the package count"
+      },
+      {
+        "type": "p",
+        "text": "First, copy the package count exactly as shown. This may be a count of capsules, tablets, softgels, packets, or another form."
+      },
+      {
+        "type": "p",
+        "text": "Package count tells how many units are in the container. It does not by itself tell how many labeled servings are in the container."
+      },
+      {
+        "type": "h2",
+        "text": "Read serving size before panel amounts"
+      },
+      {
+        "type": "p",
+        "text": "The serving size line tells the basis for the amounts in the Supplement Facts panel. If the serving size is two capsules, the listed amounts usually belong to that two-capsule serving."
+      },
+      {
+        "type": "p",
+        "text": "Federal supplement labeling rules say serving size should use a term appropriate to the supplement form, including capsules. Keep that serving phrase attached to the panel amounts."
+      },
+      {
+        "type": "h2",
+        "text": "Use servings per container as a separate field"
+      },
+      {
+        "type": "p",
+        "text": "FDA dietary supplement labeling guidance says Supplement Facts must list serving size and servings per container when required. It also notes a narrow case where servings per container may not need to be listed if it repeats the net quantity information."
+      },
+      {
+        "type": "p",
+        "text": "For comparison notes, write package count, serving size, and servings per container in separate fields. That prevents a bottle count from becoming a serving count by accident."
+      },
+      {
+        "type": "h2",
+        "text": "Do not compare capsule count alone"
+      },
+      {
+        "type": "p",
+        "text": "Two containers can have the same capsule count and different serving sizes. They can also have different capsule counts and the same number of labeled servings."
+      },
+      {
+        "type": "p",
+        "text": "A clean comparison asks: How many units are in the package? How many units are in one serving? How many servings are shown? What amount is listed per serving?"
+      },
+      {
+        "type": "h2",
+        "text": "Keep directions and warnings in their own lane"
+      },
+      {
+        "type": "p",
+        "text": "Directions and warnings can affect how a reader understands a label, but they should not be merged with Supplement Facts. Copy them into their own fields."
+      },
+      {
+        "type": "p",
+        "text": "A directions line is not a personal instruction from this article. It is label wording to record and read carefully."
+      },
+      {
+        "type": "h2",
+        "text": "Leave personal questions outside the math"
+      },
+      {
+        "type": "p",
+        "text": "Capsule count math does not answer questions about medication use, pregnancy, breastfeeding, allergies, surgery, medical conditions, or personal nutrition plans."
+      },
+      {
+        "type": "p",
+        "text": "When those factors matter, keep the label comparison unfinished and follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "Capsule count and serving size are easier to compare when package count, serving size, servings per container, panel amounts, directions, and warnings stay in separate fields. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "21 CFR 101.36: serving size for dietary supplements should use a term appropriate to the supplement form, including capsules.",
+      "FDA dietary supplement labeling guidance: Supplement Facts must list names and quantities of dietary ingredients, serving size, and servings per container when required.",
+      "FDA dietary supplement labeling guidance: servings per container may be omitted when it is the same information as the net quantity statement in certain cases.",
+      "FTC online shopping guidance: readers should read full product descriptions and fine print before relying on a product comparison."
+    ],
+    "sourceUrls": [
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-C/section-101.36",
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling",
+      "https://consumer.ftc.gov/articles/online-shopping"
+    ],
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-draft human-polish three-AI review",
+        "gemini": "PASS post-draft human-polish three-AI review",
+        "claude": "PASS post-draft human-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished draft reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     }
   },
   {
     "day": 40,
     "date": "2026-08-28",
     "slug": "weekly-label-review-routine",
-    "title": "How to Build a Low-Friction Weekly Label Review Habit",
+    "title": "Weekly Label Review Routine: A Low-Friction Way to Stay Organized",
     "category": "Routine Guides",
-    "status": "draft",
-    "summary": "A neutral guide to label review routine so readers can compare everyday information without brand names, product picks, or medical advice.",
+    "status": "approved",
+    "summary": "Build a weekly label review routine that checks a few labels, records missing details, and keeps open questions visible without choosing products.",
     "seo": {
-      "seoTitle": "How to Build a Low-Friction Weekly Label Review Habit | Daily Support Guide",
-      "metaDescription": "Build a simple label review routine with small steps, low-pressure prompts, and a weekly check-in you can repeat.",
-      "primaryKeyword": "label review routine",
+      "seoTitle": "Weekly Label Review Routine: A Low-Friction Way to Stay Organized | Daily Support Guide",
+      "metaDescription": "Build a weekly label review routine that checks serving details, label facts, costs, terms, and open questions without product recommendations.",
+      "primaryKeyword": "weekly label review routine",
       "secondaryKeywords": [
-        "label review routine guide",
-        "label review routine checklist",
-        "label review routine comparison"
+        "label review routine",
+        "weekly product notes",
+        "label reading habit"
       ],
       "searchIntent": "informational",
-      "h1": "How to Build a Low-Friction Weekly Label Review Habit",
+      "h1": "Weekly Label Review Routine: A Low-Friction Way to Stay Organized",
       "h2": [
-        "Why label review routine is easier when it stays small",
-        "A simple routine you can repeat",
-        "What to notice after one week",
-        "A calm takeaway"
+        "Pick a small review window",
+        "Choose only a few labels",
+        "Use the same note fields",
+        "Keep shopping terms separate",
+        "End with open questions",
+        "Do not make the routine decide for you",
+        "A practical takeaway"
       ],
       "faq": [
-        "What should I know about label review routine?",
-        "How can I use label review routine for a neutral comparison?",
-        "When should I ask a qualified professional instead of guessing?"
+        "How can I build a weekly label review routine?",
+        "What fields belong in a weekly label review?",
+        "When should a weekly label question stay unresolved?"
       ],
       "internalLinks": [
-        "screen-break-routine",
-        "evening-shutdown-routine"
+        "product-comparison-notes",
+        "missing-information-on-label",
+        "compare-similar-products-framework"
       ],
       "schema": [
         "Article",
@@ -5529,10 +5984,120 @@
         "No diagnosis, treatment, dosage, cure, or prevention claims"
       ]
     },
+    "body": [
+      {
+        "type": "p",
+        "text": "A weekly label review routine works best when it is small enough to repeat. The point is not to inspect every label in the house. The point is to keep a few everyday comparisons from turning into scattered notes."
+      },
+      {
+        "type": "p",
+        "text": "This article explains a simple review habit. It does not recommend products, brands, diets, supplements, or medical decisions."
+      },
+      {
+        "type": "h2",
+        "text": "Pick a small review window"
+      },
+      {
+        "type": "p",
+        "text": "Choose a short weekly window and keep the task narrow. Ten minutes with two or three labels is often enough for a useful note."
+      },
+      {
+        "type": "p",
+        "text": "A routine that is too large becomes easy to skip. A small routine can still catch serving details, missing fields, and questions that deserve a closer look later."
+      },
+      {
+        "type": "h2",
+        "text": "Choose only a few labels"
+      },
+      {
+        "type": "p",
+        "text": "Pick labels that are already part of a real comparison: two pantry items, two drink labels, a product page and a package photo, or one item with missing details."
+      },
+      {
+        "type": "p",
+        "text": "Do not use the routine to hunt for a winner. Use it to practice reading the same kinds of facts the same way."
+      },
+      {
+        "type": "h2",
+        "text": "Use the same note fields"
+      },
+      {
+        "type": "p",
+        "text": "A simple weekly note can include product description, serving size, servings per container, key panel facts, ingredient list, directions, warnings, total cost, terms, reviews, and open questions."
+      },
+      {
+        "type": "p",
+        "text": "FDA label resources make serving and listed nutrient details a useful starting point. FDA supplement labeling guidance also points to Supplement Facts fields such as serving size and dietary ingredient information."
+      },
+      {
+        "type": "h2",
+        "text": "Keep shopping terms separate"
+      },
+      {
+        "type": "p",
+        "text": "If the review includes a product page, keep shopping terms out of the nutrition or label column. FTC online shopping guidance points readers to product descriptions, fine print, total cost, delivery, returns, and refunds."
+      },
+      {
+        "type": "p",
+        "text": "Those details matter, but they answer different questions. A return term is not a nutrient fact. A shipping fee is not a serving-size detail."
+      },
+      {
+        "type": "h2",
+        "text": "End with open questions"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the review, write the questions that remain. Examples include \"serving size not visible,\" \"added sugars line not shown,\" \"return terms unclear,\" or \"warning language needs closer reading.\""
+      },
+      {
+        "type": "p",
+        "text": "Open questions are not failures. They are the part of the note that keeps a reader from pretending the label answered more than it did."
+      },
+      {
+        "type": "h2",
+        "text": "Do not make the routine decide for you"
+      },
+      {
+        "type": "p",
+        "text": "A weekly routine can organize facts, but it should not turn into a personal rule about what to buy, take, avoid, or replace."
+      },
+      {
+        "type": "p",
+        "text": "If a question involves medication use, pregnancy, breastfeeding, allergies, surgery, a medical condition, eating disorder history, or a personal nutrition plan, keep the question unresolved and follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "A practical takeaway"
+      },
+      {
+        "type": "p",
+        "text": "A weekly label review routine is easier to keep when it reviews only a few labels, uses fixed fields, separates shopping terms from label facts, and leaves open questions visible. This article is general education only and is not medical advice."
+      }
+    ],
+    "sourceNotes": [
+      "FDA Nutrition Facts information: serving size and listed nutrients can be reviewed as structured label details.",
+      "FDA dietary supplement labeling guidance: Supplement Facts must list serving size, servings per container when required, and dietary ingredient information.",
+      "FTC online shopping guidance: readers should check product descriptions, fine print, total cost, delivery, return, and refund policies.",
+      "FTC consumer review guidance: reviews should be read with a critical eye and not only as star ratings."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-education-resources-materials/nutrition-facts-label",
+      "https://www.fda.gov/food/dietary-supplements-guidance-documents-regulatory-information/dietary-supplement-labeling-guide-chapter-iv-nutrition-labeling",
+      "https://consumer.ftc.gov/articles/online-shopping",
+      "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers"
+    ],
     "review": {
-      "internalLint": "pending",
-      "externalAiReview": "pending",
-      "approvedForPublishing": false
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS post-draft human-polish three-AI review",
+        "gemini": "PASS post-draft human-polish three-AI review",
+        "claude": "PASS post-draft human-polish three-AI review"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-16",
+      "notes": "Human-polished draft reviewed for reduced AI-style wording, safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     }
   },
   {
