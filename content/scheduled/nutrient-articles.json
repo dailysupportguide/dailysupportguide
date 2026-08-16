@@ -2212,5 +2212,735 @@
       "approvedAt": "2026-08-16",
       "notes": "Calcium cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality."
     }
+  },
+  {
+    "day": 16,
+    "date": "2026-09-23",
+    "slug": "magnesium-label-unit-matters",
+    "title": "Magnesium on Labels: Why the Unit Still Matters",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "Read magnesium on labels by keeping the amount, unit, percent Daily Value, serving size, and source in one row.",
+    "seo": {
+      "seoTitle": "Magnesium on Labels: Why the Unit Still Matters | Daily Support Guide",
+      "metaDescription": "Read magnesium on labels by copying amount, unit, percent Daily Value, serving size, and source before interpreting the number.",
+      "primaryKeyword": "magnesium on labels",
+      "secondaryKeywords": [
+        "magnesium Daily Value",
+        "magnesium Nutrition Facts",
+        "magnesium percent DV"
+      ],
+      "searchIntent": "informational",
+      "h1": "Magnesium on Labels: Why the Unit Still Matters",
+      "h2": [
+        "Start with the row you can verify",
+        "Keep milligrams beside percent Daily Value",
+        "Notice when magnesium is not listed",
+        "Separate label fields from personal questions",
+        "Keep the unit with the number"
+      ],
+      "faq": [
+        "What magnesium label details should I copy?",
+        "What is the Daily Value for magnesium?",
+        "Why might magnesium be missing from a food label?"
+      ],
+      "internalLinks": [
+        "magnesium-food-pattern-grocery-review",
+        "magnesium-notes-amount-unit-source-question",
+        "magnesium-comparison-similar-foods"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for magnesium is 420 mg for adults and children 4 years and older.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements magnesium information: FDA does not require food labels to list magnesium content unless magnesium has been added to the food.",
+      "NIH Office of Dietary Supplements consumer information: magnesium is found naturally in many foods and is added to some fortified foods.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Start with the number that can be checked. For magnesium, that means amount, unit, percent Daily Value, serving size, source, and date checked."
+      },
+      {
+        "type": "p",
+        "text": "Mara Lin reads this as a label-field exercise: copy what is shown, keep the units attached, and leave personal magnesium decisions to a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the row you can verify"
+      },
+      {
+        "type": "p",
+        "text": "Use one row for each source. A Nutrition Facts panel, Supplement Facts panel, label photo, product page, and meal note should not be blended into one sentence."
+      },
+      {
+        "type": "p",
+        "text": "If one field is missing, write that directly. A missing field is part of the record."
+      },
+      {
+        "type": "h2",
+        "text": "Keep milligrams beside percent Daily Value"
+      },
+      {
+        "type": "p",
+        "text": "FDA Daily Value guidance lists magnesium at 420 mg for adults and children 4 years and older. The percent Daily Value shows how one serving contributes to a daily diet."
+      },
+      {
+        "type": "p",
+        "text": "Copy the mg amount and the percent Daily Value together when both appear."
+      },
+      {
+        "type": "h2",
+        "text": "Notice when magnesium is not listed"
+      },
+      {
+        "type": "p",
+        "text": "NIH magnesium information notes that FDA does not require food labels to list magnesium unless magnesium has been added to the food."
+      },
+      {
+        "type": "p",
+        "text": "So a missing magnesium line is not the same as a zero. It is a label detail to record."
+      },
+      {
+        "type": "h2",
+        "text": "Separate label fields from personal questions"
+      },
+      {
+        "type": "p",
+        "text": "A label row can show what was listed for one serving. It cannot decide what a person should eat, take, or change."
+      },
+      {
+        "type": "p",
+        "text": "If the question involves medical history, medicines, kidney concerns, pregnancy, or a personal nutrition plan, keep it for a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the unit with the number"
+      },
+      {
+        "type": "p",
+        "text": "A magnesium note is easier to read when amount, unit, percent Daily Value, serving size, source, and open question stay attached. Keep the row intact; this article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS full review and post-polish delta quick check",
+        "gemini": "PASS full review and post-polish delta quick check",
+        "claude": "PASS after requested author-voice boilerplate fix and delta quick check"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Magnesium cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude requested less templated scope and closing lines; revised lines received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 17,
+    "date": "2026-09-24",
+    "slug": "magnesium-food-pattern-grocery-review",
+    "title": "Magnesium Food Patterns: A Gentle Grocery-Led Review",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "Use a grocery-led weekly note to notice magnesium food patterns without turning the record into symptoms, certainty, or advice.",
+    "seo": {
+      "seoTitle": "Magnesium Food Patterns: A Gentle Grocery-Led Review | Daily Support Guide",
+      "metaDescription": "Use a grocery-led weekly note to notice magnesium food patterns while keeping symptoms, certainty, and personal advice outside the record.",
+      "primaryKeyword": "magnesium food patterns",
+      "secondaryKeywords": [
+        "magnesium weekly food note",
+        "magnesium foods record",
+        "magnesium grocery review"
+      ],
+      "searchIntent": "informational",
+      "h1": "Magnesium Food Patterns: A Gentle Grocery-Led Review",
+      "h2": [
+        "Begin with the foods that showed up",
+        "Mark labels that do not list magnesium",
+        "Use small pattern words",
+        "Keep body changes out of the food note",
+        "Leave a clear question"
+      ],
+      "faq": [
+        "How can I notice magnesium food patterns?",
+        "Why might a magnesium food label be blank?",
+        "What should a magnesium food note leave open?"
+      ],
+      "internalLinks": [
+        "magnesium-label-unit-matters",
+        "magnesium-notes-amount-unit-source-question",
+        "with-magnesium-wording"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for magnesium is 420 mg for adults and children 4 years and older.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements magnesium information: FDA does not require food labels to list magnesium content unless magnesium has been added to the food.",
+      "NIH Office of Dietary Supplements consumer information: magnesium is found naturally in many foods and is added to some fortified foods.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A grocery note can begin with what was already in the cart, the pantry, and the week. It does not need to explain the body."
+      },
+      {
+        "type": "p",
+        "text": "Nora Vale keeps this as a food-pattern note, not a body-reading exercise. Symptoms, supplement choices, and personal health questions belong with a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Begin with the foods that showed up"
+      },
+      {
+        "type": "p",
+        "text": "Write down foods that appeared more than once. Then mark whether a label was available and whether it listed magnesium."
+      },
+      {
+        "type": "p",
+        "text": "A small weekly note can be useful even when it is incomplete."
+      },
+      {
+        "type": "h2",
+        "text": "Mark labels that do not list magnesium"
+      },
+      {
+        "type": "p",
+        "text": "NIH magnesium information notes that food labels do not have to list magnesium unless magnesium has been added."
+      },
+      {
+        "type": "p",
+        "text": "That makes \"not listed\" a useful note. It is not a conclusion about the food."
+      },
+      {
+        "type": "h2",
+        "text": "Use small pattern words"
+      },
+      {
+        "type": "p",
+        "text": "Use often, sometimes, rarely, and unclear. Those words are gentle enough for a normal week."
+      },
+      {
+        "type": "p",
+        "text": "They also leave space for unpackaged foods, mixed meals, and labels that were not checked."
+      },
+      {
+        "type": "h2",
+        "text": "Keep body changes out of the food note"
+      },
+      {
+        "type": "p",
+        "text": "Do not use this note as a symptom checker. Tiredness, cramps, sleep changes, or any other body change can have many explanations."
+      },
+      {
+        "type": "p",
+        "text": "If symptoms or medical questions are part of the story, follow licensed professional guidance."
+      },
+      {
+        "type": "h2",
+        "text": "Leave a clear question"
+      },
+      {
+        "type": "p",
+        "text": "A magnesium food note can end with one quiet question: what showed up, what was not listed, and what remains uncertain. That is enough for the page; this article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS full review and post-polish delta quick check",
+        "gemini": "PASS full review and post-polish delta quick check",
+        "claude": "PASS after requested author-voice boilerplate fix and delta quick check"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Magnesium cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude requested less templated scope and closing lines; revised lines received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 18,
+    "date": "2026-09-25",
+    "slug": "magnesium-notes-amount-unit-source-question",
+    "title": "Magnesium Notes: Amount, Unit, Source, Question",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "Use a compact magnesium note with four fields: amount, unit, source, and one open question.",
+    "seo": {
+      "seoTitle": "Magnesium Notes: Amount, Unit, Source, Question | Daily Support Guide",
+      "metaDescription": "Use a compact magnesium note with amount, unit, source, percent Daily Value when shown, and one open question.",
+      "primaryKeyword": "magnesium notes",
+      "secondaryKeywords": [
+        "magnesium label checklist",
+        "magnesium amount unit",
+        "magnesium open question"
+      ],
+      "searchIntent": "informational",
+      "h1": "Magnesium Notes: Amount, Unit, Source, Question",
+      "h2": [
+        "Field 1: amount",
+        "Field 2: unit",
+        "Field 3: source",
+        "Field 4: question",
+        "Stop before advice"
+      ],
+      "faq": [
+        "What should a magnesium note include?",
+        "What if magnesium is not listed?",
+        "What should not go in a magnesium note?"
+      ],
+      "internalLinks": [
+        "magnesium-label-unit-matters",
+        "magnesium-food-pattern-grocery-review",
+        "magnesium-comparison-similar-foods"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for magnesium is 420 mg for adults and children 4 years and older.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements magnesium information: FDA does not require food labels to list magnesium content unless magnesium has been added to the food.",
+      "NIH Office of Dietary Supplements consumer information: magnesium is found naturally in many foods and is added to some fortified foods.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Use four fields. Amount. Unit. Source. Question. Add percent Daily Value if the label shows it."
+      },
+      {
+        "type": "p",
+        "text": "Eli Brooks keeps the checklist narrow. Copy the fields. Skip product ideas, personal amounts, and self-labels. Bring personal questions to a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Field 1: amount"
+      },
+      {
+        "type": "p",
+        "text": "Copy the magnesium amount exactly as shown. If no magnesium line appears, write \"not listed.\""
+      },
+      {
+        "type": "p",
+        "text": "Do not guess from a similar food."
+      },
+      {
+        "type": "h2",
+        "text": "Field 2: unit"
+      },
+      {
+        "type": "p",
+        "text": "Copy the unit. Magnesium is usually written in milligrams when it appears on labels."
+      },
+      {
+        "type": "p",
+        "text": "Keep the unit beside the number."
+      },
+      {
+        "type": "h2",
+        "text": "Field 3: source"
+      },
+      {
+        "type": "p",
+        "text": "Write the source: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food note."
+      },
+      {
+        "type": "p",
+        "text": "Add the serving size and date checked if they are available."
+      },
+      {
+        "type": "h2",
+        "text": "Field 4: question"
+      },
+      {
+        "type": "p",
+        "text": "End with one question. Label missing. Serving unclear. Percent Daily Value not shown. Personal question for a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "Keep the question short."
+      },
+      {
+        "type": "h2",
+        "text": "Stop before advice"
+      },
+      {
+        "type": "p",
+        "text": "A magnesium note needs amount, unit, source, and one open question. No product idea. No personal amount. No self-label. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS full review and post-polish delta quick check",
+        "gemini": "PASS full review and post-polish delta quick check",
+        "claude": "PASS after requested author-voice boilerplate fix and delta quick check"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Magnesium cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude requested less templated scope and closing lines; revised lines received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 19,
+    "date": "2026-09-26",
+    "slug": "with-magnesium-wording",
+    "title": "\"With Magnesium\" Wording: Do Not Read More Into It",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "Read with magnesium wording by copying the exact phrase, checking the label line, and keeping the claim from turning into a health promise.",
+    "seo": {
+      "seoTitle": "\"With Magnesium\" Wording: Do Not Read More Into It | Daily Support Guide",
+      "metaDescription": "Read with magnesium wording by copying the exact phrase, checking the label line, and avoiding health-result or product-fit claims.",
+      "primaryKeyword": "with magnesium wording",
+      "secondaryKeywords": [
+        "magnesium claim wording",
+        "magnesium label claim",
+        "good source magnesium"
+      ],
+      "searchIntent": "informational",
+      "h1": "\"With Magnesium\" Wording: Do Not Read More Into It",
+      "h2": [
+        "Copy the exact phrase",
+        "Check whether a claim level is stated",
+        "Keep the label line visible",
+        "Do not add a health result",
+        "Let the words stay small"
+      ],
+      "faq": [
+        "What does with magnesium mean on a label?",
+        "Is with magnesium the same as good source?",
+        "How should I record a magnesium claim?"
+      ],
+      "internalLinks": [
+        "magnesium-label-unit-matters",
+        "magnesium-notes-amount-unit-source-question",
+        "magnesium-comparison-similar-foods"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for magnesium is 420 mg for adults and children 4 years and older.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements magnesium information: FDA does not require food labels to list magnesium content unless magnesium has been added to the food.",
+      "NIH Office of Dietary Supplements consumer information: magnesium is found naturally in many foods and is added to some fortified foods.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The phrase matters. \"With magnesium\" is not the same as \"good source\" or \"excellent source,\" and it does not answer a personal question."
+      },
+      {
+        "type": "p",
+        "text": "June Carter treats the phrase as wording to record, not wording to enlarge. Product fit, health results, and personal magnesium questions stay outside this note."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the exact phrase"
+      },
+      {
+        "type": "p",
+        "text": "Write the wording exactly as shown. Include nearby serving language, qualifiers, symbols, or small print if they appear with the phrase."
+      },
+      {
+        "type": "p",
+        "text": "Do not turn a short front-label phrase into a longer claim."
+      },
+      {
+        "type": "h2",
+        "text": "Check whether a claim level is stated"
+      },
+      {
+        "type": "p",
+        "text": "Under 21 CFR 101.54, high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount."
+      },
+      {
+        "type": "p",
+        "text": "Good source, contains, or provides claims generally indicate 10 to 19 percent. If the label only says \"with,\" copy that wording and check the panel."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the label line visible"
+      },
+      {
+        "type": "p",
+        "text": "Record magnesium amount, unit, percent Daily Value when shown, serving size, source, and date checked."
+      },
+      {
+        "type": "p",
+        "text": "FDA Daily Value guidance lists magnesium at 420 mg for adults and children 4 years and older."
+      },
+      {
+        "type": "h2",
+        "text": "Do not add a health result"
+      },
+      {
+        "type": "p",
+        "text": "Do not attach the phrase to sleep, stress, cramps, muscles, mood, energy, or other body outcomes."
+      },
+      {
+        "type": "p",
+        "text": "If a personal concern is behind the note, keep that concern for a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Let the words stay small"
+      },
+      {
+        "type": "p",
+        "text": "\"With magnesium\" is easiest to read when exact wording, label amount, serving basis, and open questions stay separate. The phrase should stay small; this article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS full review and post-polish delta quick check",
+        "gemini": "PASS full review and post-polish delta quick check",
+        "claude": "PASS after requested author-voice boilerplate fix and delta quick check"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Magnesium cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude requested less templated scope and closing lines; revised lines received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 20,
+    "date": "2026-09-27",
+    "slug": "magnesium-comparison-similar-foods",
+    "title": "Magnesium Comparison Notes for Similar Foods",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "Compare magnesium notes across similar foods by keeping source, serving size, amount, percent Daily Value, and missing label details in separate rows.",
+    "seo": {
+      "seoTitle": "Magnesium Comparison Notes for Similar Foods | Daily Support Guide",
+      "metaDescription": "Compare magnesium notes across similar foods by keeping source, serving size, amount, percent Daily Value, and missing details separate.",
+      "primaryKeyword": "magnesium comparison notes",
+      "secondaryKeywords": [
+        "compare magnesium labels",
+        "magnesium serving size comparison",
+        "magnesium label rows"
+      ],
+      "searchIntent": "informational",
+      "h1": "Magnesium Comparison Notes for Similar Foods",
+      "h2": [
+        "Use one row per source",
+        "Write not listed when needed",
+        "Keep serving sizes visible",
+        "Do not choose a winner",
+        "End with what is known"
+      ],
+      "faq": [
+        "How should I compare magnesium notes?",
+        "What if one label does not list magnesium?",
+        "Can a magnesium comparison choose the better food?"
+      ],
+      "internalLinks": [
+        "magnesium-label-unit-matters",
+        "magnesium-food-pattern-grocery-review",
+        "with-magnesium-wording"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for magnesium is 420 mg for adults and children 4 years and older.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements magnesium information: FDA does not require food labels to list magnesium content unless magnesium has been added to the food.",
+      "NIH Office of Dietary Supplements consumer information: magnesium is found naturally in many foods and is added to some fortified foods.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A comparison works better when the sources stay visible. Similar foods can still have different labels, serving sizes, and missing fields."
+      },
+      {
+        "type": "p",
+        "text": "Theo Grant uses the comparison as a source note. Rows can show differences, but they do not rank foods, choose products, or replace a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Use one row per source"
+      },
+      {
+        "type": "p",
+        "text": "Put each source in its own row: label photo, Nutrition Facts panel, Supplement Facts panel, product page, or meal note."
+      },
+      {
+        "type": "p",
+        "text": "Then add serving size, magnesium amount, unit, percent Daily Value when shown, claim wording, and open question."
+      },
+      {
+        "type": "h2",
+        "text": "Write not listed when needed"
+      },
+      {
+        "type": "p",
+        "text": "NIH magnesium information notes that food labels do not have to list magnesium unless magnesium has been added."
+      },
+      {
+        "type": "p",
+        "text": "So one row may say \"not listed\" while another has a number. That is a source difference, not a ranking."
+      },
+      {
+        "type": "h2",
+        "text": "Keep serving sizes visible"
+      },
+      {
+        "type": "p",
+        "text": "Percent Daily Value belongs to the serving shown on the label. If serving sizes differ, the rows should show that before any comparison sentence."
+      },
+      {
+        "type": "p",
+        "text": "The comparison is cleaner when serving size is not buried in a note."
+      },
+      {
+        "type": "h2",
+        "text": "Do not choose a winner"
+      },
+      {
+        "type": "p",
+        "text": "A magnesium comparison cannot decide a personal intake plan, symptom question, supplement question, or medical choice."
+      },
+      {
+        "type": "p",
+        "text": "If the rows raise a personal concern, leave the conclusion open and bring the note to a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "End with what is known"
+      },
+      {
+        "type": "p",
+        "text": "A magnesium comparison works when source, serving size, amount, unit, percent Daily Value, missing details, and open questions stay in separate rows. Let the rows stop there; this article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS full review and post-polish delta quick check",
+        "gemini": "PASS full review and post-polish delta quick check",
+        "claude": "PASS after requested author-voice boilerplate fix and delta quick check"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Magnesium cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude requested less templated scope and closing lines; revised lines received delta PASS from ChatGPT, Gemini, and Claude."
+    }
   }
 ]
