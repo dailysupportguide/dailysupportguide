@@ -286,6 +286,13 @@ button.secondary {
   font-size: 13px;
 }
 
+.byline {
+  margin: 14px 0 24px;
+  color: var(--sage-dark);
+  font-size: 15px;
+  font-weight: 720;
+}
+
 .article-shell {
   padding: 56px clamp(18px, 5vw, 72px);
 }

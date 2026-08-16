@@ -31,6 +31,7 @@
           category: article.category,
           title: article.title,
           summary: article.summary,
+          author: article.author,
           seo: article.seo,
           body: article.body
         });

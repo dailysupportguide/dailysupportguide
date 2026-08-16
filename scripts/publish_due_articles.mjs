@@ -66,6 +66,10 @@ for (const article of scheduled) {
       existingArticle.seo = article.seo;
       changed = true;
     }
+    if (article.author && !existingArticle.author) {
+      existingArticle.author = article.author;
+      changed = true;
+    }
     continue;
   }
 
@@ -75,6 +79,10 @@ for (const article of scheduled) {
     const existingArticle = existing.get(article.slug);
     if (article.seo && !existingArticle.seo) {
       existingArticle.seo = article.seo;
+      changed = true;
+    }
+    if (article.author && !existingArticle.author) {
+      existingArticle.author = article.author;
       changed = true;
     }
     article.status = "published";
@@ -89,6 +97,7 @@ for (const article of scheduled) {
     category: article.category,
     title: article.title,
     summary: article.summary,
+    author: article.author,
     seo: article.seo,
     body: article.body
   };

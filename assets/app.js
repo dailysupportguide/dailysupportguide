@@ -1,5 +1,7 @@
 (function () {
   const content = window.DSG_CONTENT || { articles: [] };
+  const authorList = window.DSG_AUTHORS?.authors || [];
+  const authorsById = new Map(authorList.map((author) => [author.id, author]));
   const year = document.getElementById("year");
   if (year) year.textContent = String(new Date().getFullYear());
 
@@ -10,6 +12,22 @@
     return element;
   }
 
+  function resolveAuthor(article) {
+    if (!article?.author) return null;
+    if (typeof article.author === "string") return authorsById.get(article.author) || { name: article.author };
+    if (article.author.id && authorsById.has(article.author.id)) {
+      return { ...authorsById.get(article.author.id), ...article.author };
+    }
+    return article.author.name ? article.author : null;
+  }
+
+  function metaText(article) {
+    const author = resolveAuthor(article);
+    const parts = [article.category, article.date];
+    if (author?.name) parts.push(`By ${author.name}`);
+    return parts.filter(Boolean).join(" | ");
+  }
+
   function renderArticleList() {
     const list = document.getElementById("articleList");
     if (!list) return;
@@ -18,7 +36,7 @@
     content.articles.forEach((article) => {
       const card = create("article", "article-card");
       const top = create("div");
-      top.appendChild(create("p", "meta", `${article.category} | ${article.date}`));
+      top.appendChild(create("p", "meta", metaText(article)));
       top.appendChild(create("h3", "", article.title));
       top.appendChild(create("p", "", article.summary));
 
@@ -200,8 +218,14 @@
     if (canonicalLink) canonicalLink.setAttribute("href", `https://dailysupportguide.com/article.html?slug=${encodeURIComponent(article.slug)}`);
 
     view.innerHTML = "";
-    view.appendChild(create("p", "meta", `${article.category} | ${article.date}`));
+    view.appendChild(create("p", "meta", metaText(article)));
     view.appendChild(create("h1", "", article.title));
+    const author = resolveAuthor(article);
+    if (author?.name) {
+      const byline = create("p", "byline", `By ${author.name}`);
+      if (author.role) byline.textContent += `, ${author.role}`;
+      view.appendChild(byline);
+    }
     article.body.forEach((block) => {
       view.appendChild(create(block.type === "h2" ? "h2" : "p", "", block.text));
     });
