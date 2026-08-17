@@ -6394,5 +6394,664 @@
       "approvedAt": "2026-08-17",
       "notes": "Omega-3 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude initially required stronger author-voice differentiation and Day 43 title accuracy; post-polish quick re-review returned DELTA PASS from ChatGPT, Gemini, and Claude. Claude's remaining Day 43 title and closing-rhythm comments were non-blocking and reserved for a later final voice sweep."
     }
+  },
+  {
+    "day": 46,
+    "date": "2026-10-23",
+    "slug": "fiber-labels-total-fiber-serving-daily-value",
+    "title": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "Read fiber on labels by recording serving size, grams of dietary fiber, percent Daily Value, and any low or high wording separately.",
+    "seo": {
+      "seoTitle": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value | Daily Support Guide",
+      "metaDescription": "Read fiber on labels by recording serving size, grams of dietary fiber, percent Daily Value, and claim wording in separate fields.",
+      "primaryKeyword": "fiber on labels",
+      "secondaryKeywords": [
+        "dietary fiber Daily Value",
+        "fiber percent Daily Value",
+        "fiber serving size"
+      ],
+      "searchIntent": "informational",
+      "h1": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value",
+      "h2": [
+        "Start with serving size",
+        "Copy grams and percent Daily Value",
+        "Keep low and high wording separate",
+        "Leave ingredient questions open"
+      ],
+      "faq": [
+        "What should I copy from a fiber label?",
+        "What is the Daily Value for dietary fiber?",
+        "Does a fiber label answer personal questions?"
+      ],
+      "internalLinks": [
+        "fiber-food-pattern-week-note",
+        "fiber-label-checklist",
+        "good-source-fiber-claim"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No digestive diagnosis or symptom-to-fiber conclusion",
+        "No personal fiber target"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for dietary fiber is 28 g.",
+      "FDA Nutrition Facts guidance: dietary fiber is a required nutrient on the Nutrition Facts label, and percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "FDA Nutrition Facts guidance: 5 percent Daily Value or less is considered low, and 20 percent Daily Value or more is considered high.",
+      "FDA dietary fiber Q&A: the Nutrition Facts label final rule defines dietary fiber to include intrinsic and intact non-digestible carbohydrates and lignin in plants, plus certain isolated or synthetic non-digestible carbohydrates determined by FDA to have beneficial physiological effects.",
+      "21 CFR 101.54: good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount; high, rich in, or excellent source claims generally indicate 20 percent or more."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Fiber has a required place on the Nutrition Facts label. Start there, with the serving size directly beside it."
+      },
+      {
+        "type": "p",
+        "text": "Use one row for the label fields: serving size, dietary fiber grams, percent Daily Value, and any claim wording nearby."
+      },
+      {
+        "type": "h2",
+        "text": "Start with serving size"
+      },
+      {
+        "type": "p",
+        "text": "Copy the serving size before the fiber number. A gram value without its serving basis is not ready for comparison."
+      },
+      {
+        "type": "h2",
+        "text": "Copy grams and percent Daily Value"
+      },
+      {
+        "type": "p",
+        "text": "FDA's Daily Value table lists dietary fiber at 28 g. Copy the grams shown on the panel and the percent Daily Value if it appears."
+      },
+      {
+        "type": "p",
+        "text": "Keep the gram number and percent in separate fields. They answer related, but not identical, label questions."
+      },
+      {
+        "type": "h2",
+        "text": "Keep low and high wording separate"
+      },
+      {
+        "type": "p",
+        "text": "FDA label guidance says 5 percent Daily Value or less is low and 20 percent Daily Value or more is high. Write those words only as label-reading notes."
+      },
+      {
+        "type": "h2",
+        "text": "Leave ingredient questions open"
+      },
+      {
+        "type": "p",
+        "text": "If the ingredient list raises a question about the source of fiber, write the question. Do not use the fiber line to decide product fit, digestion questions, or a personal amount."
+      },
+      {
+        "type": "p",
+        "text": "A complete row can still end with an open question. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS fiber cluster author-voice three-AI review with no blocking issues",
+        "gemini": "PASS fiber cluster hidden-risk, compliance, factual, SEO, and editorial review with no blocking issues",
+        "claude": "PASS fiber cluster spec and safety-frame review; remaining prose notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Fiber cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. ChatGPT, Gemini, and Claude returned PASS with no blocking issues. Claude noted non-blocking future polish opportunities for Day 47 phrasing, structural variety, and Day 49 smoothing."
+    }
+  },
+  {
+    "day": 47,
+    "date": "2026-10-24",
+    "slug": "fiber-food-pattern-week-note",
+    "title": "Fiber Food Patterns: What a Week of Notes Can Show",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "Use a weekly fiber food pattern note to record labels, meal clues, missing panels, and questions without turning the week into an explanation.",
+    "seo": {
+      "seoTitle": "Fiber Food Patterns: What a Week of Notes Can Show | Daily Support Guide",
+      "metaDescription": "Use a weekly fiber food pattern note to record label facts, meal clues, missing panels, and questions without making a personal rule.",
+      "primaryKeyword": "fiber food pattern",
+      "secondaryKeywords": [
+        "weekly fiber note",
+        "dietary fiber food log",
+        "fiber intake pattern"
+      ],
+      "searchIntent": "informational",
+      "h1": "Fiber Food Patterns: What a Week of Notes Can Show",
+      "h2": [
+        "Write what was easy to see",
+        "Let mixed meals stay mixed",
+        "Notice missing panels",
+        "Save personal questions"
+      ],
+      "faq": [
+        "How do I write a fiber food pattern note?",
+        "What if a meal has no label?",
+        "Can a fiber food note explain a problem?"
+      ],
+      "internalLinks": [
+        "fiber-labels-total-fiber-serving-daily-value",
+        "fiber-label-checklist",
+        "fiber-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No digestive diagnosis or symptom-to-fiber conclusion",
+        "No personal fiber target"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for dietary fiber is 28 g.",
+      "FDA Nutrition Facts guidance: dietary fiber is a required nutrient on the Nutrition Facts label, and percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "FDA Nutrition Facts guidance: 5 percent Daily Value or less is considered low, and 20 percent Daily Value or more is considered high.",
+      "FDA dietary fiber Q&A: the Nutrition Facts label final rule defines dietary fiber to include intrinsic and intact non-digestible carbohydrates and lignin in plants, plus certain isolated or synthetic non-digestible carbohydrates determined by FDA to have beneficial physiological effects.",
+      "21 CFR 101.54: good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount; high, rich in, or excellent source claims generally indicate 20 percent or more."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A fiber week is rarely tidy. Breakfast may have a label. Dinner may have pieces from three places. Snacks may be easy, or not checked at all."
+      },
+      {
+        "type": "p",
+        "text": "That unevenness belongs in the note."
+      },
+      {
+        "type": "h2",
+        "text": "Write what was easy to see"
+      },
+      {
+        "type": "p",
+        "text": "When a Nutrition Facts panel is available, copy serving size, dietary fiber grams, and percent Daily Value."
+      },
+      {
+        "type": "p",
+        "text": "For meals without a panel, use plain words: no label, homemade, shared dish, restaurant, package missing, or not checked."
+      },
+      {
+        "type": "h2",
+        "text": "Let mixed meals stay mixed"
+      },
+      {
+        "type": "p",
+        "text": "A weekly note does not have to split every bowl, sandwich, or leftover into perfect parts. It can say what was visible and what was not."
+      },
+      {
+        "type": "h2",
+        "text": "Notice missing panels"
+      },
+      {
+        "type": "p",
+        "text": "Missing information is still information. It may show where the record is thin, rather than where the diet is wrong."
+      },
+      {
+        "type": "p",
+        "text": "Use often, sometimes, rarely, not checked, and unclear if those words fit the week."
+      },
+      {
+        "type": "h2",
+        "text": "Save personal questions"
+      },
+      {
+        "type": "p",
+        "text": "Do not turn the week into digestive advice, symptom explanation, a personal fiber number, or a rule about what should change."
+      },
+      {
+        "type": "p",
+        "text": "If the note brings up a personal question, keep it for a licensed professional instead of solving it on the page. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS fiber cluster author-voice three-AI review with no blocking issues",
+        "gemini": "PASS fiber cluster hidden-risk, compliance, factual, SEO, and editorial review with no blocking issues",
+        "claude": "PASS fiber cluster spec and safety-frame review; remaining prose notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Fiber cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. ChatGPT, Gemini, and Claude returned PASS with no blocking issues. Claude noted non-blocking future polish opportunities for Day 47 phrasing, structural variety, and Day 49 smoothing."
+    }
+  },
+  {
+    "day": 48,
+    "date": "2026-10-25",
+    "slug": "fiber-label-checklist",
+    "title": "Fiber Checklist: Serving, Grams, Ingredients, Question",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "Use a fiber checklist to copy serving size, grams, percent Daily Value, ingredient clues, claim wording, and one open question.",
+    "seo": {
+      "seoTitle": "Fiber Checklist: Serving, Grams, Ingredients, Question | Daily Support Guide",
+      "metaDescription": "Use a fiber checklist to copy serving size, grams, percent Daily Value, ingredient clues, claim wording, and one open question.",
+      "primaryKeyword": "fiber checklist",
+      "secondaryKeywords": [
+        "dietary fiber grams",
+        "fiber label checklist",
+        "fiber ingredient list"
+      ],
+      "searchIntent": "informational",
+      "h1": "Fiber Checklist: Serving, Grams, Ingredients, Question",
+      "h2": [
+        "Serving",
+        "Grams",
+        "Percent Daily Value",
+        "Ingredient clue",
+        "Claim wording",
+        "Question"
+      ],
+      "faq": [
+        "What belongs in a fiber checklist?",
+        "Should I copy fiber grams or percent Daily Value?",
+        "What if the fiber source is unclear?"
+      ],
+      "internalLinks": [
+        "fiber-labels-total-fiber-serving-daily-value",
+        "fiber-food-pattern-week-note",
+        "good-source-fiber-claim"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No digestive diagnosis or symptom-to-fiber conclusion",
+        "No personal fiber target"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for dietary fiber is 28 g.",
+      "FDA Nutrition Facts guidance: dietary fiber is a required nutrient on the Nutrition Facts label, and percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "FDA Nutrition Facts guidance: 5 percent Daily Value or less is considered low, and 20 percent Daily Value or more is considered high.",
+      "FDA dietary fiber Q&A: the Nutrition Facts label final rule defines dietary fiber to include intrinsic and intact non-digestible carbohydrates and lignin in plants, plus certain isolated or synthetic non-digestible carbohydrates determined by FDA to have beneficial physiological effects.",
+      "21 CFR 101.54: good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount; high, rich in, or excellent source claims generally indicate 20 percent or more."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Six fields. Fill them in order."
+      },
+      {
+        "type": "h2",
+        "text": "Serving"
+      },
+      {
+        "type": "p",
+        "text": "Copy the serving size. Do this before the fiber number."
+      },
+      {
+        "type": "h2",
+        "text": "Grams"
+      },
+      {
+        "type": "p",
+        "text": "Copy dietary fiber in grams. Keep the unit with the number."
+      },
+      {
+        "type": "h2",
+        "text": "Percent Daily Value"
+      },
+      {
+        "type": "p",
+        "text": "Copy percent Daily Value if it appears. FDA's Daily Value table lists dietary fiber at 28 g."
+      },
+      {
+        "type": "h2",
+        "text": "Ingredient clue"
+      },
+      {
+        "type": "p",
+        "text": "Check the ingredient list for the words connected to fiber. Write the clue; do not turn it into a product score."
+      },
+      {
+        "type": "h2",
+        "text": "Claim wording"
+      },
+      {
+        "type": "p",
+        "text": "Copy good source, high, excellent source, contains, or similar wording exactly as written."
+      },
+      {
+        "type": "h2",
+        "text": "Question"
+      },
+      {
+        "type": "p",
+        "text": "End with one gap: missing serving basis, unclear ingredient clue, different units, claim without enough panel detail, or personal question for a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "The checklist is finished when the fields are visible. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS fiber cluster author-voice three-AI review with no blocking issues",
+        "gemini": "PASS fiber cluster hidden-risk, compliance, factual, SEO, and editorial review with no blocking issues",
+        "claude": "PASS fiber cluster spec and safety-frame review; remaining prose notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Fiber cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. ChatGPT, Gemini, and Claude returned PASS with no blocking issues. Claude noted non-blocking future polish opportunities for Day 47 phrasing, structural variety, and Day 49 smoothing."
+    }
+  },
+  {
+    "day": 49,
+    "date": "2026-10-26",
+    "slug": "good-source-fiber-claim",
+    "title": "Good Source of Fiber: Read the Claim, Then the Panel",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "Read good source of fiber wording by copying the exact claim, checking percent Daily Value, and keeping health-result language outside the note.",
+    "seo": {
+      "seoTitle": "Good Source of Fiber: Read the Claim, Then the Panel | Daily Support Guide",
+      "metaDescription": "Read good source of fiber wording by copying the exact claim, checking percent Daily Value, and keeping health-result language outside the note.",
+      "primaryKeyword": "good source of fiber",
+      "secondaryKeywords": [
+        "fiber claim wording",
+        "high in fiber claim",
+        "fiber percent Daily Value"
+      ],
+      "searchIntent": "informational",
+      "h1": "Good Source of Fiber: Read the Claim, Then the Panel",
+      "h2": [
+        "Copy the exact phrase",
+        "Check the percent Daily Value",
+        "Do not add a result",
+        "Keep ingredients separate"
+      ],
+      "faq": [
+        "What does good source of fiber mean on a label?",
+        "Is high fiber the same as good source?",
+        "Can a fiber claim promise a health result?"
+      ],
+      "internalLinks": [
+        "fiber-labels-total-fiber-serving-daily-value",
+        "fiber-label-checklist",
+        "fiber-comparison-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No digestive diagnosis or symptom-to-fiber conclusion",
+        "No personal fiber target"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for dietary fiber is 28 g.",
+      "FDA Nutrition Facts guidance: dietary fiber is a required nutrient on the Nutrition Facts label, and percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "FDA Nutrition Facts guidance: 5 percent Daily Value or less is considered low, and 20 percent Daily Value or more is considered high.",
+      "FDA dietary fiber Q&A: the Nutrition Facts label final rule defines dietary fiber to include intrinsic and intact non-digestible carbohydrates and lignin in plants, plus certain isolated or synthetic non-digestible carbohydrates determined by FDA to have beneficial physiological effects.",
+      "21 CFR 101.54: good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount; high, rich in, or excellent source claims generally indicate 20 percent or more."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The phrase is the first thing to copy. Good source of fiber, high fiber, excellent source of fiber, and contains fiber should not be treated as the same wording."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the exact phrase"
+      },
+      {
+        "type": "p",
+        "text": "Write the claim as it appears on the label. Do not make it shorter, stronger, or smoother."
+      },
+      {
+        "type": "p",
+        "text": "Then move to the Nutrition Facts panel, where the serving size, dietary fiber grams, and percent Daily Value can be checked."
+      },
+      {
+        "type": "h2",
+        "text": "Check the percent Daily Value"
+      },
+      {
+        "type": "p",
+        "text": "Under 21 CFR 101.54, good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount."
+      },
+      {
+        "type": "p",
+        "text": "High, rich in, or excellent source claims generally indicate 20 percent or more. Keep the exact claim beside the percent Daily Value, not in place of it."
+      },
+      {
+        "type": "h2",
+        "text": "Do not add a result"
+      },
+      {
+        "type": "p",
+        "text": "A fiber claim should not become digestive advice, treatment language, prevention language, weight advice, or a promise about how someone will feel."
+      },
+      {
+        "type": "h2",
+        "text": "Keep ingredients separate"
+      },
+      {
+        "type": "p",
+        "text": "Ingredient words can help a reader trace the label, but they do not replace the fiber grams or percent Daily Value."
+      },
+      {
+        "type": "p",
+        "text": "A careful claim note keeps the phrase small enough to read accurately. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS fiber cluster author-voice three-AI review with no blocking issues",
+        "gemini": "PASS fiber cluster hidden-risk, compliance, factual, SEO, and editorial review with no blocking issues",
+        "claude": "PASS fiber cluster spec and safety-frame review; remaining prose notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Fiber cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. ChatGPT, Gemini, and Claude returned PASS with no blocking issues. Claude noted non-blocking future polish opportunities for Day 47 phrasing, structural variety, and Day 49 smoothing."
+    }
+  },
+  {
+    "day": 50,
+    "date": "2026-10-27",
+    "slug": "fiber-comparison-notes",
+    "title": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "Compare fiber notes by keeping each source, serving size, grams, percent Daily Value, ingredient clue, claim wording, and gap in its own row.",
+    "seo": {
+      "seoTitle": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items | Daily Support Guide",
+      "metaDescription": "Compare fiber notes by keeping each source, serving size, grams, percent Daily Value, ingredient clue, claim wording, and gap in its own row.",
+      "primaryKeyword": "fiber comparison notes",
+      "secondaryKeywords": [
+        "compare fiber labels",
+        "dietary fiber comparison",
+        "fiber grams percent Daily Value"
+      ],
+      "searchIntent": "informational",
+      "h1": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items",
+      "h2": [
+        "Use one row per source",
+        "Match serving before grams",
+        "Keep claims in a separate column",
+        "Name the gap"
+      ],
+      "faq": [
+        "How should I compare fiber labels?",
+        "Can fiber comparison notes choose a food?",
+        "What if serving sizes do not match?"
+      ],
+      "internalLinks": [
+        "fiber-labels-total-fiber-serving-daily-value",
+        "fiber-food-pattern-week-note",
+        "good-source-fiber-claim"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No digestive diagnosis or symptom-to-fiber conclusion",
+        "No personal fiber target"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for dietary fiber is 28 g.",
+      "FDA Nutrition Facts guidance: dietary fiber is a required nutrient on the Nutrition Facts label, and percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "FDA Nutrition Facts guidance: 5 percent Daily Value or less is considered low, and 20 percent Daily Value or more is considered high.",
+      "FDA dietary fiber Q&A: the Nutrition Facts label final rule defines dietary fiber to include intrinsic and intact non-digestible carbohydrates and lignin in plants, plus certain isolated or synthetic non-digestible carbohydrates determined by FDA to have beneficial physiological effects.",
+      "21 CFR 101.54: good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount; high, rich in, or excellent source claims generally indicate 20 percent or more."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/questions-and-answers-dietary-fiber",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Start the comparison with rows, not opinions. One source, one row."
+      },
+      {
+        "type": "h2",
+        "text": "Use one row per source"
+      },
+      {
+        "type": "p",
+        "text": "Create a row for each Nutrition Facts panel, label photo, product page, pantry note, breakfast note, or snack note. Add the date checked."
+      },
+      {
+        "type": "p",
+        "text": "If a row came from memory, mark it as a rough note until a source is visible."
+      },
+      {
+        "type": "h2",
+        "text": "Match serving before grams"
+      },
+      {
+        "type": "p",
+        "text": "Copy serving size before dietary fiber grams. A larger gram number may also sit on a larger serving basis."
+      },
+      {
+        "type": "p",
+        "text": "Add percent Daily Value when it appears. It gives another serving-based field to compare."
+      },
+      {
+        "type": "h2",
+        "text": "Keep claims in a separate column"
+      },
+      {
+        "type": "p",
+        "text": "Good source, high, excellent source, contains, and similar phrases belong in the claim column. They should not replace the gram column."
+      },
+      {
+        "type": "h2",
+        "text": "Name the gap"
+      },
+      {
+        "type": "p",
+        "text": "The gap might be a missing panel, a different serving size, an unclear ingredient clue, a claim without visible percent Daily Value, or a personal question."
+      },
+      {
+        "type": "p",
+        "text": "A comparison note can make the rows easier to check. It should not rank foods or decide what belongs in someone's routine. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS fiber cluster author-voice three-AI review with no blocking issues",
+        "gemini": "PASS fiber cluster hidden-risk, compliance, factual, SEO, and editorial review with no blocking issues",
+        "claude": "PASS fiber cluster spec and safety-frame review; remaining prose notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Fiber cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. ChatGPT, Gemini, and Claude returned PASS with no blocking issues. Claude noted non-blocking future polish opportunities for Day 47 phrasing, structural variety, and Day 49 smoothing."
+    }
   }
 ]
