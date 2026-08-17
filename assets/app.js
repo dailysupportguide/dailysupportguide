@@ -47,6 +47,101 @@
     });
   }
 
+  function articleLink(article) {
+    const link = create("a", "", article.title);
+    link.href = `article.html?slug=${encodeURIComponent(article.slug)}`;
+    return link;
+  }
+
+  function renderTopicCards(container, articles) {
+    const list = create("div", "article-list compact-list");
+    articles.forEach((article) => {
+      const card = create("article", "article-card");
+      card.append(
+        create("p", "meta", metaText(article)),
+        create("h3", "", article.title),
+        create("p", "", article.summary || ""),
+        articleLink(article)
+      );
+      list.appendChild(card);
+    });
+    container.appendChild(list);
+  }
+
+  function renderTopicIndex() {
+    const root = document.getElementById("topicIndex");
+    if (!root) return;
+    root.innerHTML = "";
+
+    const categoryOrder = [
+      ["nutrient-notes", "Nutrient Notes", "General label-reading notes for nutrient lines, amounts, units, Daily Value, claim wording, and open questions."],
+      ["label-reading", "Label Reading", "Plain guides for serving sizes, directions, ingredients, Supplement Facts, Nutrition Facts, and missing information."],
+      ["comparison-skills", "Comparison Skills", "Neutral ways to compare similar labels, package sizes, formats, claim language, and source details."],
+      ["routine-guides", "Routine Guides", "Small routines for organizing daily decisions, notes, screen breaks, resets, and review habits."]
+    ];
+
+    categoryOrder.forEach(([id, label, description]) => {
+      const articles = content.articles.filter((article) => article.category === label);
+      const section = create("section", "topic-section");
+      section.id = id;
+      section.append(create("p", "eyebrow", label), create("h2", "", label), create("p", "topic-description", description));
+      if (articles.length) {
+        renderTopicCards(section, articles);
+      } else {
+        section.appendChild(create("p", "", "No published guides in this topic yet."));
+      }
+      root.appendChild(section);
+    });
+
+    const nutrients = [
+      ["iron", "Iron", ["iron"]],
+      ["vitamin-d", "Vitamin D", ["vitamin d"]],
+      ["calcium", "Calcium", ["calcium"]],
+      ["magnesium", "Magnesium", ["magnesium"]],
+      ["potassium", "Potassium", ["potassium"]],
+      ["vitamin-b12", "Vitamin B12", ["vitamin b12", "b12"]],
+      ["folate", "Folate", ["folate", "folic acid"]],
+      ["zinc", "Zinc", ["zinc"]],
+      ["omega-3", "Omega-3", ["omega-3", "ala", "epa", "dha"]],
+      ["fiber", "Fiber", ["fiber"]]
+    ];
+
+    const nutrientWrap = create("section", "topic-section nutrient-hubs");
+    nutrientWrap.id = "nutrient-hubs";
+    nutrientWrap.append(
+      create("p", "eyebrow", "Nutrient hubs"),
+      create("h2", "", "Browse nutrient notes by nutrient."),
+      create("p", "topic-description", "These hubs show published nutrient notes only. They are for reading labels, not for checking symptoms, diagnosing deficiencies, or choosing supplements.")
+    );
+
+    const hubGrid = create("div", "hub-grid");
+    nutrients.forEach(([id, label, keywords]) => {
+      const matches = content.articles.filter((article) => {
+        if (article.category !== "Nutrient Notes") return false;
+        const haystack = `${article.slug} ${article.title} ${article.summary}`.toLowerCase();
+        return keywords.some((keyword) => haystack.includes(keyword));
+      });
+      const hub = create("article", "hub-card");
+      hub.id = `nutrient-${id}`;
+      hub.append(create("h3", "", label));
+      if (matches.length) {
+        const count = create("p", "meta", `${matches.length} published guide${matches.length === 1 ? "" : "s"}`);
+        const links = create("ul", "plain-link-list");
+        matches.forEach((article) => {
+          const item = document.createElement("li");
+          item.appendChild(articleLink(article));
+          links.appendChild(item);
+        });
+        hub.append(count, links);
+      } else {
+        hub.appendChild(create("p", "", "Scheduled for the nutrient series; published guides will appear here automatically."));
+      }
+      hubGrid.appendChild(hub);
+    });
+    nutrientWrap.appendChild(hubGrid);
+    root.prepend(nutrientWrap);
+  }
+
   const questions = [
     {
       key: "focus",
@@ -232,6 +327,7 @@
   }
 
   renderArticleList();
+  renderTopicIndex();
   renderQuiz();
   renderArticleView();
 })();

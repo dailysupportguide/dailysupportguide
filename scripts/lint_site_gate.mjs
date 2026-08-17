@@ -8,6 +8,8 @@ const requiredPages = [
   "about.html",
   "privacy.html",
   "contact.html",
+  "topics.html",
+  "how-to-use.html",
   "editorial-policy.html",
   "sitemap.xml",
   "robots.txt"
@@ -41,6 +43,8 @@ for (const loc of [
   "https://dailysupportguide.com/about.html",
   "https://dailysupportguide.com/privacy.html",
   "https://dailysupportguide.com/contact.html",
+  "https://dailysupportguide.com/topics.html",
+  "https://dailysupportguide.com/how-to-use.html",
   "https://dailysupportguide.com/editorial-policy.html",
   "https://dailysupportguide.com/article.html?slug=serving-size-vs-servings-per-container",
   "https://dailysupportguide.com/article.html?slug=how-to-read-a-serving-size-without-overthinking-it"
@@ -54,7 +58,7 @@ if (!robots.includes("Sitemap: https://dailysupportguide.com/sitemap.xml")) {
 }
 
 const index = fs.readFileSync(path.join(root, "index.html"), "utf8");
-for (const href of ["about.html", "privacy.html", "contact.html", "editorial-policy.html"]) {
+for (const href of ["about.html", "privacy.html", "contact.html", "topics.html", "how-to-use.html", "editorial-policy.html"]) {
   if (!index.includes(`href="${href}"`)) errors.push(`index.html: missing trust footer link to ${href}.`);
 }
 

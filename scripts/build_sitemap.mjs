@@ -36,6 +36,8 @@ const urls = [
   entry(`${site}/about.html`, siteLastmod, "0.6"),
   entry(`${site}/privacy.html`, siteLastmod, "0.5"),
   entry(`${site}/contact.html`, siteLastmod, "0.5"),
+  entry(`${site}/topics.html`, siteLastmod, "0.8"),
+  entry(`${site}/how-to-use.html`, siteLastmod, "0.7"),
   entry(`${site}/editorial-policy.html`, siteLastmod, "0.6"),
   ...content.articles.map((article) =>
     entry(`${site}/article.html?slug=${encodeURIComponent(article.slug)}`, article.date || today, "0.8")
