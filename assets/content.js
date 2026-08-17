@@ -1,6 +1,157 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "package-size-serving-count-cost",
+      "date": "2026-08-17",
+      "category": "Comparison Skills",
+      "title": "Package Size Serving Count: How to Compare Real Cost",
+      "summary": "Compare package size and serving count by separating net amount, serving size, servings per container, total price, and unit price.",
+      "seo": {
+        "seoTitle": "Package Size Serving Count: How to Compare Real Cost | Daily Support Guide",
+        "metaDescription": "Learn package size serving count comparison by checking net amount, serving size, servings per container, total price, and unit price.",
+        "primaryKeyword": "package size serving count",
+        "secondaryKeywords": [
+          "package size serving count guide",
+          "compare package unit price",
+          "cost per serving package size"
+        ],
+        "searchIntent": "informational",
+        "h1": "Package Size Serving Count: How to Compare Real Cost",
+        "h2": [
+          "Start with the net amount",
+          "Add serving size and servings per container",
+          "Remember serving size is not advice",
+          "Use unit price when it is available",
+          "Separate cost per package from cost per serving",
+          "Watch for package-size changes",
+          "A simple comparison note",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare package size serving count?",
+          "What is the difference between unit price and cost per serving?",
+          "When should I keep cost notes separate from nutrition decisions?"
+        ],
+        "internalLinks": [
+          "compare-cost-per-serving",
+          "serving-size-vs-servings-per-container",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A larger package can look like the better deal. A smaller package can look easier to understand. Neither first impression is enough; package size, serving count, and unit price need to be read together."
+        },
+        {
+          "type": "p",
+          "text": "This article explains package size and serving count comparison. It does not rank products, recommend brands, tell readers what to buy, or replace medical advice from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the net amount"
+        },
+        {
+          "type": "p",
+          "text": "NIST packaging and labeling information explains that consumer packages can be labeled by weight, volume, count, or measure. That net amount is the first package-size detail to copy before comparing products."
+        },
+        {
+          "type": "p",
+          "text": "Write down the amount exactly as shown, including the unit. A package may use ounces, grams, fluid ounces, liters, pieces, packets, tablets, capsules, or another count or measure. Numbers without units are easy to misread."
+        },
+        {
+          "type": "h2",
+          "text": "Add serving size and servings per container"
+        },
+        {
+          "type": "p",
+          "text": "FDA serving-size guidance says the Nutrition Facts label shows serving size and servings per container at the top of the label. FDA also says nutrition information is usually based on one serving, though some containers may also show information per package."
+        },
+        {
+          "type": "p",
+          "text": "Copy package size and serving count as separate fields. A package can be larger without using the same serving size as another package. Serving count also depends on how the label defines one serving."
+        },
+        {
+          "type": "h2",
+          "text": "Remember serving size is not advice"
+        },
+        {
+          "type": "p",
+          "text": "FDA says serving sizes are based on the amount people typically consume, not how much they should consume. FDA also says serving size is not a recommendation for how much to eat or drink."
+        },
+        {
+          "type": "p",
+          "text": "That matters for cost notes because cost per serving is not a personal instruction. It is only a way to attach price information to the serving basis shown on the label."
+        },
+        {
+          "type": "h2",
+          "text": "Use unit price when it is available"
+        },
+        {
+          "type": "p",
+          "text": "NIST explains that unit pricing is pricing based on the cost per unit of measure. A unit price label may show product size, total price, and price per unit, such as price per ounce, gram, liter, quart, or another measure."
+        },
+        {
+          "type": "p",
+          "text": "Unit price can help compare packages of different sizes. Check whether the unit is the same across labels, and keep the total package price and package size in the same note."
+        },
+        {
+          "type": "h2",
+          "text": "Separate cost per package from cost per serving"
+        },
+        {
+          "type": "p",
+          "text": "Cost per package is the front price for one package. Cost per serving uses the serving count shown by the label. Unit price uses a unit of measure such as an ounce, gram, liter, or count unit."
+        },
+        {
+          "type": "p",
+          "text": "Those are three different views. None of them needs to crown a winner. They simply show where the numbers differ."
+        },
+        {
+          "type": "h2",
+          "text": "Watch for package-size changes"
+        },
+        {
+          "type": "p",
+          "text": "NIST describes shrinkflation as a situation where consumer products are sold at the same price while contents are reduced. NIST presents unit pricing as a tool that can help compare value when package sizes differ."
+        },
+        {
+          "type": "p",
+          "text": "Keep the lesson narrow: copy the current package size, serving count, unit price if available, and total price. Do not assume that a familiar-looking package contains the same amount as before."
+        },
+        {
+          "type": "h2",
+          "text": "A simple comparison note"
+        },
+        {
+          "type": "p",
+          "text": "Use six fields: package size, unit of measure, servings per container, serving size, total package price, and unit price if shown. If unit price is not shown, write that it is not shown rather than guessing."
+        },
+        {
+          "type": "p",
+          "text": "This note keeps price, package size, and serving count from turning into a product ranking. It also keeps cost information separate from health, nutrition, or personal use decisions."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Package size and serving count are easiest to compare when net amount, serving size, servings per container, total price, and unit price stay in separate fields. These details describe cost, not personal fit. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "directions-for-use-label",
       "date": "2026-08-16",
       "category": "Label Reading",
@@ -3943,7 +4094,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-17",
       "title": "How to Compare Package Size, Serving Count, and Real Cost",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 30,
