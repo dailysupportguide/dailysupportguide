@@ -4389,5 +4389,685 @@
       "approvedAt": "2026-08-17",
       "notes": "Vitamin B12 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude required less templated author voice; revised body rhythm and closing lines received delta PASS from ChatGPT, Gemini, and Claude."
     }
+  },
+  {
+    "day": 31,
+    "date": "2026-10-08",
+    "slug": "folate-dfe-on-labels",
+    "title": "Folate on Labels: What mcg DFE Is Doing There",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "Read folate on labels by keeping mcg DFE, folic acid in parentheses, serving size, percent Daily Value, and source in order.",
+    "seo": {
+      "seoTitle": "Folate on Labels: What mcg DFE Is Doing There | Daily Support Guide",
+      "metaDescription": "Read folate on labels by keeping mcg DFE, folic acid in parentheses, serving size, percent Daily Value, and source in order.",
+      "primaryKeyword": "folate mcg DFE label",
+      "secondaryKeywords": [
+        "folate Daily Value",
+        "folic acid label",
+        "folate Nutrition Facts"
+      ],
+      "searchIntent": "informational",
+      "h1": "Folate on Labels: What mcg DFE Is Doing There",
+      "h2": [
+        "Start with the unit",
+        "Keep parentheses attached",
+        "Use percent Daily Value carefully",
+        "Separate label fields from personal questions"
+      ],
+      "faq": [
+        "What does mcg DFE mean on a folate label?",
+        "What is the Daily Value for folate?",
+        "Why might folic acid appear in parentheses?"
+      ],
+      "internalLinks": [
+        "folate-food-pattern-note",
+        "folate-label-checklist",
+        "folic-acid-wording-on-labels"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for folate/folic acid is 400 mcg DFE.",
+      "FDA folate and folic acid guidance: DFE means dietary folate equivalents.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements folate information: the Daily Value for folate is 400 mcg DFE for adults and children age 4 years and older.",
+      "NIH Office of Dietary Supplements folate information: labels must list folate content in mcg DFE per serving, and if folic acid is added, the label must also list folic acid in mcg in parentheses.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/folate-and-folic-acid-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Folate-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Folate labels ask for careful field work. The unit is not just decoration; it tells you how the label is presenting the number."
+      },
+      {
+        "type": "p",
+        "text": "Start with the source, then copy serving size, folate amount, unit, percent Daily Value, and any folic acid amount shown in parentheses."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the unit"
+      },
+      {
+        "type": "p",
+        "text": "FDA lists the Daily Value for folate/folic acid as 400 mcg DFE. DFE means dietary folate equivalents."
+      },
+      {
+        "type": "p",
+        "text": "Write mcg DFE exactly as shown. Do not shorten the unit to plain mcg if the label uses DFE."
+      },
+      {
+        "type": "h2",
+        "text": "Keep parentheses attached"
+      },
+      {
+        "type": "p",
+        "text": "NIH ODS notes that labels must list folate in mcg DFE per serving. If folic acid is added, the label must also list folic acid in mcg in parentheses."
+      },
+      {
+        "type": "p",
+        "text": "Keep that parenthetical amount beside the folate line. It is part of the label record."
+      },
+      {
+        "type": "h2",
+        "text": "Use percent Daily Value carefully"
+      },
+      {
+        "type": "p",
+        "text": "Percent Daily Value shows how one serving contributes to a daily diet. It does not say what a person needs."
+      },
+      {
+        "type": "p",
+        "text": "If two labels use different serving sizes, write the serving sizes before comparing percentages."
+      },
+      {
+        "type": "h2",
+        "text": "Separate label fields from personal questions"
+      },
+      {
+        "type": "p",
+        "text": "Pregnancy, breastfeeding, medicine use, medical history, and personal nutrition planning do not fit inside a label row."
+      },
+      {
+        "type": "p",
+        "text": "For a label table, the clean row is the point: source, serving size, mcg DFE, folic acid parentheses, percent Daily Value, and the unanswered question. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "gemini": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "claude": "CHANGES REQUIRED for repeated closing-sentence rhythm, then DELTA PASS after author-voice closing revision"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Folate/folic acid cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude required less repetitive closing rhythm; revised closings received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 32,
+    "date": "2026-10-09",
+    "slug": "folate-food-pattern-note",
+    "title": "A Folate Food Pattern Note Without Turning It Into Advice",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "Use a weekly folate note to notice natural-food, enriched-food, and label-record patterns without making a personal rule.",
+    "seo": {
+      "seoTitle": "A Folate Food Pattern Note Without Turning It Into Advice | Daily Support Guide",
+      "metaDescription": "Use a weekly folate note to notice natural-food, enriched-food, and label-record patterns without making a personal rule.",
+      "primaryKeyword": "folate food pattern",
+      "secondaryKeywords": [
+        "folate food note",
+        "folic acid enriched foods",
+        "folate weekly record"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Folate Food Pattern Note Without Turning It Into Advice",
+      "h2": [
+        "Let the week be uneven",
+        "Notice label words",
+        "Write down what is missing",
+        "Keep life-stage questions separate"
+      ],
+      "faq": [
+        "How can I notice folate food patterns?",
+        "What is a folate food note?",
+        "Should a folate note become advice?"
+      ],
+      "internalLinks": [
+        "folate-dfe-on-labels",
+        "folate-label-checklist",
+        "folate-source-comparison"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for folate/folic acid is 400 mcg DFE.",
+      "FDA folate and folic acid guidance: DFE means dietary folate equivalents.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements folate information: the Daily Value for folate is 400 mcg DFE for adults and children age 4 years and older.",
+      "NIH Office of Dietary Supplements folate information: labels must list folate content in mcg DFE per serving, and if folic acid is added, the label must also list folic acid in mcg in parentheses.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/folate-and-folic-acid-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Folate-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Some weeks have neat labels. Some have leftovers, mixed dishes, and meals nobody wrote down until the next morning."
+      },
+      {
+        "type": "p",
+        "text": "That is still usable. A folate note can show where the record is clear and where it is not."
+      },
+      {
+        "type": "h2",
+        "text": "Let the week be uneven"
+      },
+      {
+        "type": "p",
+        "text": "Write the foods and labels that were actually checked. Use words such as often, sometimes, rarely, not checked, and unclear."
+      },
+      {
+        "type": "p",
+        "text": "Do not turn those words into a score. They are only pattern words."
+      },
+      {
+        "type": "h2",
+        "text": "Notice label words"
+      },
+      {
+        "type": "p",
+        "text": "A label may show folate, folic acid, mcg DFE, enriched, fortified, or a percent Daily Value. Copy the words that appear."
+      },
+      {
+        "type": "p",
+        "text": "If the label lists folic acid in parentheses, keep that detail with the same source row."
+      },
+      {
+        "type": "h2",
+        "text": "Write down what is missing"
+      },
+      {
+        "type": "p",
+        "text": "A meal note without a label can still be part of the week. Write no label checked instead of filling in an amount from memory."
+      },
+      {
+        "type": "h2",
+        "text": "Keep life-stage questions separate"
+      },
+      {
+        "type": "p",
+        "text": "Pregnancy, breastfeeding, medical history, medicine use, and personal nutrition plans need individual guidance."
+      },
+      {
+        "type": "p",
+        "text": "A weekly folate record can make the next conversation less foggy, but it should not answer that conversation by itself. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "gemini": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "claude": "CHANGES REQUIRED for repeated closing-sentence rhythm, then DELTA PASS after author-voice closing revision"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Folate/folic acid cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude required less repetitive closing rhythm; revised closings received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 33,
+    "date": "2026-10-10",
+    "slug": "folate-label-checklist",
+    "title": "Folate Label Checklist: DFE, Folic Acid, Percent Daily Value",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "Use a compact folate label checklist for source, serving size, mcg DFE, folic acid in parentheses, and percent Daily Value.",
+    "seo": {
+      "seoTitle": "Folate Label Checklist: DFE, Folic Acid, Percent Daily Value | Daily Support Guide",
+      "metaDescription": "Use a compact folate label checklist for source, serving size, mcg DFE, folic acid in parentheses, and percent Daily Value.",
+      "primaryKeyword": "folate label checklist",
+      "secondaryKeywords": [
+        "folate mcg DFE",
+        "folic acid parentheses",
+        "folate percent Daily Value"
+      ],
+      "searchIntent": "informational",
+      "h1": "Folate Label Checklist: DFE, Folic Acid, Percent Daily Value",
+      "h2": [
+        "Copy the source",
+        "Copy the serving",
+        "Copy mcg DFE",
+        "Copy folic acid parentheses",
+        "Copy percent Daily Value"
+      ],
+      "faq": [
+        "What should I copy from a folate label?",
+        "What does mcg DFE mean?",
+        "Why is folic acid sometimes in parentheses?"
+      ],
+      "internalLinks": [
+        "folate-dfe-on-labels",
+        "folic-acid-wording-on-labels",
+        "folate-source-comparison"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for folate/folic acid is 400 mcg DFE.",
+      "FDA folate and folic acid guidance: DFE means dietary folate equivalents.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements folate information: the Daily Value for folate is 400 mcg DFE for adults and children age 4 years and older.",
+      "NIH Office of Dietary Supplements folate information: labels must list folate content in mcg DFE per serving, and if folic acid is added, the label must also list folic acid in mcg in parentheses.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/folate-and-folic-acid-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Folate-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Use five fields. Source. Serving. mcg DFE. Folic acid parentheses. Percent Daily Value."
+      },
+      {
+        "type": "p",
+        "text": "Short checklist. No guessing."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the source"
+      },
+      {
+        "type": "p",
+        "text": "Write where the number came from: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record. Add the date checked."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the serving"
+      },
+      {
+        "type": "p",
+        "text": "Write the serving size before the folate number. The percent Daily Value belongs to that serving."
+      },
+      {
+        "type": "h2",
+        "text": "Copy mcg DFE"
+      },
+      {
+        "type": "p",
+        "text": "FDA's Daily Value table lists folate/folic acid at 400 mcg DFE. Copy the unit as mcg DFE when that is what the label shows."
+      },
+      {
+        "type": "h2",
+        "text": "Copy folic acid parentheses"
+      },
+      {
+        "type": "p",
+        "text": "If the label lists folic acid in parentheses, copy it on the same line. Do not move it into a separate conclusion."
+      },
+      {
+        "type": "h2",
+        "text": "Copy percent Daily Value"
+      },
+      {
+        "type": "p",
+        "text": "Write the percent Daily Value if it appears. If a field is missing or cut off, write missing or cut off."
+      },
+      {
+        "type": "p",
+        "text": "Stop at the label. Five fields, one source, no personal answer. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "gemini": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "claude": "CHANGES REQUIRED for repeated closing-sentence rhythm, then DELTA PASS after author-voice closing revision"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Folate/folic acid cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude required less repetitive closing rhythm; revised closings received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 34,
+    "date": "2026-10-11",
+    "slug": "folic-acid-wording-on-labels",
+    "title": "Folic Acid Wording on Labels: Keep the Phrase Narrow",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "Read folic acid wording by copying the phrase, checking mcg DFE and parentheses, and avoiding health-promise upgrades.",
+    "seo": {
+      "seoTitle": "Folic Acid Wording on Labels: Keep the Phrase Narrow | Daily Support Guide",
+      "metaDescription": "Read folic acid wording by copying the phrase, checking mcg DFE and parentheses, and avoiding health-promise upgrades.",
+      "primaryKeyword": "folic acid label wording",
+      "secondaryKeywords": [
+        "folic acid claim",
+        "folate claim",
+        "folate good source"
+      ],
+      "searchIntent": "informational",
+      "h1": "Folic Acid Wording on Labels: Keep the Phrase Narrow",
+      "h2": [
+        "Copy the wording exactly",
+        "Check the claim level",
+        "Do not turn wording into a promise",
+        "Keep DFE and folic acid separate"
+      ],
+      "faq": [
+        "What does folic acid wording mean on a label?",
+        "What is a good source of folate claim?",
+        "Can folic acid wording answer personal questions?"
+      ],
+      "internalLinks": [
+        "folate-dfe-on-labels",
+        "folate-label-checklist",
+        "folate-source-comparison"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for folate/folic acid is 400 mcg DFE.",
+      "FDA folate and folic acid guidance: DFE means dietary folate equivalents.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements folate information: the Daily Value for folate is 400 mcg DFE for adults and children age 4 years and older.",
+      "NIH Office of Dietary Supplements folate information: labels must list folate content in mcg DFE per serving, and if folic acid is added, the label must also list folic acid in mcg in parentheses.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/folate-and-folic-acid-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Folate-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The wording matters most before it gets explained. Folic acid, folate, fortified, enriched, good source, and high in are not the same phrase."
+      },
+      {
+        "type": "p",
+        "text": "Copy the phrase first. The interpretation can wait."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the wording exactly"
+      },
+      {
+        "type": "p",
+        "text": "Write the claim as shown, including nearby serving language or qualifiers. Do not smooth the phrase into something stronger."
+      },
+      {
+        "type": "h2",
+        "text": "Check the claim level"
+      },
+      {
+        "type": "p",
+        "text": "Under 21 CFR 101.54, good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount."
+      },
+      {
+        "type": "p",
+        "text": "High, rich in, or excellent source claims generally indicate 20 percent or more. Keep those claim levels apart."
+      },
+      {
+        "type": "h2",
+        "text": "Do not turn wording into a promise"
+      },
+      {
+        "type": "p",
+        "text": "Do not turn folic acid wording into a statement about pregnancy outcomes, blood tests, energy, mood, medical conditions, or a personal plan."
+      },
+      {
+        "type": "p",
+        "text": "If the phrase raises a personal question, leave that question for a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Keep DFE and folic acid separate"
+      },
+      {
+        "type": "p",
+        "text": "The label may list folate in mcg DFE and folic acid in mcg in parentheses. Those are label fields, not a personal instruction."
+      },
+      {
+        "type": "p",
+        "text": "Keep the phrase narrow: claim level, serving basis, mcg DFE, folic acid parentheses, and unanswered question each in its own place. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "gemini": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "claude": "CHANGES REQUIRED for repeated closing-sentence rhythm, then DELTA PASS after author-voice closing revision"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Folate/folic acid cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude required less repetitive closing rhythm; revised closings received delta PASS from ChatGPT, Gemini, and Claude."
+    }
+  },
+  {
+    "day": 35,
+    "date": "2026-10-12",
+    "slug": "folate-source-comparison",
+    "title": "Folate Source Notes When Labels Do Not Match",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "Compare folate source notes by keeping source, serving size, mcg DFE, folic acid parentheses, percent Daily Value, and gaps in separate rows.",
+    "seo": {
+      "seoTitle": "Folate Source Notes When Labels Do Not Match | Daily Support Guide",
+      "metaDescription": "Compare folate source notes by keeping source, serving size, mcg DFE, folic acid parentheses, percent Daily Value, and gaps in separate rows.",
+      "primaryKeyword": "folate source notes",
+      "secondaryKeywords": [
+        "folate label comparison",
+        "folic acid parentheses",
+        "mcg DFE comparison"
+      ],
+      "searchIntent": "informational",
+      "h1": "Folate Source Notes When Labels Do Not Match",
+      "h2": [
+        "Use one row per source",
+        "Keep the unit visible",
+        "Do not merge parentheses",
+        "Write the gap"
+      ],
+      "faq": [
+        "How should I compare folate labels?",
+        "Why should mcg DFE stay visible?",
+        "What if folic acid is missing from one source?"
+      ],
+      "internalLinks": [
+        "folate-dfe-on-labels",
+        "folate-food-pattern-note",
+        "folic-acid-wording-on-labels"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker"
+      ]
+    },
+    "sourceNotes": [
+      "FDA Daily Value guidance: the Daily Value for folate/folic acid is 400 mcg DFE.",
+      "FDA folate and folic acid guidance: DFE means dietary folate equivalents.",
+      "FDA Nutrition Facts guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet.",
+      "NIH Office of Dietary Supplements folate information: the Daily Value for folate is 400 mcg DFE for adults and children age 4 years and older.",
+      "NIH Office of Dietary Supplements folate information: labels must list folate content in mcg DFE per serving, and if folic acid is added, the label must also list folic acid in mcg in parentheses.",
+      "21 CFR 101.54: high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount; good source, contains, or provides claims generally indicate 10 to 19 percent."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-facts-label/folate-and-folic-acid-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Folate-Consumer/",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-D/section-101.54"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Folate rows can look similar until the units stop matching. Keep the source visible, then the comparison has somewhere solid to stand."
+      },
+      {
+        "type": "h2",
+        "text": "Use one row per source"
+      },
+      {
+        "type": "p",
+        "text": "Create a row for each Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record."
+      },
+      {
+        "type": "p",
+        "text": "Add date checked, serving size, folate amount, unit, percent Daily Value, folic acid parentheses, claim wording, and open question."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the unit visible"
+      },
+      {
+        "type": "p",
+        "text": "A row with mcg DFE should not be compared as if it were plain mcg. Copy the unit before comparing amounts."
+      },
+      {
+        "type": "p",
+        "text": "Percent Daily Value also belongs to the serving printed on that source."
+      },
+      {
+        "type": "h2",
+        "text": "Do not merge parentheses"
+      },
+      {
+        "type": "p",
+        "text": "If one source shows folic acid in parentheses and another does not, write the difference. Do not borrow the parenthetical amount from one row to complete another."
+      },
+      {
+        "type": "h2",
+        "text": "Write the gap"
+      },
+      {
+        "type": "p",
+        "text": "Rows cannot decide pregnancy questions, breastfeeding questions, medicine questions, medical questions, or whether a supplement belongs in someone's routine."
+      },
+      {
+        "type": "p",
+        "text": "If a folate comparison matters personally, bring the source record to a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "A folate source note can compare rows without choosing an answer; source, unit, parentheses, percent Daily Value, and gap stay visible. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "gemini": "PASS folate cluster author-voice three-AI review; DELTA PASS after closing voice revision",
+        "claude": "CHANGES REQUIRED for repeated closing-sentence rhythm, then DELTA PASS after author-voice closing revision"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Folate/folic acid cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude required less repetitive closing rhythm; revised closings received delta PASS from ChatGPT, Gemini, and Claude."
+    }
   }
 ]
