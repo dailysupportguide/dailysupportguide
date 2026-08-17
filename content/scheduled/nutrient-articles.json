@@ -5739,5 +5739,660 @@
       "approvedAt": "2026-08-17",
       "notes": "Zinc cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. ChatGPT required Day 38 checklist field-count consistency; revised amount-plus-unit wording received delta PASS. Gemini and Claude returned PASS with no blocking issues."
     }
+  },
+  {
+    "day": 41,
+    "date": "2026-10-18",
+    "slug": "omega-3-labels-ala-epa-dha-separate-lines",
+    "title": "Omega-3 Labels: ALA, EPA, and DHA Need Separate Lines",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "Read omega-3 labels by giving ALA, EPA, DHA, serving size, amount, unit, and claim wording their own places in the note.",
+    "seo": {
+      "seoTitle": "Omega-3 Labels: ALA, EPA, and DHA Need Separate Lines | Daily Support Guide",
+      "metaDescription": "Read omega-3 labels by giving ALA, EPA, DHA, serving size, amount, unit, and claim wording their own places in the note.",
+      "primaryKeyword": "omega-3 labels",
+      "secondaryKeywords": [
+        "ALA EPA DHA label",
+        "omega-3 amount unit",
+        "omega-3 label reading"
+      ],
+      "searchIntent": "informational",
+      "h1": "Omega-3 Labels: ALA, EPA, and DHA Need Separate Lines",
+      "h2": [
+        "Start with the name",
+        "Keep the unit attached",
+        "Check whether percent Daily Value appears",
+        "Leave claims in their own field"
+      ],
+      "faq": [
+        "What should I copy from an omega-3 label?",
+        "Why separate ALA, EPA, and DHA?",
+        "Does an omega-3 label decide what I need?"
+      ],
+      "internalLinks": [
+        "omega-3-food-pattern-note",
+        "omega-3-label-checklist",
+        "omega-3-claim-wording-qualifier"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker",
+        "No heart-health or blood-pressure advice"
+      ]
+    },
+    "sourceNotes": [
+      "NIH Office of Dietary Supplements omega-3 information: omega-3 fatty acids include ALA, EPA, and DHA.",
+      "NIH Office of Dietary Supplements omega-3 information: current Adequate Intakes for omega-3s are listed in grams per day; adult AIs are 1.6 g for males and 1.1 g for females as ALA.",
+      "FDA Daily Value guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet; required Nutrition Facts listings do not include EPA, DHA, or ALA.",
+      "FDA omega-3 nutrient content claim guidance: certain nutrient content claims for DHA and EPA are prohibited; some ALA claim wording has been allowed to remain on the market when tied to a 1.6 g Daily Value for ALA.",
+      "FDA EPA/DHA qualified health claim update: qualified claims require qualifying language because FDA concluded the evidence for listed blood-pressure and coronary-heart-disease wording is inconsistent and inconclusive."
+    ],
+    "sourceUrls": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/media/95996/download",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-announces-new-qualified-health-claims-epa-and-dha-omega-3-consumption-and-risk-hypertension-and"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Omega-3 is not one tidy label field. Start by naming the part of the family the label is actually showing."
+      },
+      {
+        "type": "p",
+        "text": "A table works well here: one line for ALA, one for EPA, one for DHA, and one for any combined EPA plus DHA amount."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the name"
+      },
+      {
+        "type": "p",
+        "text": "Write the exact nutrient name first. If the panel says ALA, write ALA. If it says EPA, DHA, or EPA and DHA combined, copy that phrase before adding any note of your own."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the unit attached"
+      },
+      {
+        "type": "p",
+        "text": "Copy the amount and unit in the same cell. Milligrams and grams should not drift apart from the number they belong to."
+      },
+      {
+        "type": "h2",
+        "text": "Check whether percent Daily Value appears"
+      },
+      {
+        "type": "p",
+        "text": "FDA's Daily Value table does not list EPA, DHA, or ALA as required Nutrition Facts nutrients. If a percent appears, write the label phrase that explains it."
+      },
+      {
+        "type": "p",
+        "text": "For ALA claim wording, FDA guidance discusses a 1.6 g Daily Value for ALA. Keep that row away from EPA and DHA rows."
+      },
+      {
+        "type": "h2",
+        "text": "Leave claims in their own field"
+      },
+      {
+        "type": "p",
+        "text": "Heart, blood pressure, or wellness wording belongs in a claim field, not in the amount field."
+      },
+      {
+        "type": "p",
+        "text": "The cleanest note is the one that shows what was verified and what was not. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS initial omega-3 cluster review; DELTA PASS after post-polish author-voice revision",
+        "gemini": "DELTA PASS post-polish omega-3 cluster review with no blocking issues",
+        "claude": "CHANGES REQUIRED for author-voice sameness and Day 43 title accuracy, then DELTA PASS after human-polish revision; remaining notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Omega-3 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude initially required stronger author-voice differentiation and Day 43 title accuracy; post-polish quick re-review returned DELTA PASS from ChatGPT, Gemini, and Claude. Claude's remaining Day 43 title and closing-rhythm comments were non-blocking and reserved for a later final voice sweep."
+    }
+  },
+  {
+    "day": 42,
+    "date": "2026-10-19",
+    "slug": "omega-3-food-pattern-note",
+    "title": "Omega-3 Food Patterns Without Chasing a Perfect Week",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "Use an omega-3 food pattern note to record what showed up during the week, what stayed hard to verify, and what can wait.",
+    "seo": {
+      "seoTitle": "Omega-3 Food Patterns Without Chasing a Perfect Week | Daily Support Guide",
+      "metaDescription": "Use an omega-3 food pattern note to record what showed up during the week, what stayed hard to verify, and what can wait.",
+      "primaryKeyword": "omega-3 food pattern",
+      "secondaryKeywords": [
+        "omega-3 weekly note",
+        "ALA EPA DHA foods",
+        "omega-3 intake pattern"
+      ],
+      "searchIntent": "informational",
+      "h1": "Omega-3 Food Patterns Without Chasing a Perfect Week",
+      "h2": [
+        "Use ordinary meal notes",
+        "Mark what the source cannot show",
+        "Keep personal questions open",
+        "Let one week be one week"
+      ],
+      "faq": [
+        "How do I write an omega-3 food pattern note?",
+        "What if I cannot verify EPA or DHA?",
+        "Can a food note tell me what to take?"
+      ],
+      "internalLinks": [
+        "omega-3-labels-ala-epa-dha-separate-lines",
+        "omega-3-label-checklist",
+        "omega-3-source-comparison-units"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker",
+        "No heart-health or blood-pressure advice"
+      ]
+    },
+    "sourceNotes": [
+      "NIH Office of Dietary Supplements omega-3 information: omega-3 fatty acids include ALA, EPA, and DHA.",
+      "NIH Office of Dietary Supplements omega-3 information: current Adequate Intakes for omega-3s are listed in grams per day; adult AIs are 1.6 g for males and 1.1 g for females as ALA.",
+      "FDA Daily Value guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet; required Nutrition Facts listings do not include EPA, DHA, or ALA.",
+      "FDA omega-3 nutrient content claim guidance: certain nutrient content claims for DHA and EPA are prohibited; some ALA claim wording has been allowed to remain on the market when tied to a 1.6 g Daily Value for ALA.",
+      "FDA EPA/DHA qualified health claim update: qualified claims require qualifying language because FDA concluded the evidence for listed blood-pressure and coronary-heart-disease wording is inconsistent and inconclusive."
+    ],
+    "sourceUrls": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/media/95996/download",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-announces-new-qualified-health-claims-epa-and-dha-omega-3-consumption-and-risk-hypertension-and"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Some weeks have neat labels. Some weeks have leftovers, shared dishes, and food that never came with a panel."
+      },
+      {
+        "type": "p",
+        "text": "For omega-3, that is still usable information."
+      },
+      {
+        "type": "h2",
+        "text": "Use ordinary meal notes"
+      },
+      {
+        "type": "p",
+        "text": "Write what appeared during the week. Use words such as often, sometimes, rarely, not checked, and unclear."
+      },
+      {
+        "type": "p",
+        "text": "If a food has no label or no omega-3 line, let the blank stay visible. You do not have to repair it from memory."
+      },
+      {
+        "type": "h2",
+        "text": "Mark what the source cannot show"
+      },
+      {
+        "type": "p",
+        "text": "One source may show total omega-3. Another may separate ALA, EPA, and DHA. Another may show none of those names at all."
+      },
+      {
+        "type": "p",
+        "text": "A weekly note can hold those uneven pieces without forcing them into a false match."
+      },
+      {
+        "type": "h2",
+        "text": "Keep personal questions open"
+      },
+      {
+        "type": "p",
+        "text": "This kind of note should not become heart advice, blood pressure advice, supplement advice, or a rule about what belongs in your routine."
+      },
+      {
+        "type": "h2",
+        "text": "Let one week be one week"
+      },
+      {
+        "type": "p",
+        "text": "Bring the pattern forward if it still feels worth asking about later. There is no need to make the week carry more than it can. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS initial omega-3 cluster review; DELTA PASS after post-polish author-voice revision",
+        "gemini": "DELTA PASS post-polish omega-3 cluster review with no blocking issues",
+        "claude": "CHANGES REQUIRED for author-voice sameness and Day 43 title accuracy, then DELTA PASS after human-polish revision; remaining notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Omega-3 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude initially required stronger author-voice differentiation and Day 43 title accuracy; post-polish quick re-review returned DELTA PASS from ChatGPT, Gemini, and Claude. Claude's remaining Day 43 title and closing-rhythm comments were non-blocking and reserved for a later final voice sweep."
+    }
+  },
+  {
+    "day": 43,
+    "date": "2026-10-20",
+    "slug": "omega-3-label-checklist",
+    "title": "Omega-3 Label Checklist: Name, Amount, Claim",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "Copy an omega-3 label in six fields: source, serving, omega-3 name, amount plus unit, claim wording, and open question.",
+    "seo": {
+      "seoTitle": "Omega-3 Label Checklist: Name, Amount, Claim | Daily Support Guide",
+      "metaDescription": "Copy an omega-3 label by separating the source, serving, omega-3 name, amount plus unit, claim wording, and open question.",
+      "primaryKeyword": "omega-3 label checklist",
+      "secondaryKeywords": [
+        "EPA DHA label amount",
+        "ALA label amount",
+        "omega-3 serving size"
+      ],
+      "searchIntent": "informational",
+      "h1": "Omega-3 Label Checklist: Name, Amount, Claim",
+      "h2": [
+        "Source",
+        "Serving",
+        "Omega-3 name",
+        "Amount plus unit",
+        "Claim wording",
+        "Open question"
+      ],
+      "faq": [
+        "What fields belong in an omega-3 label note?",
+        "Should I combine EPA and DHA?",
+        "What should I do with a missing omega-3 amount?"
+      ],
+      "internalLinks": [
+        "omega-3-labels-ala-epa-dha-separate-lines",
+        "omega-3-food-pattern-note",
+        "omega-3-claim-wording-qualifier"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker",
+        "No heart-health or blood-pressure advice"
+      ]
+    },
+    "sourceNotes": [
+      "NIH Office of Dietary Supplements omega-3 information: omega-3 fatty acids include ALA, EPA, and DHA.",
+      "NIH Office of Dietary Supplements omega-3 information: current Adequate Intakes for omega-3s are listed in grams per day; adult AIs are 1.6 g for males and 1.1 g for females as ALA.",
+      "FDA Daily Value guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet; required Nutrition Facts listings do not include EPA, DHA, or ALA.",
+      "FDA omega-3 nutrient content claim guidance: certain nutrient content claims for DHA and EPA are prohibited; some ALA claim wording has been allowed to remain on the market when tied to a 1.6 g Daily Value for ALA.",
+      "FDA EPA/DHA qualified health claim update: qualified claims require qualifying language because FDA concluded the evidence for listed blood-pressure and coronary-heart-disease wording is inconsistent and inconclusive."
+    ],
+    "sourceUrls": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/media/95996/download",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-announces-new-qualified-health-claims-epa-and-dha-omega-3-consumption-and-risk-hypertension-and"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Six fields. No shortcuts."
+      },
+      {
+        "type": "h2",
+        "text": "Source"
+      },
+      {
+        "type": "p",
+        "text": "Write where the line came from: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record. Add the date checked."
+      },
+      {
+        "type": "h2",
+        "text": "Serving"
+      },
+      {
+        "type": "p",
+        "text": "Copy the serving size connected to the omega-3 amount. Put it before the number."
+      },
+      {
+        "type": "h2",
+        "text": "Omega-3 name"
+      },
+      {
+        "type": "p",
+        "text": "Write ALA, EPA, DHA, total omega-3, or EPA and DHA combined. Use the label's phrase."
+      },
+      {
+        "type": "h2",
+        "text": "Amount plus unit"
+      },
+      {
+        "type": "p",
+        "text": "Copy the amount with mg or g. Do not compare two labels until the units match."
+      },
+      {
+        "type": "h2",
+        "text": "Claim wording"
+      },
+      {
+        "type": "p",
+        "text": "Copy any heart, blood pressure, or wellness phrase into its own line. Do not rewrite it as advice."
+      },
+      {
+        "type": "h2",
+        "text": "Open question"
+      },
+      {
+        "type": "p",
+        "text": "Choose one gap to carry forward: missing amount, mixed unit, unclear source, combined EPA and DHA, or personal question for a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "Stop there. The checklist has done its job. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS initial omega-3 cluster review; DELTA PASS after post-polish author-voice revision",
+        "gemini": "DELTA PASS post-polish omega-3 cluster review with no blocking issues",
+        "claude": "CHANGES REQUIRED for author-voice sameness and Day 43 title accuracy, then DELTA PASS after human-polish revision; remaining notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Omega-3 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude initially required stronger author-voice differentiation and Day 43 title accuracy; post-polish quick re-review returned DELTA PASS from ChatGPT, Gemini, and Claude. Claude's remaining Day 43 title and closing-rhythm comments were non-blocking and reserved for a later final voice sweep."
+    }
+  },
+  {
+    "day": 44,
+    "date": "2026-10-21",
+    "slug": "omega-3-claim-wording-qualifier",
+    "title": "Omega-3 Claim Wording: Read the Qualifier First",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "Read omega-3 claim wording by keeping the qualifier, serving basis, EPA and DHA amount, and claim boundary together.",
+    "seo": {
+      "seoTitle": "Omega-3 Claim Wording: Read the Qualifier First | Daily Support Guide",
+      "metaDescription": "Read omega-3 claim wording by keeping the qualifier, serving basis, EPA and DHA amount, and claim boundary together.",
+      "primaryKeyword": "omega-3 claim wording",
+      "secondaryKeywords": [
+        "EPA DHA qualified claim",
+        "omega-3 heart wording",
+        "omega-3 label claim"
+      ],
+      "searchIntent": "informational",
+      "h1": "Omega-3 Claim Wording: Read the Qualifier First",
+      "h2": [
+        "The qualifier belongs in the note",
+        "Amount and serving still matter",
+        "Do not upgrade the statement",
+        "Keep ALA claims separate"
+      ],
+      "faq": [
+        "What is an omega-3 qualified claim?",
+        "Can an omega-3 claim become personal advice?",
+        "Why keep ALA separate from EPA and DHA?"
+      ],
+      "internalLinks": [
+        "omega-3-labels-ala-epa-dha-separate-lines",
+        "omega-3-label-checklist",
+        "omega-3-source-comparison-units"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker",
+        "No heart-health or blood-pressure advice"
+      ]
+    },
+    "sourceNotes": [
+      "NIH Office of Dietary Supplements omega-3 information: omega-3 fatty acids include ALA, EPA, and DHA.",
+      "NIH Office of Dietary Supplements omega-3 information: current Adequate Intakes for omega-3s are listed in grams per day; adult AIs are 1.6 g for males and 1.1 g for females as ALA.",
+      "FDA Daily Value guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet; required Nutrition Facts listings do not include EPA, DHA, or ALA.",
+      "FDA omega-3 nutrient content claim guidance: certain nutrient content claims for DHA and EPA are prohibited; some ALA claim wording has been allowed to remain on the market when tied to a 1.6 g Daily Value for ALA.",
+      "FDA EPA/DHA qualified health claim update: qualified claims require qualifying language because FDA concluded the evidence for listed blood-pressure and coronary-heart-disease wording is inconsistent and inconclusive."
+    ],
+    "sourceUrls": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/media/95996/download",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-announces-new-qualified-health-claims-epa-and-dha-omega-3-consumption-and-risk-hypertension-and"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A qualifier can change the weight of a claim. On omega-3 labels, it should be copied with the claim, not treated as fine print."
+      },
+      {
+        "type": "h2",
+        "text": "The qualifier belongs in the note"
+      },
+      {
+        "type": "p",
+        "text": "FDA's EPA and DHA qualified claim update uses qualifying language because the agency found the evidence described there inconsistent and inconclusive."
+      },
+      {
+        "type": "p",
+        "text": "Copy that limiting language next to the claim. A separated qualifier is easy to miss later."
+      },
+      {
+        "type": "h2",
+        "text": "Amount and serving still matter"
+      },
+      {
+        "type": "p",
+        "text": "A claim line should point back to a serving and an amount. Write EPA and DHA combined only when the label combines them."
+      },
+      {
+        "type": "h2",
+        "text": "Do not upgrade the statement"
+      },
+      {
+        "type": "p",
+        "text": "Omega-3 wording should not be rewritten into heart advice, blood pressure advice, treatment language, prevention language, or a personal plan."
+      },
+      {
+        "type": "p",
+        "text": "The safer edit is usually the smaller one: copy the words, keep the qualifier, and resist making the statement smoother than it is."
+      },
+      {
+        "type": "h2",
+        "text": "Keep ALA claims separate"
+      },
+      {
+        "type": "p",
+        "text": "FDA omega-3 claim guidance treats ALA claim wording differently from DHA and EPA claim wording. A single claim note should not blur those categories."
+      },
+      {
+        "type": "p",
+        "text": "Careful wording does not make a claim stronger. It keeps the reader from doing that by accident. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS initial omega-3 cluster review; DELTA PASS after post-polish author-voice revision",
+        "gemini": "DELTA PASS post-polish omega-3 cluster review with no blocking issues",
+        "claude": "CHANGES REQUIRED for author-voice sameness and Day 43 title accuracy, then DELTA PASS after human-polish revision; remaining notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Omega-3 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude initially required stronger author-voice differentiation and Day 43 title accuracy; post-polish quick re-review returned DELTA PASS from ChatGPT, Gemini, and Claude. Claude's remaining Day 43 title and closing-rhythm comments were non-blocking and reserved for a later final voice sweep."
+    }
+  },
+  {
+    "day": 45,
+    "date": "2026-10-22",
+    "slug": "omega-3-source-comparison-units",
+    "title": "Omega-3 Source Notes Without Mixing Units",
+    "category": "Nutrient Notes",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "Compare omega-3 source notes by keeping source, serving, ALA, EPA, DHA, units, claim wording, and unresolved gaps in view.",
+    "seo": {
+      "seoTitle": "Omega-3 Source Notes Without Mixing Units | Daily Support Guide",
+      "metaDescription": "Compare omega-3 source notes by keeping source, serving, ALA, EPA, DHA, units, claim wording, and unresolved gaps in view.",
+      "primaryKeyword": "omega-3 source notes",
+      "secondaryKeywords": [
+        "omega-3 comparison note",
+        "ALA EPA DHA comparison",
+        "omega-3 units mg g"
+      ],
+      "searchIntent": "informational",
+      "h1": "Omega-3 Source Notes Without Mixing Units",
+      "h2": [
+        "Use one row per source",
+        "Separate the omega-3 names",
+        "Convert only after copying",
+        "Write the gap"
+      ],
+      "faq": [
+        "How should I compare omega-3 labels?",
+        "Can I compare mg and g directly?",
+        "Can omega-3 notes choose a source?"
+      ],
+      "internalLinks": [
+        "omega-3-labels-ala-epa-dha-separate-lines",
+        "omega-3-food-pattern-note",
+        "omega-3-claim-wording-qualifier"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand names",
+        "No affiliate links",
+        "No product recommendations",
+        "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+        "No symptom-to-nutrient deficiency checker",
+        "No heart-health or blood-pressure advice"
+      ]
+    },
+    "sourceNotes": [
+      "NIH Office of Dietary Supplements omega-3 information: omega-3 fatty acids include ALA, EPA, and DHA.",
+      "NIH Office of Dietary Supplements omega-3 information: current Adequate Intakes for omega-3s are listed in grams per day; adult AIs are 1.6 g for males and 1.1 g for females as ALA.",
+      "FDA Daily Value guidance: percent Daily Value shows how much a nutrient in one serving contributes to a daily diet; required Nutrition Facts listings do not include EPA, DHA, or ALA.",
+      "FDA omega-3 nutrient content claim guidance: certain nutrient content claims for DHA and EPA are prohibited; some ALA claim wording has been allowed to remain on the market when tied to a 1.6 g Daily Value for ALA.",
+      "FDA EPA/DHA qualified health claim update: qualified claims require qualifying language because FDA concluded the evidence for listed blood-pressure and coronary-heart-disease wording is inconsistent and inconclusive."
+    ],
+    "sourceUrls": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/",
+      "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels",
+      "https://www.fda.gov/media/95996/download",
+      "https://www.fda.gov/food/hfp-constituent-updates/fda-announces-new-qualified-health-claims-epa-and-dha-omega-3-consumption-and-risk-hypertension-and"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Put the source in the first column. Without that, an omega-3 comparison starts looking cleaner than it really is."
+      },
+      {
+        "type": "h2",
+        "text": "Use one row per source"
+      },
+      {
+        "type": "p",
+        "text": "Create one row for each Nutrition Facts panel, Supplement Facts panel, label photo, product page, or meal record. Add the date checked."
+      },
+      {
+        "type": "p",
+        "text": "A row without a source can stay in the draft, but mark it lightly."
+      },
+      {
+        "type": "h2",
+        "text": "Separate the omega-3 names"
+      },
+      {
+        "type": "p",
+        "text": "Use separate fields for ALA, EPA, DHA, total omega-3, and EPA plus DHA. If the label does not show one of them, leave that field blank."
+      },
+      {
+        "type": "h2",
+        "text": "Convert only after copying"
+      },
+      {
+        "type": "p",
+        "text": "Copy mg or g exactly first. If you convert later, label the converted line so the original value remains traceable."
+      },
+      {
+        "type": "p",
+        "text": "A milligram row and a gram row can sit beside each other. They should not be compared until the unit line matches."
+      },
+      {
+        "type": "h2",
+        "text": "Write the gap"
+      },
+      {
+        "type": "p",
+        "text": "The gap might be a missing EPA number, a combined EPA and DHA number, no percent Daily Value, or a qualified claim without an amount beside it."
+      },
+      {
+        "type": "p",
+        "text": "Keep the comparison modest: fields, sources, units, gaps. No winner. No personal answer. This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS initial omega-3 cluster review; DELTA PASS after post-polish author-voice revision",
+        "gemini": "DELTA PASS post-polish omega-3 cluster review with no blocking issues",
+        "claude": "CHANGES REQUIRED for author-voice sameness and Day 43 title accuracy, then DELTA PASS after human-polish revision; remaining notes non-blocking"
+      },
+      "grokRequired": false,
+      "approvedAt": "2026-08-17",
+      "notes": "Omega-3 cluster reviewed for author voice, reduced AI-style wording, nutrient-series safety, compliance, factual accuracy, SEO clarity, and editorial quality. Claude initially required stronger author-voice differentiation and Day 43 title accuracy; post-polish quick re-review returned DELTA PASS from ChatGPT, Gemini, and Claude. Claude's remaining Day 43 title and closing-rhythm comments were non-blocking and reserved for a later final voice sweep."
+    }
   }
 ]
