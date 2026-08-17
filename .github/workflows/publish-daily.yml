@@ -31,7 +31,7 @@ jobs:
           else
             git config user.name "daily-publisher"
             git config user.email "actions@github.com"
-            git add assets/content.js content/scheduled/articles.json sitemap.xml robots.txt
+            git add assets/content.js content/scheduled/articles.json content/scheduled/nutrient-articles.json sitemap.xml robots.txt
             git commit -m "Publish due approved article"
             git push
           fi

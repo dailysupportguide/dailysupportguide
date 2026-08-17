@@ -1,6 +1,603 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "iron-label-line-comparison",
+      "date": "2026-08-17",
+      "category": "Nutrient Notes",
+      "title": "Comparing Two Iron Label Lines Without Picking a Product",
+      "summary": "Learn how to compare two iron label lines by keeping source, serving size, amount, percent Daily Value, claim wording, and open questions separate.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Comparing Two Iron Label Lines Without Picking a Product | Daily Support Guide",
+        "metaDescription": "Learn how to compare two iron label lines by keeping source, serving size, amount, percent Daily Value, claim wording, and questions separate.",
+        "primaryKeyword": "iron label comparison",
+        "secondaryKeywords": [
+          "compare iron labels",
+          "iron label notes",
+          "iron Daily Value comparison"
+        ],
+        "searchIntent": "informational",
+        "h1": "Comparing Two Iron Label Lines Without Picking a Product",
+        "h2": [
+          "Put the source in the first row",
+          "Use one row per label",
+          "Keep claim wording out of the amount field",
+          "Write what the comparison cannot decide",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare two iron label lines?",
+          "Why should claim wording and amounts stay separate?",
+          "When should an iron label comparison stop?"
+        ],
+        "internalLinks": [
+          "iron-on-labels-what-to-copy",
+          "short-iron-intake-note",
+          "high-in-iron-claims"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, dose, cure, or prevention claims",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Put the source in the first row. A label photo, Nutrition Facts panel, Supplement Facts panel, product page, and meal note do not all carry the same level of detail."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Theo Grant as a comparison note. It does not rank products, recommend iron supplements, identify deficiency, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Put the source in the first row"
+        },
+        {
+          "type": "p",
+          "text": "Start the comparison with source and date checked. Then add serving size, iron amount, unit, percent Daily Value, claim wording, and what is not shown."
+        },
+        {
+          "type": "p",
+          "text": "Keeping the source visible prevents a later note from sounding more certain than the material you actually saw."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per label"
+        },
+        {
+          "type": "p",
+          "text": "Use one row for each label. Do not combine two labels into one sentence until the fields are filled."
+        },
+        {
+          "type": "p",
+          "text": "The row can be plain: source, serving size, iron mg, percent Daily Value, claim wording, missing details, open question."
+        },
+        {
+          "type": "h2",
+          "text": "Keep claim wording out of the amount field"
+        },
+        {
+          "type": "p",
+          "text": "A claim such as \"high in iron\" belongs in the claim field. The iron amount and percent Daily Value belong in the amount field."
+        },
+        {
+          "type": "p",
+          "text": "FDA guidance explains percent Daily Value as the nutrient contribution from one serving. Federal nutrient content claim rules give defined meanings to claims such as high and good source. Keep those ideas connected but separate."
+        },
+        {
+          "type": "h2",
+          "text": "Write what the comparison cannot decide"
+        },
+        {
+          "type": "p",
+          "text": "An iron label comparison cannot decide whether a person needs more iron, less iron, a lab test, a supplement, or a treatment plan."
+        },
+        {
+          "type": "p",
+          "text": "If the comparison connects to anemia, pregnancy, heavy menstrual bleeding, digestive conditions, medication use, surgery, or a personal nutrition plan, leave the question open and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "Finish with the source visible"
+        },
+        {
+          "type": "p",
+          "text": "Two iron label lines are easier to compare when source, serving size, amount, unit, percent Daily Value, claim wording, and open questions stay in separate rows. If the source is thin, the conclusion should be thin too. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "high-in-iron-claims",
+      "date": "2026-08-17",
+      "category": "Nutrient Notes",
+      "title": "\"High in Iron\" Claims: What the Words Do and Do Not Say",
+      "summary": "Learn how to read high in iron claims by copying exact wording, checking percent Daily Value, and avoiding personal health conclusions.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "\"High in Iron\" Claims: What the Words Do and Do Not Say | Daily Support Guide",
+        "metaDescription": "Learn how to read high in iron claims by copying exact wording, checking percent Daily Value, and avoiding personal health conclusions.",
+        "primaryKeyword": "high in iron claims",
+        "secondaryKeywords": [
+          "iron nutrient content claim",
+          "excellent source of iron",
+          "good source of iron"
+        ],
+        "searchIntent": "informational",
+        "h1": "\"High in Iron\" Claims: What the Words Do and Do Not Say",
+        "h2": [
+          "Copy the claim before interpreting it",
+          "Check whether the wording points to a nutrient content claim",
+          "Read the percent Daily Value",
+          "Do not upgrade the claim",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What does a high in iron claim tell me?",
+          "Why should claim wording and percent Daily Value stay separate?",
+          "When should iron claim questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "iron-on-labels-what-to-copy",
+          "short-iron-intake-note",
+          "iron-label-line-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, dose, cure, or prevention claims",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The wording matters. \"High in iron\" is a label phrase to copy, not a personal conclusion to make."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by June Carter as a wording review. It does not identify iron deficiency, recommend products, or decide whether a food or supplement is appropriate for a person."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the claim before interpreting it"
+        },
+        {
+          "type": "p",
+          "text": "Write the claim exactly as shown. Include nearby qualifiers, asterisks, serving language, or small print if they appear with the phrase."
+        },
+        {
+          "type": "p",
+          "text": "Do not shorten \"high in iron\" into \"good for iron levels\" or any phrase about what will happen in a body. That would upgrade the claim."
+        },
+        {
+          "type": "h2",
+          "text": "Check whether the wording points to a nutrient content claim"
+        },
+        {
+          "type": "p",
+          "text": "Federal nutrient content claim rules describe terms such as high, rich in, excellent source, good source, contains, and provides. Those words point to nutrient levels under defined conditions."
+        },
+        {
+          "type": "p",
+          "text": "For ordinary notes, the task is modest: copy the claim, then check the label field it points toward."
+        },
+        {
+          "type": "h2",
+          "text": "Read the percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount. Good source, contains, or provides claims generally indicate 10 to 19 percent."
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists iron at 18 mg for adults and children 4 years and older. The percent Daily Value helps read the claim, but it does not answer personal intake questions."
+        },
+        {
+          "type": "h2",
+          "text": "Do not upgrade the claim"
+        },
+        {
+          "type": "p",
+          "text": "A nutrient content claim is not a medical conclusion, treatment claim, or instruction. Do not turn it into a statement about anemia, fatigue, pregnancy needs, blood tests, or what belongs in someone's plan."
+        },
+        {
+          "type": "p",
+          "text": "If personal factors are involved, the claim should stay in the label note and the personal question should go to a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the claim in its lane"
+        },
+        {
+          "type": "p",
+          "text": "\"High in iron\" claims are easier to read when exact wording, percent Daily Value, serving basis, and open questions stay separate. The phrase belongs to the label. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "short-iron-intake-note",
+      "date": "2026-08-17",
+      "category": "Nutrient Notes",
+      "title": "A Short Iron Intake Note: Five Fields to Fill",
+      "summary": "Use a five-field iron intake note to copy source, serving size, iron amount, percent Daily Value, and the question that remains.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "A Short Iron Intake Note: Five Fields to Fill | Daily Support Guide",
+        "metaDescription": "Use a five-field iron intake note to copy source, serving size, iron amount, percent Daily Value, and the question that remains.",
+        "primaryKeyword": "iron intake note",
+        "secondaryKeywords": [
+          "iron note sheet",
+          "iron label checklist",
+          "iron intake question"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Short Iron Intake Note: Five Fields to Fill",
+        "h2": [
+          "Field 1: source",
+          "Field 2: serving size",
+          "Field 3: iron amount",
+          "Field 4: percent Daily Value",
+          "Field 5: open question"
+        ],
+        "faq": [
+          "What belongs in a short iron intake note?",
+          "Why should the source and serving size come first?",
+          "When should an iron note stop at an open question?"
+        ],
+        "internalLinks": [
+          "iron-on-labels-what-to-copy",
+          "iron-food-pattern-week",
+          "iron-label-line-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, dose, cure, or prevention claims",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Use five fields. Keep them short. Do not turn the note into a verdict."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Eli Brooks as a checklist. It does not identify iron deficiency, recommend iron products, give dose advice, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Field 1: source"
+        },
+        {
+          "type": "p",
+          "text": "Write where the information came from: Nutrition Facts label, Supplement Facts panel, meal note, product page, or package photo."
+        },
+        {
+          "type": "p",
+          "text": "If the source is unclear, write \"source unclear.\" Do not clean it up."
+        },
+        {
+          "type": "h2",
+          "text": "Field 2: serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size. If servings per container matters, copy that too."
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that percent Daily Value is tied to one serving. The serving field keeps the rest of the note from floating loose."
+        },
+        {
+          "type": "h2",
+          "text": "Field 3: iron amount"
+        },
+        {
+          "type": "p",
+          "text": "Copy the iron amount and unit. Iron is usually shown in milligrams on food labels."
+        },
+        {
+          "type": "p",
+          "text": "If the amount is not shown, write \"iron amount not shown.\" Do not guess from a similar food."
+        },
+        {
+          "type": "h2",
+          "text": "Field 4: percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Copy the percent Daily Value when it appears. FDA Daily Value guidance lists iron at 18 mg for adults and children 4 years and older."
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value helps read the label. It does not decide whether the amount is right for a person."
+        },
+        {
+          "type": "h2",
+          "text": "Field 5: open question"
+        },
+        {
+          "type": "p",
+          "text": "End with one question. Examples: full panel not visible, serving size unclear, iron food pattern rarely appears, or personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "Stop there. Do not add a supplement idea, product name, dose, or self-label."
+        },
+        {
+          "type": "h2",
+          "text": "Stop after the fifth field"
+        },
+        {
+          "type": "p",
+          "text": "A short iron intake note works when it records source, serving size, iron amount, percent Daily Value, and one open question. Five fields. No product name, no dose, no self-label. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "iron-food-pattern-week",
+      "date": "2026-08-17",
+      "category": "Nutrient Notes",
+      "title": "When Iron-Rich Foods Rarely Show Up in a Week",
+      "summary": "Learn how to notice iron food patterns across a week without turning a food log into a deficiency conclusion or supplement decision.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "When Iron-Rich Foods Rarely Show Up in a Week | Daily Support Guide",
+        "metaDescription": "Learn how to notice iron food patterns across a week without turning a food log into a deficiency conclusion or supplement decision.",
+        "primaryKeyword": "iron food pattern",
+        "secondaryKeywords": [
+          "iron-rich foods week",
+          "iron intake pattern",
+          "food pattern note iron"
+        ],
+        "searchIntent": "informational",
+        "h1": "When Iron-Rich Foods Rarely Show Up in a Week",
+        "h2": [
+          "Use a short week, not a perfect log",
+          "Notice what appears often, sometimes, or rarely",
+          "Keep food patterns separate from symptoms",
+          "Write the question gently",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How can I notice iron food patterns in a week?",
+          "Why should food patterns stay separate from symptoms?",
+          "When should iron questions be discussed with a licensed professional?"
+        ],
+        "internalLinks": [
+          "iron-on-labels-what-to-copy",
+          "short-iron-intake-note",
+          "iron-label-line-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, dose, cure, or prevention claims",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "It helps to look at a few ordinary meals before trying to explain anything. A week of notes can show whether iron-containing foods show up often, sometimes, rarely, or in ways that are hard to tell from memory."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Nora Vale as a food-pattern note. It does not identify iron deficiency, list symptoms as proof, recommend supplements, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Use a short week, not a perfect log"
+        },
+        {
+          "type": "p",
+          "text": "Choose three to seven ordinary days. Write quick meal notes, not a polished food diary. The point is to see a pattern, not to grade the week."
+        },
+        {
+          "type": "p",
+          "text": "A small record is enough: meal, main foods, any label checked, and an open question if the food source is unclear."
+        },
+        {
+          "type": "h2",
+          "text": "Notice what appears often, sometimes, or rarely"
+        },
+        {
+          "type": "p",
+          "text": "NIH consumer information describes iron as present in many foods and notes that iron comes in heme and nonheme forms. For a household note, the first step is not to calculate everything. It is to see what foods are actually appearing."
+        },
+        {
+          "type": "p",
+          "text": "Use plain buckets: often, sometimes, rarely, and unclear. Those words keep the note humble."
+        },
+        {
+          "type": "h2",
+          "text": "Keep food patterns separate from symptoms"
+        },
+        {
+          "type": "p",
+          "text": "Do not use this article as a symptom checker. Tiredness, weakness, dizziness, or any other body change can have many explanations and should not be pinned to iron from a food note."
+        },
+        {
+          "type": "p",
+          "text": "If symptoms, anemia history, heavy menstrual bleeding, pregnancy, digestive conditions, or medication use are part of the question, follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "Write the question gently"
+        },
+        {
+          "type": "p",
+          "text": "A useful question might be, \"Iron-rich foods rarely showed up this week; is this worth discussing?\" That is different from writing, \"I must be low in iron.\""
+        },
+        {
+          "type": "p",
+          "text": "You do not have to decide today. A careful note can simply make the next professional conversation easier."
+        },
+        {
+          "type": "h2",
+          "text": "Leave the note open"
+        },
+        {
+          "type": "p",
+          "text": "An iron food pattern note is useful when it records what showed up, what rarely showed up, and what remains uncertain. That can be enough for one week. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "iron-on-labels-what-to-copy",
+      "date": "2026-08-17",
+      "category": "Nutrient Notes",
+      "title": "Iron on Labels: What to Copy Before Wondering About Intake",
+      "summary": "Learn how to read iron on labels by copying amount, unit, percent Daily Value, serving size, and the source of the information before interpreting it.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Iron on Labels: What to Copy Before Wondering About Intake | Daily Support Guide",
+        "metaDescription": "Learn how to read iron on labels by copying amount, unit, percent Daily Value, serving size, and source before interpreting the number.",
+        "primaryKeyword": "iron on labels",
+        "secondaryKeywords": [
+          "iron label Daily Value",
+          "iron Nutrition Facts",
+          "iron amount on label"
+        ],
+        "searchIntent": "informational",
+        "h1": "Iron on Labels: What to Copy Before Wondering About Intake",
+        "h2": [
+          "Start with the field you can verify",
+          "Keep milligrams and percent Daily Value together",
+          "Record serving size before interpretation",
+          "Separate label facts from intake questions",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What iron label details should I copy first?",
+          "Why should iron amount and percent Daily Value stay together?",
+          "When should iron intake questions go to a licensed professional?"
+        ],
+        "internalLinks": [
+          "iron-food-pattern-week",
+          "short-iron-intake-note",
+          "high-in-iron-claims"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, dose, cure, or prevention claims",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Start with the label field that can be checked. For iron, that means the nutrient name, the amount, the unit, the percent Daily Value, the serving size, and where the number was found."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Mara Lin for general label reading. It does not identify low iron, recommend supplements, set intake targets, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the field you can verify"
+        },
+        {
+          "type": "p",
+          "text": "Write the word shown on the label first. If the label says iron, copy iron. If the page uses a different phrase, copy that phrase instead of tidying it up too early."
+        },
+        {
+          "type": "p",
+          "text": "Then write the amount and unit. FDA Daily Value guidance lists iron with a Daily Value of 18 mg for adults and children 4 years and older. That reference can help you understand the label field, but it does not decide what a person needs."
+        },
+        {
+          "type": "h2",
+          "text": "Keep milligrams and percent Daily Value together"
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that percent Daily Value shows how much a nutrient in one serving contributes to a daily diet. Keep the milligram amount and percent Daily Value on the same row."
+        },
+        {
+          "type": "p",
+          "text": "A useful row can be: source, serving size, iron amount, unit, percent Daily Value, and whether the full panel was visible."
+        },
+        {
+          "type": "h2",
+          "text": "Record serving size before interpretation"
+        },
+        {
+          "type": "p",
+          "text": "Serving size comes before interpretation because the iron number belongs to the serving shown. If two labels use different serving sizes, the iron rows are not ready to compare until that difference is visible."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn a higher number into a better choice. In this series, the label row is a record, not a recommendation."
+        },
+        {
+          "type": "h2",
+          "text": "Separate label facts from intake questions"
+        },
+        {
+          "type": "p",
+          "text": "NIH consumer information explains that iron needs vary by age, sex, diet pattern, and life stage. That is the point where a label note should stop and a personal question should be handled separately."
+        },
+        {
+          "type": "p",
+          "text": "If the question involves anemia, heavy menstrual bleeding, pregnancy, medication use, digestive conditions, surgery, or a personal nutrition plan, keep it outside the label note and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the row intact"
+        },
+        {
+          "type": "p",
+          "text": "Iron on labels is easiest to read when amount, unit, percent Daily Value, serving size, and source stay together. Keep that row as a record; this article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "package-size-serving-count-cost",
       "date": "2026-08-17",
       "category": "Comparison Skills",

@@ -4,7 +4,15 @@ import vm from "node:vm";
 
 const root = process.cwd();
 const contentPath = path.join(root, "assets", "content.js");
-const scheduledPath = path.join(root, "content", "scheduled", "articles.json");
+const scheduledSources = [
+  {
+    path: path.join(root, "content", "scheduled", "articles.json"),
+    plannedArticleDayOffset: 0
+  },
+  {
+    path: path.join(root, "content", "scheduled", "nutrient-articles.json")
+  }
+];
 
 function setOutput(name, value) {
   if (!process.env.GITHUB_OUTPUT) return;
@@ -48,70 +56,82 @@ if (now.hour < 7 && process.env.PUBLISH_ANYTIME !== "1") {
 }
 
 const content = loadContent();
-const scheduled = JSON.parse(fs.readFileSync(scheduledPath, "utf8"));
+const sourceRecords = scheduledSources.map((source) => ({
+  ...source,
+  articles: JSON.parse(fs.readFileSync(source.path, "utf8")),
+  changed: false
+}));
 const existing = new Map(content.articles.map((article) => [article.slug, article]));
 let publishedCount = 0;
 let changed = false;
 
-for (const article of scheduled) {
-  const plannedArticle = content.plannedArticles?.find((item) => item.day === article.day);
-  if (plannedArticle && plannedArticle.status !== article.status) {
-    plannedArticle.status = article.status;
-    changed = true;
-  }
+for (const source of sourceRecords) {
+  for (const article of source.articles) {
+    const plannedArticle = Number.isInteger(source.plannedArticleDayOffset)
+      ? content.plannedArticles?.find((item) => item.day === article.day + source.plannedArticleDayOffset)
+      : undefined;
+    if (plannedArticle && plannedArticle.status !== article.status) {
+      plannedArticle.status = article.status;
+      changed = true;
+    }
 
-  if (article.status === "published" && existing.has(article.slug)) {
-    const existingArticle = existing.get(article.slug);
-    if (article.seo && !existingArticle.seo) {
-      existingArticle.seo = article.seo;
-      changed = true;
+    if (article.status === "published" && existing.has(article.slug)) {
+      const existingArticle = existing.get(article.slug);
+      if (article.seo && !existingArticle.seo) {
+        existingArticle.seo = article.seo;
+        changed = true;
+      }
+      if (article.author && !existingArticle.author) {
+        existingArticle.author = article.author;
+        changed = true;
+      }
+      continue;
     }
-    if (article.author && !existingArticle.author) {
-      existingArticle.author = article.author;
-      changed = true;
-    }
-    continue;
-  }
 
-  if (article.status !== "approved") continue;
-  if (article.date > now.date) continue;
-  if (existing.has(article.slug)) {
-    const existingArticle = existing.get(article.slug);
-    if (article.seo && !existingArticle.seo) {
-      existingArticle.seo = article.seo;
+    if (article.status !== "approved") continue;
+    if (article.date > now.date) continue;
+    if (existing.has(article.slug)) {
+      const existingArticle = existing.get(article.slug);
+      if (article.seo && !existingArticle.seo) {
+        existingArticle.seo = article.seo;
+        changed = true;
+      }
+      if (article.author && !existingArticle.author) {
+        existingArticle.author = article.author;
+        changed = true;
+      }
+      article.status = "published";
+      if (plannedArticle) plannedArticle.status = "published";
+      source.changed = true;
       changed = true;
+      continue;
     }
-    if (article.author && !existingArticle.author) {
-      existingArticle.author = article.author;
-      changed = true;
-    }
+
+    const publishedArticle = {
+      slug: article.slug,
+      date: article.date,
+      category: article.category,
+      title: article.title,
+      summary: article.summary,
+      author: article.author,
+      seo: article.seo,
+      body: article.body
+    };
+    content.articles.unshift(publishedArticle);
     article.status = "published";
     if (plannedArticle) plannedArticle.status = "published";
+    existing.set(article.slug, publishedArticle);
+    publishedCount += 1;
+    source.changed = true;
     changed = true;
-    continue;
   }
-
-  const publishedArticle = {
-    slug: article.slug,
-    date: article.date,
-    category: article.category,
-    title: article.title,
-    summary: article.summary,
-    author: article.author,
-    seo: article.seo,
-    body: article.body
-  };
-  content.articles.unshift(publishedArticle);
-  article.status = "published";
-  if (plannedArticle) plannedArticle.status = "published";
-  existing.set(article.slug, publishedArticle);
-  publishedCount += 1;
-  changed = true;
 }
 
 if (changed) {
   writeContent(content);
-  fs.writeFileSync(scheduledPath, `${JSON.stringify(scheduled, null, 2)}\n`);
+  for (const source of sourceRecords) {
+    if (source.changed) fs.writeFileSync(source.path, `${JSON.stringify(source.articles, null, 2)}\n`);
+  }
 }
 
 setOutput("changed", changed ? "true" : "false");
