@@ -33,17 +33,38 @@
     if (!list) return;
     list.innerHTML = "";
 
-    content.articles.forEach((article) => {
-      const card = create("article", "article-card");
-      const top = create("div");
-      top.appendChild(create("p", "meta", metaText(article)));
-      top.appendChild(create("h3", "", article.title));
-      top.appendChild(create("p", "", article.summary));
+    const guideArticles = content.articles.filter((article) => article.category !== "Nutrient Notes").slice(0, 9);
+    const nutrientArticles = content.articles.filter((article) => article.category === "Nutrient Notes").slice(0, 9);
 
-      const link = create("a", "", "Read article");
-      link.href = `article.html?slug=${encodeURIComponent(article.slug)}`;
-      card.append(top, link);
-      list.appendChild(card);
+    [
+      ["Latest Guides", "Routine, label-reading, and comparison guides.", guideArticles, "topics.html"],
+      ["Nutrient Notes", "General nutrient label-reading notes, not deficiency or supplement advice.", nutrientArticles, "topics.html#nutrient-notes"]
+    ].forEach(([title, description, articles, moreHref]) => {
+      const section = create("section", "article-group");
+      const heading = create("div", "article-group-heading");
+      heading.append(create("h3", "", title), create("p", "", description));
+
+      const more = create("a", "text-link", "Browse all");
+      more.href = moreHref;
+      heading.appendChild(more);
+      section.appendChild(heading);
+
+      const cards = create("div", "article-list");
+      articles.forEach((article) => {
+        const card = create("article", "article-card");
+        const top = create("div");
+        top.appendChild(create("p", "meta", metaText(article)));
+        top.appendChild(create("h3", "", article.title));
+        top.appendChild(create("p", "", article.summary));
+
+        const link = create("a", "", "Read article");
+        link.href = `article.html?slug=${encodeURIComponent(article.slug)}`;
+        card.append(top, link);
+        cards.appendChild(card);
+      });
+      if (!articles.length) cards.appendChild(create("p", "", "No published articles in this group yet."));
+      section.appendChild(cards);
+      list.appendChild(section);
     });
   }
 
