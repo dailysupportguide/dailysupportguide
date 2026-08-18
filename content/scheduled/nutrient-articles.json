@@ -747,7 +747,7 @@
     "slug": "vitamin-d-label-amount-unit-daily-value",
     "title": "Vitamin D on Labels: Amount, Unit, and Percent Daily Value",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "mara-lin",
       "name": "Mara Lin"
@@ -893,7 +893,7 @@
     "slug": "vitamin-d-food-sources-week",
     "title": "Noticing Vitamin D Food Sources in an Ordinary Week",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "nora-vale",
       "name": "Nora Vale"
@@ -1039,7 +1039,7 @@
     "slug": "vitamin-d-label-check-details",
     "title": "Vitamin D Label Check: Copy These Details First",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "eli-brooks",
       "name": "Eli Brooks"
@@ -1197,7 +1197,7 @@
     "slug": "vitamin-d-bone-health-wording",
     "title": "\"Supports Bone Health\" Wording: Keep the Claim Narrow",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "june-carter",
       "name": "June Carter"
@@ -1343,7 +1343,7 @@
     "slug": "vitamin-d-appointment-question-sheet",
     "title": "A Vitamin D Question Sheet for Your Next Appointment",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "theo-grant",
       "name": "Theo Grant"

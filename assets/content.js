@@ -1,6 +1,741 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "vitamin-d-appointment-question-sheet",
+      "date": "2026-08-18",
+      "category": "Nutrient Notes",
+      "title": "A Vitamin D Question Sheet for Your Next Appointment",
+      "summary": "Build a vitamin D question sheet with source, label fields, food-pattern notes, and open questions for a licensed professional.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "A Vitamin D Question Sheet for Your Next Appointment | Daily Support Guide",
+        "metaDescription": "Build a vitamin D question sheet with source, label fields, food-pattern notes, and open questions for a licensed professional.",
+        "primaryKeyword": "vitamin D question sheet",
+        "secondaryKeywords": [
+          "vitamin D appointment questions",
+          "vitamin D label notes",
+          "vitamin D professional conversation"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Vitamin D Question Sheet for Your Next Appointment",
+        "h2": [
+          "Put the source first",
+          "Add the label fields",
+          "Keep food-pattern notes separate",
+          "Write questions instead of conclusions",
+          "Bring the uncertainty with you"
+        ],
+        "faq": [
+          "What should I put on a vitamin D question sheet?",
+          "How can vitamin D label notes help an appointment?",
+          "What should stay as an open question?"
+        ],
+        "internalLinks": [
+          "vitamin-d-food-sources-week",
+          "vitamin-d-label-check-details",
+          "vitamin-d-bone-health-wording"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A question sheet is not a verdict. It is a way to bring better notes into a conversation with a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Theo Grant as a source-aware note. It does not recommend self-treatment, products, personal amounts, or changes to medicines or supplements."
+        },
+        {
+          "type": "h2",
+          "text": "Put the source first"
+        },
+        {
+          "type": "p",
+          "text": "Start each row with the source: Nutrition Facts panel, Supplement Facts panel, label photo, product page, food record, or previous question."
+        },
+        {
+          "type": "p",
+          "text": "Add the date checked. A question without a source may still be useful, but it is harder to verify later."
+        },
+        {
+          "type": "h2",
+          "text": "Add the label fields"
+        },
+        {
+          "type": "p",
+          "text": "For each label, write serving size, vitamin D amount, unit, and percent Daily Value. If IU appears in parentheses, copy that too."
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists vitamin D at 20 mcg for adults and children 4 years and older."
+        },
+        {
+          "type": "h2",
+          "text": "Keep food-pattern notes separate"
+        },
+        {
+          "type": "p",
+          "text": "Use a separate row for weekly food notes. Often, sometimes, rarely, and unclear are enough."
+        },
+        {
+          "type": "p",
+          "text": "Do not mix a food note with a personal intake conclusion. Let the professional see the record as a record."
+        },
+        {
+          "type": "h2",
+          "text": "Write questions instead of conclusions"
+        },
+        {
+          "type": "p",
+          "text": "A useful question might be, \"Vitamin D food sources were hard to see this week; what should I ask about?\""
+        },
+        {
+          "type": "p",
+          "text": "Questions about sun exposure, lab work, medical history, medicines, or supplement use belong in the appointment, not in a self-made answer."
+        },
+        {
+          "type": "h2",
+          "text": "Bring the uncertainty with you"
+        },
+        {
+          "type": "p",
+          "text": "A vitamin D question sheet is useful when source, serving, amount, unit, percent Daily Value, food pattern, and open questions stay visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-d-bone-health-wording",
+      "date": "2026-08-18",
+      "category": "Nutrient Notes",
+      "title": "\"Supports Bone Health\" Wording: Keep the Claim Narrow",
+      "summary": "Read supports bone health wording by copying the exact phrase, checking the nutrient line, and avoiding disease or prevention upgrades.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "\"Supports Bone Health\" Wording: Keep the Claim Narrow | Daily Support Guide",
+        "metaDescription": "Read supports bone health wording by copying the exact phrase, checking the vitamin D label line, and avoiding claim upgrades.",
+        "primaryKeyword": "supports bone health wording",
+        "secondaryKeywords": [
+          "vitamin D structure function claim",
+          "bone health label claim",
+          "vitamin D claim wording"
+        ],
+        "searchIntent": "informational",
+        "h1": "\"Supports Bone Health\" Wording: Keep the Claim Narrow",
+        "h2": [
+          "Copy the phrase before interpreting it",
+          "Notice the type of claim",
+          "Check the nutrient line",
+          "Do not upgrade the wording",
+          "Keep the phrase narrow"
+        ],
+        "faq": [
+          "What does supports bone health wording mean on a label?",
+          "Is supports bone health the same as a disease claim?",
+          "How should I record a vitamin D claim?"
+        ],
+        "internalLinks": [
+          "vitamin-d-label-amount-unit-daily-value",
+          "vitamin-d-label-check-details",
+          "vitamin-d-appointment-question-sheet"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The wording matters. \"Supports bone health\" is a phrase to copy carefully, not a reason to add stronger promises around it."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by June Carter as a wording review. It does not make disease claims, recommend products, identify deficiency, or decide what is appropriate for a person."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the phrase before interpreting it"
+        },
+        {
+          "type": "p",
+          "text": "Write the exact claim as shown. Include nearby qualifiers, symbols, or small print if they sit with the phrase."
+        },
+        {
+          "type": "p",
+          "text": "Do not shorten or expand the claim. A small wording change can make the note sound more certain than the label."
+        },
+        {
+          "type": "h2",
+          "text": "Notice the type of claim"
+        },
+        {
+          "type": "p",
+          "text": "FDA structure/function guidance explains that this type of wording may describe a nutrient's role in normal body structure or function."
+        },
+        {
+          "type": "p",
+          "text": "That is not the same as saying the product treats, cures, or prevents a disease. Keep those ideas separate."
+        },
+        {
+          "type": "h2",
+          "text": "Check the nutrient line"
+        },
+        {
+          "type": "p",
+          "text": "After copying the phrase, check the vitamin D line. Record serving size, amount, unit, and percent Daily Value."
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists vitamin D at 20 mcg for adults and children 4 years and older."
+        },
+        {
+          "type": "h2",
+          "text": "Do not upgrade the wording"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn \"supports bone health\" into a statement about fractures, osteoporosis, lab tests, or personal need."
+        },
+        {
+          "type": "p",
+          "text": "If a personal health question is behind the label note, keep that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the phrase narrow"
+        },
+        {
+          "type": "p",
+          "text": "\"Supports bone health\" is easier to record when the exact claim, nutrient line, serving basis, and open question stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-d-label-check-details",
+      "date": "2026-08-18",
+      "category": "Nutrient Notes",
+      "title": "Vitamin D Label Check: Copy These Details First",
+      "summary": "Use a compact vitamin D label checklist: source, serving size, amount, unit, percent Daily Value, and the question that remains.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Vitamin D Label Check: Copy These Details First | Daily Support Guide",
+        "metaDescription": "Use a compact vitamin D label checklist to copy source, serving size, amount, unit, percent Daily Value, and one open question.",
+        "primaryKeyword": "vitamin D label check",
+        "secondaryKeywords": [
+          "vitamin D label checklist",
+          "vitamin D mcg label",
+          "vitamin D percent Daily Value"
+        ],
+        "searchIntent": "informational",
+        "h1": "Vitamin D Label Check: Copy These Details First",
+        "h2": [
+          "Field 1: source",
+          "Field 2: serving size",
+          "Field 3: amount and unit",
+          "Field 4: percent Daily Value",
+          "Field 5: open question"
+        ],
+        "faq": [
+          "What should a vitamin D label check include?",
+          "Why should I copy the serving size?",
+          "What if the vitamin D line is unclear?"
+        ],
+        "internalLinks": [
+          "vitamin-d-label-amount-unit-daily-value",
+          "vitamin-d-food-sources-week",
+          "vitamin-d-bone-health-wording"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Copy first. Interpret later. A vitamin D label check works better when the fields stay short."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Eli Brooks as a checklist. It does not recommend vitamin D products, set personal amounts, identify deficiency, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Field 1: source"
+        },
+        {
+          "type": "p",
+          "text": "Write the source. Nutrition Facts panel, Supplement Facts panel, label photo, product page, or meal note."
+        },
+        {
+          "type": "p",
+          "text": "Add the date checked. Labels change."
+        },
+        {
+          "type": "h2",
+          "text": "Field 2: serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size before the nutrient number. Percent Daily Value belongs to one serving."
+        },
+        {
+          "type": "p",
+          "text": "If the serving size is missing, write \"serving size not shown.\" Do not fill the gap."
+        },
+        {
+          "type": "h2",
+          "text": "Field 3: amount and unit"
+        },
+        {
+          "type": "p",
+          "text": "Copy the vitamin D amount and unit. FDA label information uses mcg per serving, with IU sometimes shown in parentheses."
+        },
+        {
+          "type": "p",
+          "text": "If both units appear, keep them on the same line."
+        },
+        {
+          "type": "h2",
+          "text": "Field 4: percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Copy the percent Daily Value. FDA Daily Value guidance lists vitamin D at 20 mcg for adults and children 4 years and older."
+        },
+        {
+          "type": "p",
+          "text": "The percent helps read the label. It does not choose an intake plan."
+        },
+        {
+          "type": "h2",
+          "text": "Field 5: open question"
+        },
+        {
+          "type": "p",
+          "text": "End with one question. Full panel missing. Unit unclear. Food pattern hard to see. Personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "Stop there. No brand, no product idea, no personal amount."
+        },
+        {
+          "type": "h2",
+          "text": "Keep it short"
+        },
+        {
+          "type": "p",
+          "text": "A vitamin D label check needs source, serving size, amount, unit, percent Daily Value, and one open question. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-d-food-sources-week",
+      "date": "2026-08-18",
+      "category": "Nutrient Notes",
+      "title": "Noticing Vitamin D Food Sources in an Ordinary Week",
+      "summary": "Use a gentle weekly food note to see whether vitamin D sources appear often, sometimes, rarely, or are hard to tell from labels alone.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Noticing Vitamin D Food Sources in an Ordinary Week | Daily Support Guide",
+        "metaDescription": "Use a weekly food note to notice vitamin D sources without turning the record into sun, supplement, or medical advice.",
+        "primaryKeyword": "vitamin D food sources week",
+        "secondaryKeywords": [
+          "vitamin D food pattern",
+          "vitamin D weekly note",
+          "vitamin D source record"
+        ],
+        "searchIntent": "informational",
+        "h1": "Noticing Vitamin D Food Sources in an Ordinary Week",
+        "h2": [
+          "Begin with ordinary meals",
+          "Use soft buckets",
+          "Keep sun exposure outside the food note",
+          "Write the question gently",
+          "Let the note stay small"
+        ],
+        "faq": [
+          "How can I notice vitamin D food sources in a week?",
+          "Should a food note include sun exposure?",
+          "What should I do with a vitamin D question?"
+        ],
+        "internalLinks": [
+          "vitamin-d-label-amount-unit-daily-value",
+          "vitamin-d-label-check-details",
+          "vitamin-d-appointment-question-sheet"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "It helps to look at a normal week before trying to explain anything. For vitamin D, the record can simply show what food sources appeared and what was hard to tell."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Nora Vale as a food-pattern note. It does not give sun advice, recommend supplements, identify deficiency, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Begin with ordinary meals"
+        },
+        {
+          "type": "p",
+          "text": "Write down the meals that were actually eaten. If a label was available, copy the vitamin D line. If a food had no label nearby, write that too."
+        },
+        {
+          "type": "p",
+          "text": "The point is not to perfect the week. The point is to see what the week already shows."
+        },
+        {
+          "type": "h2",
+          "text": "Use soft buckets"
+        },
+        {
+          "type": "p",
+          "text": "Use plain buckets: often, sometimes, rarely, and unclear. Those words leave room for missing labels and ordinary memory gaps."
+        },
+        {
+          "type": "p",
+          "text": "A gentle food note does not need to turn every meal into a calculation."
+        },
+        {
+          "type": "h2",
+          "text": "Keep sun exposure outside the food note"
+        },
+        {
+          "type": "p",
+          "text": "NIH vitamin D information discusses food, sun exposure, and dietary supplements, but a food-pattern note should not try to solve all three at once."
+        },
+        {
+          "type": "p",
+          "text": "If sun exposure, skin protection, climate, work schedule, or personal health factors matter, leave those as separate questions for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Write the question gently"
+        },
+        {
+          "type": "p",
+          "text": "A useful line might be, \"Vitamin D food sources were hard to see this week; is this worth discussing?\" That is different from making a conclusion about the body."
+        },
+        {
+          "type": "p",
+          "text": "You do not have to decide today. A small record can make the next conversation clearer."
+        },
+        {
+          "type": "h2",
+          "text": "Let the note stay small"
+        },
+        {
+          "type": "p",
+          "text": "A vitamin D food note can stay modest: what appeared, what rarely appeared, and what is still unknown. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-d-label-amount-unit-daily-value",
+      "date": "2026-08-18",
+      "category": "Nutrient Notes",
+      "title": "Vitamin D on Labels: Amount, Unit, and Percent Daily Value",
+      "summary": "Read vitamin D on labels by keeping the amount, unit, percent Daily Value, serving size, and source in one careful row.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Vitamin D on Labels: Amount, Unit, and Percent Daily Value | Daily Support Guide",
+        "metaDescription": "Read vitamin D on labels by copying amount, unit, percent Daily Value, serving size, and source before adding interpretation.",
+        "primaryKeyword": "vitamin D on labels",
+        "secondaryKeywords": [
+          "vitamin D Daily Value",
+          "vitamin D mcg IU label",
+          "vitamin D Nutrition Facts"
+        ],
+        "searchIntent": "informational",
+        "h1": "Vitamin D on Labels: Amount, Unit, and Percent Daily Value",
+        "h2": [
+          "Start with the label row",
+          "Keep mcg and percent Daily Value together",
+          "Notice IU without letting it split the record",
+          "Separate label math from personal questions",
+          "Keep the unit attached"
+        ],
+        "faq": [
+          "What vitamin D label details should I copy first?",
+          "Why do vitamin D labels use mcg and sometimes IU?",
+          "Can a vitamin D label answer personal intake questions?"
+        ],
+        "internalLinks": [
+          "vitamin-d-food-sources-week",
+          "vitamin-d-label-check-details",
+          "vitamin-d-appointment-question-sheet"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Start with a row you can verify. For vitamin D, copy the nutrient name, amount, unit, percent Daily Value, serving size, and where the label came from."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Mara Lin for label reading. It does not identify low vitamin D, set a personal number, recommend supplements, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the label row"
+        },
+        {
+          "type": "p",
+          "text": "Write one label per row. Use separate fields for source, date checked, serving size, vitamin D amount, unit, and percent Daily Value."
+        },
+        {
+          "type": "p",
+          "text": "A row like that is plain, but it prevents the number from drifting away from the serving it belongs to."
+        },
+        {
+          "type": "h2",
+          "text": "Keep mcg and percent Daily Value together"
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists vitamin D at 20 mcg for adults and children 4 years and older. The percent Daily Value shows how one serving contributes to a daily diet."
+        },
+        {
+          "type": "p",
+          "text": "Do not copy only the percent. Keep the mcg amount nearby so the row can be checked later."
+        },
+        {
+          "type": "h2",
+          "text": "Notice IU without letting it split the record"
+        },
+        {
+          "type": "p",
+          "text": "NIH vitamin D label information notes that FDA requires vitamin D in mcg per serving and allows IU in parentheses."
+        },
+        {
+          "type": "p",
+          "text": "If both appear, copy both in the same row. Do not turn the extra unit into a separate conclusion."
+        },
+        {
+          "type": "h2",
+          "text": "Separate label math from personal questions"
+        },
+        {
+          "type": "p",
+          "text": "A label row can show what one serving lists. It cannot decide whether a person gets enough vitamin D from food, sun exposure, or other sources."
+        },
+        {
+          "type": "p",
+          "text": "If the question is personal, keep it as a question for a licensed professional instead of answering it from a label."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the unit attached"
+        },
+        {
+          "type": "p",
+          "text": "A vitamin D note is strongest when amount, unit, percent Daily Value, serving size, and source stay attached. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "compare-similar-products-framework",
+      "date": "2026-08-18",
+      "category": "Comparison Skills",
+      "title": "Compare Similar Products: A Simple No-Winner Framework",
+      "summary": "Learn how to compare similar products by using the same fields, reading reviews carefully, and keeping claims separate from checkable facts.",
+      "seo": {
+        "seoTitle": "Compare Similar Products: A Simple No-Winner Framework | Daily Support Guide",
+        "metaDescription": "Learn how to compare similar products with a simple framework for facts, package details, cost, reviews, and terms.",
+        "primaryKeyword": "compare similar products",
+        "secondaryKeywords": [
+          "compare similar products guide",
+          "product comparison framework",
+          "product comparison note template"
+        ],
+        "searchIntent": "informational",
+        "h1": "Compare Similar Products: A Simple No-Winner Framework",
+        "h2": [
+          "Start with the same question for each item",
+          "Build a five-column note",
+          "Keep cost in its own lane",
+          "Read reviews with caution",
+          "Separate claims from facts",
+          "Use a no-winner ending",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How can I compare similar products without picking a winner?",
+          "What fields belong in a product comparison note?",
+          "Why should reviews stay separate from product facts?"
+        ],
+        "internalLinks": [
+          "product-comparison-checklist",
+          "compare-cost-per-serving",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Two products can look almost the same until the details sit side by side. One may use a different package size, serving basis, return term, ingredient order, or product description. Start by copying facts before reacting to the presentation."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to compare similar products without naming brands, choosing a winner, or turning a general article into personal advice. It is for product-reading notes, not for medical, nutrition, supplement, or financial decisions."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the same question for each item"
+        },
+        {
+          "type": "p",
+          "text": "Before comparing details, write one plain question that both items must answer. For example: what is the package size, what amount does the label describe, what is included, what is excluded, and what terms apply if the item does not work for the reader's situation?"
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance tells consumers to check sellers and products, compare total cost, read product descriptions including fine print, and review delivery, return, and refund policies. Those ideas work well as a simple sequence: read the facts first, then decide what still needs clarification."
+        },
+        {
+          "type": "h2",
+          "text": "Build a five-column note"
+        },
+        {
+          "type": "p",
+          "text": "Use five columns: item description, package or amount, key label details, total cost, and terms or support. Keep each entry short. The note should capture what the page or label says, not what the reader hopes it means."
+        },
+        {
+          "type": "p",
+          "text": "If a field is missing, write \"not shown\" instead of guessing. Missing information is a comparison clue, but it is not proof that a product is better, worse, stronger, or more appropriate for a person."
+        },
+        {
+          "type": "h2",
+          "text": "Keep cost in its own lane"
+        },
+        {
+          "type": "p",
+          "text": "NIST explains that unit pricing is pricing based on cost per unit of measure, such as price per ounce, gram, liter, or count unit. Unit price can help compare value when package sizes differ, but it should stay separate from quality, health, or personal fit."
+        },
+        {
+          "type": "p",
+          "text": "A useful note can include package price, shipping or other visible fees, serving count if the label provides one, and unit price if shown. Do not let the lowest number automatically become a recommendation."
+        },
+        {
+          "type": "h2",
+          "text": "Read reviews with caution"
+        },
+        {
+          "type": "p",
+          "text": "FTC consumer guidance says to read reviews with a critical eye, check several sources, and avoid relying only on star ratings because some reviews and ratings can be fake or misleading. Reviews can add useful detail, but they should not replace the structured facts in the note."
+        },
+        {
+          "type": "p",
+          "text": "When using reviews, look for repeated practical comments rather than one dramatic line. Size, durability, clarity, delivery, support, or mismatch between the description and the item received are easier to use than broad praise or frustration."
+        },
+        {
+          "type": "h2",
+          "text": "Separate claims from facts"
+        },
+        {
+          "type": "p",
+          "text": "Marketing language often points attention toward a benefit. A comparison note should keep claims apart from facts that can be checked: product descriptions, label panels, package amounts, warnings, limitations, and terms."
+        },
+        {
+          "type": "p",
+          "text": "For health-adjacent products, keep the boundary tight. Do not use a comparison article to decide whether something treats, prevents, cures, reduces risk of, or improves a condition. If the topic connects to pregnancy, breastfeeding, medication use, surgery, allergies, a medical condition, or a personal nutrition plan, ask a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Use a no-winner ending"
+        },
+        {
+          "type": "p",
+          "text": "The final line of the note should not crown a product. It can say which facts are clear, which facts differ, and which questions remain. That gives the reader a useful view without turning the page into a ranking."
+        },
+        {
+          "type": "p",
+          "text": "A no-winner ending also protects the site's editorial boundary. The article can teach comparison skills while avoiding brand preference, product picks, retailer direction, or monetized shopping pressure."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "To compare similar products, use the same fields for every item: description, package or amount, label facts, cost, and terms. Read reviews carefully, keep claims separate from facts, and end with open questions instead of a winner. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "iron-label-line-comparison",
       "date": "2026-08-17",
       "category": "Nutrient Notes",
@@ -4698,7 +5433,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-18",
       "title": "A Simple Framework for Comparing Similar Products",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 31,
