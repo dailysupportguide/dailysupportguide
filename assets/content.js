@@ -1,6 +1,729 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "calcium-serving-size-comparison",
+      "date": "2026-08-19",
+      "category": "Nutrient Notes",
+      "title": "Comparing Calcium Across Foods Without Mixing Serving Sizes",
+      "summary": "Compare calcium label lines by keeping source, serving size, amount, unit, percent Daily Value, and open questions in separate rows.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Comparing Calcium Across Foods Without Mixing Serving Sizes | Daily Support Guide",
+        "metaDescription": "Compare calcium label lines by keeping source, serving size, amount, unit, percent Daily Value, and open questions in separate rows.",
+        "primaryKeyword": "compare calcium serving sizes",
+        "secondaryKeywords": [
+          "calcium label comparison",
+          "calcium percent DV comparison",
+          "calcium serving size note"
+        ],
+        "searchIntent": "informational",
+        "h1": "Comparing Calcium Across Foods Without Mixing Serving Sizes",
+        "h2": [
+          "Put each source in its own row",
+          "Serving size is not a footnote",
+          "Keep amount and claim wording separate",
+          "Write what the comparison cannot decide",
+          "Leave the rows readable"
+        ],
+        "faq": [
+          "How should I compare calcium across foods?",
+          "Why should serving sizes stay separate?",
+          "Can a calcium comparison choose the better food?"
+        ],
+        "internalLinks": [
+          "calcium-nutrition-facts-serving-size",
+          "calcium-food-pattern-week",
+          "excellent-source-calcium-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A calcium comparison gets messy when serving sizes disappear. Put each source in its own row before comparing anything."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Theo Grant as a comparison note. It does not rank foods, recommend supplements, choose a product, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Put each source in its own row"
+        },
+        {
+          "type": "p",
+          "text": "Use one row per source. Label photo, Nutrition Facts panel, Supplement Facts panel, product page, or meal note."
+        },
+        {
+          "type": "p",
+          "text": "Add the date checked. A comparison without a source can age badly."
+        },
+        {
+          "type": "h2",
+          "text": "Serving size is not a footnote"
+        },
+        {
+          "type": "p",
+          "text": "Write serving size before the calcium amount. If two foods use different serving sizes, the rows need to show that difference."
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value also belongs to the serving shown on the label."
+        },
+        {
+          "type": "h2",
+          "text": "Keep amount and claim wording separate"
+        },
+        {
+          "type": "p",
+          "text": "Put calcium mg and percent Daily Value in the amount fields. Put phrases such as \"excellent source\" or \"good source\" in the claim field."
+        },
+        {
+          "type": "p",
+          "text": "The claim can help read the label, but it should not replace the label line."
+        },
+        {
+          "type": "h2",
+          "text": "Write what the comparison cannot decide"
+        },
+        {
+          "type": "p",
+          "text": "A calcium comparison cannot decide a personal intake plan, bone-health question, lab question, supplement question, or medical choice."
+        },
+        {
+          "type": "p",
+          "text": "If the comparison points to a personal concern, leave the conclusion open and bring the rows to a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Leave the rows readable"
+        },
+        {
+          "type": "p",
+          "text": "A calcium comparison works when source, serving size, amount, unit, percent Daily Value, claim wording, and open questions stay in separate rows. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "excellent-source-calcium-claim",
+      "date": "2026-08-19",
+      "category": "Nutrient Notes",
+      "title": "\"Excellent Source of Calcium\": How to Read the Claim",
+      "summary": "Read excellent source of calcium wording by copying the exact claim, checking percent Daily Value, and avoiding personal or disease conclusions.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "\"Excellent Source of Calcium\": How to Read the Claim | Daily Support Guide",
+        "metaDescription": "Read excellent source of calcium wording by copying the exact claim, checking percent Daily Value, and avoiding claim upgrades.",
+        "primaryKeyword": "excellent source of calcium",
+        "secondaryKeywords": [
+          "calcium nutrient content claim",
+          "high in calcium claim",
+          "calcium good source claim"
+        ],
+        "searchIntent": "informational",
+        "h1": "\"Excellent Source of Calcium\": How to Read the Claim",
+        "h2": [
+          "Copy the claim exactly",
+          "Check the percent Daily Value",
+          "Know the nearby claim words",
+          "Do not upgrade the claim",
+          "Keep wording and use separate"
+        ],
+        "faq": [
+          "What does excellent source of calcium mean?",
+          "How is excellent source different from good source?",
+          "Can an excellent source claim answer personal calcium questions?"
+        ],
+        "internalLinks": [
+          "calcium-nutrition-facts-serving-size",
+          "calcium-label-notes-three-rows",
+          "calcium-serving-size-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The claim is a label phrase. Copy it before explaining it, and do not make it carry more than the label rules allow."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by June Carter as a wording review. It does not rank foods, recommend products, identify deficiency, or decide whether a calcium source is appropriate for a person."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the claim exactly"
+        },
+        {
+          "type": "p",
+          "text": "Write the claim as shown: \"excellent source of calcium,\" \"high in calcium,\" \"good source,\" or another exact phrase."
+        },
+        {
+          "type": "p",
+          "text": "Include qualifiers, serving language, or nearby small print if it sits with the claim."
+        },
+        {
+          "type": "h2",
+          "text": "Check the percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount."
+        },
+        {
+          "type": "p",
+          "text": "Good source, contains, or provides claims generally indicate 10 to 19 percent. Check the label line instead of relying on the front phrase alone."
+        },
+        {
+          "type": "h2",
+          "text": "Know the nearby claim words"
+        },
+        {
+          "type": "p",
+          "text": "\"Excellent source\" and \"good source\" are not interchangeable. They point to different claim levels."
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists calcium at 1,300 mg for adults and children 4 years and older, so the percent Daily Value remains part of the reading."
+        },
+        {
+          "type": "h2",
+          "text": "Do not upgrade the claim"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn a calcium claim into a statement about osteoporosis, fractures, bone tests, symptoms, treatment, or personal need."
+        },
+        {
+          "type": "p",
+          "text": "If the label raises a personal question, keep that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep wording and use separate"
+        },
+        {
+          "type": "p",
+          "text": "\"Excellent source of calcium\" is easier to read when exact wording, percent Daily Value, serving basis, and open questions stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "calcium-label-notes-three-rows",
+      "date": "2026-08-19",
+      "category": "Nutrient Notes",
+      "title": "Calcium Label Notes in Three Rows",
+      "summary": "Use three short rows for calcium label notes: source, label fields, and the question that remains.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Calcium Label Notes in Three Rows | Daily Support Guide",
+        "metaDescription": "Use three short rows for calcium label notes: source, serving size, amount, percent Daily Value, and one open question.",
+        "primaryKeyword": "calcium label notes",
+        "secondaryKeywords": [
+          "calcium label checklist",
+          "calcium percent DV note",
+          "calcium serving row"
+        ],
+        "searchIntent": "informational",
+        "h1": "Calcium Label Notes in Three Rows",
+        "h2": [
+          "Row 1: source",
+          "Row 2: label fields",
+          "Row 3: open question",
+          "Do not add a direction",
+          "Keep the note lean"
+        ],
+        "faq": [
+          "What are the three rows for a calcium label note?",
+          "What calcium label fields should I copy?",
+          "What should stay as an open question?"
+        ],
+        "internalLinks": [
+          "calcium-nutrition-facts-serving-size",
+          "calcium-food-pattern-week",
+          "excellent-source-calcium-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Use three rows. Source. Label fields. Open question. That is enough for a first calcium note."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Eli Brooks as a checklist. It does not recommend calcium products, give personal amounts, identify deficiency, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Row 1: source"
+        },
+        {
+          "type": "p",
+          "text": "Write the source first. Nutrition Facts panel. Supplement Facts panel. Label photo. Product page. Meal note."
+        },
+        {
+          "type": "p",
+          "text": "Add the date checked. Old labels are easy to forget."
+        },
+        {
+          "type": "h2",
+          "text": "Row 2: label fields"
+        },
+        {
+          "type": "p",
+          "text": "Copy serving size, calcium amount, unit, and percent Daily Value. Keep them in that order."
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists calcium at 1,300 mg for adults and children 4 years and older."
+        },
+        {
+          "type": "h2",
+          "text": "Row 3: open question"
+        },
+        {
+          "type": "p",
+          "text": "End with one question. Full panel missing. Serving unclear. Fortified or not shown. Personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "Do not answer the question inside the note."
+        },
+        {
+          "type": "h2",
+          "text": "Do not add a direction"
+        },
+        {
+          "type": "p",
+          "text": "Do not add a product idea, supplement idea, meal rule, or personal number."
+        },
+        {
+          "type": "p",
+          "text": "The note is a record. Let it stay a record."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the note lean"
+        },
+        {
+          "type": "p",
+          "text": "A calcium note needs source, serving size, amount, unit, percent Daily Value, and one open question. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "calcium-food-pattern-week",
+      "date": "2026-08-19",
+      "category": "Nutrient Notes",
+      "title": "A Week of Calcium-Containing Foods: What to Notice",
+      "summary": "Use a one-week food note to notice whether calcium-containing foods appear often, sometimes, rarely, or are hard to confirm from labels.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "A Week of Calcium-Containing Foods: What to Notice | Daily Support Guide",
+        "metaDescription": "Use a one-week food note to notice calcium-containing foods without turning the record into a personal intake answer.",
+        "primaryKeyword": "calcium food pattern week",
+        "secondaryKeywords": [
+          "calcium-containing foods",
+          "calcium weekly note",
+          "calcium food record"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Week of Calcium-Containing Foods: What to Notice",
+        "h2": [
+          "Look at ordinary meals first",
+          "Use four quiet buckets",
+          "Keep fortified foods visible",
+          "Separate food notes from medical questions",
+          "Let the week be a week"
+        ],
+        "faq": [
+          "How can I notice calcium-containing foods in a week?",
+          "Should fortified foods be marked separately?",
+          "When should calcium questions go to a professional?"
+        ],
+        "internalLinks": [
+          "calcium-nutrition-facts-serving-size",
+          "calcium-label-notes-three-rows",
+          "calcium-serving-size-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A week of meals can say something modest. It can show what appeared, what rarely appeared, and where labels were missing."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Nora Vale as a food-pattern note. It does not set a calcium number, recommend supplements, identify deficiency, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Look at ordinary meals first"
+        },
+        {
+          "type": "p",
+          "text": "Write the meals that actually happened. If a calcium line was available on a label, copy it. If the food had no label nearby, write \"not checked.\""
+        },
+        {
+          "type": "p",
+          "text": "The week does not have to be polished to be useful."
+        },
+        {
+          "type": "h2",
+          "text": "Use four quiet buckets"
+        },
+        {
+          "type": "p",
+          "text": "Use often, sometimes, rarely, and unclear. Those words are enough for a first look."
+        },
+        {
+          "type": "p",
+          "text": "They also leave room for mixed meals, restaurant food, and packages that were thrown away before anyone copied the label."
+        },
+        {
+          "type": "h2",
+          "text": "Keep fortified foods visible"
+        },
+        {
+          "type": "p",
+          "text": "Some foods list calcium because it occurs naturally, and some list it because the food is fortified. A food note can mark what the label actually says without judging the food."
+        },
+        {
+          "type": "p",
+          "text": "If the label does not say enough, write the open question instead of filling in the story."
+        },
+        {
+          "type": "h2",
+          "text": "Separate food notes from medical questions"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn a quiet week into a conclusion about bones, lab work, symptoms, or personal needs."
+        },
+        {
+          "type": "p",
+          "text": "If personal health factors are part of the question, bring the food note to a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Let the week be a week"
+        },
+        {
+          "type": "p",
+          "text": "A calcium food-pattern note can stay small: what showed up, what was hard to confirm, and what question remains. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "calcium-nutrition-facts-serving-size",
+      "date": "2026-08-19",
+      "category": "Nutrient Notes",
+      "title": "Calcium on a Nutrition Facts Label: Serving Size Comes First",
+      "summary": "Read calcium on a Nutrition Facts label by copying serving size, amount, unit, percent Daily Value, and source before comparing anything.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Calcium on a Nutrition Facts Label: Serving Size Comes First | Daily Support Guide",
+        "metaDescription": "Read calcium on a Nutrition Facts label by copying serving size, amount, unit, percent Daily Value, and source before comparing.",
+        "primaryKeyword": "calcium Nutrition Facts label",
+        "secondaryKeywords": [
+          "calcium Daily Value",
+          "calcium serving size",
+          "calcium percent DV"
+        ],
+        "searchIntent": "informational",
+        "h1": "Calcium on a Nutrition Facts Label: Serving Size Comes First",
+        "h2": [
+          "Start with serving size",
+          "Keep milligrams and percent Daily Value together",
+          "Write the source beside the number",
+          "Do not turn the label into a personal answer",
+          "Keep the row complete"
+        ],
+        "faq": [
+          "Why does serving size come first for calcium?",
+          "What is the Daily Value for calcium on labels?",
+          "Can a calcium label decide what someone needs?"
+        ],
+        "internalLinks": [
+          "calcium-food-pattern-week",
+          "calcium-label-notes-three-rows",
+          "excellent-source-calcium-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Start with the serving size. The calcium number belongs to that serving, not to the whole package, the whole meal, or a guess from memory."
+        },
+        {
+          "type": "p",
+          "text": "This article is written by Mara Lin for label reading. It does not identify low calcium, set a personal number, recommend supplements, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy serving size before the calcium line. Then write the calcium amount, unit, percent Daily Value, source, and date checked."
+        },
+        {
+          "type": "p",
+          "text": "If two labels use different serving sizes, the rows are not ready to compare until that difference is visible."
+        },
+        {
+          "type": "h2",
+          "text": "Keep milligrams and percent Daily Value together"
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists calcium at 1,300 mg for adults and children 4 years and older. The percent Daily Value shows how one serving contributes to a daily diet."
+        },
+        {
+          "type": "p",
+          "text": "Keep the mg amount beside the percent. A percent without the amount is harder to check later."
+        },
+        {
+          "type": "h2",
+          "text": "Write the source beside the number"
+        },
+        {
+          "type": "p",
+          "text": "A Nutrition Facts panel, Supplement Facts panel, label photo, and product page are not the same source. Put the source in its own field."
+        },
+        {
+          "type": "p",
+          "text": "If the full panel is not visible, write that directly. A partial label should stay partial in the note."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn the label into a personal answer"
+        },
+        {
+          "type": "p",
+          "text": "A calcium label can show what one serving lists. It cannot decide what a person should eat, take, or change."
+        },
+        {
+          "type": "p",
+          "text": "If age, pregnancy, breastfeeding, medical history, medicines, or a personal nutrition plan matters, keep the question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the row complete"
+        },
+        {
+          "type": "p",
+          "text": "A calcium label row is strongest when serving size, amount, unit, percent Daily Value, source, and open question stay together. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "read-marketing-claims-on-labels",
+      "date": "2026-08-19",
+      "category": "Comparison Skills",
+      "title": "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead",
+      "summary": "Learn how to read marketing claims on labels by copying exact wording, checking label facts, looking for qualifiers, and leaving personal questions outside the claim.",
+      "seo": {
+        "seoTitle": "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead | Daily Support Guide",
+        "metaDescription": "Learn how to read marketing claims on labels by separating exact wording from label facts, qualifiers, serving basis, and open questions.",
+        "primaryKeyword": "marketing claims on labels",
+        "secondaryKeywords": [
+          "marketing claims on labels guide",
+          "label claims comparison",
+          "read product claims carefully"
+        ],
+        "searchIntent": "informational",
+        "h1": "Marketing Claims on Labels: How to Notice Them Without Letting Them Lead",
+        "h2": [
+          "Separate the claim from the facts",
+          "Know the broad claim categories",
+          "Watch for structure and function language",
+          "Notice what the claim leaves out",
+          "Use the same note fields each time",
+          "Pause before interpreting the claim",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I read marketing claims on labels?",
+          "Why should claims stay separate from label facts?",
+          "When should personal questions stay outside a label-claim comparison?"
+        ],
+        "internalLinks": [
+          "structure-function-claims-label",
+          "compare-similar-products-framework",
+          "read-protein-on-food-labels"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Marketing claims on labels are often the first words a reader sees. They may be large, short, and easy to remember. That does not make every claim wrong, but it does mean the claim should not carry the whole comparison."
+        },
+        {
+          "type": "p",
+          "text": "This article is about reading label wording. It does not name brands, recommend products, or decide what is medically or personally appropriate for a reader."
+        },
+        {
+          "type": "h2",
+          "text": "Separate the claim from the facts"
+        },
+        {
+          "type": "p",
+          "text": "Start by copying the claim exactly as written. Then move to the structured parts of the label or product page: serving size, servings per container, Nutrition Facts or Supplement Facts, ingredient list, warnings, directions, package amount, and terms if they are relevant."
+        },
+        {
+          "type": "p",
+          "text": "This creates two lanes. One lane holds the claim. The other lane holds details that can be checked. A claim may be easier to understand after the facts are written down, but it should not replace them."
+        },
+        {
+          "type": "h2",
+          "text": "Know the broad claim categories"
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that food and dietary supplement labels may use several claim categories, including health claims, nutrient content claims, and structure/function claims. These categories are not all the same, and they do not all mean FDA reviewed a product before a reader saw it."
+        },
+        {
+          "type": "p",
+          "text": "The useful habit is simple: do not treat a familiar-sounding phrase as a full explanation. Ask what type of statement it appears to be, what part of the label supports it, and whether qualifying language appears nearby."
+        },
+        {
+          "type": "h2",
+          "text": "Watch for structure and function language"
+        },
+        {
+          "type": "p",
+          "text": "FDA describes structure/function claims as statements about the role of a nutrient or dietary ingredient in affecting normal body structure or function, or about general well-being. FDA also explains that dietary supplement structure/function claims must use a required disclaimer and must not be disease claims."
+        },
+        {
+          "type": "p",
+          "text": "When a label uses words about support, maintenance, normal function, balance, or well-being, copy the phrase and look for nearby disclaimers or limits. The job here is to read wording, not to make a health decision."
+        },
+        {
+          "type": "h2",
+          "text": "Notice what the claim leaves out"
+        },
+        {
+          "type": "p",
+          "text": "A claim can feel more complete than it is. It may highlight one nutrient, one ingredient, one serving detail, one package feature, or one broad benefit phrase while other label details sit elsewhere."
+        },
+        {
+          "type": "p",
+          "text": "FTC health product guidance says advertising must be truthful and not misleading, and objective product claims need adequate support before being shared with consumers. A practical reader can still keep the task simple: treat the claim as a prompt to read the rest of the label, not as the final answer."
+        },
+        {
+          "type": "h2",
+          "text": "Use the same note fields each time"
+        },
+        {
+          "type": "p",
+          "text": "Use the same fields for every product you compare: exact claim wording, serving basis, ingredient or nutrient line, amount or unit, qualifying language, and questions that remain. If a detail is missing, write \"not shown\" rather than filling in the blank."
+        },
+        {
+          "type": "p",
+          "text": "This matters most with health-adjacent products. Do not turn a claim into a product ranking, personal amount rule, or instruction to choose one item over another."
+        },
+        {
+          "type": "h2",
+          "text": "Pause before interpreting the claim"
+        },
+        {
+          "type": "p",
+          "text": "After copying the claim and label facts, pause before interpreting them. Ask whether the claim is broad, whether the supporting detail is visible, whether the serving basis is clear, and whether the wording includes limits or disclaimers."
+        },
+        {
+          "type": "p",
+          "text": "If the topic connects to pregnancy, breastfeeding, medication use, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, anemia, thyroid concerns, digestion, bone health, or another personal factor, follow licensed professional guidance instead of using a general label article."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Marketing claims on labels are easier to handle when you copy the claim, separate it from checkable facts, notice the claim category, look for qualifiers, and keep open questions visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "vitamin-d-appointment-question-sheet",
       "date": "2026-08-18",
       "category": "Nutrient Notes",
@@ -5440,7 +6163,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-19",
       "title": "How to Notice Marketing Claims Without Letting Them Lead",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 32,
