@@ -1,6 +1,733 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "potassium-serving-size-notes",
+      "date": "2026-08-21",
+      "category": "Nutrient Notes",
+      "title": "Potassium Notes When Serving Sizes Do Not Match",
+      "summary": "Compare potassium notes by keeping source, serving size, amount, percent Daily Value, claim wording, and open questions in separate rows.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Potassium Notes When Serving Sizes Do Not Match | Daily Support Guide",
+        "metaDescription": "Compare potassium notes by keeping source, serving size, amount, percent Daily Value, claim wording, and open questions separate.",
+        "primaryKeyword": "potassium serving size notes",
+        "secondaryKeywords": [
+          "compare potassium labels",
+          "potassium serving size comparison",
+          "potassium label rows"
+        ],
+        "searchIntent": "informational",
+        "h1": "Potassium Notes When Serving Sizes Do Not Match",
+        "h2": [
+          "Use one row per source",
+          "Serving size comes before comparison",
+          "Keep claims out of the amount field",
+          "Write what the rows cannot decide",
+          "Leave the mismatch visible"
+        ],
+        "faq": [
+          "How should I compare potassium labels with different serving sizes?",
+          "Why should potassium claims stay separate from amounts?",
+          "Can potassium rows decide the better food?"
+        ],
+        "internalLinks": [
+          "potassium-percent-daily-value-label",
+          "potassium-food-patterns-without-rule",
+          "good-source-potassium-phrase"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A potassium comparison should show the mismatch instead of hiding it. Serving size belongs near the front of every row."
+        },
+        {
+          "type": "p",
+          "text": "Theo Grant starts with the source, then lets the mismatch stay visible. Rows can compare label fields, but they do not rank foods, choose products, or answer personal health questions."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per source"
+        },
+        {
+          "type": "p",
+          "text": "Put each source in its own row: Nutrition Facts panel, label photo, product page, or meal note."
+        },
+        {
+          "type": "p",
+          "text": "Add date checked, serving size, potassium amount, unit, percent Daily Value, claim wording, and open question."
+        },
+        {
+          "type": "h2",
+          "text": "Serving size comes before comparison"
+        },
+        {
+          "type": "p",
+          "text": "If two labels use different serving sizes, write both serving sizes before comparing potassium amounts."
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value also belongs to the serving printed on the label."
+        },
+        {
+          "type": "h2",
+          "text": "Keep claims out of the amount field"
+        },
+        {
+          "type": "p",
+          "text": "Put phrases such as \"good source\" or \"high in potassium\" in the claim field. Put mg and percent Daily Value in the amount fields."
+        },
+        {
+          "type": "p",
+          "text": "That keeps wording, numbers, and serving basis from merging."
+        },
+        {
+          "type": "h2",
+          "text": "Write what the rows cannot decide"
+        },
+        {
+          "type": "p",
+          "text": "Potassium rows cannot decide blood-pressure questions, kidney questions, medicine questions, symptom questions, or personal nutrition plans."
+        },
+        {
+          "type": "p",
+          "text": "If the mismatch matters personally, bring the note to a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "A potassium comparison is easier to revisit when source, serving size, amount, unit, percent Daily Value, claim wording, and open questions stay in separate rows. This article is general education only and is not medical advice."
+        },
+        {
+          "type": "p",
+          "text": "A potassium comparison is easier to revisit when source, serving size, amount, unit, percent Daily Value, claim wording, and open questions stay in separate rows. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "good-source-potassium-phrase",
+      "date": "2026-08-21",
+      "category": "Nutrient Notes",
+      "title": "\"Good Source of Potassium\": Keep the Phrase in Its Lane",
+      "summary": "Read good source of potassium wording by copying the exact phrase, checking the percent Daily Value, and avoiding disease or treatment upgrades.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "\"Good Source of Potassium\": Keep the Phrase in Its Lane | Daily Support Guide",
+        "metaDescription": "Read good source of potassium wording by copying the exact phrase, checking percent Daily Value, and avoiding claim upgrades.",
+        "primaryKeyword": "good source of potassium",
+        "secondaryKeywords": [
+          "potassium nutrient content claim",
+          "potassium label claim",
+          "high in potassium claim"
+        ],
+        "searchIntent": "informational",
+        "h1": "\"Good Source of Potassium\": Keep the Phrase in Its Lane",
+        "h2": [
+          "Copy the exact phrase",
+          "Check the claim level",
+          "Read the potassium line",
+          "Do not upgrade the claim",
+          "Keep the phrase narrow"
+        ],
+        "faq": [
+          "What does good source of potassium mean?",
+          "How is good source different from high in potassium?",
+          "Can a potassium claim answer personal health questions?"
+        ],
+        "internalLinks": [
+          "potassium-percent-daily-value-label",
+          "potassium-label-checklist-packaged-foods",
+          "potassium-serving-size-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The phrase belongs to the label. \"Good source of potassium\" should be copied before it is explained, and it should not be turned into a larger promise."
+        },
+        {
+          "type": "p",
+          "text": "June Carter treats the phrase like quoted label copy, not a promise waiting to be enlarged. Blood pressure, kidneys, medicines, symptoms, and personal fit stay outside it."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the exact phrase"
+        },
+        {
+          "type": "p",
+          "text": "Write the claim as shown. Include nearby qualifiers, serving language, or small print if it appears with the phrase."
+        },
+        {
+          "type": "p",
+          "text": "Do not shorten the phrase into something more certain."
+        },
+        {
+          "type": "h2",
+          "text": "Check the claim level"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount."
+        },
+        {
+          "type": "p",
+          "text": "High, rich in, or excellent source claims generally indicate 20 percent or more. Keep those levels separate."
+        },
+        {
+          "type": "h2",
+          "text": "Read the potassium line"
+        },
+        {
+          "type": "p",
+          "text": "After copying the phrase, check the potassium amount, unit, percent Daily Value, serving size, source, and date checked."
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists potassium at 4,700 mg for adults and children 4 years and older."
+        },
+        {
+          "type": "h2",
+          "text": "Do not upgrade the claim"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn the claim into a statement about lowering blood pressure, treating a condition, changing medicine, or fixing symptoms."
+        },
+        {
+          "type": "p",
+          "text": "If a personal health question is behind the note, keep that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "\"Good source of potassium\" is a narrow claim phrase. Let the exact wording, percent Daily Value, serving basis, and unanswered questions each keep their own place. This article is general education only and is not medical advice."
+        },
+        {
+          "type": "p",
+          "text": "\"Good source of potassium\" is a narrow claim phrase. Let the exact wording, percent Daily Value, serving basis, and unanswered questions each keep their own place. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "potassium-label-checklist-packaged-foods",
+      "date": "2026-08-21",
+      "category": "Nutrient Notes",
+      "title": "Potassium Label Checklist for Packaged Foods",
+      "summary": "Use a compact potassium label checklist for packaged foods: serving size, amount, unit, percent Daily Value, source, and one open question.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Potassium Label Checklist for Packaged Foods | Daily Support Guide",
+        "metaDescription": "Use a compact potassium label checklist for packaged foods: serving size, amount, unit, percent Daily Value, source, and one question.",
+        "primaryKeyword": "potassium label checklist",
+        "secondaryKeywords": [
+          "potassium packaged foods",
+          "potassium label note",
+          "potassium percent DV checklist"
+        ],
+        "searchIntent": "informational",
+        "h1": "Potassium Label Checklist for Packaged Foods",
+        "h2": [
+          "Field 1: serving size",
+          "Field 2: potassium amount",
+          "Field 3: percent Daily Value",
+          "Field 4: source",
+          "Field 5: open question"
+        ],
+        "faq": [
+          "What should a potassium label checklist include?",
+          "Why should serving size come first?",
+          "What should stay as an open potassium question?"
+        ],
+        "internalLinks": [
+          "potassium-percent-daily-value-label",
+          "potassium-food-patterns-without-rule",
+          "good-source-potassium-phrase"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Use five fields. Serving size. Amount. Percent Daily Value. Source. Question."
+        },
+        {
+          "type": "p",
+          "text": "Eli Brooks keeps the page short on purpose. Copy the label. Skip the product idea, the personal number, and the homemade health answer."
+        },
+        {
+          "type": "h2",
+          "text": "Field 1: serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size first. The potassium line belongs to that serving."
+        },
+        {
+          "type": "p",
+          "text": "If the serving is unclear, write \"serving unclear.\""
+        },
+        {
+          "type": "h2",
+          "text": "Field 2: potassium amount"
+        },
+        {
+          "type": "p",
+          "text": "Copy the potassium amount and unit exactly as shown. Potassium is listed in milligrams on Nutrition Facts labels."
+        },
+        {
+          "type": "p",
+          "text": "Do not round it from memory."
+        },
+        {
+          "type": "h2",
+          "text": "Field 3: percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Copy the percent Daily Value. FDA Daily Value guidance lists potassium at 4,700 mg for adults and children 4 years and older."
+        },
+        {
+          "type": "p",
+          "text": "The percent helps read the label. It does not make a personal plan."
+        },
+        {
+          "type": "h2",
+          "text": "Field 4: source"
+        },
+        {
+          "type": "p",
+          "text": "Write the source: package panel, label photo, product page, or food record."
+        },
+        {
+          "type": "p",
+          "text": "That is the end of the checklist. This article is general education only and is not medical advice."
+        },
+        {
+          "type": "h2",
+          "text": "Field 5: open question"
+        },
+        {
+          "type": "p",
+          "text": "End with one question. Missing panel. Different serving size. Personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "That is the end of the checklist. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "potassium-food-patterns-without-rule",
+      "date": "2026-08-21",
+      "category": "Nutrient Notes",
+      "title": "Finding Potassium Food Patterns Without Making a Rule",
+      "summary": "Use a weekly food note to notice potassium food patterns without turning the record into a personal rule or medical conclusion.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Finding Potassium Food Patterns Without Making a Rule | Daily Support Guide",
+        "metaDescription": "Use a weekly food note to notice potassium food patterns without turning the record into a personal rule or medical conclusion.",
+        "primaryKeyword": "potassium food patterns",
+        "secondaryKeywords": [
+          "potassium food note",
+          "potassium weekly record",
+          "potassium foods pattern"
+        ],
+        "searchIntent": "informational",
+        "h1": "Finding Potassium Food Patterns Without Making a Rule",
+        "h2": [
+          "Look at the week first",
+          "Use flexible pattern words",
+          "Keep labels and meals separate",
+          "Do not turn the note into advice",
+          "Leave the question open"
+        ],
+        "faq": [
+          "How can I notice potassium food patterns?",
+          "Should a potassium food note become a rule?",
+          "What personal questions should stay outside the note?"
+        ],
+        "internalLinks": [
+          "potassium-percent-daily-value-label",
+          "potassium-label-checklist-packaged-foods",
+          "potassium-serving-size-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A food note can be gentle. It can show what appeared often, what appeared sometimes, and what was hard to check from the week."
+        },
+        {
+          "type": "p",
+          "text": "Nora Vale would rather keep the week a little unfinished than force it into a rule. Personal health questions, medicines, and kidney concerns belong with a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Look at the week first"
+        },
+        {
+          "type": "p",
+          "text": "Write down meals that actually happened. When a package label is nearby, copy the potassium line. When no label is available, write \"not checked.\""
+        },
+        {
+          "type": "p",
+          "text": "The week does not need to be perfect to be useful."
+        },
+        {
+          "type": "h2",
+          "text": "Use flexible pattern words"
+        },
+        {
+          "type": "p",
+          "text": "Use often, sometimes, rarely, and unclear. Those words fit ordinary meals better than strict categories."
+        },
+        {
+          "type": "p",
+          "text": "They also leave room for mixed dishes, leftovers, and meals eaten away from home."
+        },
+        {
+          "type": "h2",
+          "text": "Keep labels and meals separate"
+        },
+        {
+          "type": "p",
+          "text": "A label gives serving-based potassium information. A meal note gives a record of what was eaten. Keep those two records separate."
+        },
+        {
+          "type": "p",
+          "text": "If the label and the meal do not match neatly, write the mismatch instead of smoothing it away."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn the note into advice"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn a potassium food note into blood-pressure advice, kidney advice, medicine advice, or a personal nutrition rule."
+        },
+        {
+          "type": "p",
+          "text": "A weekly note can prepare a conversation without deciding the answer."
+        },
+        {
+          "type": "h2",
+          "text": "A potassium food-pattern note can close with what showed up, what stayed blurry, and what might be worth bringing into a conversation. This article is general education only and is not medical advice."
+        },
+        {
+          "type": "p",
+          "text": "A potassium food-pattern note can close with what showed up, what stayed blurry, and what might be worth bringing into a conversation. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "potassium-percent-daily-value-label",
+      "date": "2026-08-21",
+      "category": "Nutrient Notes",
+      "title": "Potassium on Labels: What the Percent Daily Value Means",
+      "summary": "Read potassium on labels by keeping serving size, amount, unit, percent Daily Value, source, and the next question in one row.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Potassium on Labels: What the Percent Daily Value Means | Daily Support Guide",
+        "metaDescription": "Read potassium on labels by copying serving size, amount, unit, percent Daily Value, and source before interpreting the number.",
+        "primaryKeyword": "potassium percent Daily Value",
+        "secondaryKeywords": [
+          "potassium on labels",
+          "potassium Daily Value",
+          "potassium Nutrition Facts"
+        ],
+        "searchIntent": "informational",
+        "h1": "Potassium on Labels: What the Percent Daily Value Means",
+        "h2": [
+          "Start with one serving",
+          "Keep milligrams beside percent Daily Value",
+          "Check that the potassium line is present",
+          "Separate label facts from personal questions",
+          "Keep the row attached"
+        ],
+        "faq": [
+          "What is the Daily Value for potassium?",
+          "Why should potassium amount and percent Daily Value stay together?",
+          "Can a potassium label answer personal health questions?"
+        ],
+        "internalLinks": [
+          "potassium-food-patterns-without-rule",
+          "potassium-label-checklist-packaged-foods",
+          "good-source-potassium-phrase"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Start with one serving. The potassium amount and percent Daily Value belong to the serving size printed on the label."
+        },
+        {
+          "type": "p",
+          "text": "Before Mara Lin reads meaning into a potassium number, she writes the fields down: serving, amount, unit, percent Daily Value, source, and the question still unanswered."
+        },
+        {
+          "type": "h2",
+          "text": "Start with one serving"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size first. Then copy potassium amount, unit, percent Daily Value, source, and date checked."
+        },
+        {
+          "type": "p",
+          "text": "If two labels use different serving sizes, show that difference before comparing the numbers."
+        },
+        {
+          "type": "h2",
+          "text": "Keep milligrams beside percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists potassium at 4,700 mg for adults and children 4 years and older. The percent Daily Value shows how one serving contributes to a daily diet."
+        },
+        {
+          "type": "p",
+          "text": "Keep the mg amount and percent in the same row. One without the other is easier to misread later."
+        },
+        {
+          "type": "h2",
+          "text": "Check that the potassium line is present"
+        },
+        {
+          "type": "p",
+          "text": "FDA label guidance includes potassium among nutrients that must declare actual amounts and percent Daily Value on the label."
+        },
+        {
+          "type": "p",
+          "text": "If the label image is partial or hard to read, write that as a source limitation."
+        },
+        {
+          "type": "h2",
+          "text": "Separate label facts from personal questions"
+        },
+        {
+          "type": "p",
+          "text": "A potassium row can show what the label lists. It cannot decide a blood-pressure question, kidney question, medicine question, or personal nutrition plan."
+        },
+        {
+          "type": "p",
+          "text": "Those questions should stay with a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "A potassium label row works best when serving size, amount, unit, percent Daily Value, source, and the next question travel together. Keep the record intact; this article is general education only and is not medical advice."
+        },
+        {
+          "type": "p",
+          "text": "A potassium label row works best when serving size, amount, unit, percent Daily Value, source, and the next question travel together. Keep the record intact; this article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "proprietary-blend-label",
+      "date": "2026-08-21",
+      "category": "Label Reading",
+      "title": "Proprietary Blend Label: How to Compare What Is and Is Not Shown",
+      "summary": "Learn how to read a proprietary blend label by checking the blend name, total amount, ingredient order, serving size, and missing individual amounts.",
+      "seo": {
+        "seoTitle": "Proprietary Blend Label: How to Compare What Is and Is Not Shown | Daily Support Guide",
+        "metaDescription": "Learn how to read a proprietary blend label by separating blend name, total amount, ingredient order, serving size, and missing details.",
+        "primaryKeyword": "proprietary blend label",
+        "secondaryKeywords": [
+          "proprietary blend label guide",
+          "supplement blend label",
+          "compare blend labels"
+        ],
+        "searchIntent": "informational",
+        "h1": "Proprietary Blend Label: How to Compare What Is and Is Not Shown",
+        "h2": [
+          "Start with the blend name",
+          "Find the total amount",
+          "Keep ingredient order separate from amounts",
+          "Check serving size before comparing blends",
+          "Notice what is not shown",
+          "Do not turn a blend into a product score",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What does a proprietary blend label show?",
+          "Why should blend total stay separate from individual ingredient amounts?",
+          "When should missing blend details stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "how-to-read-ingredient-list",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A proprietary blend label can look tidy because several ingredients sit under one blend name. That tidy layout can also hide the detail a reader may want most: how much of each ingredient is listed separately, if at all."
+        },
+        {
+          "type": "p",
+          "text": "This article is about reading what the label shows and what it does not show. It does not rank products, recommend brands, set personal amounts, or replace medical advice from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the blend name"
+        },
+        {
+          "type": "p",
+          "text": "FDA dietary supplement labeling guidance discusses proprietary blends as part of Supplement Facts labeling. A blend may appear under a name or term that groups dietary ingredients together."
+        },
+        {
+          "type": "p",
+          "text": "Copy the blend name first. Then copy the exact ingredients listed under it. Do not shorten the list or add your own category name, because a small wording change can make the note less accurate."
+        },
+        {
+          "type": "h2",
+          "text": "Find the total amount"
+        },
+        {
+          "type": "p",
+          "text": "FDA guidance explains that proprietary blends are declared by total quantity rather than by listing a separate amount for each ingredient inside the blend. That total amount belongs to the blend as a whole."
+        },
+        {
+          "type": "p",
+          "text": "Write the total blend amount next to the serving size. If the label gives a total amount for the blend but not each ingredient, keep that distinction visible."
+        },
+        {
+          "type": "h2",
+          "text": "Keep ingredient order separate from amounts"
+        },
+        {
+          "type": "p",
+          "text": "FDA supplement labeling guidance indicates that dietary ingredients in a proprietary blend are listed in descending order of predominance by weight. Order can be useful, but it is not the same as an individual amount."
+        },
+        {
+          "type": "p",
+          "text": "A clean note can say: blend total shown; individual amounts not shown; ingredients listed in order. That is more accurate than guessing how much of one ingredient is present."
+        },
+        {
+          "type": "h2",
+          "text": "Check serving size before comparing blends"
+        },
+        {
+          "type": "p",
+          "text": "Serving size still matters. Two labels may both use a blend, but one serving may be one capsule, two tablets, one scoop, or another amount."
+        },
+        {
+          "type": "p",
+          "text": "Before comparing blend totals, copy serving size and servings per container. A larger blend total on a larger serving basis does not automatically mean the labels are easier to compare."
+        },
+        {
+          "type": "h2",
+          "text": "Notice what is not shown"
+        },
+        {
+          "type": "p",
+          "text": "A missing individual amount is not a reason to guess. It is a note: the label gives the blend total but not separate amounts for each ingredient."
+        },
+        {
+          "type": "p",
+          "text": "If a label detail is unclear, write that it is unclear. If a personal health question depends on the answer, a general label article is not the right place to settle it."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn a blend into a product score"
+        },
+        {
+          "type": "p",
+          "text": "A blend can be compared as a label format, not as a winner or loser. Keep the fields plain: serving size, blend name, total blend amount, ingredients listed, individual amounts shown or not shown, and questions that remain."
+        },
+        {
+          "type": "p",
+          "text": "If the topic connects to pregnancy, breastfeeding, medications, surgery, allergies, a medical condition, eating disorder history, kidney or liver concerns, or a personal nutrition plan, follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "A proprietary blend label is easier to read when you separate the blend name, total amount, ingredient order, serving size, and missing individual amounts. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "magnesium-comparison-similar-foods",
       "date": "2026-08-20",
       "category": "Nutrient Notes",
@@ -6900,7 +7627,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-21",
       "title": "How to Compare Products When One Uses a Blend",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 34,
