@@ -1,6 +1,712 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "vitamin-b12-source-notes",
+      "date": "2026-08-22",
+      "category": "Nutrient Notes",
+      "title": "Vitamin B12 Notes Across Labels and Food Records",
+      "summary": "Compare vitamin B12 notes by keeping each source, serving size, amount, percent Daily Value, and unknown field in its own row.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Vitamin B12 Notes Across Labels and Food Records | Daily Support Guide",
+        "metaDescription": "Compare vitamin B12 notes by keeping each source, serving size, amount, percent Daily Value, and unknown field in its own row.",
+        "primaryKeyword": "vitamin B12 source notes",
+        "secondaryKeywords": [
+          "B12 label comparison",
+          "B12 food record",
+          "vitamin B12 percent Daily Value"
+        ],
+        "searchIntent": "informational",
+        "h1": "Vitamin B12 Notes Across Labels and Food Records",
+        "h2": [
+          "Use one row per source",
+          "Keep not shown visible",
+          "Compare only matching fields",
+          "Write what remains unknown",
+          "Keep the sheet from deciding"
+        ],
+        "faq": [
+          "How should I compare vitamin B12 labels?",
+          "What if one source does not show B12?",
+          "Can a B12 source note choose a food?"
+        ],
+        "internalLinks": [
+          "vitamin-b12-label-listed-not-listed",
+          "vitamin-b12-food-pattern-no-rule",
+          "high-in-vitamin-b12-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A B12 comparison can get messy fast. Keep the source visible, or the row starts pretending to know more than it does."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per source"
+        },
+        {
+          "type": "p",
+          "text": "Create a row for each Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record."
+        },
+        {
+          "type": "p",
+          "text": "Add date checked, serving size, B12 amount, unit, percent Daily Value, listed status, and open question."
+        },
+        {
+          "type": "h2",
+          "text": "Keep not shown visible"
+        },
+        {
+          "type": "p",
+          "text": "NIH ODS notes that FDA does not require food labels to list vitamin B12 unless vitamin B12 has been added to the food. So not shown should stay visible."
+        },
+        {
+          "type": "p",
+          "text": "Do not erase a gap by borrowing a number from another source."
+        },
+        {
+          "type": "h2",
+          "text": "Compare only matching fields"
+        },
+        {
+          "type": "p",
+          "text": "Compare serving size with serving size, amount with amount, percent Daily Value with percent Daily Value, and source with source. If one row has a claim and another row does not, keep the claim in its own field."
+        },
+        {
+          "type": "h2",
+          "text": "Write what remains unknown"
+        },
+        {
+          "type": "p",
+          "text": "Rows cannot decide personal fit, diet pattern questions, medical questions, medicine questions, or whether a supplement belongs in someone's routine."
+        },
+        {
+          "type": "p",
+          "text": "If the note matters personally, bring the source record to a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the sheet from deciding"
+        },
+        {
+          "type": "p",
+          "text": "A B12 source note can compare fields without choosing an answer. Keep source, serving size, amount, percent Daily Value, listed status, and open questions in their own places."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "high-in-vitamin-b12-claim",
+      "date": "2026-08-22",
+      "category": "Nutrient Notes",
+      "title": "\"High in Vitamin B12\": Read the Claim Before the Promise",
+      "summary": "Read high in vitamin B12 wording by copying the phrase, checking percent Daily Value, and keeping health promises out of the claim.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "\"High in Vitamin B12\": Read the Claim Before the Promise | Daily Support Guide",
+        "metaDescription": "Read high in vitamin B12 wording by copying the phrase, checking percent Daily Value, and keeping health promises out of the claim.",
+        "primaryKeyword": "high in vitamin B12",
+        "secondaryKeywords": [
+          "vitamin B12 claim",
+          "B12 good source",
+          "B12 percent Daily Value"
+        ],
+        "searchIntent": "informational",
+        "h1": "\"High in Vitamin B12\": Read the Claim Before the Promise",
+        "h2": [
+          "Copy the phrase first",
+          "Check the claim level",
+          "Look for the B12 line",
+          "Do not add a health promise",
+          "Keep the wording narrow"
+        ],
+        "faq": [
+          "What does high in vitamin B12 mean on a label?",
+          "What does good source of vitamin B12 mean?",
+          "Can a B12 claim answer personal health questions?"
+        ],
+        "internalLinks": [
+          "vitamin-b12-label-listed-not-listed",
+          "vitamin-b12-label-checklist",
+          "vitamin-b12-source-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The phrase needs a border. \"High in vitamin B12\" can describe a nutrient level, but it should not become a health promise."
+        },
+        {
+          "type": "p",
+          "text": "Copy the exact words first. Then check the label fields that the words point toward."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the phrase first"
+        },
+        {
+          "type": "p",
+          "text": "Write the claim as shown. Include nearby serving language or qualifiers if they appear with it. Do not shorten the phrase into a stronger statement."
+        },
+        {
+          "type": "h2",
+          "text": "Check the claim level"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount."
+        },
+        {
+          "type": "p",
+          "text": "Good source, contains, or provides claims generally indicate 10 to 19 percent. Keep the levels separate."
+        },
+        {
+          "type": "h2",
+          "text": "Look for the B12 line"
+        },
+        {
+          "type": "p",
+          "text": "After copying the claim, check the vitamin B12 amount, unit, percent Daily Value, serving size, source, and date checked."
+        },
+        {
+          "type": "p",
+          "text": "The Daily Value used for label percent calculations is 2.4 mcg for adults and children 4 years and older."
+        },
+        {
+          "type": "h2",
+          "text": "Do not add a health promise"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn the claim into a statement about energy, mood, nerves, blood, memory, or a personal nutrition plan."
+        },
+        {
+          "type": "p",
+          "text": "If the label raises a personal question, leave that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the wording narrow"
+        },
+        {
+          "type": "p",
+          "text": "\"High in vitamin B12\" is label wording. The claim, percent Daily Value, serving basis, and unanswered questions each need their own place."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-b12-label-checklist",
+      "date": "2026-08-22",
+      "category": "Nutrient Notes",
+      "title": "Vitamin B12 Label Checklist: Amount, Unit, Source",
+      "summary": "Use a short vitamin B12 label checklist for amount, unit, percent Daily Value, source, and missing fields.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Vitamin B12 Label Checklist: Amount, Unit, Source | Daily Support Guide",
+        "metaDescription": "Use a short vitamin B12 label checklist for amount, unit, percent Daily Value, source, and missing fields.",
+        "primaryKeyword": "vitamin B12 label checklist",
+        "secondaryKeywords": [
+          "B12 label amount",
+          "B12 percent Daily Value",
+          "vitamin B12 source note"
+        ],
+        "searchIntent": "informational",
+        "h1": "Vitamin B12 Label Checklist: Amount, Unit, Source",
+        "h2": [
+          "Field 1: source",
+          "Field 2: serving size",
+          "Field 3: amount and unit",
+          "Field 4: percent Daily Value",
+          "Field 5: missing or unclear"
+        ],
+        "faq": [
+          "What should I copy from a vitamin B12 label?",
+          "What unit is vitamin B12 listed in?",
+          "What if vitamin B12 is not shown?"
+        ],
+        "internalLinks": [
+          "vitamin-b12-label-listed-not-listed",
+          "vitamin-b12-food-pattern-no-rule",
+          "high-in-vitamin-b12-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Five fields. Source. Serving size. Amount and unit. Percent Daily Value. Missing or unclear."
+        },
+        {
+          "type": "p",
+          "text": "The label is the source. Copy it cleanly. Do not guess past it."
+        },
+        {
+          "type": "h2",
+          "text": "Field 1: source"
+        },
+        {
+          "type": "p",
+          "text": "Write the source first: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record. Add the date checked."
+        },
+        {
+          "type": "h2",
+          "text": "Field 2: serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size. The B12 amount and percent Daily Value belong to that serving."
+        },
+        {
+          "type": "h2",
+          "text": "Field 3: amount and unit"
+        },
+        {
+          "type": "p",
+          "text": "Copy the amount exactly as shown. Vitamin B12 is listed in micrograms, written as mcg. Do not convert it from memory."
+        },
+        {
+          "type": "h2",
+          "text": "Field 4: percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "For this label field, the Daily Value behind the math is 2.4 mcg for adults and children 4 years and older."
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value reads the serving. It does not choose a plan."
+        },
+        {
+          "type": "h2",
+          "text": "Field 5: missing or unclear"
+        },
+        {
+          "type": "p",
+          "text": "If B12 is not shown, write not shown. If the panel is cut off, write panel cut off."
+        },
+        {
+          "type": "p",
+          "text": "Stop at the field."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-b12-food-pattern-no-rule",
+      "date": "2026-08-22",
+      "category": "Nutrient Notes",
+      "title": "Noticing Vitamin B12 Food Patterns Without Making a Rule",
+      "summary": "Use a weekly food record to notice where vitamin B12 labels appear, do not appear, or stay uncertain.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Noticing Vitamin B12 Food Patterns Without Making a Rule | Daily Support Guide",
+        "metaDescription": "Use a weekly food record to notice where vitamin B12 labels appear, do not appear, or stay uncertain.",
+        "primaryKeyword": "vitamin B12 food pattern",
+        "secondaryKeywords": [
+          "B12 food record",
+          "vitamin B12 weekly note",
+          "B12 label record"
+        ],
+        "searchIntent": "informational",
+        "h1": "Noticing Vitamin B12 Food Patterns Without Making a Rule",
+        "h2": [
+          "Write what the week shows",
+          "Use ordinary pattern words",
+          "Separate labels from meals",
+          "Keep personal factors outside the answer"
+        ],
+        "faq": [
+          "How can I notice vitamin B12 food patterns?",
+          "Should a B12 food note become a rule?",
+          "What should stay outside a weekly B12 note?"
+        ],
+        "internalLinks": [
+          "vitamin-b12-label-listed-not-listed",
+          "vitamin-b12-label-checklist",
+          "vitamin-b12-source-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A weekly record does not have to settle anything. It can show where vitamin B12 was listed, where it was not shown, and where the source was too thin to read."
+        },
+        {
+          "type": "p",
+          "text": "That is enough for a first pass. A note for later is still a note."
+        },
+        {
+          "type": "h2",
+          "text": "Write what the week shows"
+        },
+        {
+          "type": "p",
+          "text": "Write the foods and labels that were actually checked. When a label lists vitamin B12, copy the amount, unit, and percent Daily Value. When no label is available, write not checked."
+        },
+        {
+          "type": "h2",
+          "text": "Use ordinary pattern words"
+        },
+        {
+          "type": "p",
+          "text": "Use often, sometimes, rarely, not checked, and unclear. These words leave room for ordinary meals and incomplete labels."
+        },
+        {
+          "type": "p",
+          "text": "They also keep the note from turning into a score."
+        },
+        {
+          "type": "h2",
+          "text": "Separate labels from meals"
+        },
+        {
+          "type": "p",
+          "text": "A label row tells you what one source lists for one serving. A meal note tells you what happened that day."
+        },
+        {
+          "type": "p",
+          "text": "Let the two records sit beside each other. They do not have to match neatly."
+        },
+        {
+          "type": "h2",
+          "text": "Keep personal factors outside the answer"
+        },
+        {
+          "type": "p",
+          "text": "Pregnancy, breastfeeding, medicine use, surgery history, diet pattern, and medical questions do not belong inside a weekly B12 note."
+        },
+        {
+          "type": "p",
+          "text": "Those belong with a licensed professional who knows the person."
+        },
+        {
+          "type": "p",
+          "text": "End with one plain question: what was visible, what was missing, and what might be worth discussing. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vitamin-b12-label-listed-not-listed",
+      "date": "2026-08-22",
+      "category": "Nutrient Notes",
+      "title": "Vitamin B12 on Labels: When It Is Listed and When It Is Not",
+      "summary": "Read vitamin B12 on labels by checking whether it is listed, added, absent, or only partly visible in the source.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Vitamin B12 on Labels: When It Is Listed and When It Is Not | Daily Support Guide",
+        "metaDescription": "Read vitamin B12 on labels by checking whether it is listed, added, absent, or only partly visible in the source.",
+        "primaryKeyword": "vitamin B12 on labels",
+        "secondaryKeywords": [
+          "vitamin B12 Daily Value",
+          "B12 Nutrition Facts",
+          "vitamin B12 label"
+        ],
+        "searchIntent": "informational",
+        "h1": "Vitamin B12 on Labels: When It Is Listed and When It Is Not",
+        "h2": [
+          "Start with the label field",
+          "Keep micrograms and percent together",
+          "Mark added or not shown",
+          "Do not fill missing fields",
+          "Leave the record readable"
+        ],
+        "faq": [
+          "What is the Daily Value for vitamin B12?",
+          "Does every food label list vitamin B12?",
+          "How should I record a missing B12 line?"
+        ],
+        "internalLinks": [
+          "vitamin-b12-food-pattern-no-rule",
+          "vitamin-b12-label-checklist",
+          "high-in-vitamin-b12-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A vitamin B12 line has to be found before it can be read. Start with the panel itself: visible, absent, added, or cut off."
+        },
+        {
+          "type": "p",
+          "text": "Then keep the fields in order: source, serving size, amount, unit, percent Daily Value, and the question that remains."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the label field"
+        },
+        {
+          "type": "p",
+          "text": "Check whether vitamin B12 appears on the Nutrition Facts or Supplement Facts panel. If the panel is cropped, write that limitation before writing any number."
+        },
+        {
+          "type": "p",
+          "text": "A missing line is only a source note. It is not a personal answer."
+        },
+        {
+          "type": "h2",
+          "text": "Keep micrograms and percent together"
+        },
+        {
+          "type": "p",
+          "text": "For adults and children 4 years and older, FDA's Daily Value table lists vitamin B12 at 2.4 mcg. The percent Daily Value reads one serving."
+        },
+        {
+          "type": "p",
+          "text": "Keep mcg and percent Daily Value beside each other. The unit is part of the field."
+        },
+        {
+          "type": "h2",
+          "text": "Mark added or not shown"
+        },
+        {
+          "type": "p",
+          "text": "NIH ODS notes that FDA does not require food labels to list vitamin B12 unless vitamin B12 has been added to the food."
+        },
+        {
+          "type": "p",
+          "text": "So the status field matters: added, not shown, partly visible, or unclear."
+        },
+        {
+          "type": "h2",
+          "text": "Do not fill missing fields"
+        },
+        {
+          "type": "p",
+          "text": "Do not add a B12 amount from memory, a general food list, or a guess about the recipe. If a personal nutrition question sits behind the note, keep that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Leave the record readable"
+        },
+        {
+          "type": "p",
+          "text": "A B12 label note should show source, serving size, listed status, amount, unit, percent Daily Value, and unanswered question."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "botanical-label-plant-part-form",
+      "date": "2026-08-22",
+      "category": "Label Reading",
+      "title": "Botanical Label Plant Part and Form: What to Copy Before Comparing",
+      "summary": "Learn how to read botanical labels by copying the botanical name, plant part, form, serving size, amount, and panel location before comparing.",
+      "seo": {
+        "seoTitle": "Botanical Label Plant Part and Form: What to Copy Before Comparing | Daily Support Guide",
+        "metaDescription": "Learn how to read botanical labels by keeping botanical name, plant part, form, serving size, amount, and panel location separate.",
+        "primaryKeyword": "botanical label plant part and form",
+        "secondaryKeywords": [
+          "botanical supplement label",
+          "plant part on supplement label",
+          "botanical label guide"
+        ],
+        "searchIntent": "informational",
+        "h1": "Botanical Label Plant Part and Form: What to Copy Before Comparing",
+        "h2": [
+          "Start with the botanical name",
+          "Copy the plant part",
+          "Keep form separate from plant part",
+          "Check the panel and serving size",
+          "Do not fill in missing botanical details",
+          "Use the same fields for each label",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What botanical label details should I copy?",
+          "Why should plant part and form stay separate?",
+          "When should botanical label questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "how-to-read-ingredient-list",
+          "proprietary-blend-label"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Botanical labels can include several details in a small space: a name, plant part, form, amount, and serving size. If those details are mixed together too quickly, the comparison gets blurry."
+        },
+        {
+          "type": "p",
+          "text": "This article explains what to copy before comparing botanical labels. It does not rank products, recommend brands, interpret medical use, or replace guidance from a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the botanical name"
+        },
+        {
+          "type": "p",
+          "text": "FDA consumer information explains that dietary ingredients include herbs and other botanicals. FDA supplement labeling guidance says Supplement Facts must list the names and quantities of dietary ingredients present."
+        },
+        {
+          "type": "p",
+          "text": "Start by copying the botanical name exactly as shown. If the label includes a common name and another name, keep both in the note instead of choosing one."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the plant part"
+        },
+        {
+          "type": "p",
+          "text": "FDA dietary supplement labeling guidance says the part of the plant from which a dietary ingredient is derived must be included in the Supplement Facts panel for dietary supplements."
+        },
+        {
+          "type": "p",
+          "text": "Plant part should be its own field. Leaf, root, flower, seed, fruit, bark, and other plant-part words should not be blended into a general ingredient note."
+        },
+        {
+          "type": "h2",
+          "text": "Keep form separate from plant part"
+        },
+        {
+          "type": "p",
+          "text": "A label may also include form wording, such as powder, extract, oil, or another descriptor. Form is not the same as plant part."
+        },
+        {
+          "type": "p",
+          "text": "For cleaner notes, use separate fields: botanical name, plant part, form, amount, unit, serving size, and panel location. That keeps the comparison from leaning on one word too heavily."
+        },
+        {
+          "type": "h2",
+          "text": "Check the panel and serving size"
+        },
+        {
+          "type": "p",
+          "text": "FDA supplement labeling guidance says the nutrition label for a dietary supplement is called a Supplement Facts panel. The panel must list serving size and, when required, servings per container."
+        },
+        {
+          "type": "p",
+          "text": "Before comparing two botanical lines, copy the serving size. A botanical amount tied to one capsule is not the same serving basis as an amount tied to two capsules or one scoop."
+        },
+        {
+          "type": "h2",
+          "text": "Do not fill in missing botanical details"
+        },
+        {
+          "type": "p",
+          "text": "If the label does not show a detail you expected, write \"not shown\" or \"unclear\" instead of filling it in from memory. A missing detail is a comparison note, not proof of quality or fit."
+        },
+        {
+          "type": "p",
+          "text": "If a personal question depends on the botanical, plant part, amount, medication use, pregnancy, breastfeeding, allergy, surgery, or medical condition, follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "Use the same fields for each label"
+        },
+        {
+          "type": "p",
+          "text": "A simple botanical note can use the same fields every time: botanical name, plant part, form, amount with unit, serving size, and panel location. If a label includes a blend, keep the blend total separate from individual ingredient details."
+        },
+        {
+          "type": "p",
+          "text": "The point is not to make the article decide which product is better. The point is to keep label facts organized enough to compare."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Botanical labels are easier to read when botanical name, plant part, form, amount, and serving size stay in separate fields. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "potassium-serving-size-notes",
       "date": "2026-08-21",
       "category": "Nutrient Notes",
@@ -7634,7 +8340,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-22",
       "title": "How to Compare Botanical Labels by Plant Part and Form",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 35,
