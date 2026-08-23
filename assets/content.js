@@ -1,6 +1,669 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "folate-source-comparison",
+      "date": "2026-08-23",
+      "category": "Nutrient Notes",
+      "title": "Folate Source Notes When Labels Do Not Match",
+      "summary": "Compare folate source notes by keeping source, serving size, mcg DFE, folic acid parentheses, percent Daily Value, and gaps in separate rows.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Folate Source Notes When Labels Do Not Match | Daily Support Guide",
+        "metaDescription": "Compare folate source notes by keeping source, serving size, mcg DFE, folic acid parentheses, percent Daily Value, and gaps in separate rows.",
+        "primaryKeyword": "folate source notes",
+        "secondaryKeywords": [
+          "folate label comparison",
+          "folic acid parentheses",
+          "mcg DFE comparison"
+        ],
+        "searchIntent": "informational",
+        "h1": "Folate Source Notes When Labels Do Not Match",
+        "h2": [
+          "Use one row per source",
+          "Keep the unit visible",
+          "Do not merge parentheses",
+          "Write the gap"
+        ],
+        "faq": [
+          "How should I compare folate labels?",
+          "Why should mcg DFE stay visible?",
+          "What if folic acid is missing from one source?"
+        ],
+        "internalLinks": [
+          "folate-dfe-on-labels",
+          "folate-food-pattern-note",
+          "folic-acid-wording-on-labels"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Folate rows can look similar until the units stop matching. Keep the source visible, then the comparison has somewhere solid to stand."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per source"
+        },
+        {
+          "type": "p",
+          "text": "Create a row for each Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record."
+        },
+        {
+          "type": "p",
+          "text": "Add date checked, serving size, folate amount, unit, percent Daily Value, folic acid parentheses, claim wording, and open question."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the unit visible"
+        },
+        {
+          "type": "p",
+          "text": "A row with mcg DFE should not be compared as if it were plain mcg. Copy the unit before comparing amounts."
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value also belongs to the serving printed on that source."
+        },
+        {
+          "type": "h2",
+          "text": "Do not merge parentheses"
+        },
+        {
+          "type": "p",
+          "text": "If one source shows folic acid in parentheses and another does not, write the difference. Do not borrow the parenthetical amount from one row to complete another."
+        },
+        {
+          "type": "h2",
+          "text": "Write the gap"
+        },
+        {
+          "type": "p",
+          "text": "Rows cannot decide pregnancy questions, breastfeeding questions, medicine questions, medical questions, or whether a supplement belongs in someone's routine."
+        },
+        {
+          "type": "p",
+          "text": "If a folate comparison matters personally, bring the source record to a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "A folate source note can compare rows without choosing an answer; source, unit, parentheses, percent Daily Value, and gap stay visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "folic-acid-wording-on-labels",
+      "date": "2026-08-23",
+      "category": "Nutrient Notes",
+      "title": "Folic Acid Wording on Labels: Keep the Phrase Narrow",
+      "summary": "Read folic acid wording by copying the phrase, checking mcg DFE and parentheses, and avoiding health-promise upgrades.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Folic Acid Wording on Labels: Keep the Phrase Narrow | Daily Support Guide",
+        "metaDescription": "Read folic acid wording by copying the phrase, checking mcg DFE and parentheses, and avoiding health-promise upgrades.",
+        "primaryKeyword": "folic acid label wording",
+        "secondaryKeywords": [
+          "folic acid claim",
+          "folate claim",
+          "folate good source"
+        ],
+        "searchIntent": "informational",
+        "h1": "Folic Acid Wording on Labels: Keep the Phrase Narrow",
+        "h2": [
+          "Copy the wording exactly",
+          "Check the claim level",
+          "Do not turn wording into a promise",
+          "Keep DFE and folic acid separate"
+        ],
+        "faq": [
+          "What does folic acid wording mean on a label?",
+          "What is a good source of folate claim?",
+          "Can folic acid wording answer personal questions?"
+        ],
+        "internalLinks": [
+          "folate-dfe-on-labels",
+          "folate-label-checklist",
+          "folate-source-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The wording matters most before it gets explained. Folic acid, folate, fortified, enriched, good source, and high in are not the same phrase."
+        },
+        {
+          "type": "p",
+          "text": "Copy the phrase first. The interpretation can wait."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the wording exactly"
+        },
+        {
+          "type": "p",
+          "text": "Write the claim as shown, including nearby serving language or qualifiers. Do not smooth the phrase into something stronger."
+        },
+        {
+          "type": "h2",
+          "text": "Check the claim level"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount."
+        },
+        {
+          "type": "p",
+          "text": "High, rich in, or excellent source claims generally indicate 20 percent or more. Keep those claim levels apart."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn wording into a promise"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn folic acid wording into a statement about pregnancy outcomes, blood tests, energy, mood, medical conditions, or a personal plan."
+        },
+        {
+          "type": "p",
+          "text": "If the phrase raises a personal question, leave that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep DFE and folic acid separate"
+        },
+        {
+          "type": "p",
+          "text": "The label may list folate in mcg DFE and folic acid in mcg in parentheses. Those are label fields, not a personal instruction."
+        },
+        {
+          "type": "p",
+          "text": "Keep the phrase narrow: claim level, serving basis, mcg DFE, folic acid parentheses, and unanswered question each in its own place. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "folate-label-checklist",
+      "date": "2026-08-23",
+      "category": "Nutrient Notes",
+      "title": "Folate Label Checklist: DFE, Folic Acid, Percent Daily Value",
+      "summary": "Use a compact folate label checklist for source, serving size, mcg DFE, folic acid in parentheses, and percent Daily Value.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Folate Label Checklist: DFE, Folic Acid, Percent Daily Value | Daily Support Guide",
+        "metaDescription": "Use a compact folate label checklist for source, serving size, mcg DFE, folic acid in parentheses, and percent Daily Value.",
+        "primaryKeyword": "folate label checklist",
+        "secondaryKeywords": [
+          "folate mcg DFE",
+          "folic acid parentheses",
+          "folate percent Daily Value"
+        ],
+        "searchIntent": "informational",
+        "h1": "Folate Label Checklist: DFE, Folic Acid, Percent Daily Value",
+        "h2": [
+          "Copy the source",
+          "Copy the serving",
+          "Copy mcg DFE",
+          "Copy folic acid parentheses",
+          "Copy percent Daily Value"
+        ],
+        "faq": [
+          "What should I copy from a folate label?",
+          "What does mcg DFE mean?",
+          "Why is folic acid sometimes in parentheses?"
+        ],
+        "internalLinks": [
+          "folate-dfe-on-labels",
+          "folic-acid-wording-on-labels",
+          "folate-source-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Use five fields. Source. Serving. mcg DFE. Folic acid parentheses. Percent Daily Value."
+        },
+        {
+          "type": "p",
+          "text": "Short checklist. No guessing."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the source"
+        },
+        {
+          "type": "p",
+          "text": "Write where the number came from: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record. Add the date checked."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the serving"
+        },
+        {
+          "type": "p",
+          "text": "Write the serving size before the folate number. The percent Daily Value belongs to that serving."
+        },
+        {
+          "type": "h2",
+          "text": "Copy mcg DFE"
+        },
+        {
+          "type": "p",
+          "text": "FDA's Daily Value table lists folate/folic acid at 400 mcg DFE. Copy the unit as mcg DFE when that is what the label shows."
+        },
+        {
+          "type": "h2",
+          "text": "Copy folic acid parentheses"
+        },
+        {
+          "type": "p",
+          "text": "If the label lists folic acid in parentheses, copy it on the same line. Do not move it into a separate conclusion."
+        },
+        {
+          "type": "h2",
+          "text": "Copy percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Write the percent Daily Value if it appears. If a field is missing or cut off, write missing or cut off."
+        },
+        {
+          "type": "p",
+          "text": "Stop at the label. Five fields, one source, no personal answer. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "folate-food-pattern-note",
+      "date": "2026-08-23",
+      "category": "Nutrient Notes",
+      "title": "A Folate Food Pattern Note Without Turning It Into Advice",
+      "summary": "Use a weekly folate note to notice natural-food, enriched-food, and label-record patterns without making a personal rule.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "A Folate Food Pattern Note Without Turning It Into Advice | Daily Support Guide",
+        "metaDescription": "Use a weekly folate note to notice natural-food, enriched-food, and label-record patterns without making a personal rule.",
+        "primaryKeyword": "folate food pattern",
+        "secondaryKeywords": [
+          "folate food note",
+          "folic acid enriched foods",
+          "folate weekly record"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Folate Food Pattern Note Without Turning It Into Advice",
+        "h2": [
+          "Let the week be uneven",
+          "Notice label words",
+          "Write down what is missing",
+          "Keep life-stage questions separate"
+        ],
+        "faq": [
+          "How can I notice folate food patterns?",
+          "What is a folate food note?",
+          "Should a folate note become advice?"
+        ],
+        "internalLinks": [
+          "folate-dfe-on-labels",
+          "folate-label-checklist",
+          "folate-source-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Some weeks have neat labels. Some have leftovers, mixed dishes, and meals nobody wrote down until the next morning."
+        },
+        {
+          "type": "p",
+          "text": "That is still usable. A folate note can show where the record is clear and where it is not."
+        },
+        {
+          "type": "h2",
+          "text": "Let the week be uneven"
+        },
+        {
+          "type": "p",
+          "text": "Write the foods and labels that were actually checked. Use words such as often, sometimes, rarely, not checked, and unclear."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn those words into a score. They are only pattern words."
+        },
+        {
+          "type": "h2",
+          "text": "Notice label words"
+        },
+        {
+          "type": "p",
+          "text": "A label may show folate, folic acid, mcg DFE, enriched, fortified, or a percent Daily Value. Copy the words that appear."
+        },
+        {
+          "type": "p",
+          "text": "If the label lists folic acid in parentheses, keep that detail with the same source row."
+        },
+        {
+          "type": "h2",
+          "text": "Write down what is missing"
+        },
+        {
+          "type": "p",
+          "text": "A meal note without a label can still be part of the week. Write no label checked instead of filling in an amount from memory."
+        },
+        {
+          "type": "h2",
+          "text": "Keep life-stage questions separate"
+        },
+        {
+          "type": "p",
+          "text": "Pregnancy, breastfeeding, medical history, medicine use, and personal nutrition plans need individual guidance."
+        },
+        {
+          "type": "p",
+          "text": "A weekly folate record can make the next conversation less foggy, but it should not answer that conversation by itself. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "folate-dfe-on-labels",
+      "date": "2026-08-23",
+      "category": "Nutrient Notes",
+      "title": "Folate on Labels: What mcg DFE Is Doing There",
+      "summary": "Read folate on labels by keeping mcg DFE, folic acid in parentheses, serving size, percent Daily Value, and source in order.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Folate on Labels: What mcg DFE Is Doing There | Daily Support Guide",
+        "metaDescription": "Read folate on labels by keeping mcg DFE, folic acid in parentheses, serving size, percent Daily Value, and source in order.",
+        "primaryKeyword": "folate mcg DFE label",
+        "secondaryKeywords": [
+          "folate Daily Value",
+          "folic acid label",
+          "folate Nutrition Facts"
+        ],
+        "searchIntent": "informational",
+        "h1": "Folate on Labels: What mcg DFE Is Doing There",
+        "h2": [
+          "Start with the unit",
+          "Keep parentheses attached",
+          "Use percent Daily Value carefully",
+          "Separate label fields from personal questions"
+        ],
+        "faq": [
+          "What does mcg DFE mean on a folate label?",
+          "What is the Daily Value for folate?",
+          "Why might folic acid appear in parentheses?"
+        ],
+        "internalLinks": [
+          "folate-food-pattern-note",
+          "folate-label-checklist",
+          "folic-acid-wording-on-labels"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Folate labels ask for careful field work. The unit is not just decoration; it tells you how the label is presenting the number."
+        },
+        {
+          "type": "p",
+          "text": "Start with the source, then copy serving size, folate amount, unit, percent Daily Value, and any folic acid amount shown in parentheses."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the unit"
+        },
+        {
+          "type": "p",
+          "text": "FDA lists the Daily Value for folate/folic acid as 400 mcg DFE. DFE means dietary folate equivalents."
+        },
+        {
+          "type": "p",
+          "text": "Write mcg DFE exactly as shown. Do not shorten the unit to plain mcg if the label uses DFE."
+        },
+        {
+          "type": "h2",
+          "text": "Keep parentheses attached"
+        },
+        {
+          "type": "p",
+          "text": "NIH ODS notes that labels must list folate in mcg DFE per serving. If folic acid is added, the label must also list folic acid in mcg in parentheses."
+        },
+        {
+          "type": "p",
+          "text": "Keep that parenthetical amount beside the folate line. It is part of the label record."
+        },
+        {
+          "type": "h2",
+          "text": "Use percent Daily Value carefully"
+        },
+        {
+          "type": "p",
+          "text": "Percent Daily Value shows how one serving contributes to a daily diet. It does not say what a person needs."
+        },
+        {
+          "type": "p",
+          "text": "If two labels use different serving sizes, write the serving sizes before comparing percentages."
+        },
+        {
+          "type": "h2",
+          "text": "Separate label fields from personal questions"
+        },
+        {
+          "type": "p",
+          "text": "Pregnancy, breastfeeding, medicine use, medical history, and personal nutrition planning do not fit inside a label row."
+        },
+        {
+          "type": "p",
+          "text": "For a label table, the clean row is the point: source, serving size, mcg DFE, folic acid parentheses, percent Daily Value, and the unanswered question. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "product-comparison-notes",
+      "date": "2026-08-23",
+      "category": "Comparison Skills",
+      "title": "Product Comparison Notes: A Simple Sheet for Keeping Facts Straight",
+      "summary": "Learn how to keep product comparison notes by separating description, package amount, label facts, total cost, reviews, terms, and open questions.",
+      "seo": {
+        "seoTitle": "Product Comparison Notes: A Simple Sheet for Keeping Facts Straight | Daily Support Guide",
+        "metaDescription": "Learn how to keep product comparison notes by separating label facts, cost, reviews, terms, and open questions without choosing winners.",
+        "primaryKeyword": "product comparison notes",
+        "secondaryKeywords": [
+          "product comparison notes sheet",
+          "compare product facts",
+          "product notes template"
+        ],
+        "searchIntent": "informational",
+        "h1": "Product Comparison Notes: A Simple Sheet for Keeping Facts Straight",
+        "h2": [
+          "Start with one comparison question",
+          "Use fixed fields",
+          "Keep cost separate",
+          "Read reviews as supporting notes",
+          "Record terms before deciding",
+          "Leave open questions visible",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What belongs in product comparison notes?",
+          "Why should cost and reviews stay in separate fields?",
+          "When should a product comparison question stay unresolved?"
+        ],
+        "internalLinks": [
+          "product-comparison-checklist",
+          "compare-cost-per-serving",
+          "compare-similar-products-framework"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Product comparison notes work best when they are boring in a useful way. The same fields, used every time, keep a bright claim or one dramatic review from taking over the whole decision."
+        },
+        {
+          "type": "p",
+          "text": "This article explains a simple note sheet for comparing product information. It does not name brands, recommend products, choose winners, or replace medical, financial, or professional advice."
+        },
+        {
+          "type": "h2",
+          "text": "Start with one comparison question"
+        },
+        {
+          "type": "p",
+          "text": "Before listing details, write one question both products must answer. The question might be about package amount, label facts, total cost, return terms, or what information is missing."
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance tells consumers to check sellers and products, learn total cost, read product descriptions including fine print, and read delivery, return, and refund policies. Those steps fit well into a note sheet."
+        },
+        {
+          "type": "h2",
+          "text": "Use fixed fields"
+        },
+        {
+          "type": "p",
+          "text": "Use the same fields for each item: description, package or amount, key label facts, total cost, unit price if shown, reviews, delivery terms, return terms, and open questions."
+        },
+        {
+          "type": "p",
+          "text": "Fixed fields make comparison easier because every item has to answer the same set of questions. If a field is missing, write \"not shown\" instead of filling it in."
+        },
+        {
+          "type": "h2",
+          "text": "Keep cost separate"
+        },
+        {
+          "type": "p",
+          "text": "NIST explains that unit pricing is pricing based on cost per unit of measure. Unit price may help compare value when package sizes differ, but it should stay in its own field."
+        },
+        {
+          "type": "p",
+          "text": "A low price, low unit price, or large package should not automatically become a recommendation. Keep total cost, package size, serving count, shipping fees, and unit price separate enough to see what each number measures."
+        },
+        {
+          "type": "h2",
+          "text": "Read reviews as supporting notes"
+        },
+        {
+          "type": "p",
+          "text": "FTC consumer guidance says to read reviews with a critical eye, check several sources, and avoid relying only on star ratings because some reviews and ratings can be fake or misleading."
+        },
+        {
+          "type": "p",
+          "text": "In a note sheet, reviews belong in a supporting field. Repeated comments about size, clarity, delivery, support, packaging, or mismatch with the description can be useful. One dramatic comment should not replace the label or terms."
+        },
+        {
+          "type": "h2",
+          "text": "Record terms before deciding"
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance points readers to delivery, return, and refund policies. These details can change the practical comparison, especially when two items look similar."
+        },
+        {
+          "type": "p",
+          "text": "Write terms in plain fields: expected delivery, refund window, return shipping, restocking fee if shown, support route, and any limits. Do not assume two sellers or products use the same terms."
+        },
+        {
+          "type": "h2",
+          "text": "Leave open questions visible"
+        },
+        {
+          "type": "p",
+          "text": "A good note sheet does not force every comparison into a winner. If important information is missing, write the question that remains."
+        },
+        {
+          "type": "p",
+          "text": "If the comparison involves a medical condition, medication, pregnancy, allergy, surgery, eating disorder history, or personal nutrition plan, keep the question unresolved and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Product comparison notes are useful when they keep description, package amount, label facts, total cost, reviews, terms, and open questions in separate fields. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "vitamin-b12-source-notes",
       "date": "2026-08-22",
       "category": "Nutrient Notes",
@@ -8347,7 +9010,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-23",
       "title": "How to Keep a Product Comparison Notes Sheet",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 36,
