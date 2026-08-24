@@ -5076,7 +5076,7 @@
     "slug": "zinc-on-labels-listed-or-not",
     "title": "Zinc on Labels: Listed, Added, or Not Shown",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "mara-lin",
       "name": "Mara Lin"
@@ -5209,7 +5209,7 @@
     "slug": "zinc-food-pattern-note",
     "title": "A Zinc Food Pattern Note Without Making a Claim",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "nora-vale",
       "name": "Nora Vale"
@@ -5342,7 +5342,7 @@
     "slug": "zinc-label-checklist",
     "title": "Zinc Label Checklist: Source, Serving, Amount, Percent",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "eli-brooks",
       "name": "Eli Brooks"
@@ -5480,7 +5480,7 @@
     "slug": "zinc-claim-wording",
     "title": "Zinc Claim Wording: Keep Immune Language in Its Lane",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "june-carter",
       "name": "June Carter"
@@ -5613,7 +5613,7 @@
     "slug": "zinc-source-comparison",
     "title": "Zinc Source Notes When Labels Do Not Match",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "theo-grant",
       "name": "Theo Grant"

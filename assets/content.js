@@ -1,6 +1,669 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "zinc-source-comparison",
+      "date": "2026-08-24",
+      "category": "Nutrient Notes",
+      "title": "Zinc Source Notes When Labels Do Not Match",
+      "summary": "Compare zinc source notes by keeping each source, serving size, listed status, amount, percent Daily Value, claim wording, and gap in its own row.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Zinc Source Notes When Labels Do Not Match | Daily Support Guide",
+        "metaDescription": "Compare zinc source notes by keeping each source, serving size, listed status, amount, percent Daily Value, claim wording, and gap in its own row.",
+        "primaryKeyword": "zinc source notes",
+        "secondaryKeywords": [
+          "zinc label comparison",
+          "zinc percent Daily Value",
+          "zinc listed status"
+        ],
+        "searchIntent": "informational",
+        "h1": "Zinc Source Notes When Labels Do Not Match",
+        "h2": [
+          "Use one row per source",
+          "Keep not shown visible",
+          "Compare matching fields",
+          "Write the gap"
+        ],
+        "faq": [
+          "How should I compare zinc labels?",
+          "What if one zinc source does not show an amount?",
+          "Can zinc source notes choose a food?"
+        ],
+        "internalLinks": [
+          "zinc-on-labels-listed-or-not",
+          "zinc-food-pattern-note",
+          "zinc-claim-wording"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Zinc comparisons need a source line. Without it, one row can start borrowing certainty from another."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per source"
+        },
+        {
+          "type": "p",
+          "text": "Create a row for each Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record."
+        },
+        {
+          "type": "p",
+          "text": "Add date checked, serving size, listed status, zinc amount, unit, percent Daily Value, claim wording, and open question."
+        },
+        {
+          "type": "h2",
+          "text": "Keep not shown visible"
+        },
+        {
+          "type": "p",
+          "text": "NIH ODS notes that FDA does not require food labels to list zinc content unless zinc has been added to the food."
+        },
+        {
+          "type": "p",
+          "text": "If a source does not show zinc, write not shown. Do not complete the row from another label."
+        },
+        {
+          "type": "h2",
+          "text": "Compare matching fields"
+        },
+        {
+          "type": "p",
+          "text": "Compare serving size with serving size, amount with amount, percent Daily Value with percent Daily Value, and claim wording with claim wording."
+        },
+        {
+          "type": "p",
+          "text": "A claim field should not be merged with the amount field."
+        },
+        {
+          "type": "h2",
+          "text": "Write the gap"
+        },
+        {
+          "type": "p",
+          "text": "Rows cannot decide immune questions, cold questions, medicine questions, medical questions, product fit, or whether a supplement belongs in someone's routine."
+        },
+        {
+          "type": "p",
+          "text": "A zinc source note can compare rows without choosing an answer; source, listed status, amount, percent Daily Value, claim wording, and gap stay visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "zinc-claim-wording",
+      "date": "2026-08-24",
+      "category": "Nutrient Notes",
+      "title": "Zinc Claim Wording: Keep Immune Language in Its Lane",
+      "summary": "Read zinc claim wording by copying the phrase, checking percent Daily Value, and avoiding immune, cold, or treatment upgrades.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Zinc Claim Wording: Keep Immune Language in Its Lane | Daily Support Guide",
+        "metaDescription": "Read zinc claim wording by copying the phrase, checking percent Daily Value, and avoiding immune, cold, or treatment upgrades.",
+        "primaryKeyword": "zinc claim wording",
+        "secondaryKeywords": [
+          "zinc immune wording",
+          "zinc good source",
+          "zinc high source"
+        ],
+        "searchIntent": "informational",
+        "h1": "Zinc Claim Wording: Keep Immune Language in Its Lane",
+        "h2": [
+          "Copy the exact phrase",
+          "Check the claim level",
+          "Do not upgrade immune wording",
+          "Keep the label fields separate"
+        ],
+        "faq": [
+          "What does high in zinc mean on a label?",
+          "What does good source of zinc mean?",
+          "Can zinc wording make an immune claim?"
+        ],
+        "internalLinks": [
+          "zinc-on-labels-listed-or-not",
+          "zinc-label-checklist",
+          "zinc-source-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Zinc wording can sound bigger than the label field behind it. Copy the phrase before deciding what kind of phrase it is."
+        },
+        {
+          "type": "p",
+          "text": "High in zinc, good source of zinc, contains zinc, and immune wording should not be treated as the same claim."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the exact phrase"
+        },
+        {
+          "type": "p",
+          "text": "Write the wording as shown, including nearby qualifiers and serving language. Do not make the phrase stronger."
+        },
+        {
+          "type": "h2",
+          "text": "Check the claim level"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, high, rich in, or excellent source claims generally indicate 20 percent or more of the Daily Value per reference amount."
+        },
+        {
+          "type": "p",
+          "text": "Good source, contains, or provides claims generally indicate 10 to 19 percent. Keep those claim levels apart."
+        },
+        {
+          "type": "h2",
+          "text": "Do not upgrade immune wording"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn zinc wording into a statement about preventing illness, treating a cold, shortening symptoms, changing medicine, or fixing an immune concern."
+        },
+        {
+          "type": "p",
+          "text": "If the phrase raises a personal health question, leave that question for a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the label fields separate"
+        },
+        {
+          "type": "p",
+          "text": "The zinc row should still show amount, unit, percent Daily Value, serving size, source, and date checked."
+        },
+        {
+          "type": "p",
+          "text": "Keep the wording narrow: claim phrase, claim level, serving basis, zinc amount, percent Daily Value, and unanswered question each in its own place. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "zinc-label-checklist",
+      "date": "2026-08-24",
+      "category": "Nutrient Notes",
+      "title": "Zinc Label Checklist: Source, Serving, Amount, Percent",
+      "summary": "Use a short zinc label checklist for source, serving size, listed status, amount plus unit, percent Daily Value, and one open question.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Zinc Label Checklist: Source, Serving, Amount, Percent | Daily Support Guide",
+        "metaDescription": "Use a short zinc label checklist for source, serving size, listed status, amount plus unit, percent Daily Value, and one open question.",
+        "primaryKeyword": "zinc label checklist",
+        "secondaryKeywords": [
+          "zinc percent Daily Value",
+          "zinc amount label",
+          "zinc source note"
+        ],
+        "searchIntent": "informational",
+        "h1": "Zinc Label Checklist: Source, Serving, Amount, Percent",
+        "h2": [
+          "Source",
+          "Serving",
+          "Listed status",
+          "Amount plus unit and percent",
+          "Open question"
+        ],
+        "faq": [
+          "What should I copy from a zinc label?",
+          "Why should zinc amount and unit stay together?",
+          "What if zinc is not shown?"
+        ],
+        "internalLinks": [
+          "zinc-on-labels-listed-or-not",
+          "zinc-food-pattern-note",
+          "zinc-claim-wording"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Six fields. Source. Serving. Listed status. Amount plus unit. Percent Daily Value. Open question."
+        },
+        {
+          "type": "p",
+          "text": "Copy the panel. Do not guess past it."
+        },
+        {
+          "type": "h2",
+          "text": "Source"
+        },
+        {
+          "type": "p",
+          "text": "Write where the zinc line came from: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record. Add the date checked."
+        },
+        {
+          "type": "h2",
+          "text": "Serving"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size before the zinc number. The percent Daily Value belongs to that serving."
+        },
+        {
+          "type": "h2",
+          "text": "Listed status"
+        },
+        {
+          "type": "p",
+          "text": "Write listed, added, not shown, cut off, or unclear."
+        },
+        {
+          "type": "h2",
+          "text": "Amount plus unit and percent"
+        },
+        {
+          "type": "p",
+          "text": "Copy the zinc amount in mg. FDA's Daily Value table lists zinc at 11 mg for adults and children 4 years and older."
+        },
+        {
+          "type": "p",
+          "text": "Copy percent Daily Value if it appears. Do not turn the percent into a personal plan."
+        },
+        {
+          "type": "h2",
+          "text": "Open question"
+        },
+        {
+          "type": "p",
+          "text": "Write one gap at the end: missing panel, different serving size, unclear source, or personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "Stop at the label. Six fields, no health answer. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "zinc-food-pattern-note",
+      "date": "2026-08-24",
+      "category": "Nutrient Notes",
+      "title": "A Zinc Food Pattern Note Without Making a Claim",
+      "summary": "Use a weekly zinc food note to notice listed labels, unlisted sources, and open questions without making an immune or supplement claim.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "A Zinc Food Pattern Note Without Making a Claim | Daily Support Guide",
+        "metaDescription": "Use a weekly zinc food note to notice listed labels, unlisted sources, and open questions without making an immune or supplement claim.",
+        "primaryKeyword": "zinc food pattern",
+        "secondaryKeywords": [
+          "zinc food note",
+          "zinc weekly record",
+          "zinc label record"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Zinc Food Pattern Note Without Making a Claim",
+        "h2": [
+          "Let the week stay ordinary",
+          "Copy what labels show",
+          "Name the blanks",
+          "Leave health claims outside"
+        ],
+        "faq": [
+          "How can I notice zinc food patterns?",
+          "Should a zinc note make an immune claim?",
+          "What should stay outside a zinc food note?"
+        ],
+        "internalLinks": [
+          "zinc-on-labels-listed-or-not",
+          "zinc-label-checklist",
+          "zinc-source-comparison"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A zinc note can be quiet. It can show what appeared on labels this week and what stayed hard to check."
+        },
+        {
+          "type": "p",
+          "text": "It does not have to become a claim about the body. A small record is enough for this job."
+        },
+        {
+          "type": "h2",
+          "text": "Let the week stay ordinary"
+        },
+        {
+          "type": "p",
+          "text": "Write meals and labels that were actually checked. Use often, sometimes, rarely, not checked, and unclear."
+        },
+        {
+          "type": "p",
+          "text": "Those words fit a week with leftovers, mixed dishes, and foods without visible labels."
+        },
+        {
+          "type": "h2",
+          "text": "Copy what labels show"
+        },
+        {
+          "type": "p",
+          "text": "When zinc appears on a panel, copy the serving size, amount, unit, and percent Daily Value."
+        },
+        {
+          "type": "p",
+          "text": "When zinc does not appear, write not shown instead of filling the line from memory."
+        },
+        {
+          "type": "h2",
+          "text": "Name the blanks"
+        },
+        {
+          "type": "p",
+          "text": "Some records will have no label, a partial label, or a serving size that does not match the meal. Write the blank plainly."
+        },
+        {
+          "type": "h2",
+          "text": "Leave health claims outside"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn a weekly zinc note into immune advice, cold advice, medicine advice, supplement advice, or a personal nutrition rule."
+        },
+        {
+          "type": "p",
+          "text": "A weekly zinc record can make a later question easier to bring up, but it should not answer that question by itself. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "zinc-on-labels-listed-or-not",
+      "date": "2026-08-24",
+      "category": "Nutrient Notes",
+      "title": "Zinc on Labels: Listed, Added, or Not Shown",
+      "summary": "Read zinc on labels by recording whether it is listed, added, not shown, or unclear before interpreting the number.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Zinc on Labels: Listed, Added, or Not Shown | Daily Support Guide",
+        "metaDescription": "Read zinc on labels by recording whether it is listed, added, not shown, or unclear before interpreting the number.",
+        "primaryKeyword": "zinc on labels",
+        "secondaryKeywords": [
+          "zinc Daily Value",
+          "zinc Nutrition Facts",
+          "zinc label"
+        ],
+        "searchIntent": "informational",
+        "h1": "Zinc on Labels: Listed, Added, or Not Shown",
+        "h2": [
+          "Start with listed status",
+          "Keep milligrams beside percent Daily Value",
+          "Do not complete a missing line",
+          "Keep personal questions outside the row"
+        ],
+        "faq": [
+          "What is the Daily Value for zinc?",
+          "Does every food label list zinc?",
+          "How should I record zinc if it is not shown?"
+        ],
+        "internalLinks": [
+          "zinc-food-pattern-note",
+          "zinc-label-checklist",
+          "zinc-claim-wording"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A zinc number should not be read until the label field is clear. First write whether zinc is listed, added, not shown, or hidden by a partial source."
+        },
+        {
+          "type": "p",
+          "text": "Then copy the serving size, amount, unit, percent Daily Value, source, and date checked."
+        },
+        {
+          "type": "h2",
+          "text": "Start with listed status"
+        },
+        {
+          "type": "p",
+          "text": "Check the Nutrition Facts or Supplement Facts panel before writing any interpretation. If the panel image is cut off, say cut off."
+        },
+        {
+          "type": "p",
+          "text": "NIH ODS notes that FDA does not require food labels to list zinc content unless zinc has been added to the food."
+        },
+        {
+          "type": "h2",
+          "text": "Keep milligrams beside percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "FDA Daily Value guidance lists zinc at 11 mg for adults and children 4 years and older. Percent Daily Value belongs to one serving."
+        },
+        {
+          "type": "p",
+          "text": "Write mg and percent Daily Value in the same row. A number without its unit is too easy to misread later."
+        },
+        {
+          "type": "h2",
+          "text": "Do not complete a missing line"
+        },
+        {
+          "type": "p",
+          "text": "If zinc is not shown, write not shown. Do not borrow a number from a food list, a memory, or a similar source."
+        },
+        {
+          "type": "h2",
+          "text": "Keep personal questions outside the row"
+        },
+        {
+          "type": "p",
+          "text": "Immune questions, medicine questions, medical history, diet pattern questions, and personal nutrition planning do not fit inside a label row."
+        },
+        {
+          "type": "p",
+          "text": "For a label table, source, listed status, serving size, amount, unit, percent Daily Value, and the unanswered question stay together. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "missing-information-on-label",
+      "date": "2026-08-24",
+      "category": "Label Reading",
+      "title": "Missing Information on a Label: How to Notice What Is Not Shown",
+      "summary": "Learn how to spot missing information on a label by checking serving details, panel facts, directions, terms, and open questions without guessing.",
+      "seo": {
+        "seoTitle": "Missing Information on a Label: How to Notice What Is Not Shown | Daily Support Guide",
+        "metaDescription": "Learn how to spot missing information on a label by checking serving details, panel facts, directions, terms, and open questions.",
+        "primaryKeyword": "missing information on label",
+        "secondaryKeywords": [
+          "missing label information",
+          "label reading checklist",
+          "product label details"
+        ],
+        "searchIntent": "informational",
+        "h1": "Missing Information on a Label: How to Notice What Is Not Shown",
+        "h2": [
+          "Start with the fields that should be easy to find",
+          "Check the panel before the front claim",
+          "Write missing details plainly",
+          "Separate unclear wording from missing facts",
+          "Do not fill gaps with assumptions",
+          "Keep personal questions out of the label note",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What missing information on a label should I notice?",
+          "Why should missing details be written plainly?",
+          "When should a label question stay unresolved?"
+        ],
+        "internalLinks": [
+          "read-marketing-claims-on-labels",
+          "serving-size-vs-servings-per-container",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A label can look complete at a glance and still leave a reader with unanswered questions. The issue is not always a problem. Sometimes the detail is elsewhere on the package, on a product page, or outside what the label is meant to answer."
+        },
+        {
+          "type": "p",
+          "text": "This article is about noticing missing information on a label. It does not name brands, score products, recommend a choice, or turn missing details into medical advice."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the fields that should be easy to find"
+        },
+        {
+          "type": "p",
+          "text": "Begin with basic fields: product description, net amount, serving size, servings per container, Nutrition Facts or Supplement Facts, ingredient list, directions, warnings, and any terms that affect the comparison."
+        },
+        {
+          "type": "p",
+          "text": "If one of those fields is not visible in the material you are reading, write that down before interpreting the product. A short note such as \"serving basis not shown\" is more useful than a guess."
+        },
+        {
+          "type": "h2",
+          "text": "Check the panel before the front claim"
+        },
+        {
+          "type": "p",
+          "text": "FDA consumer information describes the Nutrition Facts label as a place to review details such as serving size and listed nutrients. FDA supplement labeling guidance says Supplement Facts must list names and quantities of dietary ingredients, serving size, and servings per container when required."
+        },
+        {
+          "type": "p",
+          "text": "That makes the panel a good second stop after the front claim. The front may explain what the seller wants noticed first; the panel shows the structured facts that are easier to compare."
+        },
+        {
+          "type": "h2",
+          "text": "Write missing details plainly"
+        },
+        {
+          "type": "p",
+          "text": "Use plain labels in your notes: \"not shown,\" \"not visible in photo,\" \"serving size unclear,\" \"amount not listed,\" or \"terms not found.\" These phrases keep the gap visible without making it sound more serious than it is."
+        },
+        {
+          "type": "p",
+          "text": "Avoid writing conclusions such as \"bad label\" or \"better product\" from one missing field. The missing field is a fact about the information available, not a complete product judgment."
+        },
+        {
+          "type": "h2",
+          "text": "Separate unclear wording from missing facts"
+        },
+        {
+          "type": "p",
+          "text": "Unclear wording and missing facts are not the same. A claim may be present but vague. A serving size may be present but hard to compare. A return policy may exist but use terms that need a closer read."
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance tells consumers to read product descriptions, fine print, total cost, delivery terms, returns, and refunds. Those fields belong in the note sheet when the comparison depends on them."
+        },
+        {
+          "type": "h2",
+          "text": "Do not fill gaps with assumptions"
+        },
+        {
+          "type": "p",
+          "text": "A reader may know what a similar label often shows, but that does not mean this label shows it. Keep outside memory out of the fact column."
+        },
+        {
+          "type": "p",
+          "text": "If the amount, serving basis, plant part, ingredient form, added sugar line, or warning language is missing from the material at hand, the clean note is that it is not shown there."
+        },
+        {
+          "type": "h2",
+          "text": "Keep personal questions out of the label note"
+        },
+        {
+          "type": "p",
+          "text": "Some missing details matter more when a person has allergies, medication use, pregnancy, breastfeeding, surgery, a medical condition, or a personal nutrition plan. Those questions should stay separate from the label-reading note."
+        },
+        {
+          "type": "p",
+          "text": "A general article can help organize what is visible. It should not decide whether missing information makes something appropriate for a specific person."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Missing information on a label is easiest to handle when you name the missing field, keep it separate from unclear wording, and avoid filling the gap yourself. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "folate-source-comparison",
       "date": "2026-08-23",
       "category": "Nutrient Notes",
@@ -9017,7 +9680,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-24",
       "title": "How to Decide What Information Is Missing from a Label",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 37,
