@@ -1,6 +1,659 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "omega-3-source-comparison-units",
+      "date": "2026-08-25",
+      "category": "Nutrient Notes",
+      "title": "Omega-3 Source Notes Without Mixing Units",
+      "summary": "Compare omega-3 source notes by keeping source, serving, ALA, EPA, DHA, units, claim wording, and unresolved gaps in view.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Omega-3 Source Notes Without Mixing Units | Daily Support Guide",
+        "metaDescription": "Compare omega-3 source notes by keeping source, serving, ALA, EPA, DHA, units, claim wording, and unresolved gaps in view.",
+        "primaryKeyword": "omega-3 source notes",
+        "secondaryKeywords": [
+          "omega-3 comparison note",
+          "ALA EPA DHA comparison",
+          "omega-3 units mg g"
+        ],
+        "searchIntent": "informational",
+        "h1": "Omega-3 Source Notes Without Mixing Units",
+        "h2": [
+          "Use one row per source",
+          "Separate the omega-3 names",
+          "Convert only after copying",
+          "Write the gap"
+        ],
+        "faq": [
+          "How should I compare omega-3 labels?",
+          "Can I compare mg and g directly?",
+          "Can omega-3 notes choose a source?"
+        ],
+        "internalLinks": [
+          "omega-3-labels-ala-epa-dha-separate-lines",
+          "omega-3-food-pattern-note",
+          "omega-3-claim-wording-qualifier"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker",
+          "No heart-health or blood-pressure advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Put the source in the first column. Without that, an omega-3 comparison starts looking cleaner than it really is."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per source"
+        },
+        {
+          "type": "p",
+          "text": "Create one row for each Nutrition Facts panel, Supplement Facts panel, label photo, product page, or meal record. Add the date checked."
+        },
+        {
+          "type": "p",
+          "text": "A row without a source can stay in the draft, but mark it lightly."
+        },
+        {
+          "type": "h2",
+          "text": "Separate the omega-3 names"
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields for ALA, EPA, DHA, total omega-3, and EPA plus DHA. If the label does not show one of them, leave that field blank."
+        },
+        {
+          "type": "h2",
+          "text": "Convert only after copying"
+        },
+        {
+          "type": "p",
+          "text": "Copy mg or g exactly first. If you convert later, label the converted line so the original value remains traceable."
+        },
+        {
+          "type": "p",
+          "text": "A milligram row and a gram row can sit beside each other. They should not be compared until the unit line matches."
+        },
+        {
+          "type": "h2",
+          "text": "Write the gap"
+        },
+        {
+          "type": "p",
+          "text": "The gap might be a missing EPA number, a combined EPA and DHA number, no percent Daily Value, or a qualified claim without an amount beside it."
+        },
+        {
+          "type": "p",
+          "text": "Keep the comparison modest: fields, sources, units, gaps. No winner. No personal answer. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "omega-3-claim-wording-qualifier",
+      "date": "2026-08-25",
+      "category": "Nutrient Notes",
+      "title": "Omega-3 Claim Wording: Read the Qualifier First",
+      "summary": "Read omega-3 claim wording by keeping the qualifier, serving basis, EPA and DHA amount, and claim boundary together.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Omega-3 Claim Wording: Read the Qualifier First | Daily Support Guide",
+        "metaDescription": "Read omega-3 claim wording by keeping the qualifier, serving basis, EPA and DHA amount, and claim boundary together.",
+        "primaryKeyword": "omega-3 claim wording",
+        "secondaryKeywords": [
+          "EPA DHA qualified claim",
+          "omega-3 heart wording",
+          "omega-3 label claim"
+        ],
+        "searchIntent": "informational",
+        "h1": "Omega-3 Claim Wording: Read the Qualifier First",
+        "h2": [
+          "The qualifier belongs in the note",
+          "Amount and serving still matter",
+          "Do not upgrade the statement",
+          "Keep ALA claims separate"
+        ],
+        "faq": [
+          "What is an omega-3 qualified claim?",
+          "Can an omega-3 claim become personal advice?",
+          "Why keep ALA separate from EPA and DHA?"
+        ],
+        "internalLinks": [
+          "omega-3-labels-ala-epa-dha-separate-lines",
+          "omega-3-label-checklist",
+          "omega-3-source-comparison-units"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker",
+          "No heart-health or blood-pressure advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A qualifier can change the weight of a claim. On omega-3 labels, it should be copied with the claim, not treated as fine print."
+        },
+        {
+          "type": "h2",
+          "text": "The qualifier belongs in the note"
+        },
+        {
+          "type": "p",
+          "text": "FDA's EPA and DHA qualified claim update uses qualifying language because the agency found the evidence described there inconsistent and inconclusive."
+        },
+        {
+          "type": "p",
+          "text": "Copy that limiting language next to the claim. A separated qualifier is easy to miss later."
+        },
+        {
+          "type": "h2",
+          "text": "Amount and serving still matter"
+        },
+        {
+          "type": "p",
+          "text": "A claim line should point back to a serving and an amount. Write EPA and DHA combined only when the label combines them."
+        },
+        {
+          "type": "h2",
+          "text": "Do not upgrade the statement"
+        },
+        {
+          "type": "p",
+          "text": "Omega-3 wording should not be rewritten into heart advice, blood pressure advice, treatment language, prevention language, or a personal plan."
+        },
+        {
+          "type": "p",
+          "text": "The safer edit is usually the smaller one: copy the words, keep the qualifier, and resist making the statement smoother than it is."
+        },
+        {
+          "type": "h2",
+          "text": "Keep ALA claims separate"
+        },
+        {
+          "type": "p",
+          "text": "FDA omega-3 claim guidance treats ALA claim wording differently from DHA and EPA claim wording. A single claim note should not blur those categories."
+        },
+        {
+          "type": "p",
+          "text": "Careful wording does not make a claim stronger. It keeps the reader from doing that by accident. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "omega-3-label-checklist",
+      "date": "2026-08-25",
+      "category": "Nutrient Notes",
+      "title": "Omega-3 Label Checklist: Name, Amount, Claim",
+      "summary": "Copy an omega-3 label in six fields: source, serving, omega-3 name, amount plus unit, claim wording, and open question.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Omega-3 Label Checklist: Name, Amount, Claim | Daily Support Guide",
+        "metaDescription": "Copy an omega-3 label by separating the source, serving, omega-3 name, amount plus unit, claim wording, and open question.",
+        "primaryKeyword": "omega-3 label checklist",
+        "secondaryKeywords": [
+          "EPA DHA label amount",
+          "ALA label amount",
+          "omega-3 serving size"
+        ],
+        "searchIntent": "informational",
+        "h1": "Omega-3 Label Checklist: Name, Amount, Claim",
+        "h2": [
+          "Source",
+          "Serving",
+          "Omega-3 name",
+          "Amount plus unit",
+          "Claim wording",
+          "Open question"
+        ],
+        "faq": [
+          "What fields belong in an omega-3 label note?",
+          "Should I combine EPA and DHA?",
+          "What should I do with a missing omega-3 amount?"
+        ],
+        "internalLinks": [
+          "omega-3-labels-ala-epa-dha-separate-lines",
+          "omega-3-food-pattern-note",
+          "omega-3-claim-wording-qualifier"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker",
+          "No heart-health or blood-pressure advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Six fields. No shortcuts."
+        },
+        {
+          "type": "h2",
+          "text": "Source"
+        },
+        {
+          "type": "p",
+          "text": "Write where the line came from: Nutrition Facts panel, Supplement Facts panel, label photo, product page, or food record. Add the date checked."
+        },
+        {
+          "type": "h2",
+          "text": "Serving"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size connected to the omega-3 amount. Put it before the number."
+        },
+        {
+          "type": "h2",
+          "text": "Omega-3 name"
+        },
+        {
+          "type": "p",
+          "text": "Write ALA, EPA, DHA, total omega-3, or EPA and DHA combined. Use the label's phrase."
+        },
+        {
+          "type": "h2",
+          "text": "Amount plus unit"
+        },
+        {
+          "type": "p",
+          "text": "Copy the amount with mg or g. Do not compare two labels until the units match."
+        },
+        {
+          "type": "h2",
+          "text": "Claim wording"
+        },
+        {
+          "type": "p",
+          "text": "Copy any heart, blood pressure, or wellness phrase into its own line. Do not rewrite it as advice."
+        },
+        {
+          "type": "h2",
+          "text": "Open question"
+        },
+        {
+          "type": "p",
+          "text": "Choose one gap to carry forward: missing amount, mixed unit, unclear source, combined EPA and DHA, or personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "Stop there. The checklist has done its job. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "omega-3-food-pattern-note",
+      "date": "2026-08-25",
+      "category": "Nutrient Notes",
+      "title": "Omega-3 Food Patterns Without Chasing a Perfect Week",
+      "summary": "Use an omega-3 food pattern note to record what showed up during the week, what stayed hard to verify, and what can wait.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Omega-3 Food Patterns Without Chasing a Perfect Week | Daily Support Guide",
+        "metaDescription": "Use an omega-3 food pattern note to record what showed up during the week, what stayed hard to verify, and what can wait.",
+        "primaryKeyword": "omega-3 food pattern",
+        "secondaryKeywords": [
+          "omega-3 weekly note",
+          "ALA EPA DHA foods",
+          "omega-3 intake pattern"
+        ],
+        "searchIntent": "informational",
+        "h1": "Omega-3 Food Patterns Without Chasing a Perfect Week",
+        "h2": [
+          "Use ordinary meal notes",
+          "Mark what the source cannot show",
+          "Keep personal questions open",
+          "Let one week be one week"
+        ],
+        "faq": [
+          "How do I write an omega-3 food pattern note?",
+          "What if I cannot verify EPA or DHA?",
+          "Can a food note tell me what to take?"
+        ],
+        "internalLinks": [
+          "omega-3-labels-ala-epa-dha-separate-lines",
+          "omega-3-label-checklist",
+          "omega-3-source-comparison-units"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker",
+          "No heart-health or blood-pressure advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Some weeks have neat labels. Some weeks have leftovers, shared dishes, and food that never came with a panel."
+        },
+        {
+          "type": "p",
+          "text": "For omega-3, that is still usable information."
+        },
+        {
+          "type": "h2",
+          "text": "Use ordinary meal notes"
+        },
+        {
+          "type": "p",
+          "text": "Write what appeared during the week. Use words such as often, sometimes, rarely, not checked, and unclear."
+        },
+        {
+          "type": "p",
+          "text": "If a food has no label or no omega-3 line, let the blank stay visible. You do not have to repair it from memory."
+        },
+        {
+          "type": "h2",
+          "text": "Mark what the source cannot show"
+        },
+        {
+          "type": "p",
+          "text": "One source may show total omega-3. Another may separate ALA, EPA, and DHA. Another may show none of those names at all."
+        },
+        {
+          "type": "p",
+          "text": "A weekly note can hold those uneven pieces without forcing them into a false match."
+        },
+        {
+          "type": "h2",
+          "text": "Keep personal questions open"
+        },
+        {
+          "type": "p",
+          "text": "This kind of note should not become heart advice, blood pressure advice, supplement advice, or a rule about what belongs in your routine."
+        },
+        {
+          "type": "h2",
+          "text": "Let one week be one week"
+        },
+        {
+          "type": "p",
+          "text": "Bring the pattern forward if it still feels worth asking about later. There is no need to make the week carry more than it can. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "omega-3-labels-ala-epa-dha-separate-lines",
+      "date": "2026-08-25",
+      "category": "Nutrient Notes",
+      "title": "Omega-3 Labels: ALA, EPA, and DHA Need Separate Lines",
+      "summary": "Read omega-3 labels by giving ALA, EPA, DHA, serving size, amount, unit, and claim wording their own places in the note.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Omega-3 Labels: ALA, EPA, and DHA Need Separate Lines | Daily Support Guide",
+        "metaDescription": "Read omega-3 labels by giving ALA, EPA, DHA, serving size, amount, unit, and claim wording their own places in the note.",
+        "primaryKeyword": "omega-3 labels",
+        "secondaryKeywords": [
+          "ALA EPA DHA label",
+          "omega-3 amount unit",
+          "omega-3 label reading"
+        ],
+        "searchIntent": "informational",
+        "h1": "Omega-3 Labels: ALA, EPA, and DHA Need Separate Lines",
+        "h2": [
+          "Start with the name",
+          "Keep the unit attached",
+          "Check whether percent Daily Value appears",
+          "Leave claims in their own field"
+        ],
+        "faq": [
+          "What should I copy from an omega-3 label?",
+          "Why separate ALA, EPA, and DHA?",
+          "Does an omega-3 label decide what I need?"
+        ],
+        "internalLinks": [
+          "omega-3-food-pattern-note",
+          "omega-3-label-checklist",
+          "omega-3-claim-wording-qualifier"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No symptom-to-nutrient deficiency checker",
+          "No heart-health or blood-pressure advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Omega-3 is not one tidy label field. Start by naming the part of the family the label is actually showing."
+        },
+        {
+          "type": "p",
+          "text": "A table works well here: one line for ALA, one for EPA, one for DHA, and one for any combined EPA plus DHA amount."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the name"
+        },
+        {
+          "type": "p",
+          "text": "Write the exact nutrient name first. If the panel says ALA, write ALA. If it says EPA, DHA, or EPA and DHA combined, copy that phrase before adding any note of your own."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the unit attached"
+        },
+        {
+          "type": "p",
+          "text": "Copy the amount and unit in the same cell. Milligrams and grams should not drift apart from the number they belong to."
+        },
+        {
+          "type": "h2",
+          "text": "Check whether percent Daily Value appears"
+        },
+        {
+          "type": "p",
+          "text": "FDA's Daily Value table does not list EPA, DHA, or ALA as required Nutrition Facts nutrients. If a percent appears, write the label phrase that explains it."
+        },
+        {
+          "type": "p",
+          "text": "For ALA claim wording, FDA guidance discusses a 1.6 g Daily Value for ALA. Keep that row away from EPA and DHA rows."
+        },
+        {
+          "type": "h2",
+          "text": "Leave claims in their own field"
+        },
+        {
+          "type": "p",
+          "text": "Heart, blood pressure, or wellness wording belongs in a claim field, not in the amount field."
+        },
+        {
+          "type": "p",
+          "text": "The cleanest note is the one that shows what was verified and what was not. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "powder-scoop-serving-size",
+      "date": "2026-08-25",
+      "category": "Label Reading",
+      "title": "Powder Scoop Serving Size: How to Compare Without Guessing",
+      "summary": "Learn how to read powder scoop serving size by separating scoop wording, grams, servings per container, directions, and open questions.",
+      "seo": {
+        "seoTitle": "Powder Scoop Serving Size: How to Compare Without Guessing | Daily Support Guide",
+        "metaDescription": "Learn how to read powder scoop serving size by separating scoop wording, grams, servings per container, directions, and unclear details.",
+        "primaryKeyword": "powder scoop serving size",
+        "secondaryKeywords": [
+          "powder serving size",
+          "scoop size label",
+          "servings per container powder"
+        ],
+        "searchIntent": "informational",
+        "h1": "Powder Scoop Serving Size: How to Compare Without Guessing",
+        "h2": [
+          "Copy the serving size exactly",
+          "Look for the weight beside the household measure",
+          "Keep directions separate from panel facts",
+          "Compare servings per container carefully",
+          "Notice scoop details that are not shown",
+          "Leave personal fit out of the comparison",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I read powder scoop serving size?",
+          "Why should scoop wording and grams stay together?",
+          "When should powder serving questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "directions-for-use-label",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Powder scoop serving size can be tricky because the label may use a household measure, a scoop count, a weight, or more than one of those details. If the pieces get blended together, the comparison starts to depend on guesswork."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to read powder serving details. It does not recommend products, amounts, routines, or medical use."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the serving size exactly"
+        },
+        {
+          "type": "p",
+          "text": "Start with the serving size line. Copy it as written, including scoop count, household measure, grams, or any other unit shown near the serving size."
+        },
+        {
+          "type": "p",
+          "text": "FDA dietary supplement labeling guidance says Supplement Facts must list serving size and servings per container when required. That serving size is the base for the amounts listed in the panel."
+        },
+        {
+          "type": "h2",
+          "text": "Look for the weight beside the household measure"
+        },
+        {
+          "type": "p",
+          "text": "For powders, a household measure alone may not be enough for a clean comparison. If the label gives a scoop and a gram amount, keep both together in the same field."
+        },
+        {
+          "type": "p",
+          "text": "Do not assume two scoops are the same size across different labels. A scoop is a package tool; the label facts still need the stated serving basis."
+        },
+        {
+          "type": "h2",
+          "text": "Keep directions separate from panel facts"
+        },
+        {
+          "type": "p",
+          "text": "Directions may tell a reader how the product page says to mix or prepare something. The Supplement Facts panel tells what the listed serving contains."
+        },
+        {
+          "type": "p",
+          "text": "Those two areas can sit near each other, but they should not be merged in a comparison note. Copy serving size, directions wording, and warning language into separate fields."
+        },
+        {
+          "type": "h2",
+          "text": "Compare servings per container carefully"
+        },
+        {
+          "type": "p",
+          "text": "A container with more powder does not automatically have more servings. Serving size and servings per container must be read together."
+        },
+        {
+          "type": "p",
+          "text": "When one label uses one scoop and another uses two scoops, compare on the serving basis shown, not on scoop count alone."
+        },
+        {
+          "type": "h2",
+          "text": "Notice scoop details that are not shown"
+        },
+        {
+          "type": "p",
+          "text": "Sometimes a product page photo does not show the scoop size, gram weight, servings per container, or full directions. Write the missing field plainly instead of estimating."
+        },
+        {
+          "type": "p",
+          "text": "A note such as \"gram amount not visible\" or \"servings per container not shown in photo\" keeps the gap from becoming a made-up fact."
+        },
+        {
+          "type": "h2",
+          "text": "Leave personal fit out of the comparison"
+        },
+        {
+          "type": "p",
+          "text": "Powder serving details may connect to medication use, pregnancy, breastfeeding, allergies, surgery, a medical condition, or a personal nutrition plan. Those questions do not belong in a general comparison rule."
+        },
+        {
+          "type": "p",
+          "text": "For personal use questions, follow licensed professional guidance rather than using scoop size as a decision shortcut."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Powder scoop serving size is easier to compare when scoop wording, gram weight, servings per container, directions, and missing fields stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "zinc-source-comparison",
       "date": "2026-08-24",
       "category": "Nutrient Notes",
@@ -9687,7 +10340,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-25",
       "title": "How to Compare Powder Scoops Without Guessing",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 38,
