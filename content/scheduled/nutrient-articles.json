@@ -6401,7 +6401,7 @@
     "slug": "fiber-labels-total-fiber-serving-daily-value",
     "title": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "mara-lin",
       "name": "Mara Lin"
@@ -6530,7 +6530,7 @@
     "slug": "fiber-food-pattern-week-note",
     "title": "Fiber Food Patterns: What a Week of Notes Can Show",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "nora-vale",
       "name": "Nora Vale"
@@ -6663,7 +6663,7 @@
     "slug": "fiber-label-checklist",
     "title": "Fiber Checklist: Serving, Grams, Ingredients, Question",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "eli-brooks",
       "name": "Eli Brooks"
@@ -6802,7 +6802,7 @@
     "slug": "good-source-fiber-claim",
     "title": "Good Source of Fiber: Read the Claim, Then the Panel",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "june-carter",
       "name": "June Carter"
@@ -6931,7 +6931,7 @@
     "slug": "fiber-comparison-notes",
     "title": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items",
     "category": "Nutrient Notes",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "theo-grant",
       "name": "Theo Grant"

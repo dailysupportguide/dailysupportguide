@@ -1,6 +1,663 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "fiber-comparison-notes",
+      "date": "2026-08-26",
+      "category": "Nutrient Notes",
+      "title": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items",
+      "summary": "Compare fiber notes by keeping each source, serving size, grams, percent Daily Value, ingredient clue, claim wording, and gap in its own row.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items | Daily Support Guide",
+        "metaDescription": "Compare fiber notes by keeping each source, serving size, grams, percent Daily Value, ingredient clue, claim wording, and gap in its own row.",
+        "primaryKeyword": "fiber comparison notes",
+        "secondaryKeywords": [
+          "compare fiber labels",
+          "dietary fiber comparison",
+          "fiber grams percent Daily Value"
+        ],
+        "searchIntent": "informational",
+        "h1": "Fiber Comparison Notes for Breakfast, Snacks, and Pantry Items",
+        "h2": [
+          "Use one row per source",
+          "Match serving before grams",
+          "Keep claims in a separate column",
+          "Name the gap"
+        ],
+        "faq": [
+          "How should I compare fiber labels?",
+          "Can fiber comparison notes choose a food?",
+          "What if serving sizes do not match?"
+        ],
+        "internalLinks": [
+          "fiber-labels-total-fiber-serving-daily-value",
+          "fiber-food-pattern-week-note",
+          "good-source-fiber-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No digestive diagnosis or symptom-to-fiber conclusion",
+          "No personal fiber target"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Start the comparison with rows, not opinions. One source, one row."
+        },
+        {
+          "type": "h2",
+          "text": "Use one row per source"
+        },
+        {
+          "type": "p",
+          "text": "Create a row for each Nutrition Facts panel, label photo, product page, pantry note, breakfast note, or snack note. Add the date checked."
+        },
+        {
+          "type": "p",
+          "text": "If a row came from memory, mark it as a rough note until a source is visible."
+        },
+        {
+          "type": "h2",
+          "text": "Match serving before grams"
+        },
+        {
+          "type": "p",
+          "text": "Copy serving size before dietary fiber grams. A larger gram number may also sit on a larger serving basis."
+        },
+        {
+          "type": "p",
+          "text": "Add percent Daily Value when it appears. It gives another serving-based field to compare."
+        },
+        {
+          "type": "h2",
+          "text": "Keep claims in a separate column"
+        },
+        {
+          "type": "p",
+          "text": "Good source, high, excellent source, contains, and similar phrases belong in the claim column. They should not replace the gram column."
+        },
+        {
+          "type": "h2",
+          "text": "Name the gap"
+        },
+        {
+          "type": "p",
+          "text": "The gap might be a missing panel, a different serving size, an unclear ingredient clue, a claim without visible percent Daily Value, or a personal question."
+        },
+        {
+          "type": "p",
+          "text": "A comparison note can make the rows easier to check. It should not rank foods or decide what belongs in someone's routine. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "good-source-fiber-claim",
+      "date": "2026-08-26",
+      "category": "Nutrient Notes",
+      "title": "Good Source of Fiber: Read the Claim, Then the Panel",
+      "summary": "Read good source of fiber wording by copying the exact claim, checking percent Daily Value, and keeping health-result language outside the note.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Good Source of Fiber: Read the Claim, Then the Panel | Daily Support Guide",
+        "metaDescription": "Read good source of fiber wording by copying the exact claim, checking percent Daily Value, and keeping health-result language outside the note.",
+        "primaryKeyword": "good source of fiber",
+        "secondaryKeywords": [
+          "fiber claim wording",
+          "high in fiber claim",
+          "fiber percent Daily Value"
+        ],
+        "searchIntent": "informational",
+        "h1": "Good Source of Fiber: Read the Claim, Then the Panel",
+        "h2": [
+          "Copy the exact phrase",
+          "Check the percent Daily Value",
+          "Do not add a result",
+          "Keep ingredients separate"
+        ],
+        "faq": [
+          "What does good source of fiber mean on a label?",
+          "Is high fiber the same as good source?",
+          "Can a fiber claim promise a health result?"
+        ],
+        "internalLinks": [
+          "fiber-labels-total-fiber-serving-daily-value",
+          "fiber-label-checklist",
+          "fiber-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No digestive diagnosis or symptom-to-fiber conclusion",
+          "No personal fiber target"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The phrase is the first thing to copy. Good source of fiber, high fiber, excellent source of fiber, and contains fiber should not be treated as the same wording."
+        },
+        {
+          "type": "h2",
+          "text": "Copy the exact phrase"
+        },
+        {
+          "type": "p",
+          "text": "Write the claim as it appears on the label. Do not make it shorter, stronger, or smoother."
+        },
+        {
+          "type": "p",
+          "text": "Then move to the Nutrition Facts panel, where the serving size, dietary fiber grams, and percent Daily Value can be checked."
+        },
+        {
+          "type": "h2",
+          "text": "Check the percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Under 21 CFR 101.54, good source, contains, or provides claims generally indicate 10 to 19 percent of the Daily Value per reference amount."
+        },
+        {
+          "type": "p",
+          "text": "High, rich in, or excellent source claims generally indicate 20 percent or more. Keep the exact claim beside the percent Daily Value, not in place of it."
+        },
+        {
+          "type": "h2",
+          "text": "Do not add a result"
+        },
+        {
+          "type": "p",
+          "text": "A fiber claim should not become digestive advice, treatment language, prevention language, weight advice, or a promise about how someone will feel."
+        },
+        {
+          "type": "h2",
+          "text": "Keep ingredients separate"
+        },
+        {
+          "type": "p",
+          "text": "Ingredient words can help a reader trace the label, but they do not replace the fiber grams or percent Daily Value."
+        },
+        {
+          "type": "p",
+          "text": "A careful claim note keeps the phrase small enough to read accurately. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "fiber-label-checklist",
+      "date": "2026-08-26",
+      "category": "Nutrient Notes",
+      "title": "Fiber Checklist: Serving, Grams, Ingredients, Question",
+      "summary": "Use a fiber checklist to copy serving size, grams, percent Daily Value, ingredient clues, claim wording, and one open question.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Fiber Checklist: Serving, Grams, Ingredients, Question | Daily Support Guide",
+        "metaDescription": "Use a fiber checklist to copy serving size, grams, percent Daily Value, ingredient clues, claim wording, and one open question.",
+        "primaryKeyword": "fiber checklist",
+        "secondaryKeywords": [
+          "dietary fiber grams",
+          "fiber label checklist",
+          "fiber ingredient list"
+        ],
+        "searchIntent": "informational",
+        "h1": "Fiber Checklist: Serving, Grams, Ingredients, Question",
+        "h2": [
+          "Serving",
+          "Grams",
+          "Percent Daily Value",
+          "Ingredient clue",
+          "Claim wording",
+          "Question"
+        ],
+        "faq": [
+          "What belongs in a fiber checklist?",
+          "Should I copy fiber grams or percent Daily Value?",
+          "What if the fiber source is unclear?"
+        ],
+        "internalLinks": [
+          "fiber-labels-total-fiber-serving-daily-value",
+          "fiber-food-pattern-week-note",
+          "good-source-fiber-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No digestive diagnosis or symptom-to-fiber conclusion",
+          "No personal fiber target"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Six fields. Fill them in order."
+        },
+        {
+          "type": "h2",
+          "text": "Serving"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size. Do this before the fiber number."
+        },
+        {
+          "type": "h2",
+          "text": "Grams"
+        },
+        {
+          "type": "p",
+          "text": "Copy dietary fiber in grams. Keep the unit with the number."
+        },
+        {
+          "type": "h2",
+          "text": "Percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "Copy percent Daily Value if it appears. FDA's Daily Value table lists dietary fiber at 28 g."
+        },
+        {
+          "type": "h2",
+          "text": "Ingredient clue"
+        },
+        {
+          "type": "p",
+          "text": "Check the ingredient list for the words connected to fiber. Write the clue; do not turn it into a product score."
+        },
+        {
+          "type": "h2",
+          "text": "Claim wording"
+        },
+        {
+          "type": "p",
+          "text": "Copy good source, high, excellent source, contains, or similar wording exactly as written."
+        },
+        {
+          "type": "h2",
+          "text": "Question"
+        },
+        {
+          "type": "p",
+          "text": "End with one gap: missing serving basis, unclear ingredient clue, different units, claim without enough panel detail, or personal question for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "The checklist is finished when the fields are visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "fiber-food-pattern-week-note",
+      "date": "2026-08-26",
+      "category": "Nutrient Notes",
+      "title": "Fiber Food Patterns: What a Week of Notes Can Show",
+      "summary": "Use a weekly fiber food pattern note to record labels, meal clues, missing panels, and questions without turning the week into an explanation.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Fiber Food Patterns: What a Week of Notes Can Show | Daily Support Guide",
+        "metaDescription": "Use a weekly fiber food pattern note to record label facts, meal clues, missing panels, and questions without making a personal rule.",
+        "primaryKeyword": "fiber food pattern",
+        "secondaryKeywords": [
+          "weekly fiber note",
+          "dietary fiber food log",
+          "fiber intake pattern"
+        ],
+        "searchIntent": "informational",
+        "h1": "Fiber Food Patterns: What a Week of Notes Can Show",
+        "h2": [
+          "Write what was easy to see",
+          "Let mixed meals stay mixed",
+          "Notice missing panels",
+          "Save personal questions"
+        ],
+        "faq": [
+          "How do I write a fiber food pattern note?",
+          "What if a meal has no label?",
+          "Can a fiber food note explain a problem?"
+        ],
+        "internalLinks": [
+          "fiber-labels-total-fiber-serving-daily-value",
+          "fiber-label-checklist",
+          "fiber-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No digestive diagnosis or symptom-to-fiber conclusion",
+          "No personal fiber target"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A fiber week is rarely tidy. Breakfast may have a label. Dinner may have pieces from three places. Snacks may be easy, or not checked at all."
+        },
+        {
+          "type": "p",
+          "text": "That unevenness belongs in the note."
+        },
+        {
+          "type": "h2",
+          "text": "Write what was easy to see"
+        },
+        {
+          "type": "p",
+          "text": "When a Nutrition Facts panel is available, copy serving size, dietary fiber grams, and percent Daily Value."
+        },
+        {
+          "type": "p",
+          "text": "For meals without a panel, use plain words: no label, homemade, shared dish, restaurant, package missing, or not checked."
+        },
+        {
+          "type": "h2",
+          "text": "Let mixed meals stay mixed"
+        },
+        {
+          "type": "p",
+          "text": "A weekly note does not have to split every bowl, sandwich, or leftover into perfect parts. It can say what was visible and what was not."
+        },
+        {
+          "type": "h2",
+          "text": "Notice missing panels"
+        },
+        {
+          "type": "p",
+          "text": "Missing information is still information. It may show where the record is thin, rather than where the diet is wrong."
+        },
+        {
+          "type": "p",
+          "text": "Use often, sometimes, rarely, not checked, and unclear if those words fit the week."
+        },
+        {
+          "type": "h2",
+          "text": "Save personal questions"
+        },
+        {
+          "type": "p",
+          "text": "Do not turn the week into digestive advice, symptom explanation, a personal fiber number, or a rule about what should change."
+        },
+        {
+          "type": "p",
+          "text": "If the note brings up a personal question, keep it for a licensed professional instead of solving it on the page. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "fiber-labels-total-fiber-serving-daily-value",
+      "date": "2026-08-26",
+      "category": "Nutrient Notes",
+      "title": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value",
+      "summary": "Read fiber on labels by recording serving size, grams of dietary fiber, percent Daily Value, and any low or high wording separately.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value | Daily Support Guide",
+        "metaDescription": "Read fiber on labels by recording serving size, grams of dietary fiber, percent Daily Value, and claim wording in separate fields.",
+        "primaryKeyword": "fiber on labels",
+        "secondaryKeywords": [
+          "dietary fiber Daily Value",
+          "fiber percent Daily Value",
+          "fiber serving size"
+        ],
+        "searchIntent": "informational",
+        "h1": "Fiber on Labels: Total Fiber, Serving Size, and Daily Value",
+        "h2": [
+          "Start with serving size",
+          "Copy grams and percent Daily Value",
+          "Keep low and high wording separate",
+          "Leave ingredient questions open"
+        ],
+        "faq": [
+          "What should I copy from a fiber label?",
+          "What is the Daily Value for dietary fiber?",
+          "Does a fiber label answer personal questions?"
+        ],
+        "internalLinks": [
+          "fiber-food-pattern-week-note",
+          "fiber-label-checklist",
+          "good-source-fiber-claim"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No medical-condition, treatment, cure, prevention, or personal serving instructions",
+          "No digestive diagnosis or symptom-to-fiber conclusion",
+          "No personal fiber target"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Fiber has a required place on the Nutrition Facts label. Start there, with the serving size directly beside it."
+        },
+        {
+          "type": "p",
+          "text": "Use one row for the label fields: serving size, dietary fiber grams, percent Daily Value, and any claim wording nearby."
+        },
+        {
+          "type": "h2",
+          "text": "Start with serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size before the fiber number. A gram value without its serving basis is not ready for comparison."
+        },
+        {
+          "type": "h2",
+          "text": "Copy grams and percent Daily Value"
+        },
+        {
+          "type": "p",
+          "text": "FDA's Daily Value table lists dietary fiber at 28 g. Copy the grams shown on the panel and the percent Daily Value if it appears."
+        },
+        {
+          "type": "p",
+          "text": "Keep the gram number and percent in separate fields. They answer related, but not identical, label questions."
+        },
+        {
+          "type": "h2",
+          "text": "Keep low and high wording separate"
+        },
+        {
+          "type": "p",
+          "text": "FDA label guidance says 5 percent Daily Value or less is low and 20 percent Daily Value or more is high. Write those words only as label-reading notes."
+        },
+        {
+          "type": "h2",
+          "text": "Leave ingredient questions open"
+        },
+        {
+          "type": "p",
+          "text": "If the ingredient list raises a question about the source of fiber, write the question. Do not use the fiber line to decide product fit, digestion questions, or a personal amount."
+        },
+        {
+          "type": "p",
+          "text": "A complete row can still end with an open question. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "gummy-serving-size-added-sugar",
+      "date": "2026-08-26",
+      "category": "Label Reading",
+      "title": "Gummy Serving Size and Added Sugar: What to Check Before Comparing",
+      "summary": "Learn how to compare gummy serving size and added sugar by checking serving count, total sugars, added sugars, Daily Value, and open questions.",
+      "seo": {
+        "seoTitle": "Gummy Serving Size and Added Sugar: What to Check Before Comparing | Daily Support Guide",
+        "metaDescription": "Learn how to compare gummy serving size and added sugar by checking serving count, total sugars, added sugars, Daily Value, and open questions.",
+        "primaryKeyword": "gummy serving size added sugar",
+        "secondaryKeywords": [
+          "gummy serving size",
+          "added sugar label",
+          "gummy label comparison"
+        ],
+        "searchIntent": "informational",
+        "h1": "Gummy Serving Size and Added Sugar: What to Check Before Comparing",
+        "h2": [
+          "Start with the serving size",
+          "Keep total sugars and added sugars separate",
+          "Read percent Daily Value on the same serving basis",
+          "Check serving count before comparing containers",
+          "Do not turn sugar numbers into product advice",
+          "Write open questions instead of guessing",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare gummy serving size and added sugar?",
+          "Why should total sugars and added sugars stay separate?",
+          "When should gummy label questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "percent-daily-value-meaning",
+          "compare-vitamin-labels"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Gummy labels can look simple because the serving is often counted in pieces. The comparison still needs care, especially when sugar lines and serving count are part of the decision."
+        },
+        {
+          "type": "p",
+          "text": "This article is about reading gummy serving size and added sugar label facts. It does not recommend products, set limits for a person, or give medical advice."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size exactly. If the label says one piece, two pieces, or another count, keep that serving count attached to every amount that follows."
+        },
+        {
+          "type": "p",
+          "text": "FDA supplement labeling guidance says Supplement Facts must list serving size and servings per container when required. The serving size is the basis for the listed amounts."
+        },
+        {
+          "type": "h2",
+          "text": "Keep total sugars and added sugars separate"
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that Added Sugars on the Nutrition Facts label are shown in grams and percent Daily Value for one serving. Total sugars and added sugars are related, but they are not the same line."
+        },
+        {
+          "type": "p",
+          "text": "In a note sheet, use separate fields: serving size, total sugars, added sugars, percent Daily Value for added sugars, and the panel type."
+        },
+        {
+          "type": "h2",
+          "text": "Read percent Daily Value on the same serving basis"
+        },
+        {
+          "type": "p",
+          "text": "FDA describes percent Daily Value as a way to see how much a nutrient in a serving contributes to a daily diet. That phrase \"in a serving\" matters."
+        },
+        {
+          "type": "p",
+          "text": "If two labels use different gummy counts per serving, compare the percent Daily Value on the serving basis shown. Do not quietly convert one label unless you clearly record the math and the source numbers."
+        },
+        {
+          "type": "h2",
+          "text": "Check serving count before comparing containers"
+        },
+        {
+          "type": "p",
+          "text": "A larger bottle may not mean the same number of servings. Count, serving size, and servings per container all matter."
+        },
+        {
+          "type": "p",
+          "text": "If one label shows 60 pieces at two gummies per serving and another shows 60 pieces at one gummy per serving, the container count and serving count tell different stories."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn sugar numbers into product advice"
+        },
+        {
+          "type": "p",
+          "text": "A sugar line can be a comparison fact, but it should not become a product recommendation in a general article. Keep the number in the number field."
+        },
+        {
+          "type": "p",
+          "text": "Avoid language that tells a reader what to choose, avoid, take, or replace. The article's job is to keep the label facts clear."
+        },
+        {
+          "type": "h2",
+          "text": "Write open questions instead of guessing"
+        },
+        {
+          "type": "p",
+          "text": "If the label image does not show total sugars, added sugars, serving size, servings per container, or warning language, write the missing field plainly."
+        },
+        {
+          "type": "p",
+          "text": "If the question is personal because of pregnancy, breastfeeding, medication use, allergies, diabetes, eating disorder history, surgery, or another medical factor, follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Gummy serving size and added sugar are easier to compare when serving count, total sugars, added sugars, percent Daily Value, and missing fields stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "omega-3-source-comparison-units",
       "date": "2026-08-25",
       "category": "Nutrient Notes",
@@ -10347,7 +11004,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-26",
       "title": "How to Compare Gummies by Serving and Added Sugar",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 39,
