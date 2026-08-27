@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "capsule-count-serving-size",
+      "date": "2026-08-27",
+      "category": "Label Reading",
+      "title": "Capsule Count and Serving Size: How to Read the Numbers Together",
+      "summary": "Learn how to compare capsule count and serving size by keeping count, serving basis, servings per container, panel amounts, and directions separate.",
+      "seo": {
+        "seoTitle": "Capsule Count and Serving Size: How to Read the Numbers Together | Daily Support Guide",
+        "metaDescription": "Learn how to compare capsule count and serving size by keeping count, serving basis, servings per container, and panel amounts separate.",
+        "primaryKeyword": "capsule count serving size",
+        "secondaryKeywords": [
+          "capsule serving size",
+          "servings per container capsules",
+          "capsule label comparison"
+        ],
+        "searchIntent": "informational",
+        "h1": "Capsule Count and Serving Size: How to Read the Numbers Together",
+        "h2": [
+          "Start with the package count",
+          "Read serving size before panel amounts",
+          "Use servings per container as a separate field",
+          "Do not compare capsule count alone",
+          "Keep directions and warnings in their own lane",
+          "Leave personal questions outside the math",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare capsule count and serving size?",
+          "Why is capsule count not the same as servings per container?",
+          "When should capsule label questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "directions-for-use-label",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Capsule labels often show more than one number: package count, serving size, servings per container, amount per serving, and sometimes directions. Those numbers are easy to mix up."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to read capsule count and serving size together. It does not recommend a product, amount, schedule, or medical use."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the package count"
+        },
+        {
+          "type": "p",
+          "text": "First, copy the package count exactly as shown. This may be a count of capsules, tablets, softgels, packets, or another form."
+        },
+        {
+          "type": "p",
+          "text": "Package count tells how many units are in the container. It does not by itself tell how many labeled servings are in the container."
+        },
+        {
+          "type": "h2",
+          "text": "Read serving size before panel amounts"
+        },
+        {
+          "type": "p",
+          "text": "The serving size line tells the basis for the amounts in the Supplement Facts panel. If the serving size is two capsules, the listed amounts usually belong to that two-capsule serving."
+        },
+        {
+          "type": "p",
+          "text": "Federal supplement labeling rules say serving size should use a term appropriate to the supplement form, including capsules. Keep that serving phrase attached to the panel amounts."
+        },
+        {
+          "type": "h2",
+          "text": "Use servings per container as a separate field"
+        },
+        {
+          "type": "p",
+          "text": "FDA dietary supplement labeling guidance says Supplement Facts must list serving size and servings per container when required. It also notes a narrow case where servings per container may not need to be listed if it repeats the net quantity information."
+        },
+        {
+          "type": "p",
+          "text": "For comparison notes, write package count, serving size, and servings per container in separate fields. That prevents a bottle count from becoming a serving count by accident."
+        },
+        {
+          "type": "h2",
+          "text": "Do not compare capsule count alone"
+        },
+        {
+          "type": "p",
+          "text": "Two containers can have the same capsule count and different serving sizes. They can also have different capsule counts and the same number of labeled servings."
+        },
+        {
+          "type": "p",
+          "text": "A clean comparison asks: How many units are in the package? How many units are in one serving? How many servings are shown? What amount is listed per serving?"
+        },
+        {
+          "type": "h2",
+          "text": "Keep directions and warnings in their own lane"
+        },
+        {
+          "type": "p",
+          "text": "Directions and warnings can affect how a reader understands a label, but they should not be merged with Supplement Facts. Copy them into their own fields."
+        },
+        {
+          "type": "p",
+          "text": "A directions line is not a personal instruction from this article. It is label wording to record and read carefully."
+        },
+        {
+          "type": "h2",
+          "text": "Leave personal questions outside the math"
+        },
+        {
+          "type": "p",
+          "text": "Capsule count math does not answer questions about medication use, pregnancy, breastfeeding, allergies, surgery, medical conditions, or personal nutrition plans."
+        },
+        {
+          "type": "p",
+          "text": "When those factors matter, keep the label comparison unfinished and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Capsule count and serving size are easier to compare when package count, serving size, servings per container, panel amounts, directions, and warnings stay in separate fields. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "fiber-comparison-notes",
       "date": "2026-08-26",
       "category": "Nutrient Notes",
@@ -11011,7 +11149,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-27",
       "title": "How to Compare Capsules by Count and Serving Size",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 40,
