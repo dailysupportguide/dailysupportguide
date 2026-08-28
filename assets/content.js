@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "weekly-label-review-routine",
+      "date": "2026-08-28",
+      "category": "Routine Guides",
+      "title": "Weekly Label Review Routine: A Low-Friction Way to Stay Organized",
+      "summary": "Build a weekly label review routine that checks a few labels, records missing details, and keeps open questions visible without choosing products.",
+      "seo": {
+        "seoTitle": "Weekly Label Review Routine: A Low-Friction Way to Stay Organized | Daily Support Guide",
+        "metaDescription": "Build a weekly label review routine that checks serving details, label facts, costs, terms, and open questions without product recommendations.",
+        "primaryKeyword": "weekly label review routine",
+        "secondaryKeywords": [
+          "label review routine",
+          "weekly product notes",
+          "label reading habit"
+        ],
+        "searchIntent": "informational",
+        "h1": "Weekly Label Review Routine: A Low-Friction Way to Stay Organized",
+        "h2": [
+          "Pick a small review window",
+          "Choose only a few labels",
+          "Use the same note fields",
+          "Keep shopping terms separate",
+          "End with open questions",
+          "Do not make the routine decide for you",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How can I build a weekly label review routine?",
+          "What fields belong in a weekly label review?",
+          "When should a weekly label question stay unresolved?"
+        ],
+        "internalLinks": [
+          "product-comparison-notes",
+          "missing-information-on-label",
+          "compare-similar-products-framework"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A weekly label review routine works best when it is small enough to repeat. The point is not to inspect every label in the house. The point is to keep a few everyday comparisons from turning into scattered notes."
+        },
+        {
+          "type": "p",
+          "text": "This article explains a simple review habit. It does not recommend products, brands, diets, supplements, or medical decisions."
+        },
+        {
+          "type": "h2",
+          "text": "Pick a small review window"
+        },
+        {
+          "type": "p",
+          "text": "Choose a short weekly window and keep the task narrow. Ten minutes with two or three labels is often enough for a useful note."
+        },
+        {
+          "type": "p",
+          "text": "A routine that is too large becomes easy to skip. A small routine can still catch serving details, missing fields, and questions that deserve a closer look later."
+        },
+        {
+          "type": "h2",
+          "text": "Choose only a few labels"
+        },
+        {
+          "type": "p",
+          "text": "Pick labels that are already part of a real comparison: two pantry items, two drink labels, a product page and a package photo, or one item with missing details."
+        },
+        {
+          "type": "p",
+          "text": "Do not use the routine to hunt for a winner. Use it to practice reading the same kinds of facts the same way."
+        },
+        {
+          "type": "h2",
+          "text": "Use the same note fields"
+        },
+        {
+          "type": "p",
+          "text": "A simple weekly note can include product description, serving size, servings per container, key panel facts, ingredient list, directions, warnings, total cost, terms, reviews, and open questions."
+        },
+        {
+          "type": "p",
+          "text": "FDA label resources make serving and listed nutrient details a useful starting point. FDA supplement labeling guidance also points to Supplement Facts fields such as serving size and dietary ingredient information."
+        },
+        {
+          "type": "h2",
+          "text": "Keep shopping terms separate"
+        },
+        {
+          "type": "p",
+          "text": "If the review includes a product page, keep shopping terms out of the nutrition or label column. FTC online shopping guidance points readers to product descriptions, fine print, total cost, delivery, returns, and refunds."
+        },
+        {
+          "type": "p",
+          "text": "Those details matter, but they answer different questions. A return term is not a nutrient fact. A shipping fee is not a serving-size detail."
+        },
+        {
+          "type": "h2",
+          "text": "End with open questions"
+        },
+        {
+          "type": "p",
+          "text": "At the end of the review, write the questions that remain. Examples include \"serving size not visible,\" \"added sugars line not shown,\" \"return terms unclear,\" or \"warning language needs closer reading.\""
+        },
+        {
+          "type": "p",
+          "text": "Open questions are not failures. They are the part of the note that keeps a reader from pretending the label answered more than it did."
+        },
+        {
+          "type": "h2",
+          "text": "Do not make the routine decide for you"
+        },
+        {
+          "type": "p",
+          "text": "A weekly routine can organize facts, but it should not turn into a personal rule about what to buy, take, avoid, or replace."
+        },
+        {
+          "type": "p",
+          "text": "If a question involves medication use, pregnancy, breastfeeding, allergies, surgery, a medical condition, eating disorder history, or a personal nutrition plan, keep the question unresolved and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "A weekly label review routine is easier to keep when it reviews only a few labels, uses fixed fields, separates shopping terms from label facts, and leaves open questions visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "capsule-count-serving-size",
       "date": "2026-08-27",
       "category": "Label Reading",
@@ -11156,7 +11294,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-28",
       "title": "How to Build a Low-Friction Weekly Label Review Habit",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 41,
