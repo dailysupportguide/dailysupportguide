@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "daily-drink-caffeine-serving",
+      "date": "2026-08-29",
+      "category": "Label Reading",
+      "title": "Daily Drink Caffeine and Serving Size: How to Compare the Label",
+      "summary": "Learn how to compare daily drink caffeine and serving size by checking caffeine amount, serving basis, container size, and unclear label details.",
+      "seo": {
+        "seoTitle": "Daily Drink Caffeine and Serving Size: How to Compare the Label | Daily Support Guide",
+        "metaDescription": "Learn how to compare daily drink caffeine and serving size by checking caffeine amount, serving basis, container size, and unclear details.",
+        "primaryKeyword": "daily drink caffeine serving size",
+        "secondaryKeywords": [
+          "caffeine serving size",
+          "drink caffeine label",
+          "compare caffeine drinks"
+        ],
+        "searchIntent": "informational",
+        "h1": "Daily Drink Caffeine and Serving Size: How to Compare the Label",
+        "h2": [
+          "Start with the serving size",
+          "Find the caffeine amount if it is shown",
+          "Keep serving and container notes separate",
+          "Check other label lines without making a rule",
+          "Notice what the label does not answer",
+          "Leave personal tolerance outside the comparison",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare daily drink caffeine and serving size?",
+          "Why should serving size and container size stay separate?",
+          "When should caffeine questions stay outside a label comparison?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "read-sodium-and-sugar-labels",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Daily drink labels can put caffeine, serving size, sugar lines, and container size in different places. A quick glance can miss the serving basis that makes the numbers comparable."
+        },
+        {
+          "type": "p",
+          "text": "This article is about reading drink labels. It does not recommend drinks, set caffeine limits for a person, or give medical advice."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the serving size"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size before copying any other number. If the container has more than one serving, write that down too."
+        },
+        {
+          "type": "p",
+          "text": "FDA Nutrition Facts information treats serving size as the basis for listed nutrient amounts. If caffeine is shown somewhere else on the label or product page, copy the serving basis stated with that caffeine disclosure."
+        },
+        {
+          "type": "h2",
+          "text": "Find the caffeine amount if it is shown"
+        },
+        {
+          "type": "p",
+          "text": "Some drink labels or product pages show caffeine amount clearly. Others may not. If caffeine is shown, copy the exact amount, unit, and serving basis."
+        },
+        {
+          "type": "p",
+          "text": "FDA consumer guidance notes that caffeine can appear in many products and that amounts vary. A comparison should use the label or product-page number at hand, not an assumed value."
+        },
+        {
+          "type": "h2",
+          "text": "Keep serving and container notes separate"
+        },
+        {
+          "type": "p",
+          "text": "A bottle, can, carton, or pouch may contain one serving or more than one serving. Container size is not automatically the same as serving size."
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields for serving size, servings per container, package amount, caffeine per serving if shown, and caffeine per container only if the label clearly supports that calculation."
+        },
+        {
+          "type": "h2",
+          "text": "Check other label lines without making a rule"
+        },
+        {
+          "type": "p",
+          "text": "Drink comparisons may also include added sugars, total sugars, sodium, calories, ingredients, directions, or storage language. Keep each line in its own field."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn one number into a product score. A label-reading note should show what is on the label, not decide what someone should drink."
+        },
+        {
+          "type": "h2",
+          "text": "Notice what the label does not answer"
+        },
+        {
+          "type": "p",
+          "text": "If caffeine amount, serving count, total container amount, or storage directions are not visible, write that plainly. A missing field is not an invitation to guess."
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance also points readers to product descriptions and fine print. If the comparison uses a product page, those details can be copied in a separate notes field."
+        },
+        {
+          "type": "h2",
+          "text": "Leave personal tolerance outside the comparison"
+        },
+        {
+          "type": "p",
+          "text": "Caffeine questions may be personal because of sleep, anxiety, pregnancy, breastfeeding, medication use, heart concerns, or another medical factor. A general label article should not settle those questions."
+        },
+        {
+          "type": "p",
+          "text": "If a personal question changes the meaning of a caffeine number, keep the question unresolved and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Daily drink caffeine and serving size are easier to compare when serving size, container size, caffeine amount, other label lines, and missing details stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "weekly-label-review-routine",
       "date": "2026-08-28",
       "category": "Routine Guides",
@@ -11301,7 +11439,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-29",
       "title": "How to Compare Daily Drinks by Caffeine and Serving",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 42,
