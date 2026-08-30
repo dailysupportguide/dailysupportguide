@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "organize-pantry-shelf",
+      "date": "2026-08-30",
+      "category": "Routine Guides",
+      "title": "Organize a Pantry Shelf: A Simple Label-First Reset",
+      "summary": "Learn how to organize a pantry shelf by grouping visible labels, checking dates and storage directions, and leaving unclear items aside.",
+      "seo": {
+        "seoTitle": "Organize a Pantry Shelf: A Simple Label-First Reset | Daily Support Guide",
+        "metaDescription": "Learn how to organize a pantry shelf by grouping visible labels, checking dates and storage directions, and setting unclear items aside.",
+        "primaryKeyword": "organize pantry shelf",
+        "secondaryKeywords": [
+          "pantry shelf routine",
+          "pantry label review",
+          "food storage label"
+        ],
+        "searchIntent": "informational",
+        "h1": "Organize a Pantry Shelf: A Simple Label-First Reset",
+        "h2": [
+          "Clear one small area",
+          "Face labels forward",
+          "Check storage directions",
+          "Group by how you compare",
+          "Set unclear items aside",
+          "Do not turn organizing into food advice",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How can I organize a pantry shelf with labels in mind?",
+          "Why should storage directions stay visible?",
+          "When should pantry questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "weekly-label-review-routine",
+          "missing-information-on-label",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A pantry shelf reset does not need to become a full kitchen project. One shelf, a few labels, and a short list of open questions are enough to make the next comparison easier."
+        },
+        {
+          "type": "p",
+          "text": "This article explains a label-first organizing routine. It does not recommend foods, diets, products, or medical choices."
+        },
+        {
+          "type": "h2",
+          "text": "Clear one small area"
+        },
+        {
+          "type": "p",
+          "text": "Start with one shelf or one section of a shelf. Move items only far enough to see the front, side, and storage wording."
+        },
+        {
+          "type": "p",
+          "text": "A small reset is easier to finish. It also keeps the task focused on label visibility rather than a large home project."
+        },
+        {
+          "type": "h2",
+          "text": "Face labels forward"
+        },
+        {
+          "type": "p",
+          "text": "Turn packages so the product description, Nutrition Facts or Supplement Facts panel, date wording, storage directions, and ingredient list are easier to find."
+        },
+        {
+          "type": "p",
+          "text": "This does not make one item better than another. It simply makes the facts less hidden the next time a comparison comes up."
+        },
+        {
+          "type": "h2",
+          "text": "Check storage directions"
+        },
+        {
+          "type": "p",
+          "text": "FDA food-storage guidance tells consumers to check storage directions on labels because some items need to be kept cold. Pantry organizing should not override label storage language."
+        },
+        {
+          "type": "p",
+          "text": "If a label says to refrigerate after opening, keep that note visible or move the item according to the label. If the storage direction is not readable, set the item aside for closer checking."
+        },
+        {
+          "type": "h2",
+          "text": "Group by how you compare"
+        },
+        {
+          "type": "p",
+          "text": "Group items by the comparison you actually make: breakfast, snacks, drinks, baking, shelf-stable meals, or another practical category."
+        },
+        {
+          "type": "p",
+          "text": "Within a group, it can help to keep similar label types together. Serving size, servings per container, added sugars, sodium, and ingredient lists are easier to scan when the labels face the same way."
+        },
+        {
+          "type": "h2",
+          "text": "Set unclear items aside"
+        },
+        {
+          "type": "p",
+          "text": "Use a small \"check later\" area for items with unreadable dates, missing storage directions, torn labels, or details hidden by packaging."
+        },
+        {
+          "type": "p",
+          "text": "Write the reason in plain words: \"date unclear,\" \"storage wording not visible,\" or \"serving size hidden.\" The note should describe the information gap, not judge the item."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn organizing into food advice"
+        },
+        {
+          "type": "p",
+          "text": "A pantry routine can make labels easier to read. It should not become a rule about what someone should eat, avoid, buy, or replace."
+        },
+        {
+          "type": "p",
+          "text": "If a question involves allergies, medical conditions, medication use, pregnancy, breastfeeding, eating disorder history, or a personal nutrition plan, follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Organizing a pantry shelf is easier when the task stays small, labels face forward, storage directions stay visible, and unclear items get a plain follow-up note. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "daily-drink-caffeine-serving",
       "date": "2026-08-29",
       "category": "Label Reading",
@@ -11446,7 +11584,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-30",
       "title": "How to Organize a Pantry Shelf for Easier Choices",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 43,
