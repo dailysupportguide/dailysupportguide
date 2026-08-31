@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "compare-breakfast-labels",
+      "date": "2026-08-31",
+      "category": "Comparison Skills",
+      "title": "Compare Breakfast Labels Without Turning It Into a Diet Plan",
+      "summary": "Learn how to compare breakfast labels by checking serving size, key nutrient lines, ingredients, package amount, and open questions.",
+      "seo": {
+        "seoTitle": "Compare Breakfast Labels Without Turning It Into a Diet Plan | Daily Support Guide",
+        "metaDescription": "Learn how to compare breakfast labels by checking serving size, key nutrient lines, ingredients, package amount, and open questions.",
+        "primaryKeyword": "compare breakfast labels",
+        "secondaryKeywords": [
+          "breakfast label comparison",
+          "breakfast serving size",
+          "breakfast Nutrition Facts"
+        ],
+        "searchIntent": "informational",
+        "h1": "Compare Breakfast Labels Without Turning It Into a Diet Plan",
+        "h2": [
+          "Start with what counts as one serving",
+          "Choose a few label lines",
+          "Keep ingredients in a separate field",
+          "Compare package amount and cost separately",
+          "Do not build a diet plan from a label",
+          "Leave personal questions visible",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare breakfast labels?",
+          "Why should serving size come first?",
+          "When should breakfast label questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "read-sodium-and-sugar-labels",
+          "compare-cost-per-serving"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Breakfast labels can invite fast judgments because they often sit next to morning routines, claims, and package photos. A steadier comparison starts with the label facts, not a diet plan."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to compare breakfast labels. It does not recommend foods, rank products, or give nutrition advice for a person."
+        },
+        {
+          "type": "h2",
+          "text": "Start with what counts as one serving"
+        },
+        {
+          "type": "p",
+          "text": "Copy the serving size and servings per container first. The numbers on the Nutrition Facts label are tied to that serving basis."
+        },
+        {
+          "type": "p",
+          "text": "FDA Nutrition Facts resources highlight serving size, calories, and nutrient details as core parts of the label. If two breakfast items use different serving sizes, write that before comparing anything else."
+        },
+        {
+          "type": "h2",
+          "text": "Choose a few label lines"
+        },
+        {
+          "type": "p",
+          "text": "Pick only the label lines that matter for the comparison at hand. Common fields might include calories, protein, fiber, sodium, total sugars, added sugars, or another listed nutrient."
+        },
+        {
+          "type": "p",
+          "text": "FDA explains that percent Daily Value shows how much a nutrient in a serving contributes to a daily diet. Keep percent Daily Value attached to the serving size shown."
+        },
+        {
+          "type": "h2",
+          "text": "Keep ingredients in a separate field"
+        },
+        {
+          "type": "p",
+          "text": "The ingredient list answers a different question from the nutrient panel. It can show what ingredients are present and the order in which they appear, but it should not be blended into the nutrient numbers."
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields for serving size, key nutrient lines, ingredient notes, and claim wording. That keeps one visible phrase from taking over the whole comparison."
+        },
+        {
+          "type": "h2",
+          "text": "Compare package amount and cost separately"
+        },
+        {
+          "type": "p",
+          "text": "Package size and cost can matter, but they are not the same as label nutrition. Keep net amount, servings per container, total price, and unit price in a separate cost field."
+        },
+        {
+          "type": "p",
+          "text": "NIST explains that unit pricing uses cost per unit of measure and can help compare package sizes. It should still stay separate from nutrition facts."
+        },
+        {
+          "type": "h2",
+          "text": "Do not build a diet plan from a label"
+        },
+        {
+          "type": "p",
+          "text": "A breakfast label can support a comparison note, but it cannot design a diet plan for a person. Avoid turning one nutrient line into an instruction about what someone should eat."
+        },
+        {
+          "type": "p",
+          "text": "The article's job is to make label details easier to read, not to choose a breakfast or set a personal number."
+        },
+        {
+          "type": "h2",
+          "text": "Leave personal questions visible"
+        },
+        {
+          "type": "p",
+          "text": "If a breakfast question involves allergies, diabetes, kidney concerns, digestive issues, medication use, pregnancy, breastfeeding, eating disorder history, or a personal nutrition plan, keep it outside the comparison note."
+        },
+        {
+          "type": "p",
+          "text": "Write the question down and follow licensed professional guidance rather than using a general label article as the answer."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Breakfast labels are easier to compare when serving size comes first, a few nutrient lines stay separate, ingredients get their own field, and personal questions remain visible. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "organize-pantry-shelf",
       "date": "2026-08-30",
       "category": "Routine Guides",
@@ -11591,7 +11729,7 @@ window.DSG_CONTENT = {
       "date": "2026-08-31",
       "title": "How to Compare Breakfast Options Without a Diet Plan",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 44,
