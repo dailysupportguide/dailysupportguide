@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "compare-labels-dietary-preference",
+      "date": "2026-09-02",
+      "category": "Comparison Skills",
+      "title": "Dietary Preference Labels: How to Compare Without Assuming Fit",
+      "summary": "Learn how to compare dietary preference labels by separating preference wording, allergen labeling, ingredient notes, certifications, and open questions.",
+      "seo": {
+        "seoTitle": "Dietary Preference Labels: How to Compare Without Assuming Fit | Daily Support Guide",
+        "metaDescription": "Learn how to compare dietary preference labels by separating preference wording, allergen labeling, ingredients, certifications, and open questions.",
+        "primaryKeyword": "dietary preference label",
+        "secondaryKeywords": [
+          "compare dietary preference labels",
+          "food allergen label",
+          "label preference wording"
+        ],
+        "searchIntent": "informational",
+        "h1": "Dietary Preference Labels: How to Compare Without Assuming Fit",
+        "h2": [
+          "Write the preference first",
+          "Check the ingredient list separately",
+          "Read allergen labeling as its own field",
+          "Keep certification wording separate",
+          "Do not assume one preference covers another",
+          "Leave personal safety questions unresolved",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I compare dietary preference labels?",
+          "Why should allergen labeling stay separate from preference wording?",
+          "When should dietary preference questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "vegan-plant-based-labels",
+          "how-to-read-allergen-statements",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Dietary preference labels can be helpful, but they can also be easy to overread. A preference word on the front of a package does not answer every ingredient, allergen, certification, or personal safety question."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to compare dietary preference label wording. It does not recommend products, diets, or medical decisions."
+        },
+        {
+          "type": "h2",
+          "text": "Write the preference first"
+        },
+        {
+          "type": "p",
+          "text": "Start by copying the exact preference wording. Examples of wording categories might include plant-based, vegetarian, vegan, organic, gluten-related, dairy-related, or another preference phrase shown on the label."
+        },
+        {
+          "type": "p",
+          "text": "Keep the wording exact. A broad front phrase and a narrower qualifier may not mean the same thing."
+        },
+        {
+          "type": "h2",
+          "text": "Check the ingredient list separately"
+        },
+        {
+          "type": "p",
+          "text": "The ingredient list should get its own field. Do not treat a preference claim as a substitute for reading ingredients."
+        },
+        {
+          "type": "p",
+          "text": "If the comparison depends on a specific ingredient, copy the ingredient wording exactly as shown. If the label photo does not show the full list, write that the full ingredient list is not visible."
+        },
+        {
+          "type": "h2",
+          "text": "Read allergen labeling as its own field"
+        },
+        {
+          "type": "p",
+          "text": "FDA food-allergy information identifies nine major food allergens: milk, eggs, fish, Crustacean shellfish, tree nuts, peanuts, wheat, soybeans, and sesame."
+        },
+        {
+          "type": "p",
+          "text": "FDA allergen labeling guidance explains that federal law sets requirements for declaring major food allergens on labels. In comparison notes, allergen labeling should stay separate from preference wording."
+        },
+        {
+          "type": "h2",
+          "text": "Keep certification wording separate"
+        },
+        {
+          "type": "p",
+          "text": "Some labels use certification or seal wording. USDA explains that organic is a label for food or agricultural products produced according to USDA organic standards."
+        },
+        {
+          "type": "p",
+          "text": "If a label shows certification wording, copy the certifier or seal language as a separate field. Do not assume a preference claim is the same as a certification."
+        },
+        {
+          "type": "h2",
+          "text": "Do not assume one preference covers another"
+        },
+        {
+          "type": "p",
+          "text": "A label can match one preference and still leave another question unanswered. Plant-based wording does not automatically answer every allergen question. Organic wording does not automatically answer every ingredient preference question."
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields: preference wording, ingredient notes, allergen statement, certification wording, serving size, and open questions."
+        },
+        {
+          "type": "h2",
+          "text": "Leave personal safety questions unresolved"
+        },
+        {
+          "type": "p",
+          "text": "Dietary preference questions can become personal quickly, especially with allergies, celiac disease, medication use, pregnancy, breastfeeding, eating disorder history, or medical conditions."
+        },
+        {
+          "type": "p",
+          "text": "A general comparison note should not decide personal safety. Keep the question visible and follow licensed professional guidance when needed."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Dietary preference labels are easier to compare when preference wording, ingredients, allergen labeling, certification wording, and open questions stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "natural-clean-whole-food-claims",
       "date": "2026-09-01",
       "category": "Label Reading",
@@ -11881,7 +12019,7 @@ window.DSG_CONTENT = {
       "date": "2026-09-02",
       "title": "How to Compare Labels When You Have a Dietary Preference",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 46,
