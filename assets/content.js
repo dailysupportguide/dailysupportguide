@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "read-product-page-facts",
+      "date": "2026-09-03",
+      "category": "Comparison Skills",
+      "title": "Product Page Facts: How to Read Without Looking for a Winner",
+      "summary": "Learn how to read product page facts by separating descriptions, label photos, total cost, reviews, terms, and open questions.",
+      "seo": {
+        "seoTitle": "Product Page Facts: How to Read Without Looking for a Winner | Daily Support Guide",
+        "metaDescription": "Learn how to read product page facts by separating descriptions, label photos, total cost, reviews, terms, and open questions.",
+        "primaryKeyword": "product page facts",
+        "secondaryKeywords": [
+          "how to read product page",
+          "product page comparison",
+          "product description fine print"
+        ],
+        "searchIntent": "informational",
+        "h1": "Product Page Facts: How to Read Without Looking for a Winner",
+        "h2": [
+          "Start with the page description",
+          "Check label photos separately",
+          "Keep total cost in its own field",
+          "Read reviews as supporting notes",
+          "Copy delivery and return terms",
+          "Leave unanswered questions visible",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What product page facts should I copy?",
+          "Why should reviews and label facts stay separate?",
+          "When should a product page question stay unanswered?"
+        ],
+        "internalLinks": [
+          "product-comparison-notes",
+          "missing-information-on-label",
+          "neutral-product-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A product page can feel like it is asking for a quick yes or no. The safer reading habit is slower: copy what the page shows, keep each kind of information in its own field, and avoid choosing a winner too early."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to read product page facts. It does not name brands, recommend products, or give medical, financial, or purchase advice."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the page description"
+        },
+        {
+          "type": "p",
+          "text": "Copy the product description in plain words before reading claims or reviews. If the page has fine print, size wording, package details, or condition wording, keep that text close to the description."
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance tells consumers to read the entire product description, including fine print. That makes the description a fact field, not a sales summary."
+        },
+        {
+          "type": "h2",
+          "text": "Check label photos separately"
+        },
+        {
+          "type": "p",
+          "text": "If the page includes label photos, copy visible label facts into separate fields: serving size, servings per container, ingredient list, warning language, directions, panel type, and claims."
+        },
+        {
+          "type": "p",
+          "text": "Do not assume a detail from a blurred or cropped image. If the full panel is not visible, write the missing field instead of guessing."
+        },
+        {
+          "type": "h2",
+          "text": "Keep total cost in its own field"
+        },
+        {
+          "type": "p",
+          "text": "A listed price is not always the total cost. FTC online shopping guidance notes that total cost can include shipping, handling, delivery, taxes, or other fees."
+        },
+        {
+          "type": "p",
+          "text": "Keep listed price, extra fees, unit price if shown, package amount, and return costs in cost fields. Cost information should not be mixed with label claims or review notes."
+        },
+        {
+          "type": "h2",
+          "text": "Read reviews as supporting notes"
+        },
+        {
+          "type": "p",
+          "text": "Reviews can help identify repeated comments about size, packaging, clarity, delivery, or mismatch with the description. They should not replace label facts."
+        },
+        {
+          "type": "p",
+          "text": "FTC review guidance treats fake or misleading reviews as a real issue. A practical note sheet can record review themes without treating one review or star average as proof."
+        },
+        {
+          "type": "h2",
+          "text": "Copy delivery and return terms"
+        },
+        {
+          "type": "p",
+          "text": "Delivery, return, and refund terms belong in their own fields. Copy the time window, return shipping language, restocking fee if shown, support route, and any stated limit."
+        },
+        {
+          "type": "p",
+          "text": "If terms are not visible, write that they are not shown on the page you reviewed."
+        },
+        {
+          "type": "h2",
+          "text": "Leave unanswered questions visible"
+        },
+        {
+          "type": "p",
+          "text": "A product page note can end with questions: full label not visible, caffeine amount not shown, return terms unclear, reviews mention size mismatch, or total cost unclear."
+        },
+        {
+          "type": "p",
+          "text": "If a question involves medication use, pregnancy, breastfeeding, allergies, surgery, a medical condition, or a personal nutrition plan, keep the question outside the product page note and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Product page facts are easier to read when descriptions, label photos, total cost, reviews, terms, and open questions stay in separate fields. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "compare-labels-dietary-preference",
       "date": "2026-09-02",
       "category": "Comparison Skills",
@@ -12026,7 +12164,7 @@ window.DSG_CONTENT = {
       "date": "2026-09-03",
       "title": "How to Read a Product Page Without Looking for a Winner",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 47,
