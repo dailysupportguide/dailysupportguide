@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "compare-wellness-categories",
+      "date": "2026-09-04",
+      "category": "Comparison Skills",
+      "title": "Compare Wellness Categories Without Making Health Claims",
+      "summary": "Learn how to compare wellness categories by naming the category, copying claims, checking label facts, and avoiding health-result conclusions.",
+      "seo": {
+        "seoTitle": "Compare Wellness Categories Without Making Health Claims | Daily Support Guide",
+        "metaDescription": "Learn how to compare wellness categories by copying category wording, claim language, label facts, and open questions without health claims.",
+        "primaryKeyword": "compare wellness categories",
+        "secondaryKeywords": [
+          "compare wellness products",
+          "wellness category comparison",
+          "wellness claims label"
+        ],
+        "searchIntent": "informational",
+        "h1": "Compare Wellness Categories Without Making Health Claims",
+        "h2": [
+          "Name the category before comparing",
+          "Copy claim wording exactly",
+          "Keep label facts separate",
+          "Watch for health-result language",
+          "Compare the information shown, not the promise",
+          "Use open questions instead of conclusions",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How can I compare wellness categories safely?",
+          "Why should wellness claim wording stay separate?",
+          "When should wellness category questions stay unresolved?"
+        ],
+        "internalLinks": [
+          "read-marketing-claims-on-labels",
+          "natural-clean-whole-food-claims",
+          "product-comparison-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Wellness categories often overlap. Two pages may use similar words while talking about different forms, serving bases, claims, or label panels. A clean comparison starts by naming what is being compared."
+        },
+        {
+          "type": "p",
+          "text": "This article explains how to compare wellness categories without making health claims. It does not recommend products, categories, ingredients, or health actions."
+        },
+        {
+          "type": "h2",
+          "text": "Name the category before comparing"
+        },
+        {
+          "type": "p",
+          "text": "Write the category exactly as the page or label presents it. A category may be a form, use occasion, label theme, claim type, or ingredient group."
+        },
+        {
+          "type": "p",
+          "text": "If two items are not really in the same category, write the difference first. A comparison should not force unlike things into one score."
+        },
+        {
+          "type": "h2",
+          "text": "Copy claim wording exactly"
+        },
+        {
+          "type": "p",
+          "text": "Marketing and label claims should be copied word for word. Include qualifiers, asterisks, and nearby disclaimers when they appear."
+        },
+        {
+          "type": "p",
+          "text": "FDA label-claims guidance explains that food and dietary supplement labels can include categories such as health claims, nutrient content claims, and structure/function claims. Those categories should not be blended together in notes."
+        },
+        {
+          "type": "h2",
+          "text": "Keep label facts separate"
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields for serving size, servings per container, ingredient list, Supplement Facts or Nutrition Facts, directions, warning language, claim wording, and open questions."
+        },
+        {
+          "type": "p",
+          "text": "This keeps a category name from becoming a product judgment. It also makes missing fields easier to spot."
+        },
+        {
+          "type": "h2",
+          "text": "Watch for health-result language"
+        },
+        {
+          "type": "p",
+          "text": "FTC advertising basics say claims in advertising must be truthful, not deceptive or unfair, and evidence-based. FTC health-products guidance also focuses on claims about safety, effectiveness, or benefits."
+        },
+        {
+          "type": "p",
+          "text": "A reader's comparison note should not add health-result language of its own. Do not write that a category supports, fixes, prevents, treats, improves, or protects a health condition."
+        },
+        {
+          "type": "h2",
+          "text": "Compare the information shown, not the promise"
+        },
+        {
+          "type": "p",
+          "text": "Two categories can be compared by the information shown: panel visibility, serving basis, claim wording, ingredient detail, warnings, terms, and missing fields."
+        },
+        {
+          "type": "p",
+          "text": "Avoid comparing promises. A promise is harder to verify from a page note and can pull the article into recommendation or medical territory."
+        },
+        {
+          "type": "h2",
+          "text": "Use open questions instead of conclusions"
+        },
+        {
+          "type": "p",
+          "text": "If category wording is broad, write a question: claim type unclear, serving basis missing, disclaimer not visible, or ingredient form not shown."
+        },
+        {
+          "type": "p",
+          "text": "If a question depends on a person's medication use, pregnancy, breastfeeding, allergy, surgery, medical condition, or nutrition plan, leave the answer outside the article and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Wellness categories are easier to compare when category names, claim wording, label facts, warning language, and open questions stay separate. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "read-product-page-facts",
       "date": "2026-09-03",
       "category": "Comparison Skills",
@@ -12171,7 +12309,7 @@ window.DSG_CONTENT = {
       "date": "2026-09-04",
       "title": "How to Compare Similar Categories Without Making Health Claims",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 48,
