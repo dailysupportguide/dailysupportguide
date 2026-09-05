@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "neutral-product-notes",
+      "date": "2026-09-05",
+      "category": "Comparison Skills",
+      "title": "Product Notes Template: How to Keep Comparison Notes Useful",
+      "summary": "Learn a product notes template that separates page facts, label details, cost, reviews, terms, and unanswered questions.",
+      "seo": {
+        "seoTitle": "Product Notes Template: How to Keep Comparison Notes Useful | Daily Support Guide",
+        "metaDescription": "Learn a product notes template that separates page facts, label details, cost, reviews, terms, and unanswered questions.",
+        "primaryKeyword": "product notes template",
+        "secondaryKeywords": [
+          "product comparison notes",
+          "product note sheet",
+          "compare product facts"
+        ],
+        "searchIntent": "informational",
+        "h1": "Product Notes Template: How to Keep Comparison Notes Useful",
+        "h2": [
+          "Use fixed fields",
+          "Start with source and date",
+          "Keep claims away from facts",
+          "Give cost its own row",
+          "Treat reviews as notes, not proof",
+          "End with unresolved questions",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What belongs in a product notes template?",
+          "Why should product claims and facts stay separate?",
+          "When should product notes stay unresolved?"
+        ],
+        "internalLinks": [
+          "product-comparison-notes",
+          "read-product-page-facts",
+          "compare-similar-products-framework"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A useful product notes template is plain on purpose. It gives every item the same fields, so a bright claim, low price, or dramatic review does not take over the comparison."
+        },
+        {
+          "type": "p",
+          "text": "This article explains a product notes template. It does not recommend products, brands, stores, or medical choices."
+        },
+        {
+          "type": "h2",
+          "text": "Use fixed fields"
+        },
+        {
+          "type": "p",
+          "text": "Start with fixed fields: source, date checked, product description, label facts, claim wording, cost, reviews, terms, missing details, and open questions."
+        },
+        {
+          "type": "p",
+          "text": "Fixed fields make the note slower in a useful way. Each page has to answer the same questions, and missing answers stay visible."
+        },
+        {
+          "type": "h2",
+          "text": "Start with source and date"
+        },
+        {
+          "type": "p",
+          "text": "Write where the information came from and when you checked it. Product pages, labels, prices, fees, and return terms can change."
+        },
+        {
+          "type": "p",
+          "text": "A date does not make the note permanent. It simply tells a future reader when the facts were copied."
+        },
+        {
+          "type": "h2",
+          "text": "Keep claims away from facts"
+        },
+        {
+          "type": "p",
+          "text": "A claim is wording to copy. A label fact is a field to check. A product description is another field. Do not merge them into one sentence that sounds more certain than the source."
+        },
+        {
+          "type": "p",
+          "text": "If a claim has an asterisk or qualifier, keep it in the claim field. If the panel is not visible, write that the panel is not visible."
+        },
+        {
+          "type": "h2",
+          "text": "Give cost its own row"
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance says total cost can include shipping, handling, delivery, taxes, and other fees. NIST unit pricing guidance explains that unit price can help compare package sizes."
+        },
+        {
+          "type": "p",
+          "text": "Cost belongs in its own row because it answers a different question from serving size, ingredient wording, or warnings."
+        },
+        {
+          "type": "h2",
+          "text": "Treat reviews as notes, not proof"
+        },
+        {
+          "type": "p",
+          "text": "Reviews can show patterns, but they can also be incomplete or misleading. FTC materials identify fake and misleading reviews as a consumer protection concern."
+        },
+        {
+          "type": "p",
+          "text": "Write review themes such as delivery complaints, unclear sizing, packaging issues, or repeated praise. Do not treat reviews as proof that a product is better or safer."
+        },
+        {
+          "type": "h2",
+          "text": "End with unresolved questions"
+        },
+        {
+          "type": "p",
+          "text": "Every note can end with unanswered questions: label photo cropped, serving basis unclear, return terms missing, reviews conflict, or total cost not shown until checkout."
+        },
+        {
+          "type": "p",
+          "text": "If a question is personal because of allergies, medication use, pregnancy, breastfeeding, surgery, a medical condition, or a nutrition plan, leave it unanswered in the template and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "A product notes template is most useful when it separates source, date, descriptions, claims, label facts, cost, reviews, terms, and open questions. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "compare-wellness-categories",
       "date": "2026-09-04",
       "category": "Comparison Skills",
@@ -12316,7 +12454,7 @@ window.DSG_CONTENT = {
       "date": "2026-09-05",
       "title": "How to Keep Product Notes Neutral and Useful",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 49,
