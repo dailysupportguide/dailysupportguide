@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "revisit-routine-after-two-weeks",
+      "date": "2026-09-06",
+      "category": "Routine Guides",
+      "title": "Routine Review After Two Weeks: What to Keep, Change, or Drop",
+      "summary": "Learn how to review a routine after two weeks by checking what happened, what got skipped, what felt too large, and what questions remain.",
+      "seo": {
+        "seoTitle": "Routine Review After Two Weeks: What to Keep, Change, or Drop | Daily Support Guide",
+        "metaDescription": "Learn how to review a routine after two weeks by checking what happened, what got skipped, what felt too large, and what remains unclear.",
+        "primaryKeyword": "routine review",
+        "secondaryKeywords": [
+          "two week routine review",
+          "review a habit",
+          "routine check-in"
+        ],
+        "searchIntent": "informational",
+        "h1": "Routine Review After Two Weeks: What to Keep, Change, or Drop",
+        "h2": [
+          "Start with what actually happened",
+          "Look for skipped steps",
+          "Shrink steps that were too large",
+          "Keep useful notes, not perfect records",
+          "Separate routine fit from health questions",
+          "Choose one small adjustment",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "How should I do a routine review after two weeks?",
+          "What should I change after a routine review?",
+          "When should routine questions stay outside a general article?"
+        ],
+        "internalLinks": [
+          "weekly-label-review-routine",
+          "screen-break-routine",
+          "ten-minute-label-review"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A routine review after two weeks should feel like a check-in, not a verdict. The question is simple: what was easy enough to repeat, what kept getting skipped, and what needs to be smaller?"
+        },
+        {
+          "type": "p",
+          "text": "This article explains a general review process. It does not recommend products, diets, supplements, treatments, or medical routines."
+        },
+        {
+          "type": "h2",
+          "text": "Start with what actually happened"
+        },
+        {
+          "type": "p",
+          "text": "Write what happened in ordinary terms. Did the routine happen twice, once, or not at all? Did it happen at the planned time or somewhere else in the day?"
+        },
+        {
+          "type": "p",
+          "text": "Avoid turning the review into a character judgment. The facts are enough: done, skipped, moved, shortened, or unclear."
+        },
+        {
+          "type": "h2",
+          "text": "Look for skipped steps"
+        },
+        {
+          "type": "p",
+          "text": "Skipped steps are useful information. A step may have been too long, too vague, too dependent on another person, or too easy to forget."
+        },
+        {
+          "type": "p",
+          "text": "Write the reason if you know it. If you do not know, write \"reason unclear\" and keep moving."
+        },
+        {
+          "type": "h2",
+          "text": "Shrink steps that were too large"
+        },
+        {
+          "type": "p",
+          "text": "A routine that repeatedly fails may not need more pressure. It may need a smaller step."
+        },
+        {
+          "type": "p",
+          "text": "For a label-reading routine, that might mean reviewing one label instead of three, copying only serving size and open questions, or setting aside product pages for another day."
+        },
+        {
+          "type": "h2",
+          "text": "Keep useful notes, not perfect records"
+        },
+        {
+          "type": "p",
+          "text": "A good two-week note can be short: what happened, what got skipped, what was too large, what was useful, and what question remains."
+        },
+        {
+          "type": "p",
+          "text": "If a routine includes labels, FDA Nutrition Facts guidance can help keep serving size and percent Daily Value tied to the label. If it includes product pages, FTC online shopping guidance points to descriptions, fine print, total cost, and terms."
+        },
+        {
+          "type": "h2",
+          "text": "Separate routine fit from health questions"
+        },
+        {
+          "type": "p",
+          "text": "A routine can feel easier or harder without answering personal health questions. Keep those topics separate."
+        },
+        {
+          "type": "p",
+          "text": "If a question involves sleep, medication use, pregnancy, breastfeeding, allergies, surgery, a medical condition, eating disorder history, or a nutrition plan, follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "Choose one small adjustment"
+        },
+        {
+          "type": "p",
+          "text": "End the review with one small adjustment for the next two weeks. Keep one step, change one step, or drop one step."
+        },
+        {
+          "type": "p",
+          "text": "Do not redesign the whole routine at once. A smaller review is easier to repeat and easier to understand later."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "A routine review after two weeks works best when it records what happened, spots skipped steps, shrinks what was too large, and chooses one small adjustment. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "neutral-product-notes",
       "date": "2026-09-05",
       "category": "Comparison Skills",
@@ -12461,7 +12599,7 @@ window.DSG_CONTENT = {
       "date": "2026-09-06",
       "title": "How to Revisit a Routine After Two Weeks",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 50,
