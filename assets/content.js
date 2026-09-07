@@ -1,6 +1,144 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "ten-minute-label-review",
+      "date": "2026-09-07",
+      "category": "Routine Guides",
+      "title": "Label Reading Checklist: A 10-Minute Review for Everyday Confidence",
+      "summary": "Use a 10-minute label reading checklist to review serving size, panel facts, claims, ingredients, cost, terms, and open questions.",
+      "seo": {
+        "seoTitle": "Label Reading Checklist: A 10-Minute Review for Everyday Confidence | Daily Support Guide",
+        "metaDescription": "Use a 10-minute label reading checklist to review serving size, panel facts, claims, ingredients, cost, terms, and open questions.",
+        "primaryKeyword": "label reading checklist",
+        "secondaryKeywords": [
+          "10 minute label review",
+          "everyday label checklist",
+          "product label review"
+        ],
+        "searchIntent": "informational",
+        "h1": "Label Reading Checklist: A 10-Minute Review for Everyday Confidence",
+        "h2": [
+          "Minute 1: choose the label",
+          "Minutes 2 and 3: copy serving details",
+          "Minutes 4 and 5: read panel facts",
+          "Minutes 6 and 7: copy claims and ingredients",
+          "Minutes 8 and 9: check cost, terms, and reviews",
+          "Minute 10: write open questions",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What belongs in a label reading checklist?",
+          "How can I review a label in 10 minutes?",
+          "When should a checklist question stay unresolved?"
+        ],
+        "internalLinks": [
+          "serving-size-vs-servings-per-container",
+          "read-product-page-facts",
+          "neutral-product-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand names",
+          "No affiliate links",
+          "No product recommendations",
+          "No diagnosis, treatment, dosage, cure, or prevention claims"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A label reading checklist does not need to answer everything. In 10 minutes, the goal is to copy the most useful facts and leave the rest as open questions."
+        },
+        {
+          "type": "p",
+          "text": "This article explains a short review routine. It does not recommend products, diets, supplements, medications, or medical choices."
+        },
+        {
+          "type": "h2",
+          "text": "Minute 1: choose the label"
+        },
+        {
+          "type": "p",
+          "text": "Pick one label or product page. Do not start with a whole category. One item is enough for a useful 10-minute review."
+        },
+        {
+          "type": "p",
+          "text": "Write the date checked and where the information came from. That helps later if the page, price, or label photo changes."
+        },
+        {
+          "type": "h2",
+          "text": "Minutes 2 and 3: copy serving details"
+        },
+        {
+          "type": "p",
+          "text": "Copy serving size, servings per container, and package amount if shown. These fields set the base for many other label details."
+        },
+        {
+          "type": "p",
+          "text": "FDA Nutrition Facts guidance explains that percent Daily Value and listed nutrient information are tied to one serving. Keep serving details near every number you copy."
+        },
+        {
+          "type": "h2",
+          "text": "Minutes 4 and 5: read panel facts"
+        },
+        {
+          "type": "p",
+          "text": "Choose a few panel facts that matter for the comparison: calories, sodium, total sugars, added sugars, protein, fiber, a dietary ingredient amount, or another listed line."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn those numbers into instructions. The checklist is for reading facts, not setting personal rules."
+        },
+        {
+          "type": "h2",
+          "text": "Minutes 6 and 7: copy claims and ingredients"
+        },
+        {
+          "type": "p",
+          "text": "Copy front claims and ingredient wording separately. Include qualifiers, asterisks, and nearby disclaimers when visible."
+        },
+        {
+          "type": "p",
+          "text": "If the ingredient list or panel is not fully visible, write that it is not fully visible. Do not fill in missing details from memory."
+        },
+        {
+          "type": "h2",
+          "text": "Minutes 8 and 9: check cost, terms, and reviews"
+        },
+        {
+          "type": "p",
+          "text": "If the review includes a product page, copy total cost fields, delivery terms, return terms, refund language, and review themes separately."
+        },
+        {
+          "type": "p",
+          "text": "FTC online shopping guidance points readers to product descriptions, fine print, total cost, and terms. FTC review guidance also makes it sensible to treat reviews as notes, not proof."
+        },
+        {
+          "type": "h2",
+          "text": "Minute 10: write open questions"
+        },
+        {
+          "type": "p",
+          "text": "End with questions that remain: serving basis unclear, total cost not shown, return terms hard to find, claim qualifier missing, or review themes conflict."
+        },
+        {
+          "type": "p",
+          "text": "If a question involves medication use, pregnancy, breastfeeding, allergies, surgery, medical conditions, eating disorder history, or a nutrition plan, leave it outside the checklist and follow licensed professional guidance."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "A 10-minute label reading checklist is useful when it captures serving details, panel facts, claims, ingredients, cost, terms, reviews, and open questions without trying to decide everything. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "revisit-routine-after-two-weeks",
       "date": "2026-09-06",
       "category": "Routine Guides",
@@ -12606,7 +12744,7 @@ window.DSG_CONTENT = {
       "date": "2026-09-07",
       "title": "A 10-Minute Review for Everyday Label Confidence",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     }
   ]
 };
