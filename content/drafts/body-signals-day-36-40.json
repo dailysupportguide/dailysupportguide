@@ -1,0 +1,601 @@
+[
+  {
+    "day": 36,
+    "date": "2026-09-17",
+    "slug": "night-snacking-unsteady-meals",
+    "title": "Night Snacks That Will Not Quit May Start With an Unsteady Day",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A gentle daytime-rhythm record for frequent night snacking without weight-loss framing or shame.",
+    "seo": {
+      "seoTitle": "Night Snacking and Unsteady Meals | Daily Support Guide",
+      "metaDescription": "Track daytime meals, long gaps, stress, sleep, and evening routine when night snacks keep showing up, without shame.",
+      "primaryKeyword": "night snacking unsteady meals",
+      "secondaryKeywords": [
+        "night snacks meal rhythm",
+        "evening snacks food notes",
+        "unsteady meals night snacking"
+      ],
+      "searchIntent": "informational",
+      "h1": "Night Snacks That Will Not Quit May Start With an Unsteady Day",
+      "h2": [
+        "Look earlier than the kitchen",
+        "Write the snack without a scolding tone",
+        "Add the evening setting",
+        "Know when the pattern needs support"
+      ],
+      "faq": [
+        "Can daytime meals be part of night-snacking notes?",
+        "Does night snacking mean something is wrong?",
+        "When should night eating patterns get support?"
+      ],
+      "internalLinks": [
+        "stress-eating-too-little-randomly",
+        "hungry-soon-after-eating-meal-balance",
+        "nutrition-basics-under-pressure"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No weight-loss framing",
+        "No eating-disorder advice",
+        "No shame language",
+        "No product route",
+        "Professional boundary included"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad meal-pattern language.",
+      "MedlinePlus eating disorder information is used only for safety-boundary caution around distressing or unsafe eating patterns.",
+      "Mayo Clinic stress-eating material is used only as general stress-context support, not weight-loss guidance."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://medlineplus.gov/eatingdisorders.html",
+      "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Night snacks can feel like an evening problem. Sometimes the better note starts at breakfast."
+      },
+      {
+        "type": "h2",
+        "text": "Look earlier than the kitchen"
+      },
+      {
+        "type": "p",
+        "text": "Write the whole day: first meal, lunch, dinner, long gaps, rushed meals, fluids, stress, and whether food kept getting delayed."
+      },
+      {
+        "type": "h2",
+        "text": "Write the snack without a scolding tone"
+      },
+      {
+        "type": "p",
+        "text": "Use plain words: snack at 10, hungry after dinner, grazing while tired, eating while working. Leave good and bad off the page."
+      },
+      {
+        "type": "p",
+        "text": "A snack note is more useful when it sounds like a record, not a confession."
+      },
+      {
+        "type": "h2",
+        "text": "Add the evening setting"
+      },
+      {
+        "type": "p",
+        "text": "Screens, unfinished work, short sleep, family noise, and stress belong beside food. The evening often has more than one moving part."
+      },
+      {
+        "type": "h2",
+        "text": "Know when the pattern needs support"
+      },
+      {
+        "type": "p",
+        "text": "If eating feels secretive, distressing, unsafe, or hard to manage, talk with a licensed professional or trusted local support."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 36 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 37,
+    "date": "2026-09-17",
+    "slug": "salty-takeout-next-day-notes",
+    "title": "Too Much Salty Takeout? Notice What Changes the Next Day",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A compact sodium-aware next-day note for takeout-heavy meals without medical-number claims or named-restaurant examples.",
+    "seo": {
+      "seoTitle": "Salty Takeout and Next-Day Notes | Daily Support Guide",
+      "metaDescription": "Use simple next-day notes after salty takeout: fluids, meals, routine, and how the day felt, without medical claims.",
+      "primaryKeyword": "salty takeout next day",
+      "secondaryKeywords": [
+        "takeout next day notes",
+        "salty meals routine record",
+        "sodium aware food notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "Too Much Salty Takeout? Notice What Changes the Next Day",
+      "h2": [
+        "Keep it to the next day",
+        "Write what changed",
+        "Skip the lecture"
+      ],
+      "faq": [
+        "What can I note after salty takeout?",
+        "Should salty takeout notes mention medical numbers?",
+        "How can I track takeout without guilt?"
+      ],
+      "internalLinks": [
+        "greasy-takeout-skin",
+        "takeout-nutrition-gaps",
+        "delivery-meals-nutrition-gaps"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No blood-pressure claim",
+        "No sodium limit advice",
+        "No named restaurant examples",
+        "No guilt framing",
+        "General routine record only"
+      ]
+    },
+    "sourceNotes": [
+      "FDA sodium education supports general sodium-aware label and food-context language.",
+      "USDA MyPlate supports broad meal-pattern language.",
+      "MedlinePlus nutrition information is used only for general food-context support."
+    ],
+    "sourceUrls": [
+      "https://www.fda.gov/food/nutrition-education-resources-materials/sodium-your-diet",
+      "https://www.myplate.gov/",
+      "https://medlineplus.gov/nutrition.html"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Salty takeout happened. Fine. Write the next day clearly and move on."
+      },
+      {
+        "type": "h2",
+        "text": "Keep it to the next day"
+      },
+      {
+        "type": "p",
+        "text": "Note fluids, meals, movement, sleep, and how the day felt. Do not turn one dinner into a health forecast."
+      },
+      {
+        "type": "h2",
+        "text": "Write what changed"
+      },
+      {
+        "type": "p",
+        "text": "More thirst. Different morning feel. Less appetite. More snacky. No change at all. Short phrases are enough."
+      },
+      {
+        "type": "p",
+        "text": "If you read labels later, keep it general: some meals are saltier than others. No need for a named-food list."
+      },
+      {
+        "type": "h2",
+        "text": "Skip the lecture"
+      },
+      {
+        "type": "p",
+        "text": "The record is not there to scold you. It is there to show whether takeout-heavy weeks have a rhythm worth noticing."
+      },
+      {
+        "type": "p",
+        "text": "If you have personal medical guidance about sodium or fluids, follow that guidance from your licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 37 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 38,
+    "date": "2026-09-17",
+    "slug": "vegetables-keep-falling-off-plate",
+    "title": "When Vegetables Keep Falling Off the Plate",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A concrete low-vegetable-frequency record that avoids symptom mapping and keeps the next-step language modest.",
+    "seo": {
+      "seoTitle": "When Vegetables Keep Falling Off the Plate | Daily Support Guide",
+      "metaDescription": "Track how often vegetables show up across the week without linking low vegetable intake to symptoms or deficiencies.",
+      "primaryKeyword": "not eating enough vegetables",
+      "secondaryKeywords": [
+        "vegetables falling off plate",
+        "vegetable frequency food notes",
+        "low vegetable week record"
+      ],
+      "searchIntent": "informational",
+      "h1": "When Vegetables Keep Falling Off the Plate",
+      "h2": [
+        "Count appearances, not perfection",
+        "Find the missing meal slot",
+        "Make the note usable"
+      ],
+      "faq": [
+        "How can I notice low vegetable frequency?",
+        "Does not eating vegetables prove a health issue?",
+        "What is a simple vegetable note?"
+      ],
+      "internalLinks": [
+        "takeout-nutrition-gaps",
+        "nutrition-basics-under-pressure",
+        "delivery-meals-nutrition-gaps"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No symptom mapping",
+        "No moralizing",
+        "No product route",
+        "No serving prescription",
+        "General food-frequency notes only"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad vegetable and meal-pattern language.",
+      "MedlinePlus nutrition information is used only for general food-pattern support.",
+      "British Nutrition Foundation resources support food-group language without symptom mapping."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/eat-healthy/vegetables",
+      "https://medlineplus.gov/nutrition.html",
+      "https://www.nutrition.org.uk/healthy-sustainable-diets/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Vegetables usually do not vanish with drama. They just stop appearing."
+      },
+      {
+        "type": "h2",
+        "text": "Count appearances, not perfection"
+      },
+      {
+        "type": "p",
+        "text": "Look back over three days. Breakfast, lunch, dinner, snacks. Put a mark wherever vegetables showed up."
+      },
+      {
+        "type": "p",
+        "text": "Do not turn the count into a body-signal explanation. Low frequency is a pattern, not proof of anything."
+      },
+      {
+        "type": "h2",
+        "text": "Find the missing meal slot"
+      },
+      {
+        "type": "p",
+        "text": "Maybe lunch never has them. Maybe dinner used to. Maybe takeout weeks crowd them out. That is the useful part."
+      },
+      {
+        "type": "h2",
+        "text": "Make the note usable"
+      },
+      {
+        "type": "p",
+        "text": "Write simple categories: raw, cooked, frozen, canned, leftover, none. The easier the columns, the more likely you are to use them."
+      },
+      {
+        "type": "p",
+        "text": "If you follow an individualized eating plan, keep using the plan from your licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 38 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 39,
+    "date": "2026-09-17",
+    "slug": "protein-frequency-energy-recovery-notes",
+    "title": "Not Enough Protein? Everyday Energy and Recovery May Feel Different",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A source-aware protein-frequency note focused on meal pattern and recovery context without targets, powders, or prescriptions.",
+    "seo": {
+      "seoTitle": "Protein Frequency, Energy, and Recovery Notes | Daily Support Guide",
+      "metaDescription": "Use protein-frequency meal notes for everyday energy and recovery context without targets, powders, or personal prescriptions.",
+      "primaryKeyword": "not enough protein energy recovery",
+      "secondaryKeywords": [
+        "protein frequency meal notes",
+        "energy recovery food rhythm",
+        "protein foods daily record"
+      ],
+      "searchIntent": "informational",
+      "h1": "Not Enough Protein? Everyday Energy and Recovery May Feel Different",
+      "h2": [
+        "Track frequency before amounts",
+        "Use food-source language",
+        "Put recovery in context",
+        "Avoid turning notes into targets"
+      ],
+      "faq": [
+        "Can protein frequency be part of food notes?",
+        "Should this article set protein targets?",
+        "What else belongs beside recovery notes?"
+      ],
+      "internalLinks": [
+        "vegetarian-hair-nails-nutrition",
+        "slow-workout-recovery-nutrition",
+        "hungry-soon-after-eating-meal-balance"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No personalized protein targets",
+        "No powder or product route",
+        "No performance promise",
+        "No nutrient-status claim",
+        "Recovery stays contextual"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad protein-food language.",
+      "MedlinePlus nutrition information supports general food-pattern context.",
+      "British Nutrition Foundation resources support cautious food-group framing."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/eat-healthy/protein-foods",
+      "https://medlineplus.gov/nutrition.html",
+      "https://www.nutrition.org.uk/healthy-sustainable-diets/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Protein notes get messy when they jump straight to numbers. Start with frequency."
+      },
+      {
+        "type": "h2",
+        "text": "Track frequency before amounts"
+      },
+      {
+        "type": "p",
+        "text": "Across the day, mark whether protein foods appeared at breakfast, lunch, dinner, or snacks. Missing is a note, not a verdict."
+      },
+      {
+        "type": "h2",
+        "text": "Use food-source language"
+      },
+      {
+        "type": "p",
+        "text": "Write beans, lentils, eggs, fish, poultry, meat, dairy foods, soy foods, nuts, seeds, or other protein foods that fit your pattern."
+      },
+      {
+        "type": "p",
+        "text": "No powder names. No gram goals. No personal prescription from a general article."
+      },
+      {
+        "type": "h2",
+        "text": "Put recovery in context"
+      },
+      {
+        "type": "p",
+        "text": "A hard workout, poor sleep, skipped lunch, stress, and a new routine can all sit beside protein frequency."
+      },
+      {
+        "type": "h2",
+        "text": "Avoid turning notes into targets"
+      },
+      {
+        "type": "p",
+        "text": "If you need individualized nutrition guidance, use a licensed professional. The note is only there to show the pattern clearly."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 39 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 40,
+    "date": "2026-09-17",
+    "slug": "drinking-water-still-drained-meals",
+    "title": "Drinking Water but Still Feeling Drained? Meals Matter Too",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A structured hydration-plus-meals record that keeps electrolytes as food-context language and avoids product advice.",
+    "seo": {
+      "seoTitle": "Drinking Water but Still Drained? Meals Matter | Daily Support Guide",
+      "metaDescription": "Track water, meals, salty foods, activity, heat, and sleep when you feel drained, without electrolyte product advice.",
+      "primaryKeyword": "drinking water still tired meals",
+      "secondaryKeywords": [
+        "water meals drained notes",
+        "hydration meals routine",
+        "drinking water still low energy"
+      ],
+      "searchIntent": "informational",
+      "h1": "Drinking Water but Still Feeling Drained? Meals Matter Too",
+      "h2": [
+        "Separate water from the whole day",
+        "Add meals and salty foods",
+        "Include heat, activity, and sleep"
+      ],
+      "faq": [
+        "Can meals matter when I am drinking water?",
+        "Should I use electrolyte products from this article?",
+        "What should I track when I feel drained?"
+      ],
+      "internalLinks": [
+        "always-thirsty-hydration-rhythm",
+        "nutrition-basics-under-pressure",
+        "still-tired-after-waking-breakfast"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No electrolyte product advice",
+        "No hydration fix claim",
+        "No medical-cause framing",
+        "No fluid target",
+        "Meals stay routine context"
+      ]
+    },
+    "sourceNotes": [
+      "MedlinePlus hydration information supports general fluid-context language.",
+      "USDA MyPlate supports broad meal-pattern language.",
+      "FDA sodium education supports general salty-food context without product advice."
+    ],
+    "sourceUrls": [
+      "https://medlineplus.gov/ency/article/002471.htm",
+      "https://www.myplate.gov/",
+      "https://www.fda.gov/food/nutrition-education-resources-materials/sodium-your-diet"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Water can be the easiest thing to see. It is not always the only thing worth writing down."
+      },
+      {
+        "type": "h2",
+        "text": "Separate water from the whole day"
+      },
+      {
+        "type": "p",
+        "text": "Make two columns: fluids and meals. Then add sleep, heat, activity, stress, and long gaps without food."
+      },
+      {
+        "type": "p",
+        "text": "Keeping the columns separate helps water stay one part of the day, not the whole day."
+      },
+      {
+        "type": "h2",
+        "text": "Add meals and salty foods"
+      },
+      {
+        "type": "p",
+        "text": "Write whether meals were full, light, skipped, or mostly snacks. Add salty foods only as context, not as a warning label."
+      },
+      {
+        "type": "p",
+        "text": "Electrolytes belong here as a food-and-fluid context word, not a reason to buy anything."
+      },
+      {
+        "type": "h2",
+        "text": "Include heat, activity, and sleep"
+      },
+      {
+        "type": "p",
+        "text": "A hot day, a long walk, a short night, or a stressful shift can change how drained the day feels. Put those lines beside water."
+      },
+      {
+        "type": "p",
+        "text": "If feeling drained is persistent, severe, sudden, or worrying, speak with a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 40 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  }
+]

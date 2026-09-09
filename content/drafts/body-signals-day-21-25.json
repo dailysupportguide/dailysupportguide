@@ -1,0 +1,626 @@
+[
+  {
+    "day": 21,
+    "date": "2026-09-14",
+    "slug": "trouble-sleeping-dinner-rhythm",
+    "title": "Trouble Sleeping? Dinner Rhythm May Be One Piece",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A gentle evening record for dinner timing, heavy meals, caffeine, alcohol, stress, and sleep rhythm without sleep-disorder advice.",
+    "seo": {
+      "seoTitle": "Trouble Sleeping and Dinner Rhythm | Daily Support Guide",
+      "metaDescription": "Track dinner rhythm, caffeine, alcohol, stress, and bedtime notes when sleep feels off, without turning food into sleep advice.",
+      "primaryKeyword": "trouble sleeping dinner habits",
+      "secondaryKeywords": [
+        "dinner rhythm sleep notes",
+        "evening food habits sleep",
+        "sleep routine meal timing"
+      ],
+      "searchIntent": "informational",
+      "h1": "Trouble Sleeping? Dinner Rhythm May Be One Piece",
+      "h2": [
+        "Start with the evening, not the answer",
+        "Write dinner timing gently",
+        "Add caffeine and alcohol as context",
+        "Keep the note quiet"
+      ],
+      "faq": [
+        "Can dinner timing be part of sleep notes?",
+        "Does trouble sleeping mean a food caused it?",
+        "How can I track evening habits without making sleep advice?"
+      ],
+      "internalLinks": [
+        "coffee-stops-helping-day-rhythm",
+        "messy-schedule-nutrition-basics",
+        "stress-fatigue-food-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No sleep-disorder labeling",
+        "No stimulant timing prescription",
+        "No alcohol advice beyond context",
+        "No product or pill direction",
+        "Food remains one routine detail"
+      ]
+    },
+    "sourceNotes": [
+      "Harvard sleep guidance lists caffeine, alcohol, and heavy foods close to bedtime as habits worth considering in sleep hygiene.",
+      "NIH MedlinePlus Magazine discusses sleep habits such as exercise and limiting alcohol as general sleep context.",
+      "USDA MyPlate supports broad food-pattern language for general meal notes."
+    ],
+    "sourceUrls": [
+      "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-13",
+      "https://magazine.medlineplus.gov/article/what-is-insomnia",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Some nights do not settle easily. Before turning the whole night into a problem to solve, write down the evening."
+      },
+      {
+        "type": "p",
+        "text": "Keep the note soft around the edges: what time dinner happened, how heavy it felt, what else was going on, and whether the day was already tense."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the evening, not the answer"
+      },
+      {
+        "type": "p",
+        "text": "Write the few hours before bed in order. Dinner, screens, work, chores, family noise, caffeine, alcohol, and stress can all sit on the same page."
+      },
+      {
+        "type": "h2",
+        "text": "Write dinner timing gently"
+      },
+      {
+        "type": "p",
+        "text": "For dinner, record timing and feel: late, early, rushed, heavy, light, skipped, or unusually snacky. Do not turn one meal into the reason the night went badly."
+      },
+      {
+        "type": "p",
+        "text": "Harvard sleep guidance includes heavy foods close to bedtime among habits people may notice. That makes dinner worth recording, not worth blaming."
+      },
+      {
+        "type": "h2",
+        "text": "Add caffeine and alcohol as context"
+      },
+      {
+        "type": "p",
+        "text": "Caffeine and alcohol belong in the evening record if they were part of the day. Keep them as context; do not make personal timing rules from this article."
+      },
+      {
+        "type": "p",
+        "text": "If sleep trouble is persistent, severe, or affecting daily life, use the notes as background for a licensed professional."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the note quiet"
+      },
+      {
+        "type": "p",
+        "text": "A quiet sleep note says: this was dinner, this was the evening, this was the night. It does not need to solve everything before morning."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 21 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 22,
+    "date": "2026-09-14",
+    "slug": "waking-at-night-whole-day-food-rhythm",
+    "title": "Waking at Night? Look at the Whole Day, Not One Food",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A language-first night-waking article that keeps food as one daytime context and avoids single-cause claims.",
+    "seo": {
+      "seoTitle": "Waking at Night and Food Rhythm | Daily Support Guide",
+      "metaDescription": "Use whole-day food and routine notes for night waking without blaming one food or making sleep-health claims.",
+      "primaryKeyword": "waking at night food rhythm",
+      "secondaryKeywords": [
+        "night waking food notes",
+        "whole day sleep routine record",
+        "food rhythm night waking"
+      ],
+      "searchIntent": "informational",
+      "h1": "Waking at Night? Look at the Whole Day, Not One Food",
+      "h2": [
+        "Do not let one food carry the sentence",
+        "Copy the whole day",
+        "Use careful time words"
+      ],
+      "faq": [
+        "Can food rhythm be part of night-waking notes?",
+        "Does waking at night prove one food is the cause?",
+        "How can I write night-waking notes carefully?"
+      ],
+      "internalLinks": [
+        "trouble-sleeping-dinner-rhythm",
+        "coffee-stops-helping-day-rhythm",
+        "busy-schedule-nutrition-basics"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No single-cause sleep claim",
+        "No body-system shortcut framing",
+        "No sleep plan",
+        "No product route",
+        "Food stays as timing context"
+      ]
+    },
+    "sourceNotes": [
+      "Harvard sleep guidance frames sleep habits as a broad set of evening and daytime behaviors.",
+      "NIH MedlinePlus Magazine describes sleep concerns as broader than one food or one evening habit.",
+      "USDA MyPlate supports broad eating-pattern language for general records."
+    ],
+    "sourceUrls": [
+      "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-13",
+      "https://magazine.medlineplus.gov/article/what-is-insomnia",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Night waking often tempts a neat sentence: one food, one time, one explanation. That sentence is usually too fast."
+      },
+      {
+        "type": "h2",
+        "text": "Do not let one food carry the sentence"
+      },
+      {
+        "type": "p",
+        "text": "A careful note does not say, \"That snack woke me up.\" It says the snack happened, the waking happened, and the timing is worth recording."
+      },
+      {
+        "type": "p",
+        "text": "That difference is small on the page and large in meaning."
+      },
+      {
+        "type": "h2",
+        "text": "Copy the whole day"
+      },
+      {
+        "type": "p",
+        "text": "Start with wake time, caffeine, meal timing, late work, exercise, stress, alcohol, naps, dinner, and bedtime. Food is one line in that record."
+      },
+      {
+        "type": "p",
+        "text": "If the day had skipped meals or a very late dinner, write that. If it did not, leave the food line ordinary."
+      },
+      {
+        "type": "h2",
+        "text": "Use careful time words"
+      },
+      {
+        "type": "p",
+        "text": "Words like \"before,\" \"after,\" and \"around\" are safer than words like \"caused.\" They keep the record factual."
+      },
+      {
+        "type": "p",
+        "text": "If waking at night becomes frequent, distressing, or hard to manage, the record can help you speak with a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 22 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 23,
+    "date": "2026-09-14",
+    "slug": "mood-swings-steady-meals",
+    "title": "Mood Swings and the Quiet Role of Steady Meals",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A gentle steady-meals record for mood changes that avoids mental-health care claims and keeps support boundaries clear.",
+    "seo": {
+      "seoTitle": "Mood Swings and Steady Meals | Daily Support Guide",
+      "metaDescription": "Track mood swings with steady-meal and routine notes without turning food into personal care advice.",
+      "primaryKeyword": "mood swings steady meals",
+      "secondaryKeywords": [
+        "steady meals mood notes",
+        "food rhythm mood changes",
+        "meal consistency mood record"
+      ],
+      "searchIntent": "informational",
+      "h1": "Mood Swings and the Quiet Role of Steady Meals",
+      "h2": [
+        "Use a small daily line",
+        "Write meals as steadiness, not control",
+        "Do not make food responsible for mood",
+        "Know when the note is not enough"
+      ],
+      "faq": [
+        "Can steady meals be part of mood notes?",
+        "Do mood swings mean food is the cause?",
+        "When should mood changes be discussed with a professional?"
+      ],
+      "internalLinks": [
+        "stress-fatigue-food-rhythm",
+        "messy-schedule-nutrition-basics",
+        "trouble-sleeping-dinner-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No mental-health care claim",
+        "No mood-control promise",
+        "No condition-label framing",
+        "No product route",
+        "Professional support boundary included"
+      ]
+    },
+    "sourceNotes": [
+      "The British Nutrition Foundation discusses food and mood as a two-way relationship while noting that mental health can also influence eating habits.",
+      "MedlinePlus eating disorder information is used only to support care-boundary caution around distressing or unsafe eating patterns.",
+      "USDA MyPlate supports broad food-pattern language for ordinary meal notes."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.org.uk/nutrition-for/food-and-the-brain/",
+      "https://medlineplus.gov/eatingdisorders.html",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Mood can shift for reasons a food record cannot see. Still, a small meal-rhythm note can keep an ordinary day from disappearing."
+      },
+      {
+        "type": "p",
+        "text": "This is not a mood plan. It is a quiet line in the day."
+      },
+      {
+        "type": "h2",
+        "text": "Use a small daily line"
+      },
+      {
+        "type": "p",
+        "text": "Write the basics once: meals, fluids, sleep, stress, movement, social load, and anything unusual. Keep it boring enough to repeat."
+      },
+      {
+        "type": "h2",
+        "text": "Write meals as steadiness, not control"
+      },
+      {
+        "type": "p",
+        "text": "For meals, note whether the day had breakfast, lunch, dinner, long gaps, or mostly snacks. Steady does not mean perfect."
+      },
+      {
+        "type": "p",
+        "text": "The British Nutrition Foundation frames food and mood as connected in both directions. That two-way idea is a useful guardrail."
+      },
+      {
+        "type": "h2",
+        "text": "Do not make food responsible for mood"
+      },
+      {
+        "type": "p",
+        "text": "Avoid sentences that give food the whole job. A better note is: \"Meals were scattered on the same day my mood felt jumpy.\""
+      },
+      {
+        "type": "h2",
+        "text": "Know when the note is not enough"
+      },
+      {
+        "type": "p",
+        "text": "If mood changes are intense, persistent, frightening, or tied to feeling unsafe, reach out to a licensed professional or trusted local support."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 23 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 24,
+    "date": "2026-09-14",
+    "slug": "stress-eating-too-little-randomly",
+    "title": "Under Stress, Eating Too Little or Too Randomly Can Sneak In",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A cautious stress-week eating record that notices skipped or random meals without giving eating-disorder advice.",
+    "seo": {
+      "seoTitle": "Stress Eating Too Little or Randomly | Daily Support Guide",
+      "metaDescription": "Use a careful stress-week food record for skipped or random meals without guilt or personal care advice.",
+      "primaryKeyword": "stress eating too little randomly",
+      "secondaryKeywords": [
+        "stress week eating pattern",
+        "random meals under stress",
+        "eating too little stress notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "Under Stress, Eating Too Little or Too Randomly Can Sneak In",
+      "h2": [
+        "Name the stress week plainly",
+        "Write what was missed",
+        "Leave shame out of the record",
+        "Use support when eating feels unsafe"
+      ],
+      "faq": [
+        "How can I track eating patterns under stress?",
+        "Does eating randomly under stress mean something is wrong?",
+        "When should stress eating patterns get support?"
+      ],
+      "internalLinks": [
+        "stress-fatigue-food-rhythm",
+        "busy-schedule-nutrition-basics",
+        "mood-swings-steady-meals"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No eating-disorder guidance",
+        "No guilt framing",
+        "No weight-loss angle",
+        "No condition-label framing",
+        "Support boundary included"
+      ]
+    },
+    "sourceNotes": [
+      "MedlinePlus eating disorder information is used only to support caution around unsafe, distressing, or persistent eating patterns.",
+      "Mayo Clinic discusses emotional eating in a stress context, while this article avoids weight-loss framing and plans.",
+      "USDA MyPlate supports broad meal-pattern language."
+    ],
+    "sourceUrls": [
+      "https://medlineplus.gov/eatingdisorders.html",
+      "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Stress can make food pattern messy in quiet ways. A missed lunch here, a late snack there, a day that never quite becomes a day."
+      },
+      {
+        "type": "h2",
+        "text": "Name the stress week plainly"
+      },
+      {
+        "type": "p",
+        "text": "Write the stressor only as much as needed: deadline week, caregiving week, travel week, conflict week, exam week. The food note does not need the whole story."
+      },
+      {
+        "type": "h2",
+        "text": "Write what was missed"
+      },
+      {
+        "type": "p",
+        "text": "Record skipped meals, long gaps, repeated snack meals, low fluid, fewer sit-down meals, or eating much later than usual."
+      },
+      {
+        "type": "p",
+        "text": "Use plain verbs. Missed. Delayed. Rushed. Repeated. Those words are cleaner than blame."
+      },
+      {
+        "type": "h2",
+        "text": "Leave shame out of the record"
+      },
+      {
+        "type": "p",
+        "text": "Do not write the note as a character review. Stress-week eating is a pattern to notice, not a verdict on discipline."
+      },
+      {
+        "type": "p",
+        "text": "If eating feels scary, hard to control, secretive, physically unsafe, or stuck in a distressing pattern, bring that to a licensed professional or trusted local support."
+      },
+      {
+        "type": "h2",
+        "text": "Use support when eating feels unsafe"
+      },
+      {
+        "type": "p",
+        "text": "The record can help name what has been happening. It should not become a self-managed care plan."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 24 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 25,
+    "date": "2026-09-14",
+    "slug": "losing-focus-water-real-meals",
+    "title": "Losing Focus? Start With Water and Real Meals",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A short focus-day checklist for water, meals, sleep, screens, stress, and timing without cognitive or condition-label claims.",
+    "seo": {
+      "seoTitle": "Losing Focus, Water, and Real Meals | Daily Support Guide",
+      "metaDescription": "Use a short focus-day checklist for water, real meals, sleep, stress, and screens without cognitive claims or condition-label framing.",
+      "primaryKeyword": "losing focus hydration meals",
+      "secondaryKeywords": [
+        "focus water meal notes",
+        "losing focus food rhythm",
+        "hydration meals focus checklist"
+      ],
+      "searchIntent": "informational",
+      "h1": "Losing Focus? Start With Water and Real Meals",
+      "h2": [
+        "Check the obvious first",
+        "Define a real meal simply",
+        "Keep the focus note honest"
+      ],
+      "faq": [
+        "Can water and meals be part of focus notes?",
+        "Does losing focus mean food is the answer?",
+        "What should I write in a focus-day checklist?"
+      ],
+      "internalLinks": [
+        "drinking-water-still-drained-meals",
+        "messy-schedule-nutrition-basics",
+        "coffee-stops-helping-day-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No cognitive-performance promise",
+        "No attention-condition labeling",
+        "No stimulant advice",
+        "No product route",
+        "Checklist stays routine-based"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad meal-pattern language for ordinary food records.",
+      "Harvard sleep guidance supports noting caffeine, alcohol, and sleep habits as context around daytime function.",
+      "General health sources are used only as boundary support; this article avoids attention-condition screening or labeling."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-13",
+      "https://medlineplus.gov/ency/article/002393.htm"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Focus off? Do not turn the day into a case file. Check the boring stuff first."
+      },
+      {
+        "type": "h2",
+        "text": "Check the obvious first"
+      },
+      {
+        "type": "p",
+        "text": "Water. Real meals. Sleep. Screens. Caffeine. Noise. Stress. Long gaps without a break."
+      },
+      {
+        "type": "p",
+        "text": "Put a check beside what actually happened. Leave the condition labels alone."
+      },
+      {
+        "type": "h2",
+        "text": "Define a real meal simply"
+      },
+      {
+        "type": "p",
+        "text": "A real meal does not need to be fancy. It has enough structure to feel like a meal, not just grazing through the day."
+      },
+      {
+        "type": "p",
+        "text": "Use broad food roles: something filling, something colorful when available, a drink, and enough time to notice you ate."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the focus note honest"
+      },
+      {
+        "type": "p",
+        "text": "If focus was poor and the day had no lunch, low water, short sleep, and constant interruptions, write that. Do not promise that fixing one line fixes the focus."
+      },
+      {
+        "type": "p",
+        "text": "If focus problems are persistent, severe, or interfering with daily life, the note can support a professional conversation."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 25 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  }
+]

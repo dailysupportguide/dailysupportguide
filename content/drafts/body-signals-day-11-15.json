@@ -1,0 +1,639 @@
+[
+  {
+    "day": 11,
+    "date": "2026-09-12",
+    "slug": "dry-looking-skin-food-habits",
+    "title": "Dry-Looking Skin? Food Habits Are Worth Checking Too",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "An ordered routine record for dry-looking skin that keeps meals, fluids, weather, bathing habits, and skin care context separate.",
+    "seo": {
+      "seoTitle": "Dry-Looking Skin? Food Habits Are Worth Checking Too | Daily Support Guide",
+      "metaDescription": "Dry-looking skin can be tracked with food habits, fluids, weather, bathing habits, and routine notes without turning the record into medical advice.",
+      "primaryKeyword": "dry looking skin food habits",
+      "secondaryKeywords": [
+        "dry skin food habits",
+        "skin hydration routine notes",
+        "food pattern dry looking skin"
+      ],
+      "searchIntent": "informational",
+      "h1": "Dry-Looking Skin? Food Habits Are Worth Checking Too",
+      "h2": [
+        "Build the record in columns",
+        "Put food beside the other facts",
+        "What to look for after a few days"
+      ],
+      "faq": [
+        "What food habits are worth checking when skin looks dry?",
+        "Does dry-looking skin mean a nutrition problem?",
+        "How can I keep dry skin notes neutral?"
+      ],
+      "internalLinks": [
+        "drinking-water-still-drained-meals",
+        "vegetables-keep-falling-off-plate",
+        "dull-looking-skin-eating-patterns"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No skin medical conclusion",
+        "No treatment guidance",
+        "No cosmetic product recommendation",
+        "No deficiency claim",
+        "No supplement recommendation"
+      ]
+    },
+    "sourceNotes": [
+      "The American Academy of Dermatology notes that dry skin can have many causes, including environmental and skin-care factors.",
+      "USDA MyPlate presents food groups as parts of an overall healthy eating pattern.",
+      "MedlinePlus nutrition information frames diet as part of general health, not as a stand-alone explanation for a body signal."
+    ],
+    "sourceUrls": [
+      "https://www.aad.org/public/diseases/a-z/dry-skin-causes",
+      "https://www.myplate.gov/",
+      "https://medlineplus.gov/nutrition.html"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Dry-looking skin is easy to turn into a product question. Before that, the ordinary week deserves a line or two."
+      },
+      {
+        "type": "p",
+        "text": "Do not start this record with a theory. Start it with columns, because columns keep a messy week from becoming one overconfident answer."
+      },
+      {
+        "type": "h2",
+        "text": "Build the record in columns"
+      },
+      {
+        "type": "p",
+        "text": "Use one column for weather, one for bathing or handwashing, one for indoor air, one for skin care, one for meals, and one for fluids."
+      },
+      {
+        "type": "p",
+        "text": "The American Academy of Dermatology describes dry skin as something with many possible contributors. A column-style note respects that uncertainty."
+      },
+      {
+        "type": "h2",
+        "text": "Put food beside the other facts"
+      },
+      {
+        "type": "p",
+        "text": "For meals, write broad categories rather than nutrient guesses. USDA MyPlate language is useful here because it stays at the pattern level."
+      },
+      {
+        "type": "p",
+        "text": "Then leave the food column beside the others. Do not make it carry more weight than the shower column, the weather column, or the routine column."
+      },
+      {
+        "type": "p",
+        "text": "A plain phrase works best: \"Fewer varied meals this week\" or \"Fluids were lower than usual.\" It records the pattern without turning skin into a nutrition test."
+      },
+      {
+        "type": "h2",
+        "text": "What to look for after a few days"
+      },
+      {
+        "type": "p",
+        "text": "After a few days, scan for ordinary shifts: colder air, more hot water, more handwashing, fewer fluids, or less meal variety. Any of those can be part of the note."
+      },
+      {
+        "type": "p",
+        "text": "The final line should stay small: this was the week around the skin change. That is enough for a useful record."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after structural delta review",
+        "gemini": "PASS after safety/polish delta review",
+        "claude": "PASS"
+      },
+      "grokRequired": false,
+      "notes": "Day 11 internal draft, safety pass, and human-polish pass. Revised after ChatGPT structural feedback and Gemini safety/polish feedback. External quorum passed with ChatGPT, Gemini, and Claude. Approval not yet granted.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 12,
+    "date": "2026-09-12",
+    "slug": "cracked-mouth-corners-food-pattern-check",
+    "title": "Cracked Mouth Corners: A Careful Food-Pattern Check",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A cautious wording guide for cracked mouth corners, focused on food-pattern notes without deficiency conclusions or treatment advice.",
+    "seo": {
+      "seoTitle": "Cracked Mouth Corners: A Careful Food-Pattern Check | Daily Support Guide",
+      "metaDescription": "Use a careful food-pattern check for cracked mouth corners without making medical conclusions about deficiency, recommending supplements, or giving treatment advice.",
+      "primaryKeyword": "cracked mouth corners food pattern",
+      "secondaryKeywords": [
+        "cracked mouth corners nutrition",
+        "mouth corner cracks food notes",
+        "food pattern check mouth corners"
+      ],
+      "searchIntent": "informational",
+      "h1": "Cracked Mouth Corners: A Careful Food-Pattern Check",
+      "h2": [
+        "The sentence that stays safe",
+        "What belongs in the note",
+        "Where the line should stop"
+      ],
+      "faq": [
+        "How can I write food notes for cracked mouth corners?",
+        "Do cracked mouth corners prove a nutrient deficiency?",
+        "What wording should I avoid around mouth-corner cracks?"
+      ],
+      "internalLinks": [
+        "mouth-sores-food-pattern-open",
+        "vegetarian-hair-nails-everyday-nutrition",
+        "brittle-nails-small-habits-record"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No deficiency claim",
+        "No treatment guidance",
+        "No supplement recommendation",
+        "No medical conclusion",
+        "No symptom checker"
+      ]
+    },
+    "sourceNotes": [
+      "MedlinePlus mouth sores information lists many possible causes and recommends professional discussion for frequent canker sores and certain nutrient questions.",
+      "USDA MyPlate presents food groups as broad categories for overall eating patterns.",
+      "MedlinePlus nutrition information supports general education around food patterns without turning them into personal health conclusions."
+    ],
+    "sourceUrls": [
+      "https://medlineplus.gov/ency/article/003059.htm",
+      "https://www.myplate.gov/",
+      "https://medlineplus.gov/nutrition.html"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Cracked mouth corners invite risky wording. A food-pattern note can be useful, but it should not turn a visible change into a nutrient verdict."
+      },
+      {
+        "type": "p",
+        "text": "For this topic, the safest edit is usually subtraction. Remove the sentence that tries to explain the cracks before the record has earned that claim."
+      },
+      {
+        "type": "h2",
+        "text": "The sentence that stays safe"
+      },
+      {
+        "type": "p",
+        "text": "\"I noticed cracks at the mouth corners this week\" is a complete note. It does not make a medical conclusion, prescribe, or guess."
+      },
+      {
+        "type": "p",
+        "text": "A second safe sentence can add timing: \"This appeared during a week when meals were irregular.\" The word during matters. It does not say because."
+      },
+      {
+        "type": "h2",
+        "text": "What belongs in the note"
+      },
+      {
+        "type": "p",
+        "text": "Broad food groups belong here: fruits, vegetables, grains, protein foods, and dairy or fortified alternatives. USDA MyPlate categories keep the language general."
+      },
+      {
+        "type": "p",
+        "text": "So do skipped meals, repeated takeout, snack-heavy days, mouth care, dental irritation, weather, lip licking, illness, and routine changes."
+      },
+      {
+        "type": "p",
+        "text": "MedlinePlus mouth-sore information shows why caution matters: mouth changes can have more than one possible context."
+      },
+      {
+        "type": "h2",
+        "text": "Where the line should stop"
+      },
+      {
+        "type": "p",
+        "text": "The line stops before nutrient labels, supplement ideas, ranked foods, or a cause. A careful food note says what happened around the same time."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after structural delta review",
+        "gemini": "PASS",
+        "claude": "PASS"
+      },
+      "grokRequired": false,
+      "notes": "Day 12 internal draft, safety pass, and human-polish pass. Revised after ChatGPT structural feedback. External quorum passed with ChatGPT, Gemini, and Claude. Approval not yet granted.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 13,
+    "date": "2026-09-12",
+    "slug": "mouth-sores-food-pattern-open",
+    "title": "Mouth Sores Again? Keep the Food Pattern Question Open",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful article on mouth sores and food-pattern notes that avoids medical conclusion, deficiency identification, and symptom-checker framing.",
+    "seo": {
+      "seoTitle": "Mouth Sores Again? Keep the Food Pattern Question Open | Daily Support Guide",
+      "metaDescription": "Mouth sores can be recorded with careful food-pattern notes without making medical conclusions about deficiency, recommending supplements, or creating a symptom checker.",
+      "primaryKeyword": "mouth sores food pattern",
+      "secondaryKeywords": [
+        "mouth sores nutrition notes",
+        "canker sores food pattern",
+        "food record mouth sores"
+      ],
+      "searchIntent": "informational",
+      "h1": "Mouth Sores Again? Keep the Food Pattern Question Open",
+      "h2": [
+        "Leave the cause field blank",
+        "Use context words carefully",
+        "Keep the food record plain"
+      ],
+      "faq": [
+        "Can food notes help me track mouth sores?",
+        "Do mouth sores mean a nutrient is missing?",
+        "How can I avoid making a mouth-sore symptom checker?"
+      ],
+      "internalLinks": [
+        "cracked-mouth-corners-food-pattern-check",
+        "messy-schedule-nutrition-basics",
+        "vegetarian-nutrition-beyond-protein"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No medical conclusion",
+        "No deficiency claim",
+        "No treatment advice",
+        "No supplement recommendation",
+        "No symptom checker"
+      ]
+    },
+    "sourceNotes": [
+      "MedlinePlus canker sores information notes that canker sores are not contagious and may be linked with several possible contexts, including stress, food sensitivities, systemic changes, or unknown causes.",
+      "MedlinePlus mouth sores information lists several non-food contexts and professional-care considerations.",
+      "USDA MyPlate provides broad food group language that supports pattern notes without nutrient medical conclusion."
+    ],
+    "sourceUrls": [
+      "https://medlineplus.gov/cankersores.html",
+      "https://medlineplus.gov/ency/article/003059.htm",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A mouth sore can make eating feel different for a few days. That does not mean the food record gets to name the cause."
+      },
+      {
+        "type": "p",
+        "text": "The useful question is narrower: what else was going on that week? A smaller question is safer here."
+      },
+      {
+        "type": "h2",
+        "text": "Leave the cause field blank"
+      },
+      {
+        "type": "p",
+        "text": "MedlinePlus notes that canker sores may be linked with several possible contexts, including stress, tissue irritation, food sensitivities, systemic changes, or unknown causes."
+      },
+      {
+        "type": "p",
+        "text": "A range that wide is not an invitation to choose one. It is a reason to leave the cause field blank."
+      },
+      {
+        "type": "h2",
+        "text": "Use context words carefully"
+      },
+      {
+        "type": "p",
+        "text": "Spicy, acidic, rough, hot, or salty foods can be written as context. So can stress, poor sleep, dental irritation, and routine changes."
+      },
+      {
+        "type": "p",
+        "text": "Use words like \"around the same time,\" \"during,\" and \"also.\" Avoid words that pretend the note has solved the sore."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the food record plain"
+      },
+      {
+        "type": "p",
+        "text": "For food, stay with the week: fewer varied meals, skipped meals, very soft foods, or food groups that rarely showed up."
+      },
+      {
+        "type": "p",
+        "text": "USDA MyPlate can give broad category language, but the article should not name a nutrient as the answer."
+      },
+      {
+        "type": "p",
+        "text": "A clean note might read: \"Mouth sore this week; sleep was poor; meals were less varied; acidic foods felt irritating.\" It stops there."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after structural delta review",
+        "gemini": "PASS after safety/polish delta review",
+        "claude": "PASS"
+      },
+      "grokRequired": false,
+      "notes": "Day 13 internal draft, safety pass, and human-polish pass. Revised after ChatGPT structural feedback and Gemini removal of nutrient-seeding language. External quorum passed with ChatGPT, Gemini, and Claude. Approval not yet granted.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 14,
+    "date": "2026-09-12",
+    "slug": "brittle-nails-small-habits-record",
+    "title": "Brittle Nails and the Small Habits Worth Recording",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A concise record for brittle nails that separates nail care, food pattern, age, routine, and unknowns without giving supplement advice.",
+    "seo": {
+      "seoTitle": "Brittle Nails and the Small Habits Worth Recording | Daily Support Guide",
+      "metaDescription": "Brittle nails can be recorded with small habit notes: nail care, food pattern, routine, and unknowns without medical conclusion or supplement advice.",
+      "primaryKeyword": "brittle nails habits record",
+      "secondaryKeywords": [
+        "brittle nails food pattern",
+        "brittle nails nutrition notes",
+        "nail changes habit record"
+      ],
+      "searchIntent": "informational",
+      "h1": "Brittle Nails and the Small Habits Worth Recording",
+      "h2": [
+        "First pass: hands",
+        "Second pass: meals",
+        "Stop before the verdict"
+      ],
+      "faq": [
+        "What habits should I record for brittle nails?",
+        "Do brittle nails prove a nutrient deficiency?",
+        "How can I keep nail notes neutral?"
+      ],
+      "internalLinks": [
+        "cracked-mouth-corners-food-pattern-check",
+        "vegetarian-hair-nails-everyday-nutrition",
+        "not-enough-protein-energy-recovery"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No deficiency claim",
+        "No condition medical conclusion",
+        "No supplement recommendation",
+        "No beauty product recommendation",
+        "No symptom checker"
+      ]
+    },
+    "sourceNotes": [
+      "MedlinePlus nail abnormalities information notes that brittle nails are often a normal result of aging and that several conditions can affect nail appearance.",
+      "MedlinePlus brittle nails information gives several possible contexts for changes in nail appearance, including normal aging.",
+      "USDA MyPlate provides broad food-group language for general food-pattern notes."
+    ],
+    "sourceUrls": [
+      "https://medlineplus.gov/ency/article/003247.htm",
+      "https://medlineplus.gov/ency/imagepages/9136.htm",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Brittle nails are tempting to decode. Do not decode them. Record the obvious habits first."
+      },
+      {
+        "type": "h2",
+        "text": "First pass: hands"
+      },
+      {
+        "type": "p",
+        "text": "Frequent washing, cleaning products, polish removal, picking or biting, gloves, and wet work all belong on the page first."
+      },
+      {
+        "type": "h2",
+        "text": "Second pass: meals"
+      },
+      {
+        "type": "p",
+        "text": "Use broad food-group language and fluids. USDA MyPlate keeps the record general."
+      },
+      {
+        "type": "p",
+        "text": "If meals were narrow for a while, write that. If a food group rarely appeared, write that. Stop there."
+      },
+      {
+        "type": "h2",
+        "text": "Stop before the verdict"
+      },
+      {
+        "type": "p",
+        "text": "MedlinePlus notes that brittle nails are often a normal result of aging and that several conditions can affect nail appearance. That is enough reason to keep the article modest."
+      },
+      {
+        "type": "p",
+        "text": "The record can show timing. It cannot name the reason."
+      },
+      {
+        "type": "p",
+        "text": "Useful final note: nail care, wet work, repeated habits, broad meal variety, timing, unknowns."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after structural delta review",
+        "gemini": "PASS after safety/polish delta review",
+        "claude": "PASS"
+      },
+      "grokRequired": false,
+      "notes": "Day 14 internal draft, safety pass, and human-polish pass. Revised after ChatGPT structural feedback and Gemini removal of nutrient/condition seeding. External quorum passed with ChatGPT, Gemini, and Claude. Approval not yet granted.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 15,
+    "date": "2026-09-12",
+    "slug": "hair-feeling-different-pause-before-products",
+    "title": "Hair Feeling Different? Pause Before Buying Another Product",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A product-neutral hair routine and food-pattern record that keeps stress, styling, meals, and unknowns in view without promising answers.",
+    "seo": {
+      "seoTitle": "Hair Feeling Different? Pause Before Buying Another Product | Daily Support Guide",
+      "metaDescription": "Hair feeling different? Try a product-neutral record of styling, stress, meals, sleep, and routine changes before drawing conclusions.",
+      "primaryKeyword": "hair feeling different food pattern",
+      "secondaryKeywords": [
+        "hair changes nutrition habits",
+        "hair routine food notes",
+        "food pattern hair changes"
+      ],
+      "searchIntent": "informational",
+      "h1": "Hair Feeling Different? Pause Before Buying Another Product",
+      "h2": [
+        "Before the shopping thought",
+        "Keep the week in separate lines",
+        "Let food stay as context"
+      ],
+      "faq": [
+        "What should I record when my hair feels different?",
+        "Does hair change mean I need a product or supplement?",
+        "How can I keep hair and nutrition notes neutral?"
+      ],
+      "internalLinks": [
+        "vegetarian-hair-nails-everyday-nutrition",
+        "brittle-nails-small-habits-record",
+        "stress-fatigue-food-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No product recommendation",
+        "No supplement recommendation",
+        "No deficiency claim",
+        "No hair-loss treatment advice",
+        "No medical conclusion"
+      ]
+    },
+    "sourceNotes": [
+      "MedlinePlus hair loss information notes many possible causes, including stress, low protein diet, poor nutrition, family history, diseases, medicines, and cancer treatment.",
+      "Harvard Health notes that inadequate protein is not the cause for most hair loss and that many other factors can be involved.",
+      "USDA MyPlate provides broad food-group language for general food-pattern notes."
+    ],
+    "sourceUrls": [
+      "https://medlineplus.gov/hairloss.html",
+      "https://www.health.harvard.edu/skin-and-hair-health/can-insufficient-protein-intake-cause-hair-loss",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "When hair feels different, the shopping impulse can arrive fast. A quieter first step is to write down the week before adding another product to the shelf."
+      },
+      {
+        "type": "p",
+        "text": "Maybe nothing dramatic happened. Maybe it was just a week of more heat styling, less sleep, a stressful stretch, fewer steady meals, or a new routine. That is still worth writing down."
+      },
+      {
+        "type": "h2",
+        "text": "Before the shopping thought"
+      },
+      {
+        "type": "p",
+        "text": "Start with care habits: washing, styling, heat, tight hairstyles, color, brushing, and weather."
+      },
+      {
+        "type": "p",
+        "text": "This is not a product-shopping list. It is a pause before the shelf gets one more bottle."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the week in separate lines"
+      },
+      {
+        "type": "p",
+        "text": "MedlinePlus lists many possible contexts for hair loss, including stress, low protein diet, poor nutrition, family history, diseases, medicines, and cancer treatment. That range is a reminder to keep the food note humble."
+      },
+      {
+        "type": "p",
+        "text": "Let care habits sit in one line. Stress and sleep in another. Meals and fluids in another. Unknowns get their own line too."
+      },
+      {
+        "type": "h2",
+        "text": "Let food stay as context"
+      },
+      {
+        "type": "p",
+        "text": "USDA MyPlate food groups can help describe a week without naming a deficiency. Write whether the usual broad food groups appeared often, sometimes, or rarely."
+      },
+      {
+        "type": "p",
+        "text": "Harvard Health notes that inadequate protein is not the cause for most hair loss. That kind of caution fits this article: food patterns can be context, not a verdict."
+      },
+      {
+        "type": "p",
+        "text": "A gentle record may not give the instant answer people want. It can still keep the next decision calmer."
+      },
+      {
+        "type": "p",
+        "text": "Write the week first: care, stress, sleep, meals, fluids, and what remains unknown."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "PASS after structural delta review",
+        "gemini": "PASS",
+        "claude": "PASS"
+      },
+      "grokRequired": false,
+      "notes": "Day 15 internal draft, safety pass, and human-polish pass. Revised after ChatGPT structural feedback and Gemini style feedback. External quorum passed with ChatGPT, Gemini, and Claude. Approval not yet granted.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  }
+]

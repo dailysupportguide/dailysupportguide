@@ -1,0 +1,594 @@
+[
+  {
+    "day": 41,
+    "date": "2026-09-18",
+    "slug": "office-worker-nutrition-blind-spots",
+    "title": "Five Common Nutrition Blind Spots for Office Workers",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical office-worker checklist for missed meals, low fluids, desk snacks, produce gaps, and caffeine drift without productivity promises.",
+    "seo": {
+      "seoTitle": "Office Worker Nutrition Blind Spots | Daily Support Guide",
+      "metaDescription": "Track five office-day food blind spots: meals, fluids, desk snacks, produce, and caffeine drift, without productivity promises.",
+      "primaryKeyword": "office worker nutrition blind spots",
+      "secondaryKeywords": [
+        "office food rhythm",
+        "desk worker meal notes",
+        "workday nutrition checklist"
+      ],
+      "searchIntent": "informational",
+      "h1": "Five Common Nutrition Blind Spots for Office Workers",
+      "h2": [
+        "Use five office-day lines",
+        "Spot what disappears by 3 p.m.",
+        "Keep work performance out of it"
+      ],
+      "faq": [
+        "What food blind spots do office workers often miss?",
+        "Should office food notes promise better productivity?",
+        "How can I track desk-day meals simply?"
+      ],
+      "internalLinks": [
+        "brain-fog-at-work-lunch-notes",
+        "sitting-all-day-low-energy",
+        "nutrition-basics-under-pressure"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No productivity fix claim",
+        "No stimulant guidance",
+        "No body-system claim",
+        "No product route",
+        "Checklist stays routine-based"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad meal-pattern and food-group language.",
+      "Harvard sleep guidance supports caffeine and sleep as general routine context.",
+      "MedlinePlus nutrition information is used only for broad food-pattern support."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-13",
+      "https://medlineplus.gov/nutrition.html"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Office food trouble is often quiet. Nothing dramatic happens. The day just becomes coffee, meetings, and whatever was closest."
+      },
+      {
+        "type": "h2",
+        "text": "Use five office-day lines"
+      },
+      {
+        "type": "p",
+        "text": "Meals. Fluids. Desk snacks. Produce. Caffeine timing. Five lines are enough for a useful workday record."
+      },
+      {
+        "type": "p",
+        "text": "Write actual patterns: lunch at desk, no water until afternoon, snack drawer first, vegetables missing, coffee later than usual."
+      },
+      {
+        "type": "h2",
+        "text": "Spot what disappears by 3 p.m."
+      },
+      {
+        "type": "p",
+        "text": "The missed item may not be the same every day. Monday might lose lunch. Tuesday might lose fluids. Wednesday might lose any sit-down meal."
+      },
+      {
+        "type": "h2",
+        "text": "Keep work performance out of it"
+      },
+      {
+        "type": "p",
+        "text": "This is not a promise that food fixes output. It is a way to see whether the office rhythm keeps crowding out ordinary meals."
+      },
+      {
+        "type": "p",
+        "text": "If fatigue, focus trouble, or other changes are persistent or worrying, use notes as background for a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 41 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 42,
+    "date": "2026-09-18",
+    "slug": "busy-parents-skipping-yourself-food-checks",
+    "title": "Busy Parents: Everyday Fuel Checks When You Keep Skipping Yourself",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm caregiver routine check for skipped meals, fluids, leftovers, and small anchors without guilt-heavy language.",
+    "seo": {
+      "seoTitle": "Busy Parents Everyday Fuel Checks | Daily Support Guide",
+      "metaDescription": "Use gentle food and fluid notes when parenting days make you skip yourself, without guilt or perfection pressure.",
+      "primaryKeyword": "busy parents nutrition habits",
+      "secondaryKeywords": [
+        "parent food rhythm",
+        "caregiver meal notes",
+        "busy parent fuel checks"
+      ],
+      "searchIntent": "informational",
+      "h1": "Busy Parents: Everyday Fuel Checks When You Keep Skipping Yourself",
+      "h2": [
+        "Notice who got fed, including you",
+        "Keep the first anchor small",
+        "Use leftovers without making them a project",
+        "Leave guilt out of the note"
+      ],
+      "faq": [
+        "How can busy parents track skipped meals?",
+        "Should caregiver food notes include guilt?",
+        "What is a small food anchor for a busy parent?"
+      ],
+      "internalLinks": [
+        "stress-eating-too-little-randomly",
+        "nutrition-basics-under-pressure",
+        "messy-schedule-nutrition-basics"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No guilt-heavy tone",
+        "No parenting judgment",
+        "No meal-plan instruction",
+        "No product route",
+        "Routine support only"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad meal-pattern language.",
+      "MedlinePlus nutrition information is used only for general food-context support.",
+      "British Nutrition Foundation resources support cautious everyday food-pattern language."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://medlineplus.gov/nutrition.html",
+      "https://www.nutrition.org.uk/healthy-sustainable-diets/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Some parenting days feed everyone except the parent. The note can say that without making it a speech."
+      },
+      {
+        "type": "h2",
+        "text": "Notice who got fed, including you"
+      },
+      {
+        "type": "p",
+        "text": "Write breakfast, lunch, dinner, fluids, and whether your meal was real, delayed, or just bites while standing."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the first anchor small"
+      },
+      {
+        "type": "p",
+        "text": "A small anchor might be a sit-down first meal, a drink you actually finish, or lunch that is more than leftovers eaten cold over the sink."
+      },
+      {
+        "type": "h2",
+        "text": "Use leftovers without making them a project"
+      },
+      {
+        "type": "p",
+        "text": "Leftovers count when they make the day easier. Write what helped: packed bowl, saved dinner, simple breakfast, food ready before pickup."
+      },
+      {
+        "type": "h2",
+        "text": "Leave guilt out of the note"
+      },
+      {
+        "type": "p",
+        "text": "This record is not there to prove you did enough. It is there so your own meals do not stay invisible."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 42 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 43,
+    "date": "2026-09-18",
+    "slug": "older-adults-eating-well-more-than-light",
+    "title": "Eating Well Later in Life Is About More Than Eating Light",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful older-adult food-pattern article focused on meal adequacy, texture, appetite, and support boundaries without geriatric advice.",
+    "seo": {
+      "seoTitle": "Older Adults Eating Well Beyond Eating Light | Daily Support Guide",
+      "metaDescription": "Track meal adequacy, texture, appetite, fluids, and support needs later in life without turning the article into medical advice.",
+      "primaryKeyword": "older adults eating well nutrition",
+      "secondaryKeywords": [
+        "older adult meal notes",
+        "eating well later in life",
+        "light meals older adults"
+      ],
+      "searchIntent": "informational",
+      "h1": "Eating Well Later in Life Is About More Than Eating Light",
+      "h2": [
+        "Be careful with the word light",
+        "Write whether meals are enough",
+        "Add texture, appetite, and help",
+        "Respect personal care plans"
+      ],
+      "faq": [
+        "Should older adults only focus on eating light?",
+        "What food-pattern notes may help later in life?",
+        "When should eating changes be discussed with a professional?"
+      ],
+      "internalLinks": [
+        "protein-frequency-energy-recovery-notes",
+        "drinking-water-still-drained-meals",
+        "vegetarian-nutrition-beyond-protein"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No geriatric medical advice",
+        "No weight-loss framing",
+        "No medication guidance",
+        "No care-plan replacement",
+        "Professional boundary included"
+      ]
+    },
+    "sourceNotes": [
+      "NIA healthy eating resources for older adults support general meal-adequacy and routine language.",
+      "USDA MyPlate resources for older adults support broad food-group framing.",
+      "MedlinePlus nutrition information is used only for general food-pattern context."
+    ],
+    "sourceUrls": [
+      "https://www.nia.nih.gov/health/healthy-eating-nutrition-and-diet/healthy-eating-you-age",
+      "https://www.myplate.gov/life-stages/older-adults",
+      "https://medlineplus.gov/nutrition.html"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Later in life, eating light can sound like the whole goal. That phrase is too thin for many real days."
+      },
+      {
+        "type": "h2",
+        "text": "Be careful with the word light"
+      },
+      {
+        "type": "p",
+        "text": "Light may mean pleasant and comfortable. It may also mean the meal was not enough. The note should say which one it looks like."
+      },
+      {
+        "type": "h2",
+        "text": "Write whether meals are enough"
+      },
+      {
+        "type": "p",
+        "text": "Record meals, fluids, protein foods, produce, grains, and whether food was skipped because of time, appetite, chewing, swallowing, cost, or fatigue."
+      },
+      {
+        "type": "h2",
+        "text": "Add texture, appetite, and help"
+      },
+      {
+        "type": "p",
+        "text": "Texture matters. So does who shopped, cooked, reminded, or sat down with the person. These are practical notes, not side details."
+      },
+      {
+        "type": "h2",
+        "text": "Respect personal care plans"
+      },
+      {
+        "type": "p",
+        "text": "If an older adult has medical conditions, medications, swallowing concerns, weight changes, or a care plan, bring food changes to a licensed professional."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 43 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 44,
+    "date": "2026-09-18",
+    "slug": "exam-season-food-rhythm",
+    "title": "Food Rhythm Tips for Students During Exam Season",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A student exam-season checklist for meals, water, caffeine, snacks, and sleep without cognitive-performance guarantees.",
+    "seo": {
+      "seoTitle": "Exam Season Food Rhythm for Students | Daily Support Guide",
+      "metaDescription": "Use a simple exam-season food rhythm checklist for meals, water, snacks, caffeine, and sleep without study-output promises.",
+      "primaryKeyword": "exam season food rhythm",
+      "secondaryKeywords": [
+        "student meal rhythm exams",
+        "exam week food checklist",
+        "study week meals water"
+      ],
+      "searchIntent": "informational",
+      "h1": "Food Rhythm Tips for Students During Exam Season",
+      "h2": [
+        "Keep the exam-week list short",
+        "Do not make food carry grades",
+        "Plan the boring parts"
+      ],
+      "faq": [
+        "What food rhythm helps students track exam week?",
+        "Can food guarantee better studying?",
+        "How should students record caffeine during exams?"
+      ],
+      "internalLinks": [
+        "losing-focus-water-real-meals",
+        "day-after-staying-up-late-food",
+        "coffee-stops-helping-day-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No cognitive-performance guarantee",
+        "No caffeine dosing",
+        "No stimulant advice",
+        "No product route",
+        "Student checklist only"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad meal-pattern language.",
+      "Harvard sleep guidance supports sleep and caffeine as general routine context.",
+      "MedlinePlus nutrition information is used only for general food-pattern support."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-13",
+      "https://medlineplus.gov/nutrition.html"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Exam week does not need a perfect food plan. It needs fewer skipped basics."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the exam-week list short"
+      },
+      {
+        "type": "p",
+        "text": "Meals. Water. Snacks. Caffeine. Sleep. That is enough to track while your brain is already full."
+      },
+      {
+        "type": "p",
+        "text": "Use check marks, not essays. Breakfast happened. Lunch got missed. Water was low. Coffee showed up late."
+      },
+      {
+        "type": "h2",
+        "text": "Do not make food carry grades"
+      },
+      {
+        "type": "p",
+        "text": "Food can support a steadier day. It cannot promise sharper memory, better scores, or a calm exam room."
+      },
+      {
+        "type": "h2",
+        "text": "Plan the boring parts"
+      },
+      {
+        "type": "p",
+        "text": "Before a long study block, decide where the next meal or snack comes from. Boring planning is still planning."
+      },
+      {
+        "type": "p",
+        "text": "If stress, sleep loss, or eating changes feel unmanageable, reach out to campus support, a licensed professional, or trusted local help."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 44 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  },
+  {
+    "day": 45,
+    "date": "2026-09-18",
+    "slug": "new-fitness-routine-recovery-nutrition-checks",
+    "title": "Recovery Nutrition Checks for a New Fitness Routine",
+    "category": "Body Signals",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A beginner fitness note sheet for meals, protein foods, fluids, sleep, and training changes without mix-ins or workout-result promises.",
+    "seo": {
+      "seoTitle": "New Fitness Routine Recovery Nutrition Checks | Daily Support Guide",
+      "metaDescription": "Track meals, protein foods, fluids, sleep, and training changes in a new fitness routine without mix-ins or workout-result promises.",
+      "primaryKeyword": "new fitness routine recovery nutrition",
+      "secondaryKeywords": [
+        "fitness recovery food notes",
+        "new workout meal rhythm",
+        "recovery nutrition checks"
+      ],
+      "searchIntent": "informational",
+      "h1": "Recovery Nutrition Checks for a New Fitness Routine",
+      "h2": [
+        "Write the routine change first",
+        "Check meals around the workout",
+        "Use protein foods without targets",
+        "Keep soreness claims out"
+      ],
+      "faq": [
+        "What should I track in a new fitness routine?",
+        "Should recovery notes include protein targets?",
+        "Can food promise faster recovery?"
+      ],
+      "internalLinks": [
+        "slow-workout-recovery-nutrition",
+        "protein-frequency-energy-recovery-notes",
+        "drinking-water-still-drained-meals"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No performance claim",
+        "No mix-in or product route",
+        "No personalized protein target",
+        "No injury advice",
+        "Beginner record only"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad protein-food and meal-pattern language.",
+      "MedlinePlus exercise and nutrition resources are used only for general routine context.",
+      "Harvard sleep guidance supports sleep as general recovery-context language."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/eat-healthy/protein-foods",
+      "https://medlineplus.gov/exerciseandphysicalfitness.html",
+      "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-13"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A new fitness routine changes the week. Food notes should start with that change, not with a miracle claim."
+      },
+      {
+        "type": "h2",
+        "text": "Write the routine change first"
+      },
+      {
+        "type": "p",
+        "text": "Record what changed: new class, longer walks, heavier sessions, more days, less rest, or a schedule that moved meals around."
+      },
+      {
+        "type": "h2",
+        "text": "Check meals around the workout"
+      },
+      {
+        "type": "p",
+        "text": "Write the meal before and after activity in plain terms: skipped, light, enough, late, rushed, or normal."
+      },
+      {
+        "type": "h2",
+        "text": "Use protein foods without targets"
+      },
+      {
+        "type": "p",
+        "text": "Mark whether protein foods appeared across the day. Beans, eggs, fish, poultry, dairy foods, soy foods, nuts, and seeds can all be written as food sources."
+      },
+      {
+        "type": "p",
+        "text": "No mix-ins, no gram goals, no promise that one food changes recovery."
+      },
+      {
+        "type": "h2",
+        "text": "Keep soreness claims out"
+      },
+      {
+        "type": "p",
+        "text": "Sleep, workload, stress, activity level, and rest days belong beside meals. If pain or injury concerns show up, use qualified help."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "reviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed",
+        "claude": "passed"
+      },
+      "grokRequired": false,
+      "notes": "Day 45 internal draft, safety pass, human-polish pass, and external quorum pass from ChatGPT, Gemini, and Claude. Approval candidate only; not approved for publishing.",
+      "approvedDate": "2026-09-10",
+      "scheduledReleasePlan": "Everyday Body Signals: 5 articles/day from 2026-09-10 through 2026-09-19"
+    }
+  }
+]
