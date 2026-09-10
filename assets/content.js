@@ -1,6 +1,571 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "stress-fatigue-food-rhythm",
+      "date": "2026-09-10",
+      "category": "Body Signals",
+      "title": "Stress Can Make Fatigue Feel Heavier. Food Rhythm Still Counts.",
+      "summary": "A careful look at stress, fatigue, and food rhythm that keeps language open and avoids turning tiredness into a nutrition conclusion.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Stress Can Make Fatigue Feel Heavier. Food Rhythm Still Counts. | Daily Support Guide",
+        "metaDescription": "Stress and fatigue can overlap. Use careful food-rhythm notes without making medical conclusions about tiredness, naming deficiencies, or recommending supplements.",
+        "primaryKeyword": "stress fatigue food rhythm",
+        "secondaryKeywords": [
+          "stress fatigue eating habits",
+          "food rhythm under stress",
+          "tired under stress meals"
+        ],
+        "searchIntent": "informational",
+        "h1": "Stress Can Make Fatigue Feel Heavier. Food Rhythm Still Counts.",
+        "h2": [
+          "Use careful words first",
+          "Record what stress changes",
+          "Keep food rhythm separate from the cause",
+          "Know when to stop self-interpreting",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "Can stress change how fatigue feels?",
+          "What food-rhythm details are worth recording during stressful weeks?",
+          "When should stress and fatigue be discussed with a licensed professional?"
+        ],
+        "internalLinks": [
+          "afternoon-foggy-food-rhythm",
+          "still-tired-breakfast-structure",
+          "busy-takeout-nutrition-gaps"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No adrenal claims",
+          "No hormone claims",
+          "No mental health treatment advice",
+          "No deficiency claim",
+          "No supplement recommendation"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The wording matters here. Stress can make fatigue feel heavier, but that sentence should not be stretched into a medical conclusion or a nutrient conclusion."
+        },
+        {
+          "type": "p",
+          "text": "Start with the sentence you are tempted to write, then make it smaller. A stressful week may change meals, sleep, and caffeine timing; the note should not pretend to know which part explains the tiredness."
+        },
+        {
+          "type": "h2",
+          "text": "Use careful words first"
+        },
+        {
+          "type": "p",
+          "text": "Write: 'During this stressful week, my meal rhythm changed.' That is safer than writing: 'Stress caused my fatigue' or 'I need a specific nutrient.'"
+        },
+        {
+          "type": "p",
+          "text": "A careful note keeps the door open. It lets food rhythm be part of the picture without pretending to identify the cause."
+        },
+        {
+          "type": "h2",
+          "text": "Record what stress changes"
+        },
+        {
+          "type": "p",
+          "text": "Record meal timing, skipped meals, repeated snacks, fluids, caffeine timing, alcohol, sleep timing, and movement. Use plain fields. Do not interpret too early."
+        },
+        {
+          "type": "p",
+          "text": "MedlinePlus describes fatigue as having many possible causes, including emotional stress. That is exactly why the note should stay modest."
+        },
+        {
+          "type": "h2",
+          "text": "Keep food rhythm separate from the cause"
+        },
+        {
+          "type": "p",
+          "text": "Food rhythm can be easier to observe than stress itself. Maybe breakfast disappeared. Maybe lunch moved later. Maybe caffeine moved closer to bedtime. Those are records, not proof."
+        },
+        {
+          "type": "p",
+          "text": "CDC sleep guidance includes healthy diet, regular exercise, and consistent sleep timing among supportive habits. A routine note can sit beside those habits without becoming a treatment plan."
+        },
+        {
+          "type": "h2",
+          "text": "Where wording should stop"
+        },
+        {
+          "type": "p",
+          "text": "Persistent, severe, sudden, or daily-life fatigue is outside the reach of a food note. The same is true when medication use, medical conditions, pregnancy, surgery, or mental health concerns are part of the situation."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "During a stressful week, record what changed before deciding what it means. Meal rhythm counts, but it is only one part of the record. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "busy-takeout-nutrition-gaps",
+      "date": "2026-09-10",
+      "category": "Body Signals",
+      "title": "Three Small Nutrition Gaps Busy Takeout Eaters Often Miss",
+      "summary": "A compact takeout-week checklist for spotting missing meal parts without naming restaurants, ranking foods, or recommending products.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Three Small Nutrition Gaps Busy Takeout Eaters Often Miss | Daily Support Guide",
+        "metaDescription": "Busy takeout weeks can make small nutrition gaps easy to miss. Use a compact checklist for meal parts, fluids, and repeated patterns.",
+        "primaryKeyword": "takeout nutrition gaps",
+        "secondaryKeywords": [
+          "busy takeout eating habits",
+          "takeout meal checklist",
+          "delivery meals nutrition pattern"
+        ],
+        "searchIntent": "informational",
+        "h1": "Three Small Nutrition Gaps Busy Takeout Eaters Often Miss",
+        "h2": [
+          "Gap 1: the meal has no produce",
+          "Gap 2: the drink carries the routine",
+          "Gap 3: the same meal repeats all week",
+          "Keep the note neutral",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What nutrition gaps are common during busy takeout weeks?",
+          "How can I check takeout meals without judging them?",
+          "Should a takeout checklist include brands or restaurants?"
+        ],
+        "internalLinks": [
+          "lunch-sleepy-even-after-sleep",
+          "afternoon-foggy-food-rhythm",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No restaurant names",
+          "No product recommendation",
+          "No weight-loss framing",
+          "No moralizing",
+          "No monetized outbound language"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Takeout can be useful. It can also make the week blur. Do not start with guilt. Start with three lines."
+        },
+        {
+          "type": "p",
+          "text": "Keep this checklist short. No restaurants. No rankings. No perfect meal rules."
+        },
+        {
+          "type": "h2",
+          "text": "Gap 1: the meal has no produce"
+        },
+        {
+          "type": "p",
+          "text": "Write down whether the meal included a fruit or vegetable. That is the whole first check."
+        },
+        {
+          "type": "p",
+          "text": "USDA MyPlate uses fruits and vegetables as part of an overall healthy eating pattern. In a busy week, the useful question is whether they showed up at all, not whether the meal was perfect."
+        },
+        {
+          "type": "h2",
+          "text": "Gap 2: the drink carries the routine"
+        },
+        {
+          "type": "p",
+          "text": "Write the drink next to the meal. Water, coffee, tea, soda, juice, alcohol, or no drink. Keep it factual."
+        },
+        {
+          "type": "p",
+          "text": "Drinks can become the part of the routine people remember least clearly. A separate line keeps them from disappearing."
+        },
+        {
+          "type": "h2",
+          "text": "Gap 3: the same meal repeats all week"
+        },
+        {
+          "type": "p",
+          "text": "Put similar meals together. If the same kind of takeout appears three or four times, circle the repeated parts and the missing parts."
+        },
+        {
+          "type": "p",
+          "text": "Do not call the meal good or bad. Repetition is just information. It shows where the week may be narrow."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the note neutral"
+        },
+        {
+          "type": "p",
+          "text": "A takeout checklist should not become a product list, restaurant list, or weight-loss plan. It is a record of meal parts, not a way to explain fatigue, digestive discomfort, or other health concerns."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "For each takeout meal, write three things: produce, drink, repeat pattern. Keep it simple. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "lunch-sleepy-even-after-sleep",
+      "date": "2026-09-10",
+      "category": "Body Signals",
+      "title": "Why Lunch Can Leave You Sleepy Even After Enough Sleep",
+      "summary": "A structured lunch note for sleepy afternoons, focused on serving size, meal balance, timing, fluids, and what the record cannot decide.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Why Lunch Can Leave You Sleepy Even After Enough Sleep | Daily Support Guide",
+        "metaDescription": "Lunch can leave you sleepy for many reasons. Use a structured note for meal timing, serving size, balance, fluids, and routine context.",
+        "primaryKeyword": "sleepy after lunch food",
+        "secondaryKeywords": [
+          "sleepy after lunch even after sleep",
+          "lunch meal balance afternoon energy",
+          "post lunch sleepiness food rhythm"
+        ],
+        "searchIntent": "informational",
+        "h1": "Why Lunch Can Leave You Sleepy Even After Enough Sleep",
+        "h2": [
+          "Start with time and serving size",
+          "Keep meal parts in separate fields",
+          "Add fluids and movement context",
+          "Do not turn sleepiness into a conclusion",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What lunch details should I record if I feel sleepy afterward?",
+          "Does feeling sleepy after lunch mean something is wrong?",
+          "When should post-lunch sleepiness be discussed with a licensed professional?"
+        ],
+        "internalLinks": [
+          "afternoon-foggy-food-rhythm",
+          "still-tired-breakfast-structure",
+          "busy-takeout-nutrition-gaps"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No blood-sugar medical conclusion",
+          "No deficiency claim",
+          "No product recommendation",
+          "No treatment guidance",
+          "No symptom checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A sleepy afternoon does not always mean the night went badly. Lunch can be part of the record too, especially when the same pattern shows up more than once."
+        },
+        {
+          "type": "p",
+          "text": "Order matters more than detail at first. Put the time before the meal parts, the serving size before comparisons, and the unknowns where you can still see them."
+        },
+        {
+          "type": "h2",
+          "text": "Start with time and serving size"
+        },
+        {
+          "type": "p",
+          "text": "Write the time lunch started and roughly how much was eaten. If the meal came from a package, copy the serving size from the label before using any other number."
+        },
+        {
+          "type": "p",
+          "text": "Serving size keeps the note grounded. A large lunch, a small lunch, and a delayed lunch are different records, even when they share a similar name."
+        },
+        {
+          "type": "h2",
+          "text": "Keep meal parts in separate fields"
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields for grain or starch, protein food, vegetables or fruit, added sweets, and drinks. USDA MyPlate uses food groups as part of an overall eating pattern, which makes them useful note categories here."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn the fields into a score. The first job is to see whether the meal was mostly one thing, skipped one part, or changed from the lunches that usually feel better."
+        },
+        {
+          "type": "h2",
+          "text": "Add fluids and movement context"
+        },
+        {
+          "type": "p",
+          "text": "Add what you drank with lunch and whether you moved afterward. A short walk, a long meeting, or going straight back to a screen belongs in the same timeline."
+        },
+        {
+          "type": "p",
+          "text": "CDC sleep guidance treats diet, activity, caffeine timing, and routine as connected habits. A lunch note can borrow that same practical idea without claiming one factor explains everything."
+        },
+        {
+          "type": "h2",
+          "text": "What a lunch row cannot prove"
+        },
+        {
+          "type": "p",
+          "text": "Sleepiness after lunch is a signal to observe, not a medical conclusion. A meal row can show timing and pattern, but it cannot explain persistent, severe, sudden, or otherwise concerning changes."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "Make one lunch row: time, serving size, meal parts, fluids, movement, and afternoon feel. Keep the row intact. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "still-tired-breakfast-structure",
+      "date": "2026-09-10",
+      "category": "Body Signals",
+      "title": "Still Tired After Waking Up? Look at Breakfast Structure",
+      "summary": "A practical breakfast structure check for mornings that still feel tired, focused on timing, food groups, fluids, and what remains unknown.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Still Tired After Waking Up? Look at Breakfast Structure | Daily Support Guide",
+        "metaDescription": "Still tired after waking up? Use a practical breakfast structure check for timing, food groups, fluids, and routine patterns without medical claims.",
+        "primaryKeyword": "tired after waking breakfast structure",
+        "secondaryKeywords": [
+          "still tired after waking up breakfast",
+          "breakfast structure morning energy",
+          "morning tired food rhythm"
+        ],
+        "searchIntent": "informational",
+        "h1": "Still Tired After Waking Up? Look at Breakfast Structure",
+        "h2": [
+          "Put breakfast in its own row",
+          "Check whether the meal has more than one part",
+          "Add fluids and caffeine timing",
+          "Leave room for non-food factors",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "What should I check in breakfast if I wake up tired?",
+          "Does breakfast structure explain morning tiredness?",
+          "When should morning tiredness be discussed with a licensed professional?"
+        ],
+        "internalLinks": [
+          "afternoon-foggy-food-rhythm",
+          "lunch-sleepy-even-after-sleep",
+          "busy-takeout-nutrition-gaps"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No medical conclusion",
+          "No sleep-disorder claims",
+          "No supplement recommendation",
+          "No personalized meal prescription",
+          "No symptom checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Morning tiredness is not solved by one breakfast trick. Still, breakfast is easy to record, and a record is more useful than trying to remember a blurry week."
+        },
+        {
+          "type": "p",
+          "text": "Draw four columns if that helps: time, meal parts, fluids, and sleep notes. Breakfast belongs in the record, but it does not get to explain the whole morning by itself."
+        },
+        {
+          "type": "h2",
+          "text": "Put breakfast in its own row"
+        },
+        {
+          "type": "p",
+          "text": "Start with the time. Then write what counted as breakfast: a full meal, a drink, a snack, leftovers, or nothing until later. Keep the source visible if the food came from a package label."
+        },
+        {
+          "type": "p",
+          "text": "Use the same row for three days. A single morning can be unusual. A few rows can show whether breakfast is steady, rushed, skipped, or changing with the workweek."
+        },
+        {
+          "type": "h2",
+          "text": "Check whether the meal has more than one part"
+        },
+        {
+          "type": "p",
+          "text": "USDA MyPlate organizes an overall eating pattern around food groups such as fruits, vegetables, grains, protein foods, and dairy. For breakfast, the useful question is simple: does the meal have more than one kind of food doing work?"
+        },
+        {
+          "type": "p",
+          "text": "Write down the main parts without trying to calculate everything. A grain-only breakfast, a coffee-only morning, and a meal with protein plus fiber-rich food may feel different later, but the note should stay descriptive."
+        },
+        {
+          "type": "h2",
+          "text": "Add fluids and caffeine timing"
+        },
+        {
+          "type": "p",
+          "text": "Put fluids in the row too. Water, coffee, tea, juice, and other drinks can all shape the morning routine. If caffeine is part of breakfast, write the time instead of turning it into a rule."
+        },
+        {
+          "type": "h2",
+          "text": "Put non-food factors in a separate column"
+        },
+        {
+          "type": "p",
+          "text": "Sleep timing, stress, medication use, illness, alcohol, and long work hours can all sit outside the breakfast row. CDC sleep guidance points to several habits at once, including consistent sleep timing, healthy diet, and regular activity."
+        },
+        {
+          "type": "p",
+          "text": "Persistent, severe, new, or disruptive tiredness sits outside what a breakfast note can answer. Keep the record modest and avoid turning it into a self-assessment."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "For three mornings, record breakfast time, meal parts, fluids, caffeine timing, and sleep notes. Keep the question open. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "afternoon-foggy-food-rhythm",
+      "date": "2026-09-10",
+      "category": "Body Signals",
+      "title": "Feeling Foggy in the Afternoon? Start With Food Rhythm",
+      "summary": "A gentle food-rhythm check for afternoon fogginess, focused on meals, fluids, caffeine timing, and ordinary routine notes.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Feeling Foggy in the Afternoon? Start With Food Rhythm | Daily Support Guide",
+        "metaDescription": "Feeling foggy in the afternoon? Use a gentle food-rhythm check for meals, water, caffeine timing, and routine notes without turning it into medical advice.",
+        "primaryKeyword": "afternoon foggy food rhythm",
+        "secondaryKeywords": [
+          "afternoon fogginess food",
+          "food rhythm afternoon energy",
+          "afternoon slump eating habits"
+        ],
+        "searchIntent": "informational",
+        "h1": "Feeling Foggy in the Afternoon? Start With Food Rhythm",
+        "h2": [
+          "Start with the meals you actually had",
+          "Notice fluids before adding explanations",
+          "Keep caffeine in the timeline",
+          "Know when a food note is not enough",
+          "A practical takeaway"
+        ],
+        "faq": [
+          "Can food rhythm affect how the afternoon feels?",
+          "What should I write down when I feel foggy in the afternoon?",
+          "When should afternoon fogginess be discussed with a licensed professional?"
+        ],
+        "internalLinks": [
+          "still-tired-breakfast-structure",
+          "lunch-sleepy-even-after-sleep",
+          "stress-fatigue-food-rhythm"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No deficiency claim",
+          "No medical conclusion",
+          "No caffeine dose advice",
+          "No supplement recommendation",
+          "No symptom checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Afternoon fogginess can make an ordinary day feel slightly out of reach. Before trying to explain it, it helps to write down what the day has actually looked like so far."
+        },
+        {
+          "type": "p",
+          "text": "The useful page is usually plain: when you ate, what you drank, how much sleep you got, and where the afternoon started to drag. It is not there to read the body for answers."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the meals you actually had"
+        },
+        {
+          "type": "p",
+          "text": "Write the time of breakfast and lunch first. Then add what was missing or rushed: maybe lunch was mostly snack food, maybe breakfast was coffee only, or maybe the first real meal happened late."
+        },
+        {
+          "type": "p",
+          "text": "The point is not to grade the day. A short note can show whether the afternoon is following a thin morning, a heavy lunch, a long gap, or a week where meals keep getting pushed around."
+        },
+        {
+          "type": "h2",
+          "text": "Notice fluids before adding explanations"
+        },
+        {
+          "type": "p",
+          "text": "Water is easy to forget when the day is noisy. Add a plain line for fluids: what you drank, roughly when, and whether most of it was water, coffee, tea, soda, or something else."
+        },
+        {
+          "type": "p",
+          "text": "This does not turn hydration into the whole answer. It simply keeps one ordinary part of the day visible before bigger conclusions start crowding in."
+        },
+        {
+          "type": "h2",
+          "text": "Keep caffeine in the timeline"
+        },
+        {
+          "type": "p",
+          "text": "CDC sleep guidance includes avoiding caffeine in the afternoon or evening as one sleep-supportive habit. For an afternoon note, it is enough to record when caffeine showed up and how the rest of the day felt."
+        },
+        {
+          "type": "p",
+          "text": "Do not use the note to set a caffeine rule for everyone. Different people respond differently, and the useful first step is keeping timing visible."
+        },
+        {
+          "type": "h2",
+          "text": "What the record cannot explain"
+        },
+        {
+          "type": "p",
+          "text": "MedlinePlus notes that fatigue can have many causes. A food-rhythm note can give useful context, but it cannot explain persistent, severe, sudden, or otherwise concerning changes."
+        },
+        {
+          "type": "h2",
+          "text": "A practical takeaway"
+        },
+        {
+          "type": "p",
+          "text": "When the afternoon feels foggy, write the day in order: meals, fluids, caffeine, sleep, stress, and movement. A small record is enough to start. This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "ten-minute-label-review",
       "date": "2026-09-07",
       "category": "Routine Guides",
@@ -12436,315 +13001,315 @@ window.DSG_CONTENT = {
       "date": "2026-07-25",
       "title": "What Other Ingredients Means on a Supplement Facts Panel",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 7,
       "date": "2026-07-26",
       "title": "How to Compare Capsules, Powders, and Gummies",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 8,
       "date": "2026-07-27",
       "title": "What Third-Party Testing Seals Can and Cannot Tell You",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 9,
       "date": "2026-07-28",
       "title": "How to Read Allergen Statements Without Guessing",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 10,
       "date": "2026-07-29",
       "title": "A Beginner-Friendly Checklist for Comparing Daily Products",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 11,
       "date": "2026-07-30",
       "title": "How to Build a Screen Break That Actually Fits Your Workday",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 12,
       "date": "2026-07-31",
       "title": "A No-Drama Way to Reset Your Desk Between Tasks",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 13,
       "date": "2026-08-01",
       "title": "How to Use Natural Pauses Instead of Timers",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 14,
       "date": "2026-08-02",
       "title": "How to Compare Caffeinated and Caffeine-Free Drink Labels",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 15,
       "date": "2026-08-03",
       "title": "How to Create an Evening Shutdown Cue",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 16,
       "date": "2026-08-04",
       "title": "How to Make Tomorrow Morning Easier Without a Long Routine",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 17,
       "date": "2026-08-05",
       "title": "How to Read Sodium and Sugar Lines Without Panic",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 18,
       "date": "2026-08-06",
       "title": "How to Compare Packaged Snacks by Portion and Context",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 19,
       "date": "2026-08-07",
       "title": "How to Look at Protein Sources in a Normal Meal",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 20,
       "date": "2026-08-08",
       "title": "How to Keep Meal Decisions Simple on Busy Days",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 21,
       "date": "2026-08-09",
       "title": "How to Compare Shelf-Stable Pantry Items",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 22,
       "date": "2026-08-10",
       "title": "How to Read Vegan and Plant-Based Labels Carefully",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 23,
       "date": "2026-08-11",
       "title": "How to Compare Omega-3 Label Lines Without Brand Names",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 24,
       "date": "2026-08-12",
       "title": "EPA and DHA: How to Read the Numbers on a Label",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 25,
       "date": "2026-08-13",
       "title": "How to Compare Mineral Labels by Elemental Amount",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 26,
       "date": "2026-08-14",
       "title": "How to Compare Vitamin Labels Without Chasing Big Numbers",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 27,
       "date": "2026-08-15",
       "title": "What Percent Daily Value Can and Cannot Tell You",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 28,
       "date": "2026-08-16",
       "title": "How to Read Directions for Use Without Making Assumptions",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 29,
       "date": "2026-08-17",
       "title": "How to Compare Package Size, Serving Count, and Real Cost",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 30,
       "date": "2026-08-18",
       "title": "A Simple Framework for Comparing Similar Products",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 31,
       "date": "2026-08-19",
       "title": "How to Notice Marketing Claims Without Letting Them Lead",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 32,
       "date": "2026-08-20",
       "title": "How to Read Structure and Function Language Carefully",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 33,
       "date": "2026-08-21",
       "title": "How to Compare Products When One Uses a Blend",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 34,
       "date": "2026-08-22",
       "title": "How to Compare Botanical Labels by Plant Part and Form",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 35,
       "date": "2026-08-23",
       "title": "How to Keep a Product Comparison Notes Sheet",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 36,
       "date": "2026-08-24",
       "title": "How to Decide What Information Is Missing from a Label",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 37,
       "date": "2026-08-25",
       "title": "How to Compare Powder Scoops Without Guessing",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 38,
       "date": "2026-08-26",
       "title": "How to Compare Gummies by Serving and Added Sugar",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 39,
       "date": "2026-08-27",
       "title": "How to Compare Capsules by Count and Serving Size",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 40,
       "date": "2026-08-28",
       "title": "How to Build a Low-Friction Weekly Label Review Habit",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 41,
       "date": "2026-08-29",
       "title": "How to Compare Daily Drinks by Caffeine and Serving",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 42,
       "date": "2026-08-30",
       "title": "How to Organize a Pantry Shelf for Easier Choices",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 43,
       "date": "2026-08-31",
       "title": "How to Compare Breakfast Options Without a Diet Plan",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 44,
       "date": "2026-09-01",
       "title": "How to Read Claims Like Natural, Clean, and Whole Food",
       "category": "Label Reading",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 45,
       "date": "2026-09-02",
       "title": "How to Compare Labels When You Have a Dietary Preference",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 46,
       "date": "2026-09-03",
       "title": "How to Read a Product Page Without Looking for a Winner",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 47,
       "date": "2026-09-04",
       "title": "How to Compare Similar Categories Without Making Health Claims",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 48,
       "date": "2026-09-05",
       "title": "How to Keep Product Notes Neutral and Useful",
       "category": "Comparison Skills",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 49,
       "date": "2026-09-06",
       "title": "How to Revisit a Routine After Two Weeks",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     },
     {
       "day": 50,
       "date": "2026-09-07",
       "title": "A 10-Minute Review for Everyday Label Confidence",
       "category": "Routine Guides",
-      "status": "published"
+      "status": "approved"
     }
   ]
 };
