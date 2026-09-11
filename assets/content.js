@@ -1,6 +1,542 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "messy-schedule-nutrition-basics",
+      "date": "2026-09-11",
+      "category": "Body Signals",
+      "title": "When Your Schedule Gets Messy, These Nutrition Basics Slip First",
+      "summary": "A compact checklist for messy schedule weeks, focused on meals, fluids, produce, protein foods, and routine gaps without moralizing.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "When Your Schedule Gets Messy, These Nutrition Basics Slip First | Daily Support Guide",
+        "metaDescription": "When your schedule gets messy, use a compact nutrition-basics checklist for meals, fluids, produce, protein foods, and routine gaps.",
+        "primaryKeyword": "messy schedule nutrition basics",
+        "secondaryKeywords": [
+          "busy schedule eating habits",
+          "nutrition basics busy week",
+          "meal rhythm messy schedule"
+        ],
+        "searchIntent": "informational",
+        "h1": "When Your Schedule Gets Messy, These Nutrition Basics Slip First",
+        "h2": [
+          "Check meals first",
+          "Check fluids second",
+          "Check what disappeared",
+          "The three-day version"
+        ],
+        "faq": [
+          "What nutrition basics slip during a busy week?",
+          "How can I check meals when my schedule is messy?",
+          "How do I avoid judging food during a busy week?"
+        ],
+        "internalLinks": [
+          "busy-takeout-nutrition-gaps",
+          "craving-sweets-meals-steady",
+          "afternoon-foggy-food-rhythm"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No moralizing",
+          "No weight-loss advice",
+          "No product recommendation",
+          "No supplement recommendation",
+          "No medical conclusion"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A messy schedule does not need a dramatic reset. It needs a short list of what slipped."
+        },
+        {
+          "type": "p",
+          "text": "The shortest version is enough for a rough week: what meals happened, what drinks carried the day, and which food groups quietly disappeared."
+        },
+        {
+          "type": "h2",
+          "text": "Check meals first"
+        },
+        {
+          "type": "p",
+          "text": "Write whether breakfast, lunch, and dinner happened. If a meal became a snack, write that. If coffee became breakfast, write that too."
+        },
+        {
+          "type": "p",
+          "text": "Do not judge the entry. A busy week is easier to understand when the record is plain."
+        },
+        {
+          "type": "h2",
+          "text": "Check fluids second"
+        },
+        {
+          "type": "p",
+          "text": "Write water, coffee, tea, soda, juice, alcohol, or no drink. Keep fluids visible because they often disappear from memory first."
+        },
+        {
+          "type": "h2",
+          "text": "Check what disappeared"
+        },
+        {
+          "type": "p",
+          "text": "USDA MyPlate uses food groups such as fruits, vegetables, grains, protein foods, and dairy as parts of an overall eating pattern. During a messy week, write which parts rarely appeared."
+        },
+        {
+          "type": "p",
+          "text": "The useful phrase is \"rarely appeared,\" not \"failed.\" The point is to see the pattern without making the week heavier."
+        },
+        {
+          "type": "h2",
+          "text": "The three-day version"
+        },
+        {
+          "type": "p",
+          "text": "Try three plain days instead of a full overhaul. Meals, fluids, produce, protein foods, and long gaps will usually show the first pattern."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "sitting-all-day-energy-feels",
+      "date": "2026-09-11",
+      "category": "Body Signals",
+      "title": "Sitting All Day Can Change How Energy Feels",
+      "summary": "An ordered workday record for sitting, meals, movement breaks, fluids, and energy notes without productivity or medical claims.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Sitting All Day Can Change How Energy Feels | Daily Support Guide",
+        "metaDescription": "Sitting all day can change how energy feels. Use an ordered workday record for sitting, meals, fluids, and movement breaks without medical claims.",
+        "primaryKeyword": "sitting all day energy",
+        "secondaryKeywords": [
+          "sitting all day low energy",
+          "desk day meal rhythm",
+          "workday movement food notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "Sitting All Day Can Change How Energy Feels",
+        "h2": [
+          "Start with the work block",
+          "Add meals and fluids beside it",
+          "Record movement without making a promise",
+          "End with separate fields"
+        ],
+        "faq": [
+          "What should I record on a long sitting day?",
+          "Can sitting all day affect how energy feels?",
+          "Should workday notes become a productivity plan?"
+        ],
+        "internalLinks": [
+          "office-worker-nutrition-blind-spots",
+          "brain-fog-work-lunch-notes",
+          "afternoon-foggy-food-rhythm"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No circulation claims",
+          "No productivity guarantees",
+          "No medical claims",
+          "No exercise prescription",
+          "No weight-loss framing"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A desk-heavy day can feel flat before anything is technically wrong. Put the sitting block, meals, drinks, and movement breaks into one record."
+        },
+        {
+          "type": "p",
+          "text": "This record works best when the day stays in pieces. Sitting time does not need to swallow meal timing, and meal timing does not need to explain the whole afternoon."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the work block"
+        },
+        {
+          "type": "p",
+          "text": "Write when the longest sitting stretch began and ended. If the day moved from chair to car to couch, note that too."
+        },
+        {
+          "type": "p",
+          "text": "CDC physical activity guidance uses a clear general message: move more and sit less. In this article, that stays as background context, not a personal exercise plan."
+        },
+        {
+          "type": "h2",
+          "text": "Add meals and fluids beside it"
+        },
+        {
+          "type": "p",
+          "text": "Place breakfast, lunch, snacks, water, coffee, and other drinks beside the work block. The order can show whether meals were delayed, skipped, or squeezed between meetings."
+        },
+        {
+          "type": "p",
+          "text": "Do not merge food and movement into one score. A clear row is more useful than a tidy judgment."
+        },
+        {
+          "type": "h2",
+          "text": "Record movement without making a promise"
+        },
+        {
+          "type": "p",
+          "text": "The Physical Activity Guidelines for Americans note that adults who sit less and do any amount of moderate-to-vigorous activity gain some health benefits. A workday note can record breaks without promising better energy from one change."
+        },
+        {
+          "type": "p",
+          "text": "Write what happened: stairs, walk, stretch, errand, standing break, or no break. That is enough for the record."
+        },
+        {
+          "type": "h2",
+          "text": "End with separate fields"
+        },
+        {
+          "type": "p",
+          "text": "At the end of the day, keep the row separated: sitting blocks, meals, fluids, breaks, and energy notes. A clear record is better than a single tidy conclusion."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "slow-workout-recovery-meal-record",
+      "date": "2026-09-11",
+      "category": "Body Signals",
+      "title": "Slow Workout Recovery? Start With Your Everyday Meal Record",
+      "summary": "A source-aware meal and routine record for slow workout recovery, without supplement advice, training prescriptions, or performance promises.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Slow Workout Recovery? Start With Your Everyday Meal Record | Daily Support Guide",
+        "metaDescription": "Slow workout recovery can be recorded with meal timing, fluids, sleep, and training context without supplement advice or performance claims.",
+        "primaryKeyword": "slow workout recovery meal record",
+        "secondaryKeywords": [
+          "workout recovery nutrition check",
+          "meal record after exercise",
+          "exercise recovery food rhythm"
+        ],
+        "searchIntent": "informational",
+        "h1": "Slow Workout Recovery? Start With Your Everyday Meal Record",
+        "h2": [
+          "Put the workout and meal on the same page",
+          "Keep fluids visible",
+          "Separate recovery notes from training advice",
+          "Leave the record open"
+        ],
+        "faq": [
+          "What should I record if workout recovery feels slow?",
+          "Should a recovery note include supplements?",
+          "How can I keep workout recovery notes neutral?"
+        ],
+        "internalLinks": [
+          "not-enough-protein-energy-recovery",
+          "drinking-water-still-drained-meals",
+          "new-fitness-routine-recovery-nutrition"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No supplement advice",
+          "No training prescription",
+          "No performance promise",
+          "No personalized macro targets",
+          "No injury or treatment advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Slow recovery after a workout can make people look for a fix too quickly. A steadier move is to put the workout, meals, fluids, and sleep on the same page."
+        },
+        {
+          "type": "p",
+          "text": "The page should show context without trying to coach the workout. Put the workout beside the next meal and the night of sleep, then leave space for what the record cannot know."
+        },
+        {
+          "type": "h2",
+          "text": "Put the workout and meal on the same page"
+        },
+        {
+          "type": "p",
+          "text": "Write the time the workout ended. Then write the next meal or snack, including the main food groups that appeared."
+        },
+        {
+          "type": "p",
+          "text": "MedlinePlus nutrition and athletic performance information discusses carbohydrate, protein, and fluids in exercise contexts. For this article, those stay as note categories, not personal numbers."
+        },
+        {
+          "type": "h2",
+          "text": "Keep fluids visible"
+        },
+        {
+          "type": "p",
+          "text": "Fluid notes are easy to lose. Add what you drank before, during, and after activity when you can remember it."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn the note into a sports drink recommendation. The useful record is what happened, what was skipped, and what is unknown."
+        },
+        {
+          "type": "h2",
+          "text": "Separate recovery notes from training advice"
+        },
+        {
+          "type": "p",
+          "text": "Soreness, fatigue, sleep, workout intensity, stress, and meal timing can overlap. A meal record can show context, but it cannot decide whether a workout plan is appropriate."
+        },
+        {
+          "type": "p",
+          "text": "Avoid writing a conclusion such as \"I need a supplement\" or \"I trained wrong.\" Write the observation instead."
+        },
+        {
+          "type": "h2",
+          "text": "Leave the record open"
+        },
+        {
+          "type": "p",
+          "text": "A useful recovery note does not need to solve training. It can simply show finish time, next meal, fluids, sleep, and how the next day felt."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "coffee-stops-helping-day-rhythm",
+      "date": "2026-09-11",
+      "category": "Body Signals",
+      "title": "When Coffee Stops Helping, Check the Rest of the Day",
+      "summary": "A short caffeine-context checklist for days when coffee stops helping, focused on timing, food, sleep, and what the note cannot decide.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "When Coffee Stops Helping, Check the Rest of the Day | Daily Support Guide",
+        "metaDescription": "When coffee stops helping, check caffeine timing, meals, fluids, sleep, and the rest of the day without amount instructions or medical claims.",
+        "primaryKeyword": "coffee stops helping",
+        "secondaryKeywords": [
+          "coffee not helping tired",
+          "caffeine timing food rhythm",
+          "coffee and daily routine"
+        ],
+        "searchIntent": "informational",
+        "h1": "When Coffee Stops Helping, Check the Rest of the Day",
+        "h2": [
+          "Write the caffeine time",
+          "Add food and water",
+          "Do not use coffee as the whole explanation",
+          "The line worth keeping"
+        ],
+        "faq": [
+          "What should I record when coffee stops helping?",
+          "Can caffeine timing affect sleep?",
+          "Should I change caffeine based on one tired day?"
+        ],
+        "internalLinks": [
+          "afternoon-foggy-food-rhythm",
+          "still-tired-breakfast-structure",
+          "tired-wired-night-food-drink-stimuli"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No caffeine dosing",
+          "No insomnia treatment advice",
+          "No stimulant recommendation",
+          "No supplement recommendation",
+          "No medical conclusion"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Coffee can help for a while. Some days it does not. Do not keep adding explanations. Start with the timeline."
+        },
+        {
+          "type": "p",
+          "text": "The cup is only one part of the record. The quiet details around it often matter too: a rushed morning, no lunch yet, a late night, or caffeine that moved later than usual."
+        },
+        {
+          "type": "h2",
+          "text": "Write the caffeine time"
+        },
+        {
+          "type": "p",
+          "text": "Record coffee, tea, energy drinks, soda, chocolate, or other caffeine sources. MedlinePlus notes that caffeine can be found in several drinks and foods."
+        },
+        {
+          "type": "p",
+          "text": "Do not estimate a dose unless the label clearly shows it. This checklist is about timing and pattern, not building a caffeine plan."
+        },
+        {
+          "type": "h2",
+          "text": "Add food and water"
+        },
+        {
+          "type": "p",
+          "text": "Next to the caffeine line, write whether breakfast or lunch happened. Add water or other drinks too."
+        },
+        {
+          "type": "p",
+          "text": "Coffee may stand out because it is memorable. A skipped meal or long gap may be quieter on the page unless you give it its own line."
+        },
+        {
+          "type": "h2",
+          "text": "Do not use coffee as the whole explanation"
+        },
+        {
+          "type": "p",
+          "text": "CDC sleep guidance includes avoiding caffeine in the afternoon or evening as one sleep-supportive habit. That does not mean one cup explains one bad night or one tired morning."
+        },
+        {
+          "type": "p",
+          "text": "Keep the conclusion narrow: time, source, nearby meals, fluids, sleep, and how the day felt."
+        },
+        {
+          "type": "h2",
+          "text": "The line worth keeping"
+        },
+        {
+          "type": "p",
+          "text": "When coffee stops helping, the useful line is not more dramatic than this: caffeine timing, nearby food, fluids, sleep, and how the day felt."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "craving-sweets-meals-steady",
+      "date": "2026-09-11",
+      "category": "Body Signals",
+      "title": "Craving Sweets Again? Check Whether Meals Are Holding Steady",
+      "summary": "A practical meal-rhythm check for sweet cravings that keeps the record descriptive and avoids turning cravings into a medical conclusion.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Craving Sweets Again? Check Whether Meals Are Holding Steady | Daily Support Guide",
+        "metaDescription": "Craving sweets again? Use a practical meal-rhythm check for timing, meal parts, drinks, and repeat patterns without medical conclusion or supplement advice.",
+        "primaryKeyword": "craving sweets meal rhythm",
+        "secondaryKeywords": [
+          "sweet cravings eating habits",
+          "craving sweets after meals",
+          "meal rhythm and cravings"
+        ],
+        "searchIntent": "informational",
+        "h1": "Craving Sweets Again? Check Whether Meals Are Holding Steady",
+        "h2": [
+          "Build a simple meal timeline",
+          "Check what each meal had to work with",
+          "Separate cravings from conclusions",
+          "What to carry forward"
+        ],
+        "faq": [
+          "What should I record when I keep craving sweets?",
+          "Do sweet cravings mean I am missing a nutrient?",
+          "How can I look at sweet cravings without judging food?"
+        ],
+        "internalLinks": [
+          "afternoon-foggy-food-rhythm",
+          "still-tired-breakfast-structure",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No deficiency claim",
+          "No blood-sugar medical conclusion",
+          "No weight-loss framing",
+          "No supplement recommendation",
+          "No symptom checker"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A sweet craving can feel loud, especially when the day has been rushed. The useful first step is not to argue with it. Write down what came before it."
+        },
+        {
+          "type": "p",
+          "text": "The craving may be the loudest detail, but it is rarely the only detail. A late first meal, a thin lunch, a long meeting, or a stressful errand may belong on the same page."
+        },
+        {
+          "type": "h2",
+          "text": "Build a simple meal timeline"
+        },
+        {
+          "type": "p",
+          "text": "Put the meals in order. Add long gaps, skipped meals, coffee-only mornings, and snack-heavy stretches. Keep the note factual."
+        },
+        {
+          "type": "p",
+          "text": "If the craving usually appears after a long gap or after a thin meal, that is useful context. It is not proof that one nutrient is missing."
+        },
+        {
+          "type": "h2",
+          "text": "Check what each meal had to work with"
+        },
+        {
+          "type": "p",
+          "text": "USDA MyPlate uses food groups such as fruits, vegetables, grains, protein foods, and dairy as parts of an overall eating pattern. For this note, write which parts showed up and which parts were absent."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn the list into a score. A steady meal record is there to show rhythm, not to label the day as good or bad."
+        },
+        {
+          "type": "h2",
+          "text": "Separate cravings from conclusions"
+        },
+        {
+          "type": "p",
+          "text": "A craving is a body signal to notice, not a medical conclusion. Stress, sleep, meal timing, food availability, and routine disruption can all sit in the same record."
+        },
+        {
+          "type": "p",
+          "text": "The safest wording is small: \"This craving followed a long gap\" or \"This week had fewer steady meals.\" Leave the larger meaning open."
+        },
+        {
+          "type": "h2",
+          "text": "What to carry forward"
+        },
+        {
+          "type": "p",
+          "text": "After a few days, look for rhythm rather than blame. If the same gap keeps showing up before the same craving, that is a useful food-pattern note."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "stress-fatigue-food-rhythm",
       "date": "2026-09-10",
       "category": "Body Signals",
@@ -13001,35 +13537,35 @@ window.DSG_CONTENT = {
       "date": "2026-07-25",
       "title": "What Other Ingredients Means on a Supplement Facts Panel",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 7,
       "date": "2026-07-26",
       "title": "How to Compare Capsules, Powders, and Gummies",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 8,
       "date": "2026-07-27",
       "title": "What Third-Party Testing Seals Can and Cannot Tell You",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 9,
       "date": "2026-07-28",
       "title": "How to Read Allergen Statements Without Guessing",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 10,
       "date": "2026-07-29",
       "title": "A Beginner-Friendly Checklist for Comparing Daily Products",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 11,
