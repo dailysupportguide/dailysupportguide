@@ -1,0 +1,654 @@
+[
+  {
+    "day": 11,
+    "date": "2026-09-22",
+    "slug": "grocery-list-from-meals-you-already-eat",
+    "title": "How to Build a Grocery List From Meals You Already Eat",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "An ordered way to build a grocery list from real meals instead of turning the list into a new eating plan.",
+    "seo": {
+      "seoTitle": "Build a Grocery List From Meals You Already Eat | Daily Support Guide",
+      "metaDescription": "Build a grocery list from meals you already eat by noting repeat meals, missing parts, and flexible grocery categories.",
+      "primaryKeyword": "grocery list from meals",
+      "secondaryKeywords": [
+        "meal based grocery list",
+        "simple grocery planning",
+        "food rhythm grocery list"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Build a Grocery List From Meals You Already Eat",
+      "h2": [
+        "Start with repeat meals",
+        "List the parts, not the plan",
+        "Mark what runs out first",
+        "Leave one flexible line"
+      ],
+      "faq": [
+        "How can I build a grocery list from meals I already eat?",
+        "What should I write before making a grocery list?",
+        "How do I keep a grocery list flexible?"
+      ],
+      "internalLinks": [
+        "food-rhythm-without-tracking-everything",
+        "three-zone-grocery-list",
+        "groceries-going-unused"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No diet-plan conversion",
+        "No product recommendation",
+        "No store examples",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning and grocery information.",
+      "USDA MyPlate offers broad food group language for general education.",
+      "CDC resources support routine awareness without individualized medical guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A grocery list is easier to trust when it starts from meals that already happen. Do not begin with a new plan. Begin with evidence from the week."
+      },
+      {
+        "type": "h2",
+        "text": "Start with repeat meals"
+      },
+      {
+        "type": "p",
+        "text": "Write three meals that appeared more than once in the last few weeks. They can be plain: pasta, rice bowl, soup, eggs and toast, sandwich, leftovers, snack lunch."
+      },
+      {
+        "type": "p",
+        "text": "A repeated meal is not a rule. It is a useful row because the kitchen has already shown that it gets used."
+      },
+      {
+        "type": "h2",
+        "text": "List the parts, not the plan"
+      },
+      {
+        "type": "p",
+        "text": "For each repeat meal, list the parts it usually needs: main food, side, fruit or vegetable, bread or grain, sauce, drink, or backup item. Keep the labels broad."
+      },
+      {
+        "type": "p",
+        "text": "This keeps the list close to real meals instead of turning it into a completely new food system."
+      },
+      {
+        "type": "h2",
+        "text": "Mark what runs out first"
+      },
+      {
+        "type": "p",
+        "text": "Circle the part that disappears fastest or blocks the meal when it is missing. That item belongs on the next grocery list before the nice-to-have extras."
+      },
+      {
+        "type": "h2",
+        "text": "Leave one flexible line"
+      },
+      {
+        "type": "p",
+        "text": "Add one flexible line for a food that can work in more than one meal. The point is not variety for its own sake. The point is one item that gives the week more options."
+      },
+      {
+        "type": "p",
+        "text": "That is the whole method here: start with meals already in use, then leave one flexible line. General education, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 11 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum after Day 12 wording/closing variation revision. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "revised_then_delta_passed",
+        "gemini": "passed_initial_and_delta",
+        "claude": "passed_initial_with_note_and_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 12,
+    "date": "2026-09-22",
+    "slug": "three-zone-grocery-list",
+    "title": "The Three-Zone Grocery List: Fresh, Pantry, Flexible",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A three-zone grocery list structure that separates fresh items, pantry items, and flexible meal helpers without naming stores or products.",
+    "seo": {
+      "seoTitle": "The Three-Zone Grocery List | Daily Support Guide",
+      "metaDescription": "Use a three-zone grocery list for fresh, pantry, and flexible items so weekly shopping stays practical and easy to review.",
+      "primaryKeyword": "three zone grocery list",
+      "secondaryKeywords": [
+        "fresh pantry flexible list",
+        "simple grocery categories",
+        "weekly grocery rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Three-Zone Grocery List: Fresh, Pantry, Flexible",
+      "h2": [
+        "Zone one: fresh",
+        "Zone two: pantry",
+        "Zone three: flexible",
+        "Review the empty zones",
+        "Keep the zones visible"
+      ],
+      "faq": [
+        "What is a three-zone grocery list?",
+        "How do fresh, pantry, and flexible grocery zones work?",
+        "How can I review a grocery list after shopping?"
+      ],
+      "internalLinks": [
+        "grocery-list-from-meals-you-already-eat",
+        "make-pantry-easier-to-use",
+        "weekly-grocery-reflection"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand examples",
+        "No store examples",
+        "No product picks",
+        "No diet rules"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes grocery and meal planning resources for general education.",
+      "USDA MyPlate supports broad category language for food group discussion.",
+      "CDC resources support everyday routine awareness."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A grocery list can be easier to use when it has zones. The zones do not tell you what to buy. They tell you where each item works in the week."
+      },
+      {
+        "type": "h2",
+        "text": "Zone one: fresh"
+      },
+      {
+        "type": "p",
+        "text": "Fresh items are the foods you want to see and use soon: fruit, vegetables, dairy foods, prepared ingredients, leftovers that need a plan, or anything that usually gets forgotten at the back."
+      },
+      {
+        "type": "h2",
+        "text": "Zone two: pantry"
+      },
+      {
+        "type": "p",
+        "text": "Pantry items are the steady supports: grains, cans, jars, dry goods, oils, seasonings, or freezer-friendly basics. Write the category, not a specific label."
+      },
+      {
+        "type": "h2",
+        "text": "Zone three: flexible"
+      },
+      {
+        "type": "p",
+        "text": "Flexible items can move between meals. They might help breakfast, lunch, dinner, or a snack depending on the day. This zone is useful when the week is not fully predictable."
+      },
+      {
+        "type": "h2",
+        "text": "Review the empty zones"
+      },
+      {
+        "type": "p",
+        "text": "After shopping, look at which zone stayed empty or became too full. An empty fresh zone may show that fresh items were not available when meals came together. An overfilled flexible zone may show that too many options had no clear meal role."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the zones visible"
+      },
+      {
+        "type": "p",
+        "text": "Fresh, pantry, flexible. Three headings are enough for the note. Use the zones as general education for grocery rhythm, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 12 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum after Day 12 wording/closing variation revision. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "revised_then_delta_passed",
+        "gemini": "passed_initial_and_delta",
+        "claude": "passed_initial_with_note_and_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 13,
+    "date": "2026-09-22",
+    "slug": "grocery-shopping-without-diet-project",
+    "title": "How to Shop Without Turning It Into a Diet Project",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A wording-focused guide for keeping grocery shopping practical without body-change language, food moralizing, or rigid rules.",
+    "seo": {
+      "seoTitle": "How to Shop Without Turning It Into a Diet Project | Daily Support Guide",
+      "metaDescription": "Keep grocery shopping practical with neutral list language, useful categories, and ordinary meal rhythm instead of diet-project thinking.",
+      "primaryKeyword": "grocery shopping without diet",
+      "secondaryKeywords": [
+        "neutral grocery list",
+        "shopping without food rules",
+        "food rhythm shopping"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Shop Without Turning It Into a Diet Project",
+      "h2": [
+        "The list language matters",
+        "Replace correction with support",
+        "Use meal roles instead of food labels",
+        "Keep the list answerable"
+      ],
+      "faq": [
+        "How can grocery shopping stay practical instead of becoming a diet project?",
+        "What words should I avoid on a grocery list?",
+        "How can I write a neutral grocery list?"
+      ],
+      "internalLinks": [
+        "snacks-without-good-bad-labels",
+        "holiday-meals-without-overcorrecting",
+        "groceries-going-unused"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No body-change language",
+        "No food moralizing",
+        "No restriction advice",
+        "No product recommendation"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general grocery and meal planning resources.",
+      "USDA MyPlate provides broad food group language for general education.",
+      "CDC public health resources support neutral routine awareness."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Grocery shopping changes when the list starts sounding like a personal correction. The cart becomes less about the week and more about proving something."
+      },
+      {
+        "type": "p",
+        "text": "The safer move is boring in the best way: write a list that answers ordinary meals."
+      },
+      {
+        "type": "h2",
+        "text": "The list language matters"
+      },
+      {
+        "type": "p",
+        "text": "Words such as clean, bad, allowed, off-limits, reset, and make up for can turn a grocery note into a judgment. They do not make the list clearer."
+      },
+      {
+        "type": "h2",
+        "text": "Replace correction with support"
+      },
+      {
+        "type": "p",
+        "text": "Instead of writing what the week should become, write what the week needs to function: breakfast option, lunch base, dinner backup, snack shelf, something fresh, something easy to use."
+      },
+      {
+        "type": "h2",
+        "text": "Use meal roles instead of food labels"
+      },
+      {
+        "type": "p",
+        "text": "Meal roles keep the list practical. A food can be a breakfast helper, a lunch base, a dinner side, a quick snack, or a flexible extra. The role matters more than a perfect category."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the list answerable"
+      },
+      {
+        "type": "p",
+        "text": "Before shopping, ask whether each item answers a real moment in the week. If it does not, leave it as optional. Optional is clearer than pretending every item has a job."
+      },
+      {
+        "type": "p",
+        "text": "A grocery list can support the week without becoming a diet project. Keep that boundary in the note: general education, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 13 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum after Day 12 wording/closing variation revision. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "revised_then_delta_passed",
+        "gemini": "passed_initial_and_delta",
+        "claude": "passed_initial_with_note_and_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 14,
+    "date": "2026-09-22",
+    "slug": "compare-grocery-staples",
+    "title": "A Simple Way to Compare Grocery Staples",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A source-aware comparison note for grocery staples that avoids winner language, product picks, and brand examples.",
+    "seo": {
+      "seoTitle": "A Simple Way to Compare Grocery Staples | Daily Support Guide",
+      "metaDescription": "Compare grocery staples with a simple note for role, amount, storage, and repeat use without naming a best product.",
+      "primaryKeyword": "compare grocery staples",
+      "secondaryKeywords": [
+        "grocery staple comparison",
+        "simple grocery notes",
+        "pantry staple notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Way to Compare Grocery Staples",
+      "h2": [
+        "Put the role first",
+        "Add amount and storage",
+        "Write the repeat-use note",
+        "Leave winner language out",
+        "What remains unknown"
+      ],
+      "faq": [
+        "How can I compare grocery staples without picking a winner?",
+        "What fields should a grocery staple note include?",
+        "How can I keep staple comparisons practical?"
+      ],
+      "internalLinks": [
+        "three-zone-grocery-list",
+        "make-pantry-easier-to-use",
+        "kitchen-missing-food-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No winner framing",
+        "No product picks",
+        "No brand examples",
+        "No affiliate language"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes shopping and meal planning resources.",
+      "USDA MyPlate supports broad food group language without product recommendations.",
+      "CDC resources support general routine awareness."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Comparing grocery staples does not require choosing a winner. A useful comparison shows what each item does in your kitchen."
+      },
+      {
+        "type": "h2",
+        "text": "Put the role first"
+      },
+      {
+        "type": "p",
+        "text": "Use one row per staple. Start with the role: breakfast base, lunch filler, dinner side, snack helper, pantry backup, freezer option, or flexible ingredient."
+      },
+      {
+        "type": "h2",
+        "text": "Add amount and storage"
+      },
+      {
+        "type": "p",
+        "text": "Write the amount you usually use and where the item lives. Cabinet, fridge, freezer, counter, lunch bag. Storage matters because hidden food often becomes forgotten food."
+      },
+      {
+        "type": "h2",
+        "text": "Write the repeat-use note"
+      },
+      {
+        "type": "p",
+        "text": "Add whether the item worked more than once. Once, twice, many times, or not used. Do not explain too much. The repeat-use note is enough for a first comparison."
+      },
+      {
+        "type": "h2",
+        "text": "Leave winner language out"
+      },
+      {
+        "type": "p",
+        "text": "Skip best, worst, one essential, and perfect. Those words make the note sound more certain than it is. Use fit this week or did not fit this week instead."
+      },
+      {
+        "type": "h2",
+        "text": "What remains unknown"
+      },
+      {
+        "type": "p",
+        "text": "A staple comparison can show role, amount, storage, and repeat use. It cannot decide what every future week needs. Keep that question open; this is general education, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 14 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum after Day 12 wording/closing variation revision. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "revised_then_delta_passed",
+        "gemini": "passed_initial_and_delta",
+        "claude": "passed_initial_with_note_and_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 15,
+    "date": "2026-09-22",
+    "slug": "groceries-going-unused",
+    "title": "What to Notice When Groceries Keep Going Unused",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful food-waste reflection that treats unused groceries as planning information rather than shame or failure.",
+    "seo": {
+      "seoTitle": "What to Notice When Groceries Keep Going Unused | Daily Support Guide",
+      "metaDescription": "Notice why groceries keep going unused with neutral food-waste notes about visibility, timing, effort, and meal fit.",
+      "primaryKeyword": "groceries going unused",
+      "secondaryKeywords": [
+        "unused groceries",
+        "food waste reflection",
+        "grocery rhythm notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "What to Notice When Groceries Keep Going Unused",
+      "h2": [
+        "Do not start with blame",
+        "Check visibility",
+        "Check timing",
+        "Check effort",
+        "Use the note next time"
+      ],
+      "faq": [
+        "Why do groceries keep going unused?",
+        "How can I write neutral notes about unused groceries?",
+        "What should I change after food goes unused?"
+      ],
+      "internalLinks": [
+        "three-zone-grocery-list",
+        "weekly-grocery-reflection",
+        "fridge-reset-food-waste"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No shame language",
+        "No guilt framing",
+        "No product organizer recommendation",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes meal planning and grocery resources.",
+      "USDA MyPlate provides broad food group language for general education.",
+      "CDC resources support everyday routine awareness."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Unused groceries can feel like a small accusation every time the fridge opens. That feeling is understandable. It is also not very informative."
+      },
+      {
+        "type": "h2",
+        "text": "Do not start with blame"
+      },
+      {
+        "type": "p",
+        "text": "Words like wasteful, lazy, careless, and failed make the note heavier without making it clearer. Start with the item and the reason it stayed unused, if the reason is visible."
+      },
+      {
+        "type": "h2",
+        "text": "Check visibility"
+      },
+      {
+        "type": "p",
+        "text": "Was the food hidden behind something else, kept in the wrong place, or opened too late? Visibility is a practical detail, not a character issue."
+      },
+      {
+        "type": "h2",
+        "text": "Check timing"
+      },
+      {
+        "type": "p",
+        "text": "Some groceries miss the week because the right meal never happened. Write the missed moment: planned lunch, busy dinner, weekend breakfast, snack shelf, shared meal."
+      },
+      {
+        "type": "h2",
+        "text": "Check effort"
+      },
+      {
+        "type": "p",
+        "text": "Food can be available and still ask for more effort than the day had left. Note whether washing, chopping, cooking, thawing, or deciding became the barrier."
+      },
+      {
+        "type": "h2",
+        "text": "Use the note next time"
+      },
+      {
+        "type": "p",
+        "text": "Next time, write one adjustment: buy less, make it visible sooner, pair it with a meal, or choose an easier category. The note is planning information, used for general education rather than medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 15 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum after Day 12 wording/closing variation revision. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "revised_then_delta_passed",
+        "gemini": "passed_initial_and_delta",
+        "claude": "passed_initial_with_note_and_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  }
+]

@@ -11,6 +11,9 @@ const scheduledSources = [
   },
   {
     path: path.join(root, "content", "scheduled", "nutrient-articles.json")
+  },
+  {
+    path: path.join(root, "content", "scheduled", "food-rhythm-articles.json")
   }
 ];
 

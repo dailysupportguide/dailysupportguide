@@ -1,0 +1,566 @@
+[
+  {
+    "day": 46,
+    "date": "2026-09-29",
+    "slug": "five-minute-meal-pattern-review",
+    "title": "The Five-Minute Meal Pattern Review",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A clipped five-minute meal pattern review that keeps food rhythm visible without intense tracking or strict rules.",
+    "seo": {
+      "seoTitle": "The Five-Minute Meal Pattern Review | Daily Support Guide",
+      "metaDescription": "Use a five-minute meal pattern review for timing, groceries, leftovers, and one small next step without intense tracking.",
+      "primaryKeyword": "five minute meal pattern review",
+      "secondaryKeywords": [
+        "meal pattern review",
+        "food rhythm checklist",
+        "quick meal notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Five-Minute Meal Pattern Review",
+      "h2": [
+        "Set the timer",
+        "Find the repeat",
+        "Pick one next step"
+      ],
+      "faq": [
+        "What is a five-minute meal pattern review?",
+        "How can meal notes stay short?",
+        "What should I change after reviewing meals?"
+      ],
+      "internalLinks": [
+        "weekly-food-rhythm-reset",
+        "two-minute-meal-note",
+        "monthly-food-rhythm-check-in"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No intense tracking",
+        "No strict food rules",
+        "No performance claims",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Five minutes. One page. No full recap."
+      },
+      {
+        "type": "h2",
+        "text": "Set the timer"
+      },
+      {
+        "type": "p",
+        "text": "Write four rows: breakfast, lunch, dinner, snacks. Add only what you remember without hunting through the week."
+      },
+      {
+        "type": "h2",
+        "text": "Find the repeat"
+      },
+      {
+        "type": "p",
+        "text": "Circle one repeat: late lunch, no backup dinner, groceries unused, snacks replacing a meal, breakfast depending on commute time, or weekends moving Monday."
+      },
+      {
+        "type": "h2",
+        "text": "Pick one next step"
+      },
+      {
+        "type": "p",
+        "text": "Choose one action small enough to do tomorrow: move leftovers forward, name a fallback, buy one flexible base, pack one side, or write the first meal on the calendar."
+      },
+      {
+        "type": "p",
+        "text": "Then stop. A review that becomes a project will not stay useful."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 46 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 47,
+    "date": "2026-09-29",
+    "slug": "weekly-grocery-reflection",
+    "title": "A Simple Weekly Grocery Reflection",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm weekly grocery reflection for noticing what was used, what waited, and what can be easier next week.",
+    "seo": {
+      "seoTitle": "A Simple Weekly Grocery Reflection | Daily Support Guide",
+      "metaDescription": "Reflect on weekly groceries with gentle notes about what was used, what waited, and what can be easier next week.",
+      "primaryKeyword": "weekly grocery reflection",
+      "secondaryKeywords": [
+        "weekly grocery notes",
+        "grocery reflection",
+        "food rhythm groceries"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Weekly Grocery Reflection",
+      "h2": [
+        "Start with what worked",
+        "Notice what waited",
+        "Make next week a little easier"
+      ],
+      "faq": [
+        "How can I reflect on groceries without shame?",
+        "What should a weekly grocery note include?",
+        "How can grocery notes help next week?"
+      ],
+      "internalLinks": [
+        "groceries-going-unused",
+        "grocery-reset-after-trip",
+        "three-zone-grocery-list"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No shame over waste",
+        "No strict grocery rules",
+        "No product suggestions",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A grocery reflection is not a lecture from the fridge. It is a short look at what the week actually asked for."
+      },
+      {
+        "type": "h2",
+        "text": "Start with what worked"
+      },
+      {
+        "type": "p",
+        "text": "Write the foods that found a place: bread used for two meals, soup that saved a late night, fruit that was easy to reach, leftovers that became lunch."
+      },
+      {
+        "type": "h2",
+        "text": "Notice what waited"
+      },
+      {
+        "type": "p",
+        "text": "Some groceries wait because the week changed. Some wait because they needed a clearer meal. Some wait because they sounded better at the store than at home."
+      },
+      {
+        "type": "p",
+        "text": "A small record is enough: used, waited, forgotten, needed a plan, or should be bought later next time."
+      },
+      {
+        "type": "h2",
+        "text": "Make next week a little easier"
+      },
+      {
+        "type": "p",
+        "text": "Choose one grocery note for next week. Maybe one less fresh item. Maybe one more flexible base. Maybe a visible lunch option before the week gets noisy."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 47 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 48,
+    "date": "2026-09-29",
+    "slug": "flexible-meal-template",
+    "title": "How to Build Your Own Flexible Meal Template",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "An ordered flexible meal template system that uses broad fields instead of a strict diet plan.",
+    "seo": {
+      "seoTitle": "How to Build Your Own Flexible Meal Template | Daily Support Guide",
+      "metaDescription": "Build a flexible meal template with broad fields for base, add-on, timing, and fallback without turning it into a diet plan.",
+      "primaryKeyword": "flexible meal template",
+      "secondaryKeywords": [
+        "meal template fields",
+        "flexible dinner template",
+        "food rhythm template"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Build Your Own Flexible Meal Template",
+      "h2": [
+        "Use fields instead of rules",
+        "Keep the base broad",
+        "Add timing and fallback",
+        "Test the template once"
+      ],
+      "faq": [
+        "What belongs in a flexible meal template?",
+        "How is a meal template different from a diet plan?",
+        "How can I test a meal template?"
+      ],
+      "internalLinks": [
+        "flexible-dinner-template",
+        "backup-meals-without-overplanning",
+        "five-minute-meal-pattern-review"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No diet-plan language",
+        "No rigid meal rules",
+        "No product examples",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A flexible meal template should reduce decisions without deciding the whole meal in advance."
+      },
+      {
+        "type": "h2",
+        "text": "Use fields instead of rules"
+      },
+      {
+        "type": "p",
+        "text": "Start with four fields: base, add-on, timing, fallback. Each field should accept more than one answer."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the base broad"
+      },
+      {
+        "type": "p",
+        "text": "The base can be rice, pasta, soup, bread, eggs, leftovers, salad, vegetables, or another ordinary starting point. The base is a place to begin, not a requirement."
+      },
+      {
+        "type": "h2",
+        "text": "Add timing and fallback"
+      },
+      {
+        "type": "p",
+        "text": "Timing tells the template where it has to work: early, shared, late, packed, after errands, or after a long day. Fallback tells it what happens if the first plan does not fit."
+      },
+      {
+        "type": "h2",
+        "text": "Test the template once"
+      },
+      {
+        "type": "p",
+        "text": "Use the template for one meal and write what was missing. Keep the missing field visible. Change the field, not the whole system."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 48 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 49,
+    "date": "2026-09-29",
+    "slug": "monthly-food-rhythm-check-in",
+    "title": "The Monthly Food Rhythm Check-In",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical monthly food rhythm note sheet that keeps conclusions open and avoids medical or performance claims.",
+    "seo": {
+      "seoTitle": "The Monthly Food Rhythm Check-In | Daily Support Guide",
+      "metaDescription": "Use a monthly food rhythm check-in for broad timing and grocery notes without medical conclusions, performance claims, or rigid tracking.",
+      "primaryKeyword": "monthly food rhythm check in",
+      "secondaryKeywords": [
+        "monthly food notes",
+        "food rhythm review",
+        "meal pattern check in"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Monthly Food Rhythm Check-In",
+      "h2": [
+        "Use a short source list",
+        "Compare the month by category",
+        "Keep conclusions open"
+      ],
+      "faq": [
+        "What is a monthly food rhythm check-in?",
+        "How can monthly food notes stay simple?",
+        "What should monthly food notes avoid?"
+      ],
+      "internalLinks": [
+        "five-minute-meal-pattern-review",
+        "weekly-grocery-reflection",
+        "food-rhythm-without-tracking"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No medical conclusions",
+        "No performance claims",
+        "No rigid tracking",
+        "No diagnosis language"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A monthly check-in should stay broad. It is a way to compare food rhythm notes, not a way to explain health, work, or mood."
+      },
+      {
+        "type": "h2",
+        "text": "Use a short source list"
+      },
+      {
+        "type": "p",
+        "text": "Put the sources in separate rows: grocery notes, meal timing notes, pantry notes, snack notes, travel weeks, and shared meals. If a source is missing, mark it missing."
+      },
+      {
+        "type": "h2",
+        "text": "Compare the month by category"
+      },
+      {
+        "type": "p",
+        "text": "Use categories that can be checked: breakfast timing, lunch placement, dinner fallback, groceries used, groceries waiting, snacks, eating out, and travel days."
+      },
+      {
+        "type": "h2",
+        "text": "Keep conclusions open"
+      },
+      {
+        "type": "p",
+        "text": "A useful conclusion might say: lunch timing changed in travel weeks, groceries worked better when dinner had a base, or weekends moved the first weekday meal."
+      },
+      {
+        "type": "p",
+        "text": "Leave bigger conclusions outside the note. The monthly check-in is for patterns you can actually see."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 49 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 50,
+    "date": "2026-09-29",
+    "slug": "everyday-food-rhythm-system",
+    "title": "Everyday Food Rhythm: A Calm System for Real Life",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful series capstone that describes Everyday Food Rhythm as a flexible note system, not a rule set.",
+    "seo": {
+      "seoTitle": "Everyday Food Rhythm: A Calm System for Real Life | Daily Support Guide",
+      "metaDescription": "Understand Everyday Food Rhythm as a flexible system for ordinary meal, grocery, snack, and timing notes without food rules.",
+      "primaryKeyword": "everyday food rhythm system",
+      "secondaryKeywords": [
+        "food rhythm system",
+        "everyday meal notes",
+        "flexible food rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "Everyday Food Rhythm: A Calm System for Real Life",
+      "h2": [
+        "Define the system carefully",
+        "Protect the boundaries",
+        "Let the notes stay ordinary"
+      ],
+      "faq": [
+        "What is Everyday Food Rhythm?",
+        "Is food rhythm a set of food rules?",
+        "How should food rhythm notes be used?"
+      ],
+      "internalLinks": [
+        "food-rhythm-without-tracking",
+        "flexible-meal-template",
+        "monthly-food-rhythm-check-in"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No rule-set framing",
+        "No medical advice",
+        "No body-change framing",
+        "No rigid tracking"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Everyday Food Rhythm is a system only in the lightest sense. It gives ordinary meals a place to be noticed without turning them into rules."
+      },
+      {
+        "type": "h2",
+        "text": "Define the system carefully"
+      },
+      {
+        "type": "p",
+        "text": "The system has a few plain parts: timing, groceries, pantry, snacks, shared meals, eating out, travel, and weekly reflection. Each part is a note field, not an instruction."
+      },
+      {
+        "type": "h2",
+        "text": "Protect the boundaries"
+      },
+      {
+        "type": "p",
+        "text": "Food rhythm should not decide what someone is allowed to eat, what a meal means, or whether a week was good. It should not borrow medical language or turn Monday into a correction."
+      },
+      {
+        "type": "p",
+        "text": "The wording matters because the note has to remain usable. A note that judges the person will usually stop describing the pattern."
+      },
+      {
+        "type": "h2",
+        "text": "Let the notes stay ordinary"
+      },
+      {
+        "type": "p",
+        "text": "A good food rhythm note can be small: lunch moved late, groceries needed a clearer meal, travel changed dinner, the fallback helped, or the weekend moved Monday."
+      },
+      {
+        "type": "p",
+        "text": "That is enough for the system to do its job. It keeps the next meal visible without making the meal carry more than it should."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 50 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  }
+]

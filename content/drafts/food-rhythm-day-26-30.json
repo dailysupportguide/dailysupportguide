@@ -1,0 +1,579 @@
+[
+  {
+    "day": 26,
+    "date": "2026-09-25",
+    "slug": "read-menu-without-perfect-choice",
+    "title": "How to Read a Menu Without Searching for the Perfect Choice",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A wording-focused article that helps readers keep menu choices practical without perfect-choice pressure or diet language.",
+    "seo": {
+      "seoTitle": "Read a Menu Without Searching for the Perfect Choice | Daily Support Guide",
+      "metaDescription": "Read a menu with practical choice language that avoids perfect-choice pressure, food moralizing, and restaurant recommendations.",
+      "primaryKeyword": "read menu without perfect choice",
+      "secondaryKeywords": [
+        "menu choice pressure",
+        "neutral menu notes",
+        "eating out food rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Read a Menu Without Searching for the Perfect Choice",
+      "h2": [
+        "A word to retire",
+        "A better question",
+        "A menu note that stays small"
+      ],
+      "faq": [
+        "How can I read a menu without looking for the perfect choice?",
+        "What menu words create pressure?",
+        "How can eating out notes stay neutral?"
+      ],
+      "internalLinks": [
+        "grocery-shopping-without-diet-project",
+        "snacks-without-good-bad-labels",
+        "holiday-meals-without-overcorrecting"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No restaurant recommendations",
+        "No good/bad food labels",
+        "No body-change framing",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group language without ranking specific meals.",
+      "CDC resources support routine awareness without individualized guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A menu can start sounding like a test when the word perfect enters the room. The word asks the meal to do more than a meal can do."
+      },
+      {
+        "type": "h2",
+        "text": "A word to retire"
+      },
+      {
+        "type": "p",
+        "text": "Perfect is not a useful menu word. It turns the choice into a ranking, then makes every other option sound like evidence against you."
+      },
+      {
+        "type": "h2",
+        "text": "A better question"
+      },
+      {
+        "type": "p",
+        "text": "Ask what fits this meal. Fit can mean time, appetite, group preference, price range, quiet, speed, or what still needs to happen after leaving the table."
+      },
+      {
+        "type": "p",
+        "text": "That wording is deliberately modest. It does not name a best choice. It only names the conditions the meal has to answer."
+      },
+      {
+        "type": "h2",
+        "text": "A menu note that stays small"
+      },
+      {
+        "type": "p",
+        "text": "Write one line after the meal if it helps: fit the time, fit the group, too rushed, better for another day, or not worth repeating right now."
+      },
+      {
+        "type": "p",
+        "text": "The note should stay smaller than the meal. It is there to reduce pressure the next time a menu feels louder than it needs to be."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 26 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 27,
+    "date": "2026-09-25",
+    "slug": "delivery-meals-what-to-notice",
+    "title": "Delivery Meals: What to Notice Before Ordering Again",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A source-aware delivery meal note that focuses on timing, reason, repeat use, and what remains unknown without naming apps or brands.",
+    "seo": {
+      "seoTitle": "Delivery Meals: What to Notice Before Ordering Again | Daily Support Guide",
+      "metaDescription": "Notice delivery meal patterns with simple fields for timing, reason, repeat use, and next-week context without naming apps or brands.",
+      "primaryKeyword": "delivery meals what to notice",
+      "secondaryKeywords": [
+        "delivery meal notes",
+        "takeout rhythm",
+        "food delivery pattern"
+      ],
+      "searchIntent": "informational",
+      "h1": "Delivery Meals: What to Notice Before Ordering Again",
+      "h2": [
+        "Use one delivery row",
+        "Separate reason from repeat",
+        "Leave one unknown visible"
+      ],
+      "faq": [
+        "What should I notice before ordering delivery again?",
+        "How can delivery meal notes avoid app or brand mentions?",
+        "What fields belong in a delivery meal note?"
+      ],
+      "internalLinks": [
+        "two-minute-meal-note",
+        "kitchen-missing-food-notes",
+        "monthly-food-rhythm-check-in"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No app names",
+        "No brand mentions",
+        "No restaurant recommendations",
+        "No shame language"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group discussion without naming food vendors.",
+      "CDC resources support routine awareness without personal conclusions."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A delivery meal note should stay close to the order, but it does not need five separate fields every time. One row is often enough."
+      },
+      {
+        "type": "h2",
+        "text": "Use one delivery row"
+      },
+      {
+        "type": "p",
+        "text": "Write the meal type and moment in the same row: delivery after work, pickup between plans, shared order during travel, late dinner when cooking ran out of time."
+      },
+      {
+        "type": "p",
+        "text": "Keep service names and vendor names out of the note. The source can be described without naming the platform or place."
+      },
+      {
+        "type": "h2",
+        "text": "Separate reason from repeat"
+      },
+      {
+        "type": "p",
+        "text": "Put the reason in plain language: no ready meal, group preference, time short, kitchen crowded, plan changed, too tired to decide. Then mark whether the reason repeated."
+      },
+      {
+        "type": "p",
+        "text": "Repeat reason matters more than repeat order. It points to the part of the week that may need a backup."
+      },
+      {
+        "type": "h2",
+        "text": "Leave one unknown visible"
+      },
+      {
+        "type": "p",
+        "text": "End with one open question: was the grocery trip late, was the home option unclear, did the group need flexibility, or was the day simply full?"
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 27 passed internal safety draft, human-polish pass, Day 27 structure micro-delta revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 28,
+    "date": "2026-09-25",
+    "slug": "balance-takeout-across-week",
+    "title": "A Simple Way to Balance Takeout Across the Week",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm weekly takeout rhythm article that keeps takeout practical without strict food rules, guilt, or overcorrection.",
+    "seo": {
+      "seoTitle": "A Simple Way to Balance Takeout Across the Week | Daily Support Guide",
+      "metaDescription": "Balance takeout across the week with gentle meal rhythm notes, flexible home meals, and practical planning without strict food rules.",
+      "primaryKeyword": "balance takeout across week",
+      "secondaryKeywords": [
+        "takeout weekly rhythm",
+        "takeout without strict rules",
+        "food rhythm takeout"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Way to Balance Takeout Across the Week",
+      "h2": [
+        "When takeout helped",
+        "When the kitchen needed another option",
+        "Add a simple bridge meal"
+      ],
+      "faq": [
+        "How can I balance takeout across the week?",
+        "How can takeout notes avoid strict food rules?",
+        "What should I notice after several takeout meals?"
+      ],
+      "internalLinks": [
+        "simple-dinner-after-long-day",
+        "backup-meals-without-overplanning",
+        "weekly-food-rhythm-reset"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No strict food rules",
+        "No guilt framing",
+        "No restaurant recommendations",
+        "No body-change framing"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Takeout can be part of a real week, especially when the day gets crowded in ways nobody planned. It does not have to be defended every time it appears."
+      },
+      {
+        "type": "h2",
+        "text": "When takeout helped"
+      },
+      {
+        "type": "p",
+        "text": "Look for the moments when ordering food made the evening workable: the late meeting, the shared dinner, the travel day, the night groceries did not happen, the meal between two obligations."
+      },
+      {
+        "type": "p",
+        "text": "Those meals do not need a correction note. They may simply show where the week was full."
+      },
+      {
+        "type": "h2",
+        "text": "When the kitchen needed another option"
+      },
+      {
+        "type": "p",
+        "text": "A different note is useful when takeout happened because the kitchen had no easy next step. Maybe dinner needed a backup. Maybe lunch needed a repeatable base. Maybe the house needed one flexible meal that could wait."
+      },
+      {
+        "type": "p",
+        "text": "You do not have to turn that into a rule. A gentle weekly note can say: keep one home option near the night that usually spills over."
+      },
+      {
+        "type": "p",
+        "text": "The goal is a little more choice in the week, not a ban on the easy meal."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 28 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 29,
+    "date": "2026-09-25",
+    "slug": "restaurant-notes-neutral",
+    "title": "How to Keep Restaurant Notes Neutral and Useful",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A structured restaurant note method that records meal role, timing, group context, and repeat usefulness without rankings or product picks.",
+    "seo": {
+      "seoTitle": "How to Keep Restaurant Notes Neutral and Useful | Daily Support Guide",
+      "metaDescription": "Keep restaurant notes neutral with simple fields for meal role, timing, group context, and repeat usefulness without ranking or product picks.",
+      "primaryKeyword": "restaurant notes neutral",
+      "secondaryKeywords": [
+        "neutral restaurant notes",
+        "eating out notes",
+        "restaurant meal rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Keep Restaurant Notes Neutral and Useful",
+      "h2": [
+        "Start the row",
+        "Role",
+        "Timing",
+        "People",
+        "Next-use word"
+      ],
+      "faq": [
+        "How can restaurant notes stay neutral?",
+        "What should I write after eating out?",
+        "How can eating out notes avoid rankings?"
+      ],
+      "internalLinks": [
+        "read-menu-without-perfect-choice",
+        "delivery-meals-what-to-notice",
+        "shared-meals-different-preferences"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No rankings",
+        "No product picks",
+        "No restaurant recommendations",
+        "No brand or store examples"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes broad meal planning resources.",
+      "USDA MyPlate supports general food group language without ranking meals.",
+      "CDC resources support routine awareness without individualized guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A restaurant note is more useful when it is not a rating. Start one row and keep the fields factual."
+      },
+      {
+        "type": "h2",
+        "text": "Start the row"
+      },
+      {
+        "type": "p",
+        "text": "Use four columns: role, timing, people, next-use word. Do not add stars, winners, or a score column."
+      },
+      {
+        "type": "h2",
+        "text": "Role"
+      },
+      {
+        "type": "p",
+        "text": "Write why the meal happened: quick lunch, shared dinner, travel stop, after-event meal, late meal, planned outing, backup dinner."
+      },
+      {
+        "type": "h2",
+        "text": "Timing"
+      },
+      {
+        "type": "p",
+        "text": "Write when it fit the day. Timing explains more than a rating because the same meal can work in one moment and feel awkward in another."
+      },
+      {
+        "type": "h2",
+        "text": "People"
+      },
+      {
+        "type": "p",
+        "text": "If other people were part of the choice, note that plainly: mixed preferences, limited time, shared table, celebration, quiet meal, group convenience."
+      },
+      {
+        "type": "h2",
+        "text": "Next-use word"
+      },
+      {
+        "type": "p",
+        "text": "Use one of three words: repeat, maybe, or not now. Keep the row private and practical."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 29 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 30,
+    "date": "2026-09-25",
+    "slug": "eating-out-becomes-default",
+    "title": "What to Do When Eating Out Becomes the Default",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A direct checklist for eating-out-heavy weeks that avoids shame language, restriction, and strict correction plans.",
+    "seo": {
+      "seoTitle": "What to Do When Eating Out Becomes the Default | Daily Support Guide",
+      "metaDescription": "Use a direct checklist when eating out becomes the default, with practical food rhythm notes instead of shame or strict rules.",
+      "primaryKeyword": "eating out becomes default",
+      "secondaryKeywords": [
+        "eating out default",
+        "eating out checklist",
+        "food rhythm eating out"
+      ],
+      "searchIntent": "informational",
+      "h1": "What to Do When Eating Out Becomes the Default",
+      "h2": [
+        "Count first",
+        "Find the failure point",
+        "Add one backup"
+      ],
+      "faq": [
+        "What can I do when eating out becomes the default?",
+        "How can I notice eating-out-heavy weeks without shame?",
+        "How can I add one home backup meal?"
+      ],
+      "internalLinks": [
+        "simple-dinner-after-long-day",
+        "delivery-meals-what-to-notice",
+        "holiday-meals-without-overcorrecting"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No shame language",
+        "No restriction advice",
+        "No body-fix or compensation framing",
+        "No body-change framing"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If eating out became the default, count first. No lecture."
+      },
+      {
+        "type": "h2",
+        "text": "Count first"
+      },
+      {
+        "type": "p",
+        "text": "Write the last seven dinners. Mark home, out, delivery, pickup, shared, or leftovers. That is the whole first step."
+      },
+      {
+        "type": "h2",
+        "text": "Find the failure point"
+      },
+      {
+        "type": "p",
+        "text": "Look for the meal that kept failing: quick dinner, packed lunch, late-night backup, weekend breakfast, after-work food."
+      },
+      {
+        "type": "h2",
+        "text": "Add one backup"
+      },
+      {
+        "type": "p",
+        "text": "Choose one home backup for that missing meal. One. Keep it boring enough to actually use."
+      },
+      {
+        "type": "p",
+        "text": "Do not write never eating out. Write one easier home option. Then stop."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 30 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  }
+]

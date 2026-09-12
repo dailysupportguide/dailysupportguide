@@ -1,0 +1,585 @@
+[
+  {
+    "day": 31,
+    "date": "2026-09-26",
+    "slug": "shared-meals-different-preferences",
+    "title": "How to Plan Shared Meals Without Making Everyone Match",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm guide to planning shared meals around flexible parts instead of making everyone eat the same thing.",
+    "seo": {
+      "seoTitle": "Plan Shared Meals Without Making Everyone Match | Daily Support Guide",
+      "metaDescription": "Plan shared meals with flexible meal parts, preference notes, and low-pressure household rhythms without family food rules.",
+      "primaryKeyword": "shared meals different preferences",
+      "secondaryKeywords": [
+        "shared meal planning",
+        "different food preferences",
+        "household food rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Plan Shared Meals Without Making Everyone Match",
+      "h2": [
+        "Start with the shared part",
+        "Let the edges change",
+        "Keep the meal calm"
+      ],
+      "faq": [
+        "How can shared meals work with different preferences?",
+        "How can family meals avoid food rules?",
+        "What should I plan first for a shared meal?"
+      ],
+      "internalLinks": [
+        "grocery-list-mixed-preferences",
+        "flexible-dinner-template",
+        "family-meals-feel-rushed"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No family diet rules",
+        "No parenting judgment",
+        "No medical advice",
+        "No rigid meal plan"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Shared meals get easier when sameness is not the goal. A household can sit around one meal and still leave room for different edges."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the shared part"
+      },
+      {
+        "type": "p",
+        "text": "It helps to choose one part that can sit in the middle of the meal: rice, pasta, soup, bread, eggs, roasted vegetables, a salad bowl, a warm pan, or leftovers that need a second life."
+      },
+      {
+        "type": "p",
+        "text": "That middle part is not a rule. It is a place for the meal to begin, so nobody has to solve the whole table from scratch."
+      },
+      {
+        "type": "h2",
+        "text": "Let the edges change"
+      },
+      {
+        "type": "p",
+        "text": "The edges can be small: one person adds sauce, another keeps it plain, someone wants fruit, someone wants toast, someone eats later. The shared meal can still count."
+      },
+      {
+        "type": "p",
+        "text": "A short note for next time might say: shared base worked, edges needed more room, late plate needed a plan, or one extra side would have helped. Keep it ordinary. The table does not have to prove anything."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 31 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 32,
+    "date": "2026-09-26",
+    "slug": "grocery-list-mixed-preferences",
+    "title": "A Calm Grocery List for Mixed Preferences",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical note-sheet for mixed household grocery preferences that avoids product examples and winner language.",
+    "seo": {
+      "seoTitle": "A Calm Grocery List for Mixed Preferences | Daily Support Guide",
+      "metaDescription": "Build a grocery list for mixed preferences with shared bases, flexible sides, timing notes, and open questions.",
+      "primaryKeyword": "grocery list mixed preferences",
+      "secondaryKeywords": [
+        "mixed preference grocery list",
+        "shared grocery notes",
+        "household grocery rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Calm Grocery List for Mixed Preferences",
+      "h2": [
+        "Shared base",
+        "Flexible side",
+        "No-match item",
+        "Timing note",
+        "Open question"
+      ],
+      "faq": [
+        "How can I make a grocery list for mixed preferences?",
+        "What belongs on a mixed-preference grocery note?",
+        "How can shared grocery lists avoid product examples?"
+      ],
+      "internalLinks": [
+        "three-zone-grocery-list",
+        "shared-meals-different-preferences",
+        "compare-grocery-staples"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No product examples",
+        "No brand or store examples",
+        "No winner language",
+        "No diet rules"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general grocery and meal planning resources.",
+      "USDA MyPlate supports broad food group language without product examples.",
+      "CDC resources support routine awareness without personal advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A mixed-preference grocery list needs fields, not a debate. Put each field in its own row and keep the source visible."
+      },
+      {
+        "type": "h2",
+        "text": "Shared base"
+      },
+      {
+        "type": "p",
+        "text": "Write the food that can support more than one plate: grain, bread, soup base, cooked protein, vegetable, fruit, sauce, or leftover-friendly item."
+      },
+      {
+        "type": "h2",
+        "text": "Flexible side"
+      },
+      {
+        "type": "p",
+        "text": "Add one side that can move between people or meals. The side should answer the week, not win the table."
+      },
+      {
+        "type": "h2",
+        "text": "No-match item"
+      },
+      {
+        "type": "p",
+        "text": "If one person needs a separate option, mark it plainly as no-match. Do not turn it into a household verdict."
+      },
+      {
+        "type": "h2",
+        "text": "Timing note"
+      },
+      {
+        "type": "p",
+        "text": "Write when the item is likely to matter: breakfast rush, packed lunch, late dinner, shared weekend meal, or after-school gap."
+      },
+      {
+        "type": "h2",
+        "text": "Open question"
+      },
+      {
+        "type": "p",
+        "text": "Leave one question at the end: did this help more than one person, did it sit unused, or did it need a clearer meal role?"
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 32 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 33,
+    "date": "2026-09-26",
+    "slug": "different-meal-times-at-home",
+    "title": "How to Handle Different Meal Times at Home",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A household timing system for different meal times that keeps records practical without parenting judgment.",
+    "seo": {
+      "seoTitle": "How to Handle Different Meal Times at Home | Daily Support Guide",
+      "metaDescription": "Handle different meal times at home with a simple timing map, shared base notes, and practical leftover plans.",
+      "primaryKeyword": "different meal times at home",
+      "secondaryKeywords": [
+        "household meal timing",
+        "different dinner times",
+        "family food rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Handle Different Meal Times at Home",
+      "h2": [
+        "Make a timing map",
+        "Mark the shared base",
+        "Mark the late plate",
+        "Review the friction point"
+      ],
+      "faq": [
+        "How can households handle different meal times?",
+        "What is a meal timing map?",
+        "How can meal timing notes avoid blame?"
+      ],
+      "internalLinks": [
+        "shared-meals-different-preferences",
+        "family-meals-feel-rushed",
+        "flexible-dinner-template"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No parenting judgment",
+        "No blame language",
+        "No rigid household rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Different meal times need a map before they need a rule. Start with the times that already happen."
+      },
+      {
+        "type": "h2",
+        "text": "Make a timing map"
+      },
+      {
+        "type": "p",
+        "text": "Write three columns: early, shared, late. Put each usual meal time in the closest column. Keep names optional if the note is easier without them."
+      },
+      {
+        "type": "h2",
+        "text": "Mark the shared base"
+      },
+      {
+        "type": "p",
+        "text": "Write the part that can work across more than one time: soup, grain, pasta, vegetables, eggs, leftovers, bread, or a flexible side."
+      },
+      {
+        "type": "h2",
+        "text": "Mark the late plate"
+      },
+      {
+        "type": "p",
+        "text": "If someone eats later, note what stays useful without becoming a second full dinner project. The late plate should have a visible place."
+      },
+      {
+        "type": "h2",
+        "text": "Review the friction point"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the week, write the part that caused the most friction: timing, reheating, missing side, unclear storage, or no shared base. Fix one field first."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 33 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 34,
+    "date": "2026-09-26",
+    "slug": "family-meals-feel-rushed",
+    "title": "What to Notice When Family Meals Feel Rushed",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful family-meal language article that treats rushed meals as timing information instead of blame.",
+    "seo": {
+      "seoTitle": "What to Notice When Family Meals Feel Rushed | Daily Support Guide",
+      "metaDescription": "Notice rushed family meals with careful language around timing, transitions, and meal setup without blame.",
+      "primaryKeyword": "family meals feel rushed",
+      "secondaryKeywords": [
+        "rushed family meals",
+        "family meal notes",
+        "household dinner rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "What to Notice When Family Meals Feel Rushed",
+      "h2": [
+        "Do not turn rushed into failed",
+        "Name the transition",
+        "Use blame-free wording"
+      ],
+      "faq": [
+        "What should I notice when family meals feel rushed?",
+        "How can family meal notes avoid blame?",
+        "What words help describe rushed dinners?"
+      ],
+      "internalLinks": [
+        "different-meal-times-at-home",
+        "holiday-meals-without-overcorrecting",
+        "weekends-disrupt-food-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No blame language",
+        "No parenting judgment",
+        "No discipline framing",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning resources.",
+      "USDA MyPlate supports broad food group language without family rules.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Rushed is a timing word. It should not quietly become failed, careless, chaotic, or nobody tried."
+      },
+      {
+        "type": "h2",
+        "text": "Do not turn rushed into failed"
+      },
+      {
+        "type": "p",
+        "text": "A rushed meal may still be a real meal. The useful question is not whether the table looked ideal. The useful question is where the time disappeared."
+      },
+      {
+        "type": "h2",
+        "text": "Name the transition"
+      },
+      {
+        "type": "p",
+        "text": "Many rushed meals begin before anyone sits down: pickup ran late, work ended hard, homework started, the pan needed longer, someone ate earlier, someone came home hungry."
+      },
+      {
+        "type": "p",
+        "text": "Those are transition notes. They describe movement around the meal without assigning fault."
+      },
+      {
+        "type": "h2",
+        "text": "Use blame-free wording"
+      },
+      {
+        "type": "p",
+        "text": "Try: dinner needed a softer landing. Or: the meal was ready before the room was. Or: the food worked, but the transition was short."
+      },
+      {
+        "type": "p",
+        "text": "Careful wording keeps the note usable. Blame usually makes the next meal harder to discuss."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 34 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 35,
+    "date": "2026-09-26",
+    "slug": "flexible-dinner-template",
+    "title": "A Flexible Dinner Template for Busy Households",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A clipped reusable dinner checklist for busy households that avoids prescriptive meal plans and strict food rules.",
+    "seo": {
+      "seoTitle": "A Flexible Dinner Template for Busy Households | Daily Support Guide",
+      "metaDescription": "Use a flexible dinner template for busy households with base, add-on, fallback, and timing notes instead of a strict meal plan.",
+      "primaryKeyword": "flexible dinner template",
+      "secondaryKeywords": [
+        "busy household dinner",
+        "flexible meal template",
+        "simple dinner checklist"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Flexible Dinner Template for Busy Households",
+      "h2": [
+        "Pick a base",
+        "Add one flexible part",
+        "Name the fallback",
+        "Write the timing"
+      ],
+      "faq": [
+        "What is a flexible dinner template?",
+        "How can busy households plan dinner without strict rules?",
+        "What belongs in a dinner checklist?"
+      ],
+      "internalLinks": [
+        "simple-dinner-after-long-day",
+        "shared-meals-different-preferences",
+        "different-meal-times-at-home"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No prescriptive meal plan",
+        "No strict food rules",
+        "No product examples",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Use a template. Not a meal plan."
+      },
+      {
+        "type": "h2",
+        "text": "Pick a base"
+      },
+      {
+        "type": "p",
+        "text": "Rice. Pasta. Soup. Bread. Eggs. Leftovers. Something warm. Something already started."
+      },
+      {
+        "type": "h2",
+        "text": "Add one flexible part"
+      },
+      {
+        "type": "p",
+        "text": "Add a side, fruit, vegetable, sauce, snack plate, or extra bread. One part. Do not rebuild dinner from zero."
+      },
+      {
+        "type": "h2",
+        "text": "Name the fallback"
+      },
+      {
+        "type": "p",
+        "text": "Write the backup before the day gets messy: leftovers, toast, soup, eggs, or a shared plate. Keep it easy to name."
+      },
+      {
+        "type": "h2",
+        "text": "Write the timing"
+      },
+      {
+        "type": "p",
+        "text": "Early, shared, late, or packed. Pick one. The timing tells the template where it has to work."
+      },
+      {
+        "type": "p",
+        "text": "Base. Flexible part. Fallback. Timing. Done."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 35 passed internal safety draft, human-polish pass, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  }
+]

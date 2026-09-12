@@ -1,0 +1,700 @@
+[
+  {
+    "day": 1,
+    "date": "2026-09-20",
+    "slug": "food-rhythm-without-tracking-everything",
+    "title": "How to Notice Your Food Rhythm Without Tracking Everything",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm, practical way to notice meal rhythm across a week without turning everyday eating into a strict log.",
+    "seo": {
+      "seoTitle": "Notice Your Food Rhythm Without Tracking Everything | Daily Support Guide",
+      "metaDescription": "Learn how to notice your food rhythm with light meal notes, repeat patterns, and practical weekly reflection without strict tracking.",
+      "primaryKeyword": "food rhythm without tracking",
+      "secondaryKeywords": [
+        "notice food rhythm",
+        "meal rhythm notes",
+        "weekly food reflection"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Notice Your Food Rhythm Without Tracking Everything",
+      "h2": [
+        "Start with when food actually happens",
+        "Use ordinary words instead of scores",
+        "Notice the repeat pattern",
+        "Keep the note small enough to continue",
+        "Let the pattern stay small"
+      ],
+      "faq": [
+        "Do I need to track everything to notice my food rhythm?",
+        "What should I write in a light meal note?",
+        "When should food rhythm questions be discussed with a licensed professional?"
+      ],
+      "internalLinks": [
+        "weekly-food-rhythm-reset",
+        "two-minute-meal-note-chaotic-weeks",
+        "monthly-food-rhythm-check-in"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No calorie tracking",
+        "No food moralizing",
+        "No medical conclusion",
+        "No product recommendation"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate offers broad food group language that supports ordinary meal reflection without personal rules.",
+      "Nutrition.gov includes meal planning and shopping topics suitable for general education.",
+      "CDC sleep and wellness guidance supports routine awareness without turning notes into medical advice."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Food rhythm is the shape of eating across a normal day: when meals happen, when snacks appear, and where the day gets thin or crowded. You do not have to write down every bite to see that shape."
+      },
+      {
+        "type": "p",
+        "text": "A short note can be enough. It gives the week a little memory without asking you to turn meals into a second job."
+      },
+      {
+        "type": "h2",
+        "text": "Start with when food actually happens"
+      },
+      {
+        "type": "p",
+        "text": "For three or four days, write the rough time of breakfast, lunch, dinner, and any snack that felt like part of the day. Exact minutes do not matter. The question is whether food keeps arriving in a similar rhythm or keeps getting pushed around."
+      },
+      {
+        "type": "p",
+        "text": "You might notice a quiet pattern: lunch is late on meeting days, dinner gets harder after errands, or breakfast is only steady on weekends. That is already useful."
+      },
+      {
+        "type": "h2",
+        "text": "Use ordinary words instead of scores"
+      },
+      {
+        "type": "p",
+        "text": "Write words you would actually say. Rushed. Fine. Forgot lunch. Snacky afternoon. Big dinner. Ate standing up. Those words carry more life than a perfect grid."
+      },
+      {
+        "type": "p",
+        "text": "Try not to turn the note into praise or blame. A rushed day is information. So is an easier one."
+      },
+      {
+        "type": "h2",
+        "text": "Notice the repeat pattern"
+      },
+      {
+        "type": "p",
+        "text": "At the end of the week, look for one repeat. Not five. Maybe there is always a long gap between lunch and dinner. Maybe groceries run out by Thursday. Maybe snacks are doing more work than you realized."
+      },
+      {
+        "type": "p",
+        "text": "One repeat gives you a place to start without rewriting the whole week."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the note small enough to continue"
+      },
+      {
+        "type": "p",
+        "text": "A useful note is the one you can still make on a busy day. If the page becomes too detailed, shrink it. Meal time, one sentence, done."
+      },
+      {
+        "type": "h2",
+        "text": "Let the pattern stay small"
+      },
+      {
+        "type": "p",
+        "text": "To notice your food rhythm, write when food happens and one plain word about how the day felt. Let the pattern show itself slowly. Use the note as general education, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 1 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "passed_after_revision_and_delta",
+        "gemini": "passed_and_delta_passed",
+        "claude": "passed_after_structural_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 2,
+    "date": "2026-09-20",
+    "slug": "morning-food-check-busy-day",
+    "title": "A Simple Morning Food Check Before the Day Gets Busy",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical morning note sheet for checking timing, available food, fluids, and the first realistic eating moment of a busy day.",
+    "seo": {
+      "seoTitle": "Simple Morning Food Check for Busy Days | Daily Support Guide",
+      "metaDescription": "Use a simple morning food check to notice timing, available food, fluids, and the first realistic meal moment before the day fills up.",
+      "primaryKeyword": "morning food check busy day",
+      "secondaryKeywords": [
+        "busy morning meal note",
+        "morning food rhythm",
+        "simple breakfast planning"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Morning Food Check Before the Day Gets Busy",
+      "h2": [
+        "Put the first food moment in its own row",
+        "Separate available from ideal",
+        "Add fluids before the morning disappears",
+        "Leave the unknowns visible",
+        "What the check is for"
+      ],
+      "faq": [
+        "What is a morning food check?",
+        "How can I plan food on a busy morning without overthinking it?",
+        "When should morning food questions be discussed with a licensed professional?"
+      ],
+      "internalLinks": [
+        "breakfast-keeps-getting-skipped",
+        "two-minute-meal-note-chaotic-weeks",
+        "food-plan-long-commute-day"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No breakfast rule",
+        "No productivity promise",
+        "No product recommendation",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports general food group awareness.",
+      "Nutrition.gov offers general meal planning and shopping information.",
+      "CDC wellness resources support routine-based public education."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A busy morning rarely needs a perfect plan. It needs one visible first step. Put the first realistic food moment where you can see it before the day starts taking requests."
+      },
+      {
+        "type": "h2",
+        "text": "Put the first food moment in its own row"
+      },
+      {
+        "type": "p",
+        "text": "Write one row with three fields: time, place, and likely food. For example: before leaving, at the desk, after school drop-off, after the first call. Keep it factual."
+      },
+      {
+        "type": "p",
+        "text": "The row is not a rule. It is a map of where the morning usually gives you a chance."
+      },
+      {
+        "type": "h2",
+        "text": "Separate available from ideal"
+      },
+      {
+        "type": "p",
+        "text": "Use two columns. In the first, write what is actually available. In the second, write what would make the morning easier next time. That separation keeps the note practical."
+      },
+      {
+        "type": "p",
+        "text": "If nothing is available, write that. An empty kitchen note is better than pretending the morning failed because of willpower."
+      },
+      {
+        "type": "h2",
+        "text": "Add fluids before the morning disappears"
+      },
+      {
+        "type": "p",
+        "text": "Add one quick fluid note: water, coffee, tea, or whatever was already there. Do not turn it into a goal line. Just keep the morning visible."
+      },
+      {
+        "type": "h2",
+        "text": "Leave the unknowns visible"
+      },
+      {
+        "type": "p",
+        "text": "A morning note cannot explain everything about appetite, energy, stress, or sleep. Keep it as a schedule note first: what was available, what was realistic, and what the morning kept pushing aside."
+      },
+      {
+        "type": "h2",
+        "text": "What the check is for"
+      },
+      {
+        "type": "p",
+        "text": "A morning food check can be one row: first food moment, what is available, and one fluid note. Add the date so the note still makes sense later, then get on with the day. This is general education, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 2 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "passed_after_revision_and_delta",
+        "gemini": "passed_and_delta_passed",
+        "claude": "passed_after_structural_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 3,
+    "date": "2026-09-20",
+    "slug": "lunch-timing-before-changing-anything",
+    "title": "Lunch Timing: What to Notice Before Changing Anything",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "An ordered lunch timing record that helps readers see meal gaps, workday interruptions, and repeat patterns before making changes.",
+    "seo": {
+      "seoTitle": "Lunch Timing: What to Notice Before Changing Anything | Daily Support Guide",
+      "metaDescription": "Use a steady lunch timing record to notice meal gaps, interruptions, and repeat patterns before changing your day.",
+      "primaryKeyword": "lunch timing food rhythm",
+      "secondaryKeywords": [
+        "lunch timing notes",
+        "meal gap record",
+        "workday lunch rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "Lunch Timing: What to Notice Before Changing Anything",
+      "h2": [
+        "Start with the time field",
+        "Add the interruption field",
+        "Keep the food description plain",
+        "Review three days together",
+        "What the record can show"
+      ],
+      "faq": [
+        "What should I notice about lunch timing?",
+        "How many days should I review before changing my lunch routine?",
+        "When should lunch-related concerns be discussed with a licensed professional?"
+      ],
+      "internalLinks": [
+        "food-rhythm-without-tracking-everything",
+        "no-drama-lunch-plan-packed-workdays",
+        "pack-lunch-without-project"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No blood-sugar claim",
+        "No meal rule",
+        "No product recommendation",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate provides broad food group language for general food-pattern education.",
+      "Nutrition.gov provides general meal planning information.",
+      "CDC public health materials support routine awareness without personal medical instruction."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Lunch timing invites quick explanations. Before changing anything, write down the parts that can be checked: time, interruption, food, and what happened around it."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the time field"
+      },
+      {
+        "type": "p",
+        "text": "Use a single time field for when lunch actually started. If lunch happened in pieces, write the first part and add a short note such as split lunch or desk lunch."
+      },
+      {
+        "type": "p",
+        "text": "Do not correct the record while making it. The point is to see the day as it was."
+      },
+      {
+        "type": "h2",
+        "text": "Add the interruption field"
+      },
+      {
+        "type": "p",
+        "text": "Add one line for what shaped lunch: meeting, commute, errand, deadline, school pickup, no groceries, or not hungry yet. This field often explains more than the clock alone."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the food description plain"
+      },
+      {
+        "type": "p",
+        "text": "Use ordinary categories rather than detailed judgment. Leftovers. Sandwich. Soup. Snack lunch. Takeout. Coffee and something small. A plain label keeps the record readable later."
+      },
+      {
+        "type": "p",
+        "text": "If one more layer would help, add whether the meal included a main food, a side, a drink, or a fruit or vegetable. Keep it descriptive."
+      },
+      {
+        "type": "h2",
+        "text": "Review three days together"
+      },
+      {
+        "type": "p",
+        "text": "One lunch can be unusual. Three lunches begin to show a rhythm. Look for repeated gaps, repeated interruptions, or repeated missing pieces."
+      },
+      {
+        "type": "h2",
+        "text": "What the record can show"
+      },
+      {
+        "type": "p",
+        "text": "Before changing lunch, record time, interruption, and a plain food description for three days. Use the record to choose one practical adjustment, not a full new system. This is general education only, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 3 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "passed_after_revision_and_delta",
+        "gemini": "passed_and_delta_passed",
+        "claude": "passed_after_structural_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 4,
+    "date": "2026-09-20",
+    "slug": "easier-dinner-afternoon-routine",
+    "title": "Why Dinner Feels Easier When the Afternoon Has a Shape",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A precise look at how afternoon structure can make dinner decisions less rushed without turning routine language into discipline advice.",
+    "seo": {
+      "seoTitle": "Why Dinner Feels Easier When the Afternoon Has a Shape | Daily Support Guide",
+      "metaDescription": "Dinner can feel easier when the afternoon has a visible shape. Use careful notes for timing, hunger, groceries, and decision pressure.",
+      "primaryKeyword": "easier dinner afternoon routine",
+      "secondaryKeywords": [
+        "dinner routine afternoon",
+        "meal decisions after work",
+        "food rhythm dinner"
+      ],
+      "searchIntent": "informational",
+      "h1": "Why Dinner Feels Easier When the Afternoon Has a Shape",
+      "h2": [
+        "The wording matters",
+        "Name the afternoon pressure",
+        "Check the handoff into dinner",
+        "Keep discipline out of the note",
+        "The small handoff"
+      ],
+      "faq": [
+        "Why does dinner feel harder after an unstructured afternoon?",
+        "What should I notice before dinner decisions?",
+        "When should meal-routine concerns be discussed with a licensed professional?"
+      ],
+      "internalLinks": [
+        "weekly-food-rhythm-reset",
+        "simple-dinner-after-long-day",
+        "flexible-dinner-template"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No discipline framing",
+        "No productivity claim",
+        "No medical advice",
+        "No food moralizing"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate gives broad food group language suitable for general education.",
+      "CDC public health guidance supports practical routine awareness without personal medical instruction."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Dinner often gets blamed for being difficult. Sometimes the trouble started earlier. Not in a dramatic way; just through small delays, missing groceries, and decisions left until everyone is already tired."
+      },
+      {
+        "type": "h2",
+        "text": "The wording matters"
+      },
+      {
+        "type": "p",
+        "text": "An afternoon with shape is not a perfect afternoon. It simply has a few visible parts: a rough end to work, a realistic food option, and a moment when the next meal is named before hunger is doing all the talking."
+      },
+      {
+        "type": "p",
+        "text": "Do not upgrade that idea into a rule about discipline. The note is there to reduce decision pressure, not to judge the person making dinner."
+      },
+      {
+        "type": "h2",
+        "text": "Name the afternoon pressure"
+      },
+      {
+        "type": "p",
+        "text": "Write down the pressure that usually lands before dinner: late meeting, traffic, errands, childcare, homework, low groceries, or no quiet minute to think. Naming it keeps the evening from looking like a character flaw."
+      },
+      {
+        "type": "h2",
+        "text": "Check the handoff into dinner"
+      },
+      {
+        "type": "p",
+        "text": "The useful handoff has three parts: what food is available, who needs to eat, and how much effort the evening can reasonably hold. If one part is missing, dinner may feel harder than the food itself."
+      },
+      {
+        "type": "p",
+        "text": "A note such as leftovers plus salad, eggs and toast, soup from the freezer, or rice bowl can be enough. Keep it category-based. No product examples are needed."
+      },
+      {
+        "type": "h2",
+        "text": "Keep discipline out of the note"
+      },
+      {
+        "type": "p",
+        "text": "Words like failed, ruined, lazy, and bad turn the note into punishment. Replace them with observable words: late, rushed, no groceries, too many decisions, needed backup."
+      },
+      {
+        "type": "h2",
+        "text": "The small handoff"
+      },
+      {
+        "type": "p",
+        "text": "Dinner feels easier when the afternoon leaves a small handoff: pressure named, food option visible, effort level honest. That is enough structure for one evening. Use this as general education, not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 4 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "passed_after_revision_and_delta",
+        "gemini": "passed_and_delta_passed",
+        "claude": "passed_after_structural_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 5,
+    "date": "2026-09-20",
+    "slug": "weekly-food-rhythm-reset",
+    "title": "A Weekly Food Rhythm Reset That Takes Ten Minutes",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A direct ten-minute checklist for reviewing meals, groceries, snacks, and the next easiest food step for the week.",
+    "seo": {
+      "seoTitle": "Weekly Food Rhythm Reset That Takes Ten Minutes | Daily Support Guide",
+      "metaDescription": "Use a ten-minute weekly food rhythm reset to review meals, groceries, snacks, and one practical next step for the week.",
+      "primaryKeyword": "weekly food rhythm reset",
+      "secondaryKeywords": [
+        "ten minute food reset",
+        "weekly meal rhythm",
+        "food rhythm checklist"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Weekly Food Rhythm Reset That Takes Ten Minutes",
+      "h2": [
+        "First: name the week",
+        "Next: check meals",
+        "Then: check groceries",
+        "Last: choose one next step",
+        "Stop at one move"
+      ],
+      "faq": [
+        "What is a weekly food rhythm reset?",
+        "What can I review in ten minutes?",
+        "When should food routine questions be discussed with a licensed professional?"
+      ],
+      "internalLinks": [
+        "food-rhythm-without-tracking-everything",
+        "weekly-grocery-reflection",
+        "monthly-food-rhythm-check-in"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No body-fix framing",
+        "No strict tracking",
+        "No product recommendation",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes meal planning and grocery resources for general education.",
+      "USDA MyPlate provides broad food group language that can support ordinary weekly reflection.",
+      "CDC public health resources support everyday routine awareness without personalized medical guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Give the week a short look. Not to fix it. To see it."
+      },
+      {
+        "type": "h2",
+        "text": "First: name the week"
+      },
+      {
+        "type": "p",
+        "text": "Write one phrase: normal week, travel week, deadline week, school week, tired week, scattered week. The label gives the rest of the note a fair setting."
+      },
+      {
+        "type": "h2",
+        "text": "Next: check meals"
+      },
+      {
+        "type": "p",
+        "text": "Look back. Which meal was easiest? Which meal kept slipping? Which day needed backup food? Write one line for each answer."
+      },
+      {
+        "type": "p",
+        "text": "Do not score the meals. Count patterns."
+      },
+      {
+        "type": "h2",
+        "text": "Then: check groceries"
+      },
+      {
+        "type": "p",
+        "text": "Open the fridge, pantry, or last grocery list. Write three things: what was used, what was ignored, and what would have made one meal easier."
+      },
+      {
+        "type": "p",
+        "text": "If the answer is basic, fine. Basic is usable."
+      },
+      {
+        "type": "h2",
+        "text": "Last: choose one next step"
+      },
+      {
+        "type": "p",
+        "text": "Choose one possible experiment for the next week. Add a breakfast backup. Make lunch visible before the day fills up. Prep one flexible dinner base. Clear one fridge shelf. Keep it small enough to actually try."
+      },
+      {
+        "type": "h2",
+        "text": "Stop at one move"
+      },
+      {
+        "type": "p",
+        "text": "A weekly food rhythm reset can stay short: name the week, check meals, check groceries, choose one possible next step. Stop there. General education only; not medical advice."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 5 passed internal lint, human polish, banned-pattern verification, and ChatGPT + Gemini + Claude quick external quorum. Not approved for publishing. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "externalReviewers": {
+        "chatgpt": "passed_after_revision_and_delta",
+        "gemini": "passed_and_delta_passed",
+        "claude": "passed_after_structural_delta"
+      },
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  }
+]

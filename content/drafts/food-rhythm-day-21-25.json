@@ -1,0 +1,593 @@
+[
+  {
+    "day": 21,
+    "date": "2026-09-24",
+    "slug": "snacks-without-good-bad-labels",
+    "title": "How to Think About Snacks Without Labeling Them Good or Bad",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A language-boundary article that helps readers write snack notes without moral labels, diet rules, or correction language.",
+    "seo": {
+      "seoTitle": "Think About Snacks Without Good or Bad Labels | Daily Support Guide",
+      "metaDescription": "Use neutral snack language that focuses on timing, place, and meal rhythm instead of good-or-bad food labels.",
+      "primaryKeyword": "snacks without good bad labels",
+      "secondaryKeywords": [
+        "neutral snack language",
+        "snack rhythm notes",
+        "food labels without judgment"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Think About Snacks Without Labeling Them Good or Bad",
+      "h2": [
+        "Words to cross out",
+        "Words that describe use",
+        "A neutral snack sentence"
+      ],
+      "faq": [
+        "How can I think about snacks without labeling them good or bad?",
+        "What is neutral snack language?",
+        "How can snack notes avoid diet rules?"
+      ],
+      "internalLinks": [
+        "grocery-shopping-without-diet-project",
+        "day-of-random-eating",
+        "weekend-eating-without-guilt"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No moralizing food",
+        "No diet rules",
+        "No body-change framing",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes broad meal planning resources for general education.",
+      "USDA MyPlate supports broad food group language without moral categories.",
+      "CDC resources support routine awareness without individualized advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Snack language can do more work than it should. The snack may be ordinary; the label around it can make the moment sound like evidence in a case."
+      },
+      {
+        "type": "h2",
+        "text": "Words to cross out"
+      },
+      {
+        "type": "p",
+        "text": "Good, bad, clean, guilty, allowed, and cheat are weak note words. They sound decisive, but they do not say when the snack happened, where it fit, or whether it was useful."
+      },
+      {
+        "type": "h2",
+        "text": "Words that describe use"
+      },
+      {
+        "type": "p",
+        "text": "Use words that can be checked later: before dinner, during errands, easy at desk, shared, packed, forgotten, still visible, not wanted. These words describe use without upgrading the snack into a rule."
+      },
+      {
+        "type": "p",
+        "text": "The wording matters most when the day feels messy. A neutral note should make the next observation easier, not make the last snack sound like a character report."
+      },
+      {
+        "type": "h2",
+        "text": "A neutral snack sentence"
+      },
+      {
+        "type": "p",
+        "text": "Try this structure: snack, moment, reason if visible. Example: crackers, late afternoon, dinner was later than usual. Another: fruit, packed for errands, came home untouched."
+      },
+      {
+        "type": "p",
+        "text": "That is enough. The note has done its job when it records the snack without judging the person who ate it."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 21 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 22,
+    "date": "2026-09-24",
+    "slug": "snack-shelf-real-life",
+    "title": "Building a Snack Shelf That Fits Real Life",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm, practical guide to making snack options visible without product suggestions, perfect categories, or pressure.",
+    "seo": {
+      "seoTitle": "Building a Snack Shelf That Fits Real Life | Daily Support Guide",
+      "metaDescription": "Build a snack shelf that fits real life with visible options, flexible categories, and gentle weekly notes.",
+      "primaryKeyword": "snack shelf real life",
+      "secondaryKeywords": [
+        "snack shelf routine",
+        "real life snack planning",
+        "simple snack rhythm"
+      ],
+      "searchIntent": "informational",
+      "h1": "Building a Snack Shelf That Fits Real Life",
+      "h2": [
+        "Start with the real shelf",
+        "Use loose rows",
+        "Make one reachable choice"
+      ],
+      "faq": [
+        "How can I build a snack shelf for real life?",
+        "What belongs on a snack shelf?",
+        "How can snack planning stay flexible?"
+      ],
+      "internalLinks": [
+        "fridge-reset-food-waste",
+        "backup-meals-without-overplanning",
+        "weekly-grocery-reflection"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No product suggestions",
+        "No brand examples",
+        "No rigid snack plan",
+        "No diet rules"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning and shopping resources.",
+      "USDA MyPlate provides broad food group language for general education.",
+      "CDC resources support ordinary routine awareness without individualized guidance."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A snack shelf can be a shelf, a corner, a drawer, or one cleared patch in the kitchen. Real life usually decides the shape before a plan does."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the real shelf"
+      },
+      {
+        "type": "p",
+        "text": "Look at the place that already collects snacks. Do not fix it first. Notice what gathers there, what disappears, and what keeps sliding to the back."
+      },
+      {
+        "type": "p",
+        "text": "It helps to name the real uses in soft categories: after school, between calls, during errands, before dinner, shared on the couch, packed and forgotten."
+      },
+      {
+        "type": "h2",
+        "text": "Use loose rows"
+      },
+      {
+        "type": "p",
+        "text": "A row can mean grab first, take along, share, use soon, or not this week. The row is not a shopping category. It is a small reminder of how the food usually gets used."
+      },
+      {
+        "type": "p",
+        "text": "Leave one empty spot if you can. Not for perfection. Just because a real week brings home half a bag, an opened box, or something someone meant to finish."
+      },
+      {
+        "type": "p",
+        "text": "At the end of the week, the note can be very plain: used fast, still here, hidden, crowded, or easier than expected."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 22 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 23,
+    "date": "2026-09-24",
+    "slug": "afternoon-snack-timing",
+    "title": "Afternoon Snacks: Timing, Context, and Simple Notes",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A note-sheet style article for observing afternoon snack timing without blood-sugar, energy, or performance claims.",
+    "seo": {
+      "seoTitle": "Afternoon Snacks: Timing, Context, and Simple Notes | Daily Support Guide",
+      "metaDescription": "Notice afternoon snack timing with simple note fields for time, place, next meal, and context without making health claims.",
+      "primaryKeyword": "afternoon snack timing",
+      "secondaryKeywords": [
+        "afternoon snack notes",
+        "snack timing context",
+        "food rhythm snacks"
+      ],
+      "searchIntent": "informational",
+      "h1": "Afternoon Snacks: Timing, Context, and Simple Notes",
+      "h2": [
+        "The note row",
+        "Time",
+        "Place",
+        "Next meal",
+        "Question"
+      ],
+      "faq": [
+        "How can I notice afternoon snack timing?",
+        "What should I write in an afternoon snack note?",
+        "How can snack timing notes avoid health claims?"
+      ],
+      "internalLinks": [
+        "two-minute-meal-note",
+        "morning-food-check-busy-day",
+        "five-minute-meal-pattern-review"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No blood-sugar claims",
+        "No energy-performance claims",
+        "No medical advice",
+        "No tracking app language"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without medical interpretation."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Afternoon snack timing is easy to overread. A note-sheet should slow that down."
+      },
+      {
+        "type": "h2",
+        "text": "The note row"
+      },
+      {
+        "type": "p",
+        "text": "Use one row with four fields: time, place, next meal, question. Keep the snack name in the margin if you want it, but do not make it carry the whole explanation."
+      },
+      {
+        "type": "h2",
+        "text": "Time"
+      },
+      {
+        "type": "p",
+        "text": "Write the clock time or the part of the day: 3:30, after pickup, before commute, while cooking, between meetings."
+      },
+      {
+        "type": "h2",
+        "text": "Place"
+      },
+      {
+        "type": "p",
+        "text": "Place changes the meaning of the note. Desk, car, kitchen, sidewalk, meeting room, living room, and lunch bag are different sources."
+      },
+      {
+        "type": "h2",
+        "text": "Next meal"
+      },
+      {
+        "type": "p",
+        "text": "Write what meal came next and whether it was close or far away. Do not turn that timing into a health conclusion."
+      },
+      {
+        "type": "h2",
+        "text": "Question"
+      },
+      {
+        "type": "p",
+        "text": "Use a question, not a verdict: dinner later? lunch missed? snack more visible than lunch? errand ran long? The question keeps the note honest."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 23 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 24,
+    "date": "2026-09-24",
+    "slug": "desk-snacks-mystery-meals",
+    "title": "How to Keep Desk Snacks From Becoming Mystery Meals",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A compact desk-snack inventory checklist that keeps snacks visible and usable without productivity or cure claims.",
+    "seo": {
+      "seoTitle": "How to Keep Desk Snacks From Becoming Mystery Meals | Daily Support Guide",
+      "metaDescription": "Keep desk snacks from becoming mystery meals with a compact inventory check for visibility, timing, and actual use.",
+      "primaryKeyword": "desk snacks mystery meals",
+      "secondaryKeywords": [
+        "desk snack checklist",
+        "work snack notes",
+        "snack inventory"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Keep Desk Snacks From Becoming Mystery Meals",
+      "h2": [
+        "Do the drawer audit",
+        "Keep only named moments",
+        "Close the loop"
+      ],
+      "faq": [
+        "How can I organize desk snacks without buying products?",
+        "What should I check in a desk snack drawer?",
+        "How can desk snack notes stay practical?"
+      ],
+      "internalLinks": [
+        "lunch-plan-packed-workday",
+        "desk-worker-food-rhythm",
+        "pack-lunch-without-project"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No workplace productivity cure",
+        "No product organizer recommendation",
+        "No brand examples",
+        "No diet rules"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general shopping and meal planning resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without workplace performance claims."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Desk snacks get weird quietly. One day there is a normal snack. Three weeks later there is a drawer with no clear owner."
+      },
+      {
+        "type": "h2",
+        "text": "Do the drawer audit"
+      },
+      {
+        "type": "p",
+        "text": "Take everything out. Count it. Group it fast: reached for, ignored, forgot existed."
+      },
+      {
+        "type": "p",
+        "text": "No speech. No big cleanout. Just the count."
+      },
+      {
+        "type": "h2",
+        "text": "Keep only named moments"
+      },
+      {
+        "type": "p",
+        "text": "Put back snacks that have a real workday moment: late meeting, no lunch break, commute home, long call, quick errand, shared office day."
+      },
+      {
+        "type": "p",
+        "text": "If you cannot name the moment, leave it out of the desk drawer for now."
+      },
+      {
+        "type": "h2",
+        "text": "Close the loop"
+      },
+      {
+        "type": "p",
+        "text": "Write one line for next time: repeat, move home, skip, or bring less. Done."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 24 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  },
+  {
+    "day": 25,
+    "date": "2026-09-24",
+    "slug": "weekend-snack-reset",
+    "title": "A Weekend Snack Reset for the Week Ahead",
+    "category": "Food Rhythm",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "An ordered weekend snack review that focuses on visibility, timing, and restocking notes without body-fix or reset-health claims.",
+    "seo": {
+      "seoTitle": "A Weekend Snack Reset for the Week Ahead | Daily Support Guide",
+      "metaDescription": "Use a weekend snack reset to review what was used, hidden, or missing so the week ahead has clearer snack options.",
+      "primaryKeyword": "weekend snack reset",
+      "secondaryKeywords": [
+        "snack reset for week",
+        "weekend snack review",
+        "snack rhythm planning"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Weekend Snack Reset for the Week Ahead",
+      "h2": [
+        "Use the weekend table",
+        "Used",
+        "Hidden",
+        "Restock",
+        "First weekday"
+      ],
+      "faq": [
+        "What is a weekend snack reset?",
+        "How can I review snack options for the week?",
+        "How can snack planning avoid body-fix language?"
+      ],
+      "internalLinks": [
+        "weekly-food-rhythm-reset",
+        "snack-shelf-real-life",
+        "weekends-disrupt-food-rhythm"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No body-fix/reset-health claims",
+        "No product recommendations",
+        "No shame language",
+        "No rigid tracking"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov includes general meal planning and shopping resources.",
+      "USDA MyPlate supports broad food group language for general education.",
+      "CDC resources support routine awareness without health reset claims."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.cdc.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Use the word reset carefully here. This is a weekend table for snack rhythm, not a promise that the new week will behave."
+      },
+      {
+        "type": "h2",
+        "text": "Use the weekend table"
+      },
+      {
+        "type": "p",
+        "text": "Make four columns: used, hidden, restock, first weekday. Keep each column short."
+      },
+      {
+        "type": "h2",
+        "text": "Used"
+      },
+      {
+        "type": "p",
+        "text": "Write what disappeared first. Add the moment if it is visible: after school, before dinner, desk day, errands, late evening, packed bag."
+      },
+      {
+        "type": "h2",
+        "text": "Hidden"
+      },
+      {
+        "type": "p",
+        "text": "Write what stayed in the back, stayed unopened, or kept moving from place to place. Hidden is a location note, not a failure note."
+      },
+      {
+        "type": "h2",
+        "text": "Restock"
+      },
+      {
+        "type": "p",
+        "text": "Use one word before writing details: repeat, reduce, move, skip, or broaden. The word keeps the list from becoming a full plan."
+      },
+      {
+        "type": "h2",
+        "text": "First weekday"
+      },
+      {
+        "type": "p",
+        "text": "Choose the first weekday that usually needs help. Write the snack place for that day only, then stop the table."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Day 25 passed internal safety draft, human-polish pass, Claude structure revision, and ChatGPT + Gemini + Claude external quorum on 2026-09-12. Final publishing approval recorded on 2026-09-12. Scheduled in Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29.",
+      "humanPolish": "passed",
+      "approvedDate": "2026-09-12",
+      "scheduledReleasePlan": "Everyday Food Rhythm: 5 articles/day from 2026-09-20 through 2026-09-29"
+    },
+    "externalAiReview": {
+      "grokRequired": false
+    }
+  }
+]

@@ -14,6 +14,12 @@ function readJsonArray(relativePath) {
   return value;
 }
 
+function readOptionalJsonArray(relativePath) {
+  const fullPath = path.join(root, relativePath);
+  if (!fs.existsSync(fullPath)) return [];
+  return readJsonArray(relativePath);
+}
+
 function loadContent() {
   const context = { window: {} };
   vm.createContext(context);
@@ -46,13 +52,15 @@ function sitemapUrlCount() {
 
 const mainQueue = readJsonArray("content/scheduled/articles.json");
 const nutrientQueue = readJsonArray("content/scheduled/nutrient-articles.json");
+const foodRhythmQueue = readOptionalJsonArray("content/scheduled/food-rhythm-articles.json");
 const publicContent = loadContent();
 const publicSlugs = new Set(publicContent.articles.map((article) => article.slug));
 const sitemap = fs.existsSync(sitemapPath) ? fs.readFileSync(sitemapPath, "utf8") : "";
 
 const allQueues = [
   ["main", mainQueue],
-  ["nutrient", nutrientQueue]
+  ["nutrient", nutrientQueue],
+  ["food-rhythm", foodRhythmQueue]
 ];
 
 const latest = [...publicContent.articles]
@@ -76,18 +84,21 @@ console.log(`Public articles: ${publicContent.articles.length}`);
 console.log(`Sitemap URLs: ${sitemapUrlCount()}`);
 console.log(`Main queue: ${JSON.stringify(countByStatus(mainQueue))}`);
 console.log(`Nutrient queue: ${JSON.stringify(countByStatus(nutrientQueue))}`);
+console.log(`Food Rhythm queue: ${JSON.stringify(countByStatus(foodRhythmQueue))}`);
 console.log("");
 console.log("## Release Window");
 console.log("");
-console.log("| Date | Main published | Main approved | Nutrient published | Nutrient approved | Total due/published |");
-console.log("| --- | ---: | ---: | ---: | ---: | ---: |");
+console.log("| Date | Main published | Main approved | Nutrient published | Nutrient approved | Food Rhythm published | Food Rhythm approved | Total due/published |");
+console.log("| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |");
 for (const date of datesBetween(start, end)) {
   const mainPublished = mainQueue.filter((item) => item.date === date && item.status === "published").length;
   const mainApproved = mainQueue.filter((item) => item.date === date && item.status === "approved").length;
   const nutrientPublished = nutrientQueue.filter((item) => item.date === date && item.status === "published").length;
   const nutrientApproved = nutrientQueue.filter((item) => item.date === date && item.status === "approved").length;
-  const total = mainPublished + mainApproved + nutrientPublished + nutrientApproved;
-  console.log(`| ${date} | ${mainPublished} | ${mainApproved} | ${nutrientPublished} | ${nutrientApproved} | ${total} |`);
+  const foodRhythmPublished = foodRhythmQueue.filter((item) => item.date === date && item.status === "published").length;
+  const foodRhythmApproved = foodRhythmQueue.filter((item) => item.date === date && item.status === "approved").length;
+  const total = mainPublished + mainApproved + nutrientPublished + nutrientApproved + foodRhythmPublished + foodRhythmApproved;
+  console.log(`| ${date} | ${mainPublished} | ${mainApproved} | ${nutrientPublished} | ${nutrientApproved} | ${foodRhythmPublished} | ${foodRhythmApproved} | ${total} |`);
 }
 console.log("");
 console.log("## Latest Public Articles");
