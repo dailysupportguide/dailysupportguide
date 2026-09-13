@@ -1,6 +1,522 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "vegetarian-hair-nails-everyday-nutrition",
+      "date": "2026-09-13",
+      "category": "Body Signals",
+      "title": "A Vegetarian Check-In for Hair, Nails, and Everyday Nutrition",
+      "summary": "A source-aware vegetarian note sheet for hair, nails, and everyday food patterns without nutrient-cause claims or pill guidance.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Vegetarian Hair and Nails Nutrition Check-In | Daily Support Guide",
+        "metaDescription": "Use a vegetarian nutrition check-in for hair, nails, and everyday food patterns without nutrient-cause claims or pill guidance.",
+        "primaryKeyword": "vegetarian hair nails nutrition",
+        "secondaryKeywords": [
+          "vegetarian nutrition check in",
+          "hair nails vegetarian food pattern",
+          "vegetarian everyday nutrition notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Vegetarian Check-In for Hair, Nails, and Everyday Nutrition",
+        "h2": [
+          "Make the check-in broader than hair and nails",
+          "Compare food roles, not one clue",
+          "Use the note sheet before changing anything",
+          "When the note should travel"
+        ],
+        "faq": [
+          "What should vegetarians track for hair and nails?",
+          "Do hair or nail changes prove a vegetarian diet is missing something?",
+          "How can I keep vegetarian nutrition notes safe?"
+        ],
+        "internalLinks": [
+          "hair-feeling-different-pause-before-products",
+          "brittle-nails-small-habits-record",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No nutrient-cause claim",
+          "No pill or powder direction",
+          "No lab-test direction",
+          "No personalized vegetarian prescription",
+          "No product example"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A vegetarian food record does not need courtroom energy."
+        },
+        {
+          "type": "p",
+          "text": "Use it more like a source note: what roles showed up on the plate, what repeated, what was skipped, and what else was happening that week."
+        },
+        {
+          "type": "h2",
+          "text": "Make the check-in broader than hair and nails"
+        },
+        {
+          "type": "p",
+          "text": "Write down energy, schedule, sleep, stress, hair care, nail care, and meal pattern in separate lines. The hair and nail note should not stand alone."
+        },
+        {
+          "type": "p",
+          "text": "USDA vegetarian nutrition resources and Mayo Clinic vegetarian guidance both point toward planning, not guessing from one body signal."
+        },
+        {
+          "type": "h2",
+          "text": "Compare food roles, not one clue"
+        },
+        {
+          "type": "p",
+          "text": "Instead of naming one answer, compare roles on the plate: filling foods, produce, grains, dairy or fortified alternatives if used, fats, and fluids."
+        },
+        {
+          "type": "p",
+          "text": "The useful question is whether the week had enough variety and repetition to feel steady. It is not whether one sign proves one missing thing."
+        },
+        {
+          "type": "h2",
+          "text": "Use the note sheet before changing anything"
+        },
+        {
+          "type": "p",
+          "text": "If hair or nail changes are persistent, sudden, worsening, or worrying, bring the record to a licensed professional rather than changing your routine based on the article."
+        },
+        {
+          "type": "h2",
+          "text": "When the note should travel"
+        },
+        {
+          "type": "p",
+          "text": "Bring the note with you if the concern needs a professional conversation. Keep the article out of the decision-making seat."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "greasy-takeout-days-skin-notes",
+      "date": "2026-09-13",
+      "category": "Body Signals",
+      "title": "Greasy Takeout Days and Skin: Keep the Notes Specific",
+      "summary": "A specific, non-causal note system for takeout-heavy days, skin observations, meals, sleep, stress, and routine shifts.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Greasy Takeout Days and Skin Notes | Daily Support Guide",
+        "metaDescription": "Keep greasy takeout and skin notes specific without claiming takeout causes acne or recommending products.",
+        "primaryKeyword": "greasy takeout skin",
+        "secondaryKeywords": [
+          "takeout days skin notes",
+          "greasy food skin record",
+          "skin changes meal pattern"
+        ],
+        "searchIntent": "informational",
+        "h1": "Greasy Takeout Days and Skin: Keep the Notes Specific",
+        "h2": [
+          "Do not write the headline too early",
+          "Track the whole takeout day",
+          "What not to put in the note",
+          "One line for the schedule",
+          "Compare patterns, not blame"
+        ],
+        "faq": [
+          "Should I track takeout days when my skin changes?",
+          "Does greasy food cause acne?",
+          "How can I keep skin and takeout notes specific?"
+        ],
+        "internalLinks": [
+          "takeout-nutrition-gaps",
+          "dull-looking-skin-eating-patterns",
+          "busy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No acne causation claim",
+          "No treatment guidance",
+          "No brand or store example",
+          "No product fix",
+          "No food-as-skin-answer framing"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Write the takeout week in pencil. Skin notes get noisy fast when the first sentence sounds too certain."
+        },
+        {
+          "type": "h2",
+          "text": "Do not write the headline too early"
+        },
+        {
+          "type": "p",
+          "text": "Avoid a shortcut like \"greasy food caused this.\" It sounds tidy, but it removes too many other details from the page."
+        },
+        {
+          "type": "p",
+          "text": "Skin changes can sit near food, stress, sleep, weather, sweating, washing, and schedule changes. The record should leave room for all of them."
+        },
+        {
+          "type": "h2",
+          "text": "Track the whole takeout day"
+        },
+        {
+          "type": "p",
+          "text": "Write what the day looked like: meal timing, repeated fried or salty meals, fewer produce foods, less water, later bedtime, more stress, or skipped usual routines."
+        },
+        {
+          "type": "h2",
+          "text": "What not to put in the note"
+        },
+        {
+          "type": "p",
+          "text": "Keep brands, delivery apps, restaurants, and product fixes out of the note."
+        },
+        {
+          "type": "h2",
+          "text": "One line for the schedule"
+        },
+        {
+          "type": "p",
+          "text": "Add the late bedtime, skipped walk, stressful errand, or missed usual routine if it belongs there. Those details are easy to forget and hard to recreate later."
+        },
+        {
+          "type": "h2",
+          "text": "Compare patterns, not blame"
+        },
+        {
+          "type": "p",
+          "text": "A useful comparison might be three ordinary weeks and one takeout-heavy week. The point is repeat pattern, not instant blame."
+        },
+        {
+          "type": "p",
+          "text": "For persistent, painful, worsening, or unusual skin concerns, the note belongs beside a professional conversation."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "small-cut-slow-to-improve-safety-line",
+      "date": "2026-09-13",
+      "category": "Body Signals",
+      "title": "When a Small Cut Is Slow to Improve, Start With the Safety Line",
+      "summary": "A safety-first article on slow-to-improve small cuts, with meal notes kept as background rather than an explanation.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Small Cut Slow to Improve: Safety First | Daily Support Guide",
+        "metaDescription": "For a small cut that is slow to improve, start with safety boundaries and keep meal notes as background only.",
+        "primaryKeyword": "small cut slow to improve safety",
+        "secondaryKeywords": [
+          "small cut not improving",
+          "wound note safety boundary",
+          "small cut routine record"
+        ],
+        "searchIntent": "informational",
+        "h1": "When a Small Cut Is Slow to Improve, Start With the Safety Line",
+        "h2": [
+          "The safety line comes first",
+          "What the note can include",
+          "What the note cannot do",
+          "Use the record as background"
+        ],
+        "faq": [
+          "What should I do if a small cut is slow to improve?",
+          "When should a slow-healing cut be checked?",
+          "Can meal notes be background for a wound conversation?"
+        ],
+        "internalLinks": [
+          "stress-fatigue-food-rhythm",
+          "messy-schedule-nutrition-basics",
+          "vegetables-keep-falling-off-plate"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No wound-care protocol",
+          "No home-care instructions",
+          "No pill or powder direction",
+          "No food-as-repair framing",
+          "Clear professional-care boundary"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Put the warning signs on the page before any routine notes."
+        },
+        {
+          "type": "h2",
+          "text": "The safety line comes first"
+        },
+        {
+          "type": "p",
+          "text": "If a cut is getting worse, feels hot, is more painful, has spreading redness, drains pus, has darkened edges, or is not improving as expected, contact a licensed healthcare professional."
+        },
+        {
+          "type": "p",
+          "text": "Place that sentence near the top. Do not make the reader earn the warning."
+        },
+        {
+          "type": "h2",
+          "text": "What the note can include"
+        },
+        {
+          "type": "p",
+          "text": "If the cut is minor and you are already keeping a record, write timing, sleep, stress, meals, fluids, and whether the week was unusually rushed. Keep wound-care details in their own line."
+        },
+        {
+          "type": "p",
+          "text": "Write what was happening around the same time. Do not write that the routine explains the wound."
+        },
+        {
+          "type": "h2",
+          "text": "What the note cannot do"
+        },
+        {
+          "type": "p",
+          "text": "The note cannot tell you why a cut is not improving. It cannot replace an exam, a clinician's instructions, or urgent care when warning signs are present."
+        },
+        {
+          "type": "h2",
+          "text": "Use the record as background"
+        },
+        {
+          "type": "p",
+          "text": "A clear record can help you explain the week: when the cut happened, what changed, what meals looked like, and whether anything seemed to worsen."
+        },
+        {
+          "type": "p",
+          "text": "The record is background, not a plan. It should make a conversation clearer, not delay one."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "seasonal-changes-skin-food-habits",
+      "date": "2026-09-13",
+      "category": "Body Signals",
+      "title": "When Seasonal Changes Make Skin Feel Less Steady",
+      "summary": "A seasonal routine record for skin changes that separates weather, bathing, indoor air, clothing, meals, and fluids.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Seasonal Skin Changes and Food Habits | Daily Support Guide",
+        "metaDescription": "Seasonal skin changes can be tracked with routine, weather, food, and fluid notes without dermatology advice or product guidance.",
+        "primaryKeyword": "seasonal skin food habits",
+        "secondaryKeywords": [
+          "seasonal skin changes routine",
+          "skin feels dry seasonal habits",
+          "food notes seasonal skin"
+        ],
+        "searchIntent": "informational",
+        "h1": "When Seasonal Changes Make Skin Feel Less Steady",
+        "h2": [
+          "Name the season change first",
+          "Write the warm-weather version",
+          "Keep the food note plain",
+          "Make the comparison narrow"
+        ],
+        "faq": [
+          "What should I record when skin changes with the season?",
+          "Can seasonal skin changes be caused by food?",
+          "How do I keep seasonal skin notes neutral?"
+        ],
+        "internalLinks": [
+          "dry-looking-skin-food-habits",
+          "dull-looking-skin-eating-patterns",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No dermatology advice",
+          "No shopping route",
+          "No pill or powder direction",
+          "No food-as-cause framing",
+          "No treatment steps"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Seasonal skin notes work best when the calendar gets the first line."
+        },
+        {
+          "type": "p",
+          "text": "Weather, room air, shower habits, clothing, sweat, and sun time can all change before the food pattern changes at all."
+        },
+        {
+          "type": "h2",
+          "text": "Name the season change first"
+        },
+        {
+          "type": "p",
+          "text": "For colder months, record outdoor temperature, indoor heat, long hot showers, heavier clothing, and more handwashing. AAD notes that cold, dry settings can be part of dry-skin context."
+        },
+        {
+          "type": "h2",
+          "text": "Write the warm-weather version"
+        },
+        {
+          "type": "p",
+          "text": "For warmer months, record sun time, pool time, sweat, and air-conditioning. AAD summer guidance includes these as ordinary skin-context details."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the food note plain"
+        },
+        {
+          "type": "p",
+          "text": "Food can stay simple: steady meals or skipped meals, varied plates or repeated plates, enough fluid or less than usual."
+        },
+        {
+          "type": "p",
+          "text": "Do not connect the season and skin to one missing nutrient. The note is about rhythm."
+        },
+        {
+          "type": "h2",
+          "text": "Make the comparison narrow"
+        },
+        {
+          "type": "p",
+          "text": "Compare one ordinary week before the weather shifted with one week after. The useful cells are the ones that changed quietly."
+        },
+        {
+          "type": "p",
+          "text": "If the change feels unusual for your normal season pattern, save the note for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "dull-looking-skin-eating-patterns",
+      "date": "2026-09-13",
+      "category": "Body Signals",
+      "title": "Dull-Looking Skin and the Eating Patterns That May Play a Role",
+      "summary": "A careful eating-pattern record for dull-looking skin that keeps meals, fluids, sleep, skin care, and routine changes in separate columns.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Dull-Looking Skin and Eating Patterns | Daily Support Guide",
+        "metaDescription": "Track dull-looking skin with neutral food-pattern, fluid, sleep, and routine notes without cosmetic claims or product guidance.",
+        "primaryKeyword": "dull skin eating patterns",
+        "secondaryKeywords": [
+          "dull looking skin food habits",
+          "skin routine food notes",
+          "eating pattern skin record"
+        ],
+        "searchIntent": "informational",
+        "h1": "Dull-Looking Skin and the Eating Patterns That May Play a Role",
+        "h2": [
+          "Start with the non-food columns",
+          "Add meals without making them the answer",
+          "Read the pattern modestly"
+        ],
+        "faq": [
+          "Can eating patterns affect how skin looks?",
+          "Does dull-looking skin prove a nutrition issue?",
+          "How can I track skin and food notes safely?"
+        ],
+        "internalLinks": [
+          "dry-looking-skin-food-habits",
+          "drinking-water-still-drained-meals",
+          "vegetables-keep-falling-off-plate"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "Skin appearance stays unlabelled",
+          "Cosmetic outcomes are not promised",
+          "No pill or powder direction",
+          "No product example",
+          "Food is context, not a cause"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Dull-looking skin can make a person look for a single fix. A cleaner first page is wider than that."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the non-food columns"
+        },
+        {
+          "type": "p",
+          "text": "Write sleep, weather, indoor air, sun exposure, washing habits, stress, and any changed skin routine before writing a food note."
+        },
+        {
+          "type": "p",
+          "text": "The American Academy of Dermatology describes skin dryness and skin appearance as shaped by many possible contributors. That is a reason to keep the record broad."
+        },
+        {
+          "type": "h2",
+          "text": "Add meals without making them the answer"
+        },
+        {
+          "type": "p",
+          "text": "Food belongs in the record, but not as the lead suspect. Write whether meals were varied, skipped, rushed, unusually sweet, or mostly repeated."
+        },
+        {
+          "type": "p",
+          "text": "Use whole-pattern wording. A week with fewer produce foods, fewer steady meals, or less fluid can be noted without turning the skin change into a label."
+        },
+        {
+          "type": "h2",
+          "text": "Read the pattern modestly"
+        },
+        {
+          "type": "p",
+          "text": "After several days, look for overlaps rather than answers. Maybe the same week included late nights, dry air, and less meal variety."
+        },
+        {
+          "type": "p",
+          "text": "That overlap is useful, but it is not proof. File it as the week around the skin change, not the explanation for it."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "hair-feeling-different-pause-before-products",
       "date": "2026-09-12",
       "category": "Body Signals",
@@ -14114,35 +14630,35 @@ window.DSG_CONTENT = {
       "date": "2026-08-04",
       "title": "How to Make Tomorrow Morning Easier Without a Long Routine",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 17,
       "date": "2026-08-05",
       "title": "How to Read Sodium and Sugar Lines Without Panic",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 18,
       "date": "2026-08-06",
       "title": "How to Compare Packaged Snacks by Portion and Context",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 19,
       "date": "2026-08-07",
       "title": "How to Look at Protein Sources in a Normal Meal",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 20,
       "date": "2026-08-08",
       "title": "How to Keep Meal Decisions Simple on Busy Days",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 21,
