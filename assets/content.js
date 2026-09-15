@@ -1,6 +1,483 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "nutrition-basics-under-pressure",
+      "date": "2026-09-15",
+      "category": "Body Signals",
+      "title": "Nutrition Basics People Forget Under Pressure",
+      "summary": "A practical pressure-week checklist for meals, fluids, produce, protein foods, and routine gaps without moralizing.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Nutrition Basics Under Pressure | Daily Support Guide",
+        "metaDescription": "Track meals, fluids, produce, protein foods, and routine gaps during pressure weeks without guilt or food moralizing.",
+        "primaryKeyword": "stress nutrition basics",
+        "secondaryKeywords": [
+          "pressure week food basics",
+          "stress week meal checklist",
+          "nutrition basics busy week"
+        ],
+        "searchIntent": "informational",
+        "h1": "Nutrition Basics People Forget Under Pressure",
+        "h2": [
+          "Use a five-line pressure log",
+          "Look for dropped anchors",
+          "Keep judgment off the page",
+          "Decide what is worth restoring first"
+        ],
+        "faq": [
+          "What nutrition basics often slip under pressure?",
+          "How can I track food during a stressful week?",
+          "Should pressure-week eating be judged?"
+        ],
+        "internalLinks": [
+          "stress-eating-too-little-randomly",
+          "takeout-nutrition-gaps",
+          "busy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No moralizing food choices",
+          "No stress-care framing",
+          "No pill or product route",
+          "No body-system claim",
+          "General routine basics only"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Under pressure, people rarely forget nutrition in a dramatic way. The small things just stop getting their turn."
+        },
+        {
+          "type": "h2",
+          "text": "Use a five-line pressure log"
+        },
+        {
+          "type": "p",
+          "text": "Meals. Fluids. Produce. Protein foods. Sit-down moments. Those five lines catch most of what disappears during a rough week."
+        },
+        {
+          "type": "p",
+          "text": "Do not count grams. Do not grade the day. A clear record is more useful than a perfect one."
+        },
+        {
+          "type": "h2",
+          "text": "Look for dropped anchors"
+        },
+        {
+          "type": "p",
+          "text": "Maybe breakfast vanished. Maybe lunch became whatever was closest. Maybe vegetables disappeared after Monday. Write the anchor that slipped."
+        },
+        {
+          "type": "h2",
+          "text": "Keep judgment off the page"
+        },
+        {
+          "type": "p",
+          "text": "A pressure week is not a personality test. Words like bad, clean, failed, and ruined make the record less useful."
+        },
+        {
+          "type": "h2",
+          "text": "Decide what is worth restoring first"
+        },
+        {
+          "type": "p",
+          "text": "Pick the most obvious dropped anchor and bring it back in a plain way. A lunch break, a water bottle, or a real dinner is enough to record."
+        },
+        {
+          "type": "p",
+          "text": "If eating becomes unsafe, distressing, or hard to manage, use the record as background for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "day-after-staying-up-late-food",
+      "date": "2026-09-15",
+      "category": "Body Signals",
+      "title": "How to Eat the Day After Staying Up Too Late",
+      "summary": "A compact day-after checklist for meals, water, caffeine, and gentle routine after a late night without recovery promises.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Day After Staying Up Late Food Basics | Daily Support Guide",
+        "metaDescription": "Use simple meal, water, caffeine, and routine notes the day after staying up late without recovery promises or fixes.",
+        "primaryKeyword": "day after staying up late food",
+        "secondaryKeywords": [
+          "late night next day meals",
+          "food basics after staying up late",
+          "tired day meal rhythm"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Eat the Day After Staying Up Too Late",
+        "h2": [
+          "Do the boring first",
+          "Do not chase the night",
+          "Write the useful parts down"
+        ],
+        "faq": [
+          "What food basics matter after staying up late?",
+          "Can one meal fix a late night?",
+          "How should I track a tired day after short sleep?"
+        ],
+        "internalLinks": [
+          "still-tired-after-waking-breakfast",
+          "coffee-stops-helping-day-rhythm",
+          "drinking-water-still-drained-meals"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No recovery promise",
+          "No hangover care advice",
+          "No caffeine dosing",
+          "No pill route",
+          "Checklist stays routine-based"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Late night. Short sleep. Next day wobble. Do not make it fancy."
+        },
+        {
+          "type": "h2",
+          "text": "Do the boring first"
+        },
+        {
+          "type": "p",
+          "text": "Water. Breakfast or first meal. Lunch that is not just crumbs. A real dinner. Caffeine written down, not guessed."
+        },
+        {
+          "type": "p",
+          "text": "That is the list. It fits on a sticky note, which is part of the point."
+        },
+        {
+          "type": "h2",
+          "text": "Do not chase the night"
+        },
+        {
+          "type": "p",
+          "text": "One meal does not erase short sleep. Extra snacks do not need a speech. Coffee does not need to become a strategy."
+        },
+        {
+          "type": "p",
+          "text": "Use the day to rebuild a normal pattern where you can. Plain meals count."
+        },
+        {
+          "type": "h2",
+          "text": "Write the useful parts down"
+        },
+        {
+          "type": "p",
+          "text": "Record sleep length, meal timing, water, caffeine, screen load, and how demanding the day was. Tomorrow can be compared to that."
+        },
+        {
+          "type": "p",
+          "text": "If sleep loss is frequent, severe, or tied to safety concerns, speak with a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "feeling-restless-regular-meals",
+      "date": "2026-09-15",
+      "category": "Body Signals",
+      "title": "Feeling Restless? Regular Meals Are a Practical Place to Begin",
+      "summary": "A warm routine-based look at restlessness, meal steadiness, water, sleep, and daily pressure without emotional-care advice.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Feeling Restless and Regular Meals | Daily Support Guide",
+        "metaDescription": "Use regular meal and routine notes when a day feels restless, without turning food into emotional or medical advice.",
+        "primaryKeyword": "restless regular meals",
+        "secondaryKeywords": [
+          "feeling restless meal rhythm",
+          "regular meals routine notes",
+          "restless day food pattern"
+        ],
+        "searchIntent": "informational",
+        "h1": "Feeling Restless? Regular Meals Are a Practical Place to Begin",
+        "h2": [
+          "Start with the day you can see",
+          "Notice meal gaps without scolding",
+          "Add the other restless-making pieces",
+          "Use help when restlessness feels bigger"
+        ],
+        "faq": [
+          "Can regular meals be part of restlessness notes?",
+          "Does restlessness mean food is the cause?",
+          "When should restlessness be discussed with a professional?"
+        ],
+        "internalLinks": [
+          "mood-swings-steady-meals",
+          "stress-eating-too-little-randomly",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No emotional-care claims",
+          "No mental-health condition framing",
+          "No food-as-cause sentence",
+          "No product route",
+          "Professional support boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Restlessness can make the day feel like it has too many corners. Food may not be the reason. It can still be one steady place to look."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the day you can see"
+        },
+        {
+          "type": "p",
+          "text": "Write wake time, meals, water, caffeine, sleep, movement, stress, and long stretches without a pause. Keep the list ordinary."
+        },
+        {
+          "type": "h2",
+          "text": "Notice meal gaps without scolding"
+        },
+        {
+          "type": "p",
+          "text": "A missed lunch is not a character flaw. A scattered dinner is not a failure. They are just useful marks on the page."
+        },
+        {
+          "type": "p",
+          "text": "Regular meals, in this kind of note, means the day had some anchors. It does not mean the day had to be perfect."
+        },
+        {
+          "type": "h2",
+          "text": "Add the other restless-making pieces"
+        },
+        {
+          "type": "p",
+          "text": "Noise, unfinished work, conflict, scrolling, travel, and poor sleep can all sit beside meals. The fuller page is usually the fairer page."
+        },
+        {
+          "type": "h2",
+          "text": "Use help when restlessness feels bigger"
+        },
+        {
+          "type": "p",
+          "text": "If restlessness is persistent, frightening, intense, or making daily life hard, talk with a licensed professional or trusted local support."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "tired-but-wired-food-drink-timing",
+      "date": "2026-09-15",
+      "category": "Body Signals",
+      "title": "Tired but Wired at Night? Check Food and Drink Timing",
+      "summary": "A structured evening timing record for food, caffeine, alcohol, screens, and pressure without sleep-plan advice.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Tired but Wired and Food Drink Timing | Daily Support Guide",
+        "metaDescription": "Track food, drink, caffeine, alcohol, screens, and pressure when nights feel tired but wired, without sleep advice.",
+        "primaryKeyword": "tired but wired food drink",
+        "secondaryKeywords": [
+          "evening food drink timing",
+          "tired wired night notes",
+          "food drink sleep routine"
+        ],
+        "searchIntent": "informational",
+        "h1": "Tired but Wired at Night? Check Food and Drink Timing",
+        "h2": [
+          "Sort the evening into categories",
+          "Record timing without making rules",
+          "Keep stimulation bigger than food"
+        ],
+        "faq": [
+          "Can food and drink timing be part of tired-but-wired notes?",
+          "Does feeling wired at night mean one drink caused it?",
+          "What should I record about an unsettled evening?"
+        ],
+        "internalLinks": [
+          "trouble-sleeping-dinner-rhythm",
+          "waking-at-night-whole-day-food-rhythm",
+          "coffee-stops-helping-day-rhythm"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No sleep-care instructions",
+          "No caffeine amount or cutoff",
+          "No alcohol advice beyond context",
+          "No stimulant protocol",
+          "Food and drink remain timing notes"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Tired but wired is a crowded phrase. It can hold work stress, late light, noise, caffeine, alcohol, dinner timing, and a mind that did not clock out."
+        },
+        {
+          "type": "h2",
+          "text": "Sort the evening into categories"
+        },
+        {
+          "type": "p",
+          "text": "Use a short list: food, drink, screen, work, stress, movement, and bedtime. Categories keep one detail from taking over."
+        },
+        {
+          "type": "p",
+          "text": "For food, write late, heavy, light, skipped, rushed, or snacky. For drink, write caffeine or alcohol only if they were actually there."
+        },
+        {
+          "type": "h2",
+          "text": "Record timing without making rules"
+        },
+        {
+          "type": "p",
+          "text": "The point is not to build a personal cutoff time from one article. The point is to see whether the same evening pattern keeps showing up."
+        },
+        {
+          "type": "h2",
+          "text": "Keep stimulation bigger than food"
+        },
+        {
+          "type": "p",
+          "text": "A tense message at 10 p.m. may matter as much as dinner. A noisy room may matter more than a snack. Keep the page honest about the whole evening."
+        },
+        {
+          "type": "p",
+          "text": "If unsettled nights are frequent, severe, or affecting your days, bring the pattern to a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "brain-fog-at-work-lunch-notes",
+      "date": "2026-09-15",
+      "category": "Body Signals",
+      "title": "Brain Fog at Work? Your Lunch Notes May Help",
+      "summary": "A practical lunch note sheet for foggy work afternoons that keeps food as one routine detail, not an explanation.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Brain Fog at Work and Lunch Notes | Daily Support Guide",
+        "metaDescription": "Use lunch notes, timing, water, sleep, and workload context when work feels foggy without making food the answer.",
+        "primaryKeyword": "brain fog at work lunch",
+        "secondaryKeywords": [
+          "work lunch notes",
+          "foggy afternoon food rhythm",
+          "lunch routine workday"
+        ],
+        "searchIntent": "informational",
+        "h1": "Brain Fog at Work? Your Lunch Notes May Help",
+        "h2": [
+          "Make the lunch note useful",
+          "Compare days, not moods",
+          "Keep work context in the frame"
+        ],
+        "faq": [
+          "Can lunch notes help when work feels foggy?",
+          "Does brain fog at work mean lunch caused it?",
+          "What should a work lunch note include?"
+        ],
+        "internalLinks": [
+          "sleepy-after-lunch-food",
+          "losing-focus-water-real-meals",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No medical-label brain-fog framing",
+          "No cognitive-performance promise",
+          "No blood-language shortcut",
+          "No product route",
+          "Lunch stays one workday record"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A foggy work afternoon is easy to overread. Before making it a food story, make it a workday record."
+        },
+        {
+          "type": "h2",
+          "text": "Make the lunch note useful"
+        },
+        {
+          "type": "p",
+          "text": "Write lunch as a few fields: time, sit-down or desk, enough food or not, water nearby, caffeine, and how rushed the meal felt."
+        },
+        {
+          "type": "p",
+          "text": "Theo's rule here is simple: a useful note is one you could compare next Thursday without guessing what you meant."
+        },
+        {
+          "type": "h2",
+          "text": "Compare days, not moods"
+        },
+        {
+          "type": "p",
+          "text": "One rough afternoon does not teach much. Three or four workdays can show whether lunch keeps disappearing, landing late, or turning into scattered snacks."
+        },
+        {
+          "type": "p",
+          "text": "Use plain comparison words: earlier, later, fuller, lighter, quieter, rushed. Leave cause words out of it."
+        },
+        {
+          "type": "h2",
+          "text": "Keep work context in the frame"
+        },
+        {
+          "type": "p",
+          "text": "Meetings, short sleep, screens, noise, conflict, and deadline pressure belong beside lunch. Food should not be asked to explain a whole office day."
+        },
+        {
+          "type": "p",
+          "text": "If foggy thinking is persistent, severe, new, or interfering with daily life, use your notes as background for a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "losing-focus-water-real-meals",
       "date": "2026-09-14",
       "category": "Body Signals",
@@ -15194,35 +15671,35 @@ window.DSG_CONTENT = {
       "date": "2026-08-14",
       "title": "How to Compare Vitamin Labels Without Chasing Big Numbers",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 27,
       "date": "2026-08-15",
       "title": "What Percent Daily Value Can and Cannot Tell You",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 28,
       "date": "2026-08-16",
       "title": "How to Read Directions for Use Without Making Assumptions",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 29,
       "date": "2026-08-17",
       "title": "How to Compare Package Size, Serving Count, and Real Cost",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 30,
       "date": "2026-08-18",
       "title": "A Simple Framework for Comparing Similar Products",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 31,
