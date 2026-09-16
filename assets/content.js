@@ -1,6 +1,476 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "hungry-soon-after-eating-meal-balance",
+      "date": "2026-09-16",
+      "category": "Body Signals",
+      "title": "Hungry Again Soon? Your Last Meal May Need More Balance",
+      "summary": "A meal-balance note sheet for hunger soon after eating, focused on food roles and timing without body-system claims.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Hungry Soon After Eating and Meal Balance | Daily Support Guide",
+        "metaDescription": "Track meal balance, timing, fluids, and food roles when hunger returns soon after eating, without medical-cause claims.",
+        "primaryKeyword": "hungry soon after eating meal balance",
+        "secondaryKeywords": [
+          "meal balance hunger notes",
+          "hungry after eating food rhythm",
+          "last meal balance checklist"
+        ],
+        "searchIntent": "informational",
+        "h1": "Hungry Again Soon? Your Last Meal May Need More Balance",
+        "h2": [
+          "Check the shape of the last meal",
+          "Use food roles, not numbers",
+          "Add timing and context"
+        ],
+        "faq": [
+          "Can meal balance be part of hunger notes?",
+          "Does hunger soon after eating mean something is wrong?",
+          "What should I write about the last meal?"
+        ],
+        "internalLinks": [
+          "craving-sweets-meal-balance",
+          "takeout-nutrition-gaps",
+          "nutrition-basics-under-pressure"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No blood-language shortcut",
+          "No appetite medical framing",
+          "No calorie target",
+          "No product route",
+          "Meal balance remains general"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Hungry again soon after eating? Start with the last meal before making a bigger story."
+        },
+        {
+          "type": "h2",
+          "text": "Check the shape of the last meal"
+        },
+        {
+          "type": "p",
+          "text": "Write whether the meal had something filling, something with protein, a grain or starch, produce if available, fat, and a drink."
+        },
+        {
+          "type": "p",
+          "text": "This is a note sheet, not a scoring system."
+        },
+        {
+          "type": "h2",
+          "text": "Use food roles, not numbers"
+        },
+        {
+          "type": "p",
+          "text": "Better columns are plain: missing, light, enough, more than usual. They are easier to repeat than exact counts."
+        },
+        {
+          "type": "h2",
+          "text": "Add timing and context"
+        },
+        {
+          "type": "p",
+          "text": "A tiny breakfast after a short night is different from a full lunch before a long walk. Timing, sleep, stress, and activity belong in the same note."
+        },
+        {
+          "type": "p",
+          "text": "If hunger changes are persistent, intense, sudden, or worrying, discuss the pattern with a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "cold-hands-feet-food-movement-notes",
+      "date": "2026-09-16",
+      "category": "Body Signals",
+      "title": "Cold Hands and Feet? Food and Movement Both Belong in the Notes",
+      "summary": "A cautious daily record for cold hands and feet that includes meals, movement, temperature, and professional boundaries.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Cold Hands and Feet Food Movement Notes | Daily Support Guide",
+        "metaDescription": "Use food, movement, room temperature, and routine notes when hands and feet feel cold, without medical-cause claims.",
+        "primaryKeyword": "cold hands feet food movement",
+        "secondaryKeywords": [
+          "cold hands feet routine notes",
+          "food movement daily record",
+          "cold feet meal rhythm"
+        ],
+        "searchIntent": "informational",
+        "h1": "Cold Hands and Feet? Food and Movement Both Belong in the Notes",
+        "h2": [
+          "Keep the room in the story",
+          "Add meals without making a claim",
+          "Movement belongs beside food",
+          "Use a clear care boundary"
+        ],
+        "faq": [
+          "Can meals be part of cold hands and feet notes?",
+          "Should movement be written down too?",
+          "When should cold hands and feet be discussed with a professional?"
+        ],
+        "internalLinks": [
+          "sitting-all-day-low-energy",
+          "messy-schedule-nutrition-basics",
+          "always-thirsty-hydration-rhythm"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No circulation claim",
+          "No nutrient-status implication",
+          "No medical-cause shortcut",
+          "No product route",
+          "Professional boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Cold hands and feet can make a person start searching fast. Slow the note down first."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the room in the story"
+        },
+        {
+          "type": "p",
+          "text": "Write the obvious surroundings: cold room, wet shoes, long commute, air conditioning, outdoor work, or sitting still for hours."
+        },
+        {
+          "type": "h2",
+          "text": "Add meals without making a claim"
+        },
+        {
+          "type": "p",
+          "text": "Then add food rhythm: skipped meal, late lunch, light dinner, usual meals, or a day that ran on snacks. Do not make the meal explain the cold."
+        },
+        {
+          "type": "h2",
+          "text": "Movement belongs beside food"
+        },
+        {
+          "type": "p",
+          "text": "A long sitting day is worth writing next to meals and temperature. It keeps the record practical and less dramatic."
+        },
+        {
+          "type": "p",
+          "text": "Leave the sentence simple: food, movement, and setting all get a line."
+        },
+        {
+          "type": "h2",
+          "text": "Use a clear care boundary"
+        },
+        {
+          "type": "p",
+          "text": "If cold hands or feet are persistent, painful, one-sided, changing color, numb, or worrying, talk with a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "always-thirsty-hydration-rhythm",
+      "date": "2026-09-16",
+      "category": "Body Signals",
+      "title": "Always Thirsty? Check the Rhythm of Your Day",
+      "summary": "A safety-sensitive thirst record that includes fluids, meals, heat, activity, and professional boundaries without medical screening.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Always Thirsty and Hydration Rhythm | Daily Support Guide",
+        "metaDescription": "Track fluids, meals, heat, activity, and routine when thirst keeps showing up, with clear professional boundaries.",
+        "primaryKeyword": "always thirsty hydration rhythm",
+        "secondaryKeywords": [
+          "thirst hydration notes",
+          "always thirsty routine record",
+          "hydration rhythm day"
+        ],
+        "searchIntent": "informational",
+        "h1": "Always Thirsty? Check the Rhythm of Your Day",
+        "h2": [
+          "Start with safety language",
+          "Record fluids in context",
+          "Add meals, heat, and activity"
+        ],
+        "faq": [
+          "Can thirst be part of hydration notes?",
+          "Does feeling thirsty mean one cause is obvious?",
+          "When should ongoing thirst be discussed with a professional?"
+        ],
+        "internalLinks": [
+          "drinking-water-still-drained-meals",
+          "slow-digestion-water-fiber-meals",
+          "busy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No medical screening",
+          "No condition-name wording",
+          "No electrolyte product route",
+          "No fluid amount rule",
+          "Strong professional boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Thirst is not a place for clever guessing. If it is intense, persistent, sudden, or paired with other worrying changes, speak with a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Start with safety language"
+        },
+        {
+          "type": "p",
+          "text": "A daily note can be useful, but it should not become a home screening tool. Write what happened and keep the boundary visible."
+        },
+        {
+          "type": "h2",
+          "text": "Record fluids in context"
+        },
+        {
+          "type": "p",
+          "text": "Write when you drank, what kind of day it was, and whether drinking was easy to forget. Do not turn the note into a fluid rule."
+        },
+        {
+          "type": "h2",
+          "text": "Add meals, heat, and activity"
+        },
+        {
+          "type": "p",
+          "text": "Salty meals, hot weather, hard activity, travel, alcohol, and long work stretches can all belong on the page."
+        },
+        {
+          "type": "p",
+          "text": "Meals matter too. A day with scattered food can feel different from a day with normal anchors, even if the water bottle was nearby."
+        },
+        {
+          "type": "p",
+          "text": "Keep the record short enough to bring to someone qualified if the thirst keeps bothering you."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "slow-digestion-water-fiber-meals",
+      "date": "2026-09-16",
+      "category": "Body Signals",
+      "title": "Slow Digestion: Water Is Only One Part of the Picture",
+      "summary": "A careful note-based article on slow digestion, water, fiber sources, movement, and meal timing without a care plan.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Slow Digestion, Water, Fiber, and Meals | Daily Support Guide",
+        "metaDescription": "Track water, fiber sources, movement, and meal timing when digestion feels slow, without using a self-care protocol.",
+        "primaryKeyword": "slow digestion water fiber meals",
+        "secondaryKeywords": [
+          "slow digestion food notes",
+          "water fiber meal rhythm",
+          "digestion routine record"
+        ],
+        "searchIntent": "informational",
+        "h1": "Slow Digestion: Water Is Only One Part of the Picture",
+        "h2": [
+          "Do not make water carry the whole story",
+          "Write fiber as food sources",
+          "Add movement and timing",
+          "Keep the boundary clear"
+        ],
+        "faq": [
+          "Can water be part of slow digestion notes?",
+          "Should fiber be written as food sources?",
+          "When should slow digestion get professional input?"
+        ],
+        "internalLinks": [
+          "bloated-eating-speed-fiber",
+          "drinking-water-still-drained-meals",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No constipation protocol",
+          "No laxative or pill route",
+          "No medical-label framing",
+          "No fiber target",
+          "Professional boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Water matters, but it is a thin explanation by itself. Slow digestion notes need the rest of the day."
+        },
+        {
+          "type": "h2",
+          "text": "Do not make water carry the whole story"
+        },
+        {
+          "type": "p",
+          "text": "Write fluids, yes. Then write meals, timing, long gaps, travel, movement, stress, and whether the day looked different from usual."
+        },
+        {
+          "type": "h2",
+          "text": "Write fiber as food sources"
+        },
+        {
+          "type": "p",
+          "text": "Use food names instead of targets: oats, beans, lentils, whole grains, fruit, vegetables, nuts, seeds. Or write that they were mostly missing."
+        },
+        {
+          "type": "p",
+          "text": "That wording keeps the note factual and avoids turning a record into instructions."
+        },
+        {
+          "type": "h2",
+          "text": "Add movement and timing"
+        },
+        {
+          "type": "p",
+          "text": "A long sitting day, a rushed morning, or a very late meal can belong in the same record. The sentence stays wide on purpose."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the boundary clear"
+        },
+        {
+          "type": "p",
+          "text": "If digestion changes are persistent, painful, severe, or worrying, bring the notes to a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "bloated-eating-speed-fiber-sources",
+      "date": "2026-09-16",
+      "category": "Body Signals",
+      "title": "Feeling Bloated? Start With Eating Speed and Fiber Sources",
+      "summary": "A gentle digestive note for eating speed, fiber sources, fluids, and meal rhythm without digestive-condition advice.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Bloated Feeling, Eating Speed, and Fiber Sources | Daily Support Guide",
+        "metaDescription": "Use eating speed, fiber-source, fluid, and meal-rhythm notes when bloating shows up, without turning food into medical advice.",
+        "primaryKeyword": "bloated eating speed fiber",
+        "secondaryKeywords": [
+          "bloating food pattern notes",
+          "eating speed fiber sources",
+          "meal rhythm bloated feeling"
+        ],
+        "searchIntent": "informational",
+        "h1": "Feeling Bloated? Start With Eating Speed and Fiber Sources",
+        "h2": [
+          "Write the meal, not a verdict",
+          "Notice speed and setting",
+          "List fiber sources plainly",
+          "Know when notes are not enough"
+        ],
+        "faq": [
+          "Can eating speed be part of bloating notes?",
+          "Does bloating mean one food caused it?",
+          "When should bloating be discussed with a professional?"
+        ],
+        "internalLinks": [
+          "slow-digestion-water-fiber-meals",
+          "hungry-soon-after-eating-meal-balance",
+          "messy-schedule-nutrition-basics"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No digestive-condition labeling",
+          "No gut-care protocol",
+          "No single-food blame",
+          "No product route",
+          "Professional boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Bloating can make a normal meal feel suspicious. Try not to put the meal on trial too quickly."
+        },
+        {
+          "type": "h2",
+          "text": "Write the meal, not a verdict"
+        },
+        {
+          "type": "p",
+          "text": "Record what you ate, when you ate, and whether the meal was rushed, late, very large, or squeezed between tasks."
+        },
+        {
+          "type": "h2",
+          "text": "Notice speed and setting"
+        },
+        {
+          "type": "p",
+          "text": "A quiet meal and a desk meal are different notes. So are five-minute eating, talking while eating, and eating after a long gap."
+        },
+        {
+          "type": "h2",
+          "text": "List fiber sources plainly"
+        },
+        {
+          "type": "p",
+          "text": "Write beans, whole grains, fruit, vegetables, nuts, seeds, or fewer fiber-rich foods than usual. Keep the list descriptive."
+        },
+        {
+          "type": "p",
+          "text": "Add fluids and movement if they were different that day. The page should hold the whole routine, not one ingredient."
+        },
+        {
+          "type": "h2",
+          "text": "Know when notes are not enough"
+        },
+        {
+          "type": "p",
+          "text": "If bloating is persistent, severe, painful, new, or comes with worrying changes, talk with a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "nutrition-basics-under-pressure",
       "date": "2026-09-15",
       "category": "Body Signals",
@@ -15706,35 +16176,35 @@ window.DSG_CONTENT = {
       "date": "2026-08-19",
       "title": "How to Notice Marketing Claims Without Letting Them Lead",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 32,
       "date": "2026-08-20",
       "title": "How to Read Structure and Function Language Carefully",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 33,
       "date": "2026-08-21",
       "title": "How to Compare Products When One Uses a Blend",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 34,
       "date": "2026-08-22",
       "title": "How to Compare Botanical Labels by Plant Part and Form",
       "category": "Label Reading",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 35,
       "date": "2026-08-23",
       "title": "How to Keep a Product Comparison Notes Sheet",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 36,
