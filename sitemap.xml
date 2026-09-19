@@ -2,45 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dailysupportguide.com/index.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/about.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/privacy.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/contact.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/topics.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/how-to-use.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/editorial-policy.html</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dailysupportguide.com/article.html?slug=weekly-body-signals-check-in</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailysupportguide.com/article.html?slug=food-pattern-checks-around-period</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailysupportguide.com/article.html?slug=after-travel-ease-back-eating-routine</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailysupportguide.com/article.html?slug=delivery-meals-nutrition-gaps</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dailysupportguide.com/article.html?slug=vegetarian-nutrition-beyond-protein</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dailysupportguide.com/article.html?slug=new-fitness-routine-recovery-nutrition-checks</loc>

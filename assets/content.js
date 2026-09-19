@@ -1,6 +1,472 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "weekly-body-signals-check-in",
+      "date": "2026-09-19",
+      "category": "Body Signals",
+      "title": "A Weekly Body Signals Check-In: Energy, Sleep, Digestion, and More",
+      "summary": "A capstone weekly check-in for energy, sleep, digestion, thirst, meals, and routine context without becoming a symptom checker.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Weekly Body Signals Check-In | Daily Support Guide",
+        "metaDescription": "Use a weekly body signals check-in for energy, sleep, digestion, thirst, meals, and routine context without symptom checking.",
+        "primaryKeyword": "weekly body signals check in",
+        "secondaryKeywords": [
+          "body signals weekly notes",
+          "weekly food routine check",
+          "energy sleep digestion notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Weekly Body Signals Check-In: Energy, Sleep, Digestion, and More",
+        "h2": [
+          "Use one page",
+          "Track signals beside routines",
+          "Circle patterns, not causes",
+          "Know when the page is not enough"
+        ],
+        "faq": [
+          "What belongs in a weekly body signals check-in?",
+          "Is this a symptom checker?",
+          "When should body signals be discussed with a professional?"
+        ],
+        "internalLinks": [
+          "brain-fog-at-work-lunch-notes",
+          "always-thirsty-hydration-rhythm",
+          "bloated-eating-speed-fiber-sources"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No symptom checker design",
+          "No cause claims",
+          "No medical-label language",
+          "No product route",
+          "Professional boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "One week. One page. No detective wall."
+        },
+        {
+          "type": "h2",
+          "text": "Use one page"
+        },
+        {
+          "type": "p",
+          "text": "Make columns for energy, sleep, digestion, thirst, mood, focus, meals, fluids, movement, stress, and anything unusual."
+        },
+        {
+          "type": "h2",
+          "text": "Track signals beside routines"
+        },
+        {
+          "type": "p",
+          "text": "Put body signals beside daily routine, not above it. A short night, skipped lunch, travel day, or hard week belongs on the same page."
+        },
+        {
+          "type": "h2",
+          "text": "Circle patterns, not causes"
+        },
+        {
+          "type": "p",
+          "text": "Circle repeats: three late lunches, two rough nights, vegetables missing, thirst showing up often. Do not write a medical label in the margin."
+        },
+        {
+          "type": "p",
+          "text": "A weekly page can show what to notice next. It should not decide what is happening inside your body."
+        },
+        {
+          "type": "h2",
+          "text": "Know when the page is not enough"
+        },
+        {
+          "type": "p",
+          "text": "If a signal is severe, sudden, persistent, painful, frightening, or worrying, bring it to a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "food-pattern-checks-around-period",
+      "date": "2026-09-19",
+      "category": "Body Signals",
+      "title": "Food Pattern Checks Around Your Period",
+      "summary": "A safety-sensitive menstrual-cycle food-pattern record for meals, fluids, cravings, appetite, and support boundaries without cycle-care claims.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Food Pattern Checks Around Your Period | Daily Support Guide",
+        "metaDescription": "Track meals, fluids, cravings, appetite, and routine around your period without cycle-care or nutrient-status claims.",
+        "primaryKeyword": "food pattern around period",
+        "secondaryKeywords": [
+          "period food pattern notes",
+          "menstrual cycle meal rhythm",
+          "period cravings food record"
+        ],
+        "searchIntent": "informational",
+        "h1": "Food Pattern Checks Around Your Period",
+        "h2": [
+          "Use cycle timing as context",
+          "Write cravings and appetite carefully",
+          "Do not turn food into period care",
+          "Escalate worrying changes"
+        ],
+        "faq": [
+          "Can food patterns be tracked around a period?",
+          "Should food notes handle period discomfort?",
+          "When should period-related changes get professional input?"
+        ],
+        "internalLinks": [
+          "mood-swings-steady-meals",
+          "stress-eating-too-little-randomly",
+          "nutrition-basics-under-pressure"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No cycle-chemistry claims",
+          "No period-discomfort care advice",
+          "No nutrient-status implication",
+          "No pill route",
+          "Professional boundary included"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Period-week notes need careful language. Food can be part of the record without becoming a period-care plan."
+        },
+        {
+          "type": "h2",
+          "text": "Use cycle timing as context"
+        },
+        {
+          "type": "p",
+          "text": "Write the day of the cycle if you know it, then meals, fluids, sleep, stress, movement, appetite, and cravings."
+        },
+        {
+          "type": "h2",
+          "text": "Write cravings and appetite carefully"
+        },
+        {
+          "type": "p",
+          "text": "Cravings are not a failure. Appetite changes are not a character note. They are lines on the page."
+        },
+        {
+          "type": "p",
+          "text": "The safest sentence is plain: this changed around the same time as my period. It does not say food caused it or fixed it."
+        },
+        {
+          "type": "h2",
+          "text": "Do not turn food into period care"
+        },
+        {
+          "type": "p",
+          "text": "This article does not tell you what to eat for pain, mood, flow, or cycle changes. Keep individualized questions with a licensed professional."
+        },
+        {
+          "type": "h2",
+          "text": "Escalate worrying changes"
+        },
+        {
+          "type": "p",
+          "text": "If pain, bleeding, cycle changes, weakness, dizziness, or distress are severe, new, persistent, or worrying, seek professional support."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "after-travel-ease-back-eating-routine",
+      "date": "2026-09-19",
+      "category": "Body Signals",
+      "title": "After Travel Throws Off Meals, Ease Back Into a Pattern",
+      "summary": "A gentle post-travel routine article for meals, fluids, sleep, timing, and ordinary re-entry without dramatic clean-slate language.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "After Travel Eating Routine | Daily Support Guide",
+        "metaDescription": "Use gentle meal, fluid, sleep, and timing notes after travel disrupts routine without dramatic clean-slate language.",
+        "primaryKeyword": "after travel eating routine",
+        "secondaryKeywords": [
+          "travel meal rhythm",
+          "post travel food routine",
+          "after travel meals"
+        ],
+        "searchIntent": "informational",
+        "h1": "After Travel Throws Off Meals, Ease Back Into a Pattern",
+        "h2": [
+          "Name the disruption plainly",
+          "Pick one normal anchor",
+          "Let the week settle"
+        ],
+        "faq": [
+          "How can I ease back into meals after travel?",
+          "Should post-travel eating use dramatic restart language?",
+          "What should I track after travel disrupts routine?"
+        ],
+        "internalLinks": [
+          "messy-schedule-nutrition-basics",
+          "day-after-staying-up-late-food",
+          "drinking-water-still-drained-meals"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No purification language",
+          "No restart claim",
+          "No clean-slate framing",
+          "No product route",
+          "Gentle routine only"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Travel can scatter meals without doing anything wrong. Airports, long drives, late arrivals, hotel breakfasts, time zones, family tables: it all counts."
+        },
+        {
+          "type": "h2",
+          "text": "Name the disruption plainly"
+        },
+        {
+          "type": "p",
+          "text": "Write what changed: meal timing, fluids, sleep, caffeine, alcohol, snacks, vegetables, or the simple fact that food was not fully in your control."
+        },
+        {
+          "type": "h2",
+          "text": "Pick one normal anchor"
+        },
+        {
+          "type": "p",
+          "text": "The first anchor can be small: breakfast at home, a familiar lunch, a water bottle on the desk, or dinner before the evening gets away."
+        },
+        {
+          "type": "p",
+          "text": "No dramatic fresh start. No big speech. Just one ordinary meal that helps the day know where it is."
+        },
+        {
+          "type": "h2",
+          "text": "Let the week settle"
+        },
+        {
+          "type": "p",
+          "text": "Give the record a few days before judging it. Travel leaves loose ends, and not all of them are about food."
+        },
+        {
+          "type": "p",
+          "text": "If travel affected a medical condition, medication schedule, or personal nutrition plan, follow guidance from a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "delivery-meals-nutrition-gaps",
+      "date": "2026-09-19",
+      "category": "Body Signals",
+      "title": "Frequent Delivery Meals Can Leave Small Gaps",
+      "summary": "A delivery-heavy week comparison for meal variety, vegetables, fluids, and repetition without app names or food moralizing.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Delivery Meals and Small Nutrition Gaps | Daily Support Guide",
+        "metaDescription": "Track delivery-heavy weeks for meal variety, vegetables, fluids, and repetition without app names, brands, or food guilt.",
+        "primaryKeyword": "delivery meals nutrition gaps",
+        "secondaryKeywords": [
+          "delivery meal pattern",
+          "takeout week food notes",
+          "frequent delivery meals"
+        ],
+        "searchIntent": "informational",
+        "h1": "Frequent Delivery Meals Can Leave Small Gaps",
+        "h2": [
+          "Compare the week, not the order",
+          "Look for repetition",
+          "Add what is easy to forget"
+        ],
+        "faq": [
+          "How can I track frequent delivery meals?",
+          "Should delivery meal notes name apps or restaurants?",
+          "What small gaps can appear in delivery-heavy weeks?"
+        ],
+        "internalLinks": [
+          "takeout-nutrition-gaps",
+          "salty-takeout-next-day-notes",
+          "vegetables-keep-falling-off-plate"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No app or restaurant names",
+          "No named-company language",
+          "No guilt framing",
+          "No product route",
+          "General pattern comparison only"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Delivery meals can be practical. The pattern only gets hard to see when every order feels separate."
+        },
+        {
+          "type": "h2",
+          "text": "Compare the week, not the order"
+        },
+        {
+          "type": "p",
+          "text": "Write a weekly view: repeated meals, vegetables, fruit, protein foods, grains, fluids, and how many meals were eaten in a rush."
+        },
+        {
+          "type": "h2",
+          "text": "Look for repetition"
+        },
+        {
+          "type": "p",
+          "text": "The same lunch four times may be fine. It may also mean a few food groups kept missing. The note can hold that without judgment."
+        },
+        {
+          "type": "h2",
+          "text": "Add what is easy to forget"
+        },
+        {
+          "type": "p",
+          "text": "Fluids, side vegetables, fruit, and sit-down time often disappear quietly. Add them as checkboxes, not corrections."
+        },
+        {
+          "type": "p",
+          "text": "No app names, no restaurant scores, no lecture. Just a pattern you can actually read."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "vegetarian-nutrition-beyond-protein",
+      "date": "2026-09-19",
+      "category": "Body Signals",
+      "title": "Vegetarian Nutrition Checks Beyond Protein",
+      "summary": "A structured vegetarian food-pattern check for meal variety, staples, color, fortified foods, and routine gaps without nutrient-status claims.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Vegetarian Nutrition Checks Beyond Protein | Daily Support Guide",
+        "metaDescription": "Use vegetarian food-pattern notes for variety, staples, color, fortified foods, and routine gaps without personal nutrition claims.",
+        "primaryKeyword": "vegetarian nutrition beyond protein",
+        "secondaryKeywords": [
+          "vegetarian food pattern check",
+          "vegetarian meal variety",
+          "plant based nutrition notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "Vegetarian Nutrition Checks Beyond Protein",
+        "h2": [
+          "Start with the whole pattern",
+          "Use categories instead of alarms",
+          "Write fortified foods as context",
+          "Keep personal needs personal"
+        ],
+        "faq": [
+          "What should vegetarian nutrition notes include?",
+          "Should vegetarian notes focus only on protein?",
+          "When should vegetarian eating get individualized guidance?"
+        ],
+        "internalLinks": [
+          "vegetarian-hair-nails-nutrition",
+          "protein-frequency-energy-recovery-notes",
+          "vegetables-keep-falling-off-plate"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No named-nutrient health-status claim",
+          "No pill guidance",
+          "No lab-test advice",
+          "No product route",
+          "Pattern categories only"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Vegetarian eating often gets reduced to one question. The fuller pattern deserves more than that."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the whole pattern"
+        },
+        {
+          "type": "p",
+          "text": "Make a week note for staples, vegetables, fruit, grains, beans, lentils, soy foods, dairy foods or alternatives, nuts, seeds, and meals that repeat."
+        },
+        {
+          "type": "h2",
+          "text": "Use categories instead of alarms"
+        },
+        {
+          "type": "p",
+          "text": "The cleanest version is a category list: frequent, occasional, missing, and not sure. It keeps the page calm."
+        },
+        {
+          "type": "p",
+          "text": "Do not turn one missing category into a health conclusion. A note is not a lab report."
+        },
+        {
+          "type": "h2",
+          "text": "Write fortified foods as context"
+        },
+        {
+          "type": "p",
+          "text": "Fortified foods can be written as part of the pattern when they are already present. This article does not tell you to add a product."
+        },
+        {
+          "type": "h2",
+          "text": "Keep personal needs personal"
+        },
+        {
+          "type": "p",
+          "text": "Pregnancy, breastfeeding, medications, medical conditions, eating history, and individualized plans belong with a licensed professional."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "new-fitness-routine-recovery-nutrition-checks",
       "date": "2026-09-18",
       "category": "Body Signals",
@@ -17212,35 +17678,35 @@ window.DSG_CONTENT = {
       "date": "2026-09-03",
       "title": "How to Read a Product Page Without Looking for a Winner",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 47,
       "date": "2026-09-04",
       "title": "How to Compare Similar Categories Without Making Health Claims",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 48,
       "date": "2026-09-05",
       "title": "How to Keep Product Notes Neutral and Useful",
       "category": "Comparison Skills",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 49,
       "date": "2026-09-06",
       "title": "How to Revisit a Routine After Two Weeks",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     },
     {
       "day": 50,
       "date": "2026-09-07",
       "title": "A 10-Minute Review for Everyday Label Confidence",
       "category": "Routine Guides",
-      "status": "approved"
+      "status": "published"
     }
   ]
 };
