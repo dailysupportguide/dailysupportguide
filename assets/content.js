@@ -1,6 +1,480 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "kitchen-missing-food-notes",
+      "date": "2026-09-23",
+      "category": "Food Rhythm",
+      "title": "How to Notice What Your Kitchen Is Actually Missing",
+      "summary": "A source-aware kitchen gap note that focuses on meal roles, timing, and pantry visibility instead of supplements, products, or health claims.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "How to Notice What Your Kitchen Is Actually Missing | Daily Support Guide",
+        "metaDescription": "Notice what your kitchen is missing with a simple gap note for meal roles, timing, and repeat blockers without product or health claims.",
+        "primaryKeyword": "kitchen missing food notes",
+        "secondaryKeywords": [
+          "kitchen gap notes",
+          "missing grocery notes",
+          "food rhythm kitchen check"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Notice What Your Kitchen Is Actually Missing",
+        "h2": [
+          "Start with the blocked meal",
+          "Use one example row",
+          "Separate food gaps from tool gaps",
+          "Write the source",
+          "Keep the question open"
+        ],
+        "faq": [
+          "How can I notice what my kitchen is missing?",
+          "What is a kitchen gap note?",
+          "How do I keep missing-food notes from becoming product lists?"
+        ],
+        "internalLinks": [
+          "grocery-list-from-meals-you-already-eat",
+          "compare-grocery-staples",
+          "make-pantry-easier-to-use"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No supplement gap framing",
+          "No product recommendation",
+          "No brand examples",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A kitchen can feel like it is missing everything. Start with one blocked meal. That keeps the note useful."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the blocked meal"
+        },
+        {
+          "type": "p",
+          "text": "Write the meal that almost happened: breakfast, lunch, dinner, snack, packed meal, shared meal, or backup meal. Then write the missing part in plain language."
+        },
+        {
+          "type": "h2",
+          "text": "Use one example row"
+        },
+        {
+          "type": "p",
+          "text": "Pasta was available, side was missing. Lunch base was available, a place to pack it was missing. Soup was available, easy add-in was missing. One row is enough to begin."
+        },
+        {
+          "type": "h2",
+          "text": "Separate food gaps from tool gaps"
+        },
+        {
+          "type": "p",
+          "text": "Use two columns. Food gap: ingredient, side, drink, fruit, vegetable, backup item. Practical gap: clean pan, packing space, knife, time, counter space, reminder."
+        },
+        {
+          "type": "h2",
+          "text": "Write the source"
+        },
+        {
+          "type": "p",
+          "text": "Put the source next to the note: meal attempt, grocery list, pantry check, fridge reset, lunch bag, or shared dinner. A source keeps the note from becoming a guess."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the question open"
+        },
+        {
+          "type": "p",
+          "text": "One missing item does not prove what the kitchen always needs. It only shows what blocked one meal. Keep that question open until the pattern repeats."
+        },
+        {
+          "type": "p",
+          "text": "A kitchen gap note should stay close to the meal that almost happened. That keeps the question practical instead of turning it into a bigger claim."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "one-shelf-busy-week-meals",
+      "date": "2026-09-23",
+      "category": "Food Rhythm",
+      "title": "The One-Shelf Method for Busy Week Meals",
+      "summary": "A practical one-shelf kitchen method for busy week meals that focuses on visibility, meal role, and timing without storage product examples.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "The One-Shelf Method for Busy Week Meals | Daily Support Guide",
+        "metaDescription": "Use a one-shelf method for busy week meals by grouping visible meal parts, timing notes, and flexible food roles.",
+        "primaryKeyword": "one shelf busy week meals",
+        "secondaryKeywords": [
+          "one shelf meal method",
+          "busy week meal shelf",
+          "kitchen visibility routine"
+        ],
+        "searchIntent": "informational",
+        "h1": "The One-Shelf Method for Busy Week Meals",
+        "h2": [
+          "Choose the shelf",
+          "Add only ready-to-use parts",
+          "Write the meal role",
+          "Clear the shelf after the week"
+        ],
+        "faq": [
+          "What is the one-shelf method for meals?",
+          "How can one shelf help during a busy week?",
+          "What should go on a busy week meal shelf?"
+        ],
+        "internalLinks": [
+          "make-pantry-easier-to-use",
+          "fridge-reset-food-waste",
+          "flexible-dinner-template"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No storage product examples",
+          "No rigid meal plan",
+          "No brand examples",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The one-shelf method is a visibility note, not a storage system. It gives busy-week food one obvious place to stand."
+        },
+        {
+          "type": "h2",
+          "text": "Choose the shelf"
+        },
+        {
+          "type": "p",
+          "text": "Choose one shelf, one counter corner, or one fridge area. The exact place matters less than making the meal parts easy to see."
+        },
+        {
+          "type": "h2",
+          "text": "Add only ready-to-use parts"
+        },
+        {
+          "type": "p",
+          "text": "Use foods that can help within the next few days: cooked grain, washed produce, opened sauce, lunch item, dinner side, snack option, or backup meal part."
+        },
+        {
+          "type": "h2",
+          "text": "Write the meal role"
+        },
+        {
+          "type": "p",
+          "text": "Put one small card near the shelf with three lines: use first, meal role, likely day. The card keeps the shelf from becoming another pile."
+        },
+        {
+          "type": "h2",
+          "text": "Clear the shelf after the week"
+        },
+        {
+          "type": "p",
+          "text": "Check the shelf once in the middle of the week. Mark each item as used, still ready, or no clear meal. Do not reorganize the kitchen around the note."
+        },
+        {
+          "type": "p",
+          "text": "At the end of the week, clear the area and write what happened: used, ignored, too hidden, too much, not enough. The next shelf can be smaller."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "backup-meals-without-overplanning",
+      "date": "2026-09-23",
+      "category": "Food Rhythm",
+      "title": "How to Keep Backup Meals Around Without Overplanning",
+      "summary": "A warm guide to keeping flexible backup meals around without making the week feel rigid or overplanned.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Keep Backup Meals Around Without Overplanning | Daily Support Guide",
+        "metaDescription": "Keep backup meals around with flexible meal categories, ordinary pantry notes, and low-pressure weekly planning.",
+        "primaryKeyword": "backup meals without overplanning",
+        "secondaryKeywords": [
+          "flexible backup meals",
+          "simple meal backup",
+          "food rhythm backup meals"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Keep Backup Meals Around Without Overplanning",
+        "h2": [
+          "Choose a backup meal shape",
+          "Keep the parts flexible",
+          "Use the backup before it disappears"
+        ],
+        "faq": [
+          "How can I keep backup meals without overplanning?",
+          "What counts as a backup meal?",
+          "How can backup meals stay flexible?"
+        ],
+        "internalLinks": [
+          "simple-dinner-after-long-day",
+          "make-pantry-easier-to-use",
+          "weekly-food-rhythm-reset"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No rigid meal plan",
+          "No product examples",
+          "No diet rules",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A backup meal is not a promise that the week will go smoothly. It is just something kind to leave for a harder evening."
+        },
+        {
+          "type": "h2",
+          "text": "Choose a backup meal shape"
+        },
+        {
+          "type": "p",
+          "text": "Start with a shape, not a strict recipe: soup plus bread, rice plus something warm, eggs plus toast, pasta plus a side, beans plus a grain, leftovers plus fruit."
+        },
+        {
+          "type": "p",
+          "text": "The shape gives the kitchen a place to begin when the day is already full."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the parts flexible"
+        },
+        {
+          "type": "p",
+          "text": "Write two or three parts that can move between meals. A backup works better when the pieces are not locked to one perfect dinner."
+        },
+        {
+          "type": "h2",
+          "text": "Use the backup before it disappears"
+        },
+        {
+          "type": "p",
+          "text": "Put a small note where you will see it: backup meal this week, freezer option, pantry meal, or use soon. The note is there to make the food visible, not to add pressure."
+        },
+        {
+          "type": "p",
+          "text": "One backup meal is enough. If it gets used, it helped. If it does not, it taught you something about the week."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "fridge-reset-food-waste",
+      "date": "2026-09-23",
+      "category": "Food Rhythm",
+      "title": "A Fridge Reset for People Who Hate Food Waste",
+      "summary": "A quick fridge reset checklist that reduces forgotten food without guilt, body-fix framing, or product recommendations.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "A Fridge Reset for People Who Hate Food Waste | Daily Support Guide",
+        "metaDescription": "Use a quick fridge reset to notice visible food, near-term meals, and one practical next use without guilt or body-fix language.",
+        "primaryKeyword": "fridge reset food waste",
+        "secondaryKeywords": [
+          "fridge reset checklist",
+          "reduce forgotten food",
+          "food waste routine"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Fridge Reset for People Who Hate Food Waste",
+        "h2": [
+          "Pull forward what needs a decision",
+          "Make one soon meal",
+          "Stop before it becomes a full cleanout"
+        ],
+        "faq": [
+          "What is a quick fridge reset?",
+          "How can I reduce forgotten food without guilt?",
+          "What should I check first in the fridge?"
+        ],
+        "internalLinks": [
+          "groceries-going-unused",
+          "weekly-grocery-reflection",
+          "simple-dinner-after-long-day"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No guilt framing",
+          "No body-fix wording",
+          "No product organizer recommendation",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Do the small reset. Not the full cleanout."
+        },
+        {
+          "type": "p",
+          "text": "Open the fridge. Choose what needs a decision soon. Work from there."
+        },
+        {
+          "type": "h2",
+          "text": "Pull forward what needs a decision"
+        },
+        {
+          "type": "p",
+          "text": "Leftovers. Cut fruit. Washed greens. Half an onion. Cooked rice. Anything opened. Put decision-needed food where it can be seen."
+        },
+        {
+          "type": "h2",
+          "text": "Make one soon meal"
+        },
+        {
+          "type": "p",
+          "text": "Do not plan the week. Name one meal that could use what is already there: lunch tomorrow, dinner tonight, snack plate, soup add-in, side dish, breakfast helper."
+        },
+        {
+          "type": "p",
+          "text": "Write the easy use in plain words. Add to rice. Put with eggs. Serve beside dinner. Pack with lunch. Eat first. Keep it short."
+        },
+        {
+          "type": "h2",
+          "text": "Stop before it becomes a full cleanout"
+        },
+        {
+          "type": "p",
+          "text": "A fridge reset can be one visible row and one soon meal. Stop there. The point is to make the next use easier to see."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "make-pantry-easier-to-use",
+      "date": "2026-09-23",
+      "category": "Food Rhythm",
+      "title": "How to Make Your Pantry Easier to Use",
+      "summary": "An ordered pantry visibility method that helps readers see what is usable without recommending organizers or products.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "How to Make Your Pantry Easier to Use | Daily Support Guide",
+        "metaDescription": "Make your pantry easier to use with simple visibility notes, repeat-use categories, and practical shelf checks.",
+        "primaryKeyword": "make pantry easier to use",
+        "secondaryKeywords": [
+          "pantry visibility",
+          "pantry food rhythm",
+          "simple pantry notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Make Your Pantry Easier to Use",
+        "h2": [
+          "Start with what is visible",
+          "Group by meal role",
+          "Write the blocked item",
+          "Keep one review line"
+        ],
+        "faq": [
+          "How can I make my pantry easier to use?",
+          "What should I notice in a pantry check?",
+          "How can pantry notes stay practical?"
+        ],
+        "internalLinks": [
+          "three-zone-grocery-list",
+          "one-shelf-busy-week-meals",
+          "kitchen-missing-food-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No product organizer recommendations",
+          "No brand examples",
+          "No diet rules",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A pantry can be full and still hard to use. The first question is not what to buy. It is what you can actually see."
+        },
+        {
+          "type": "h2",
+          "text": "Start with what is visible"
+        },
+        {
+          "type": "p",
+          "text": "Open the pantry and write three visible items before moving anything. This gives the note a starting point instead of turning the shelf into a project."
+        },
+        {
+          "type": "h2",
+          "text": "Group by meal role"
+        },
+        {
+          "type": "p",
+          "text": "Use roles that match real meals: breakfast base, lunch helper, dinner side, snack option, baking item, backup meal, or flexible extra. A role is easier to use than a perfect category."
+        },
+        {
+          "type": "p",
+          "text": "If one item has no role this month, write no current role. That is clearer than forcing it into a plan."
+        },
+        {
+          "type": "h2",
+          "text": "Write the blocked item"
+        },
+        {
+          "type": "p",
+          "text": "Sometimes the pantry has almost enough for a meal, but one part is missing. Write the blocked item: rice but no sauce, pasta but no side, soup but no bread, oats but no topping."
+        },
+        {
+          "type": "h2",
+          "text": "Keep one review line"
+        },
+        {
+          "type": "p",
+          "text": "End with one line: used, not used, hidden, or needs a meal role. That line is enough pantry information for now, and it keeps the pantry note in everyday territory."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "groceries-going-unused",
       "date": "2026-09-22",
       "category": "Food Rhythm",
