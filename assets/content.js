@@ -1,6 +1,451 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "busy-food-day-bag-basics",
+      "date": "2026-09-27",
+      "category": "Food Rhythm",
+      "title": "What to Keep in a Bag for Busy Food Days",
+      "summary": "An ordered bag-note system for busy food days that avoids brand, product, and rigid tracking language.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "What to Keep in a Bag for Busy Food Days | Daily Support Guide",
+        "metaDescription": "Use bag-note categories for busy food days, including timing, shelf-stable backup, cleanup, and return-home review.",
+        "primaryKeyword": "busy food day bag basics",
+        "secondaryKeywords": [
+          "busy day food bag",
+          "bag food notes",
+          "food rhythm on busy days"
+        ],
+        "searchIntent": "informational",
+        "h1": "What to Keep in a Bag for Busy Food Days",
+        "h2": [
+          "Start with the day type",
+          "Use three bag categories",
+          "Keep cleanup separate",
+          "Review what came home"
+        ],
+        "faq": [
+          "What should a busy food day bag include?",
+          "How can bag notes avoid product lists?",
+          "What should I review after a busy day?"
+        ],
+        "internalLinks": [
+          "snack-shelf-real-life",
+          "desk-snacks-mystery-meals",
+          "food-plan-long-commute-day"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No brand examples",
+          "No product recommendations",
+          "No rigid tracking",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A busy-day bag note works best when it is organized by use, not by a perfect packing list."
+        },
+        {
+          "type": "h2",
+          "text": "Start with the day type"
+        },
+        {
+          "type": "p",
+          "text": "Write the day type first: commute, class, errands, long appointment, work shift, practice, travel day, or mixed day. The day type decides what the bag has to cover."
+        },
+        {
+          "type": "h2",
+          "text": "Use three bag categories"
+        },
+        {
+          "type": "p",
+          "text": "Use three rows: food that can wait, food that needs timing, and food that comes back if unused. Keep the rows broad so the note does not become a shopping list."
+        },
+        {
+          "type": "h2",
+          "text": "Keep cleanup separate"
+        },
+        {
+          "type": "p",
+          "text": "Cleanup belongs in its own row: wrapper, spoon, napkin, small bag, or container coming home. This is logistics, not a food rule."
+        },
+        {
+          "type": "h2",
+          "text": "Review what came home"
+        },
+        {
+          "type": "p",
+          "text": "At the end of the day, write what came home unused and why: no break, not appealing, too hard to open, wrong timing, or enough food elsewhere. The next bag note can be smaller."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "student-meals-becoming-random",
+      "date": "2026-09-27",
+      "category": "Food Rhythm",
+      "title": "How Students Can Keep Meals From Becoming Random",
+      "summary": "A direct student food rhythm checklist that keeps meals visible without academic-performance claims or strict rules.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Keep Student Meals From Becoming Random | Daily Support Guide",
+        "metaDescription": "Use a short student meal checklist for class blocks, campus gaps, and fallback meals without strict rules or performance claims.",
+        "primaryKeyword": "student meals becoming random",
+        "secondaryKeywords": [
+          "student meal rhythm",
+          "campus food notes",
+          "student lunch routine"
+        ],
+        "searchIntent": "informational",
+        "h1": "How Students Can Keep Meals From Becoming Random",
+        "h2": [
+          "Mark the class block",
+          "Choose the food window",
+          "Keep one backup visible",
+          "Review the missed spot"
+        ],
+        "faq": [
+          "How can students keep meals less random?",
+          "What should a student food note include?",
+          "How can campus days have a food rhythm?"
+        ],
+        "internalLinks": [
+          "two-minute-meal-note",
+          "afternoon-snack-timing",
+          "pack-lunch-without-project"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No academic-performance claims",
+          "No discipline language",
+          "No strict food rules",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Random meals usually have a schedule behind them. Find the schedule first."
+        },
+        {
+          "type": "h2",
+          "text": "Mark the class block"
+        },
+        {
+          "type": "p",
+          "text": "Write the class, lab, commute, practice, work shift, or study block that makes food hard to place. Use the real time, not the planned time."
+        },
+        {
+          "type": "h2",
+          "text": "Choose the food window"
+        },
+        {
+          "type": "p",
+          "text": "Before, between, after, or later. Pick one window. That window is the note."
+        },
+        {
+          "type": "h2",
+          "text": "Keep one backup visible"
+        },
+        {
+          "type": "p",
+          "text": "A backup can be leftovers, a packed side, campus food, a snack, or something waiting at home. Name it before the day starts."
+        },
+        {
+          "type": "h2",
+          "text": "Review the missed spot"
+        },
+        {
+          "type": "p",
+          "text": "If meals went random, circle the missed spot: no break, no food nearby, late commute, forgotten lunch, or dinner too far away. Fix one spot. Leave the rest."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "food-plan-long-commute-day",
+      "date": "2026-09-27",
+      "category": "Food Rhythm",
+      "title": "A Simple Food Plan for Long Commute Days",
+      "summary": "A warm long-commute food rhythm guide that plans around timing, landing points, and small carry-over notes.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "Food Plan for Long Commute Days | Daily Support Guide",
+        "metaDescription": "Plan food rhythm around long commute days with gentle timing notes, landing points, and flexible fallback meals.",
+        "primaryKeyword": "food plan long commute day",
+        "secondaryKeywords": [
+          "long commute meal rhythm",
+          "commute day food notes",
+          "busy day meal planning"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Simple Food Plan for Long Commute Days",
+        "h2": [
+          "Notice the first landing point",
+          "Plan for the middle",
+          "Give dinner a softer start"
+        ],
+        "faq": [
+          "How can I plan food around a long commute?",
+          "What should I notice on commute days?",
+          "How can dinner feel easier after commuting?"
+        ],
+        "internalLinks": [
+          "simple-dinner-after-long-day",
+          "backup-meals-without-overplanning",
+          "different-meal-times-at-home"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No product suggestions",
+          "No performance claims",
+          "No strict plan",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Long commute days often ask food to fit around doors, clocks, traffic, bags, and getting home tired. It helps to plan for the shape of the day, not an ideal version of it."
+        },
+        {
+          "type": "h2",
+          "text": "Notice the first landing point"
+        },
+        {
+          "type": "p",
+          "text": "The first landing point might be the office, a classroom, a station, a parking lot, or home after a morning drive. Write when food can realistically happen near that point."
+        },
+        {
+          "type": "h2",
+          "text": "Plan for the middle"
+        },
+        {
+          "type": "p",
+          "text": "The middle of a commute day is where plans often blur. A small note can say: packed lunch, late lunch, snack carried, dinner needs to be easy, or groceries are not happening today."
+        },
+        {
+          "type": "p",
+          "text": "You do not have to fix the whole day. One clear middle note can prevent the evening from carrying every decision."
+        },
+        {
+          "type": "h2",
+          "text": "Give dinner a softer start"
+        },
+        {
+          "type": "p",
+          "text": "Dinner after a long commute may need a start that is already visible: leftovers, soup, eggs, bread, rice, pasta, or a shared base. Keep the first step easy to see."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "pack-lunch-without-project",
+      "date": "2026-09-27",
+      "category": "Food Rhythm",
+      "title": "How to Pack Lunch Without Making It a Project",
+      "summary": "A clipped packed-lunch checklist that keeps lunch practical without perfectionist meal-prep language.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Pack Lunch Without Making It a Project | Daily Support Guide",
+        "metaDescription": "Pack lunch with a short checklist for base, add-on, timing, and fallback without perfectionist meal-prep pressure.",
+        "primaryKeyword": "pack lunch without project",
+        "secondaryKeywords": [
+          "packed lunch checklist",
+          "easy work lunch rhythm",
+          "lunch packing without meal prep"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Pack Lunch Without Making It a Project",
+        "h2": [
+          "Pick the container job",
+          "Add the second part",
+          "Name the fallback"
+        ],
+        "faq": [
+          "How can packed lunch stay simple?",
+          "What should I pack first?",
+          "How can I avoid overplanning lunch?"
+        ],
+        "internalLinks": [
+          "lunch-plan-packed-workday",
+          "backup-meals-without-overplanning",
+          "simple-dinner-after-long-day"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No perfect meal-prep framing",
+          "No product containers",
+          "No diet-plan language",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Pack lunch small. One job. One backup. No production."
+        },
+        {
+          "type": "h2",
+          "text": "Pick the container job"
+        },
+        {
+          "type": "p",
+          "text": "The lunch can hold leftovers, a sandwich, a grain bowl, soup, eggs, salad, or snack parts. Choose the job first. Do not rebuild the week."
+        },
+        {
+          "type": "h2",
+          "text": "Add the second part"
+        },
+        {
+          "type": "p",
+          "text": "Add one second part: fruit, bread, vegetables, sauce, crackers, or something from last night's dinner. One is enough."
+        },
+        {
+          "type": "h2",
+          "text": "Name the fallback"
+        },
+        {
+          "type": "p",
+          "text": "Write the fallback before morning gets loud: buy lunch, use leftovers, eat the packed side, move lunch later, or leave a note for tomorrow."
+        },
+        {
+          "type": "p",
+          "text": "Packed lunch is allowed to be ordinary. That is the point."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "desk-worker-food-rhythm",
+      "date": "2026-09-27",
+      "category": "Food Rhythm",
+      "title": "Food Rhythm for Desk Workers: A Practical Note System",
+      "summary": "A practical desk-worker note system for noticing workday food rhythm without turning it into productivity advice.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "Food Rhythm for Desk Workers | Daily Support Guide",
+        "metaDescription": "Use practical desk-worker food rhythm notes for timing, location, and meal gaps without rigid tracking or productivity claims.",
+        "primaryKeyword": "desk worker food rhythm",
+        "secondaryKeywords": [
+          "workday meal notes",
+          "desk lunch rhythm",
+          "busy workday food notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "Food Rhythm for Desk Workers: A Practical Note System",
+        "h2": [
+          "Keep the work block visible",
+          "Separate meal from location",
+          "Leave the cause open",
+          "Review one repeat pattern"
+        ],
+        "faq": [
+          "How can desk workers notice food rhythm?",
+          "What should a workday food note include?",
+          "Should food notes explain why a meal was missed?"
+        ],
+        "internalLinks": [
+          "two-minute-meal-note",
+          "lunch-plan-packed-workday",
+          "desk-snacks-mystery-meals"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No productivity claims",
+          "No workplace performance framing",
+          "No rigid tracking",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A desk-worker food note should show what happened during the workday, not judge how well the day was handled."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the work block visible"
+        },
+        {
+          "type": "p",
+          "text": "Put the longest work block in its own row. Write the start time, end time, and whether food had a clear place before, during, or after it."
+        },
+        {
+          "type": "h2",
+          "text": "Separate meal from location"
+        },
+        {
+          "type": "p",
+          "text": "Use separate fields for what was eaten and where it happened: desk, break room, meeting room, car, outside, or home. The location often explains more than the food."
+        },
+        {
+          "type": "h2",
+          "text": "Leave the cause open"
+        },
+        {
+          "type": "p",
+          "text": "A skipped or late meal might be about timing, a meeting, a missing grocery item, a packed schedule, or no clear break. Do not fill in the reason too soon."
+        },
+        {
+          "type": "h2",
+          "text": "Review one repeat pattern"
+        },
+        {
+          "type": "p",
+          "text": "At the end of the week, choose one repeat pattern and write it plainly: lunch moved late twice, snacks replaced lunch once, breakfast depended on commute time, or dinner carried the day."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "flexible-dinner-template",
       "date": "2026-09-26",
       "category": "Food Rhythm",
