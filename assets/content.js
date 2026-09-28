@@ -1,6 +1,450 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "weekends-disrupt-food-rhythm",
+      "date": "2026-09-28",
+      "category": "Food Rhythm",
+      "title": "What to Notice When Weekends Disrupt the Week",
+      "summary": "A direct weekend-to-weekday checklist for noticing disruption without discipline language or strict food rules.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "When Weekends Disrupt Food Rhythm | Daily Support Guide",
+        "metaDescription": "Notice how weekends disrupt food rhythm with a short checklist for timing, groceries, leftovers, and Monday without discipline language.",
+        "primaryKeyword": "weekends disrupt food rhythm",
+        "secondaryKeywords": [
+          "weekend food rhythm",
+          "weekend meal disruption",
+          "Monday meal rhythm"
+        ],
+        "searchIntent": "informational",
+        "h1": "What to Notice When Weekends Disrupt the Week",
+        "h2": [
+          "Find the shift",
+          "Check the groceries",
+          "Name the first weekday meal",
+          "Keep the fix small"
+        ],
+        "faq": [
+          "How can weekends disrupt food rhythm?",
+          "What should I notice after a weekend?",
+          "How can Monday meals feel easier?"
+        ],
+        "internalLinks": [
+          "weekend-eating-without-guilt",
+          "weekly-food-rhythm-reset",
+          "grocery-reset-after-trip"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No discipline language",
+          "No Monday correction framing",
+          "No strict food rules",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Weekends move things. That is the note."
+        },
+        {
+          "type": "h2",
+          "text": "Find the shift"
+        },
+        {
+          "type": "p",
+          "text": "Late breakfast. No lunch. Dinner out. Groceries skipped. Leftovers gone. More people in the kitchen. Less time alone."
+        },
+        {
+          "type": "h2",
+          "text": "Check the groceries"
+        },
+        {
+          "type": "p",
+          "text": "Open the fridge. Open the pantry. Write what can start Monday: bread, eggs, rice, pasta, soup, fruit, vegetables, leftovers, or one flexible side."
+        },
+        {
+          "type": "h2",
+          "text": "Name the first weekday meal"
+        },
+        {
+          "type": "p",
+          "text": "Pick breakfast, lunch, or dinner. Just one. Give it a base and a fallback."
+        },
+        {
+          "type": "h2",
+          "text": "Keep the fix small"
+        },
+        {
+          "type": "p",
+          "text": "Do not rebuild the week because Saturday got loose. Move one meal back into view. Then stop."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "holiday-meals-without-overcorrecting",
+      "date": "2026-09-28",
+      "category": "Food Rhythm",
+      "title": "How to Handle Holiday Meals Without Overcorrecting",
+      "summary": "A careful boundary article about holiday meals that avoids restriction, compensation, and overcorrection language.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Holiday Meals Without Overcorrecting | Daily Support Guide",
+        "metaDescription": "Handle holiday meals with careful food rhythm language that avoids restriction, compensation, guilt, and overcorrection.",
+        "primaryKeyword": "holiday meals without overcorrecting",
+        "secondaryKeywords": [
+          "holiday food rhythm",
+          "holiday meals no guilt",
+          "holiday eating notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Handle Holiday Meals Without Overcorrecting",
+        "h2": [
+          "Do not make the holiday a verdict",
+          "Watch compensation words",
+          "Return to ordinary rhythm"
+        ],
+        "faq": [
+          "How can holiday meals avoid overcorrection?",
+          "What words should holiday food notes avoid?",
+          "How can food rhythm return after holidays?"
+        ],
+        "internalLinks": [
+          "weekend-eating-without-guilt",
+          "grocery-reset-after-trip",
+          "day-of-random-eating"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No restriction framing",
+          "No compensation language",
+          "No guilt framing",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Holiday meals often come with borrowed language: make up for it, get back on track, be good tomorrow. Those phrases can turn a meal into a verdict."
+        },
+        {
+          "type": "h2",
+          "text": "Do not make the holiday a verdict"
+        },
+        {
+          "type": "p",
+          "text": "A holiday meal can be later, larger, shared, unfamiliar, traditional, or improvised. None of those words require correction."
+        },
+        {
+          "type": "h2",
+          "text": "Watch compensation words"
+        },
+        {
+          "type": "p",
+          "text": "Be careful with words like earn, undo, make up, behave, cheat, fix, or punish. They do not make the next meal clearer. They usually make the note heavier."
+        },
+        {
+          "type": "p",
+          "text": "A cleaner note might say: holiday dinner was late and shared, breakfast tomorrow needs to be visible, and groceries can wait until the afternoon."
+        },
+        {
+          "type": "h2",
+          "text": "Return to ordinary rhythm"
+        },
+        {
+          "type": "p",
+          "text": "Ordinary rhythm means placing the next meal, checking what food is available, and choosing one manageable start. It does not mean proving anything about the holiday."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "grocery-reset-after-trip",
+      "date": "2026-09-28",
+      "category": "Food Rhythm",
+      "title": "A Simple Grocery Reset After a Trip",
+      "summary": "A gentle re-entry grocery rhythm for after a trip that avoids body-fix, reset-health, and shame language.",
+      "author": {
+        "id": "nora-vale",
+        "name": "Nora Vale"
+      },
+      "seo": {
+        "seoTitle": "A Simple Grocery Reset After a Trip | Daily Support Guide",
+        "metaDescription": "Ease back into groceries after a trip with a gentle re-entry list, fridge check, and first-meal plan without body-fix framing language.",
+        "primaryKeyword": "grocery reset after trip",
+        "secondaryKeywords": [
+          "after trip grocery list",
+          "travel reentry food rhythm",
+          "grocery rhythm after travel"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Simple Grocery Reset After a Trip",
+        "h2": [
+          "Start with what is still usable",
+          "Choose the first ordinary meal",
+          "Leave room for a soft landing"
+        ],
+        "faq": [
+          "How can I reset groceries after travel?",
+          "What should I check first after a trip?",
+          "How can food rhythm return after traveling?"
+        ],
+        "internalLinks": [
+          "food-notes-during-travel",
+          "groceries-going-unused",
+          "weekly-grocery-reflection"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No body-fix framing",
+          "No reset-health claims",
+          "No shame over empty fridge",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Coming home from a trip can make the kitchen feel blank for a day or two. A small grocery reset can begin with what is already there."
+        },
+        {
+          "type": "h2",
+          "text": "Start with what is still usable"
+        },
+        {
+          "type": "p",
+          "text": "Look at the fridge, freezer, pantry, and counter before making a list. Write the usable pieces first: eggs, bread, rice, pasta, soup, fruit, vegetables, sauces, or leftovers that still make sense."
+        },
+        {
+          "type": "p",
+          "text": "This is not a test of how well the kitchen was managed. It is just a re-entry note."
+        },
+        {
+          "type": "h2",
+          "text": "Choose the first ordinary meal"
+        },
+        {
+          "type": "p",
+          "text": "Pick one meal that can happen without a full shop. Breakfast, lunch, or dinner can be the first anchor. It does not have to carry the whole week."
+        },
+        {
+          "type": "h2",
+          "text": "Leave room for a soft landing"
+        },
+        {
+          "type": "p",
+          "text": "The first list after travel can be short: one base, one fresh item, one backup, and one thing that makes tomorrow easier. Add more after the kitchen feels less like luggage."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "food-notes-during-travel",
+      "date": "2026-09-28",
+      "category": "Food Rhythm",
+      "title": "How to Keep Food Notes During Travel",
+      "summary": "A practical travel food note system for timing, source, and unknowns without travel product examples or rigid tracking.",
+      "author": {
+        "id": "theo-grant",
+        "name": "Theo Grant"
+      },
+      "seo": {
+        "seoTitle": "How to Keep Food Notes During Travel | Daily Support Guide",
+        "metaDescription": "Keep food notes during travel with source, timing, and unknown fields without travel products, rigid tracking, or diet rules.",
+        "primaryKeyword": "food notes during travel",
+        "secondaryKeywords": [
+          "travel food rhythm",
+          "travel meal notes",
+          "food rhythm while traveling"
+        ],
+        "searchIntent": "informational",
+        "h1": "How to Keep Food Notes During Travel",
+        "h2": [
+          "Put the place in its own row",
+          "Mark the travel gap",
+          "Keep unknowns visible",
+          "Use the note after the trip"
+        ],
+        "faq": [
+          "How can I keep food notes while traveling?",
+          "What should a travel meal note include?",
+          "How can travel food notes stay flexible?"
+        ],
+        "internalLinks": [
+          "grocery-reset-after-trip",
+          "busy-food-day-bag-basics",
+          "delivery-meals-what-to-notice"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No travel product examples",
+          "No app recommendations",
+          "No rigid tracking",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Travel notes need fewer fields, not more. The goal is to remember the shape of the day when the usual kitchen is not available."
+        },
+        {
+          "type": "h2",
+          "text": "Put the place in its own row"
+        },
+        {
+          "type": "p",
+          "text": "Write the setting first: airport, station, hotel room, family house, road stop, conference day, long walk, or late arrival. Keep the source visible."
+        },
+        {
+          "type": "h2",
+          "text": "Mark the travel gap"
+        },
+        {
+          "type": "p",
+          "text": "Use one row for the gap that shaped the meal: no break, limited time, delayed arrival, unclear dinner, packed snack used, or groceries unavailable."
+        },
+        {
+          "type": "h2",
+          "text": "Keep unknowns visible"
+        },
+        {
+          "type": "p",
+          "text": "If the note is incomplete, write unknown. Do not turn a missing detail into a conclusion. Travel notes are allowed to be partial."
+        },
+        {
+          "type": "h2",
+          "text": "Use the note after the trip"
+        },
+        {
+          "type": "p",
+          "text": "After travel, look for one useful field: what helped, what came home unused, what was hard to place, or what would make the first day back easier."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "weekend-eating-without-guilt",
+      "date": "2026-09-28",
+      "category": "Food Rhythm",
+      "title": "Weekend Eating Rhythm Without Monday Guilt",
+      "summary": "A careful language-first guide to noticing weekend eating rhythm without Monday guilt, correction, or diet-culture framing.",
+      "author": {
+        "id": "june-carter",
+        "name": "June Carter"
+      },
+      "seo": {
+        "seoTitle": "Weekend Eating Rhythm Without Monday Guilt | Daily Support Guide",
+        "metaDescription": "Notice weekend eating rhythm with careful, blame-free language that avoids Monday guilt, correction, and strict food rules.",
+        "primaryKeyword": "weekend eating without guilt",
+        "secondaryKeywords": [
+          "weekend food rhythm",
+          "Monday food guilt",
+          "weekend eating notes"
+        ],
+        "searchIntent": "informational",
+        "h1": "Weekend Eating Rhythm Without Monday Guilt",
+        "h2": [
+          "Name the weekend without correcting it",
+          "Keep Monday out of the verdict",
+          "Use one clean sentence"
+        ],
+        "faq": [
+          "How can I notice weekend eating without guilt?",
+          "What should a weekend food note say?",
+          "How can Monday food notes stay neutral?"
+        ],
+        "internalLinks": [
+          "holiday-meals-without-overcorrecting",
+          "weekends-disrupt-food-rhythm",
+          "restaurant-notes-neutral"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No diet-culture correction",
+          "No guilt framing",
+          "No restriction language",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "The wording around weekends matters. A weekend can be different without becoming a problem Monday is supposed to fix."
+        },
+        {
+          "type": "h2",
+          "text": "Name the weekend without correcting it"
+        },
+        {
+          "type": "p",
+          "text": "Write what changed: later breakfast, meals with other people, more eating out, fewer groceries, long errands, or a Sunday dinner that shifted the usual pattern."
+        },
+        {
+          "type": "p",
+          "text": "Those notes describe timing and setting. They do not need a penalty word attached."
+        },
+        {
+          "type": "h2",
+          "text": "Keep Monday out of the verdict"
+        },
+        {
+          "type": "p",
+          "text": "Monday does not have to be a correction day. It can simply be the next ordinary day with groceries, leftovers, breakfast timing, and dinner decisions to place."
+        },
+        {
+          "type": "h2",
+          "text": "Use one clean sentence"
+        },
+        {
+          "type": "p",
+          "text": "Try a sentence like: the weekend had later meals and fewer home groceries, so Monday needs a visible first meal and a simple dinner start."
+        },
+        {
+          "type": "p",
+          "text": "That sentence is enough. It carries information without carrying guilt."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "busy-food-day-bag-basics",
       "date": "2026-09-27",
       "category": "Food Rhythm",
