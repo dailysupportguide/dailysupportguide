@@ -5492,7 +5492,7 @@
     "slug": "five-minute-meal-pattern-review",
     "title": "The Five-Minute Meal Pattern Review",
     "category": "Food Rhythm",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "eli-brooks",
       "name": "Eli Brooks"
@@ -5603,7 +5603,7 @@
     "slug": "weekly-grocery-reflection",
     "title": "A Simple Weekly Grocery Reflection",
     "category": "Food Rhythm",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "nora-vale",
       "name": "Nora Vale"
@@ -5714,7 +5714,7 @@
     "slug": "flexible-meal-template",
     "title": "How to Build Your Own Flexible Meal Template",
     "category": "Food Rhythm",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "mara-lin",
       "name": "Mara Lin"
@@ -5830,7 +5830,7 @@
     "slug": "monthly-food-rhythm-check-in",
     "title": "The Monthly Food Rhythm Check-In",
     "category": "Food Rhythm",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "theo-grant",
       "name": "Theo Grant"
@@ -5941,7 +5941,7 @@
     "slug": "everyday-food-rhythm-system",
     "title": "Everyday Food Rhythm: A Calm System for Real Life",
     "category": "Food Rhythm",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "june-carter",
       "name": "June Carter"
