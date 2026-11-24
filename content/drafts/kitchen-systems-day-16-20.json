@@ -1,0 +1,737 @@
+[
+  {
+    "day": 16,
+    "date": "2026-12-10",
+    "slug": "freezer-map-people-forget-inside",
+    "title": "A Freezer Map for People Who Forget What Is Inside",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A structured freezer map that uses zones, plain labels, and a short outside note to make frozen food easier to see again.",
+    "seo": {
+      "seoTitle": "A Freezer Map for People Who Forget What Is Inside | Daily Support Guide",
+      "metaDescription": "Use a simple freezer map with visible zones, plain labels, and a short outside note so frozen food is easier to find later.",
+      "primaryKeyword": "freezer map inventory",
+      "secondaryKeywords": [
+        "freezer map system",
+        "freezer inventory note",
+        "remember what is in freezer"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Freezer Map for People Who Forget What Is Inside",
+      "h2": [
+        "Start with the door view",
+        "Give each zone one job",
+        "Write labels for finding, not sorting",
+        "Keep the outside note short"
+      ],
+      "faq": [
+        "What is a freezer map?",
+        "How can I remember what is in the freezer?",
+        "Does a freezer map need special containers?"
+      ],
+      "internalLinks": [
+        "fridge-layout-for-tired-weeknights",
+        "leftover-shelf-see-what-is-ready",
+        "weekly-kitchen-map"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No storage product recommendations",
+        "No exact storage-duration advice",
+        "No food safety guarantees",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general home food handling education; this article avoids exact storage timelines.",
+      "Nutrition.gov supports general shopping, cooking, and meal planning education.",
+      "USDA MyPlate supports broad meal structure language without personalized rules."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A freezer can hide useful food because everything looks like a cold rectangle after a while. A freezer map gives the space a readable shape."
+      },
+      {
+        "type": "p",
+        "text": "The map does not need exact counts or perfect categories. It only needs to help you find a starting point later."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the door view"
+      },
+      {
+        "type": "p",
+        "text": "Open the freezer and write what you can see without moving much. Front left. Door shelf. Top bin. Back corner. Use the freezer's real shape instead of an ideal layout."
+      },
+      {
+        "type": "p",
+        "text": "This first pass shows where food disappears. If one area is always hidden, give it fewer jobs."
+      },
+      {
+        "type": "h2",
+        "text": "Give each zone one job"
+      },
+      {
+        "type": "p",
+        "text": "Choose a few plain zones: ready food, meal starters, bread or breakfast, vegetables or fruit, and unknowns to check. The names can be simpler if your freezer is small."
+      },
+      {
+        "type": "p",
+        "text": "A zone works when it lowers the search. It does not have to hold every possible category."
+      },
+      {
+        "type": "h2",
+        "text": "Write labels for finding, not sorting"
+      },
+      {
+        "type": "p",
+        "text": "Use labels that answer the next question: what is this, where does it live, and what could it start? A plain note such as soup starter or lunch bread is enough."
+      },
+      {
+        "type": "p",
+        "text": "Avoid labels that sound like a rule for the whole household. The label is a finder, not a supervisor."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the outside note short"
+      },
+      {
+        "type": "p",
+        "text": "A freezer map can live on a small note outside the door. Write only the zones and one item that needs attention. If the note becomes a full inventory, it may stop being read."
+      },
+      {
+        "type": "p",
+        "text": "A useful freezer map turns the freezer from a memory test into a place with a few visible paths."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-10 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_codex_quick_review_day_16_20",
+        "gemini": "passed_per_article_day_16_20",
+        "claude": "passed_per_article_day_16_20"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_codex_quick_review_day_16_20",
+      "gemini": "passed_per_article_day_16_20",
+      "claude": "passed_per_article_day_16_20",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-15"
+  },
+  {
+    "day": 17,
+    "date": "2026-12-11",
+    "slug": "two-line-freezer-note",
+    "title": "The Two-Line Freezer Note",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A compact freezer note format that records what is inside and the next use without becoming a full tracking system.",
+    "seo": {
+      "seoTitle": "The Two-Line Freezer Note | Daily Support Guide",
+      "metaDescription": "Use a two-line freezer note to record what is inside and one next use so frozen food is easier to find and use later.",
+      "primaryKeyword": "freezer note system",
+      "secondaryKeywords": [
+        "two line freezer note",
+        "freezer inventory note",
+        "simple freezer checklist"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Two-Line Freezer Note",
+      "h2": [
+        "Line one names the food",
+        "Line two gives the next use",
+        "Keep unknowns visible",
+        "Stop before it becomes a ledger"
+      ],
+      "faq": [
+        "What should a freezer note include?",
+        "How can I make a freezer inventory simpler?",
+        "Should freezer notes include storage dates?"
+      ],
+      "internalLinks": [
+        "freezer-map-people-forget-inside",
+        "fridge-note-helps-tomorrow",
+        "useful-kitchen-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No exact storage-duration advice",
+        "No rigid tracking",
+        "No product recommendations",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general food handling education; this article does not provide freshness timelines.",
+      "Nutrition.gov supports general meal planning education.",
+      "USDA MyPlate supports broad meal language without personal rules."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A freezer note gets used when it is short. Two lines are usually enough."
+      },
+      {
+        "type": "p",
+        "text": "Do not start with a full inventory. Start with the food that keeps disappearing."
+      },
+      {
+        "type": "h2",
+        "text": "Line one names the food"
+      },
+      {
+        "type": "p",
+        "text": "Write the plain name first. Soup. Rice. Bread. Chopped vegetables. Cooked beans. If there are two similar items, add one detail that helps you tell them apart."
+      },
+      {
+        "type": "p",
+        "text": "Do not rely on memory. The freezer makes similar packages look related even when they are not."
+      },
+      {
+        "type": "h2",
+        "text": "Line two gives the next use"
+      },
+      {
+        "type": "p",
+        "text": "Write one possible use: lunch, dinner starter, add to soup, breakfast, use with leftovers, check before shopping. One next use is enough."
+      },
+      {
+        "type": "p",
+        "text": "The note should point. It should not plan the whole week."
+      },
+      {
+        "type": "h2",
+        "text": "Keep unknowns visible"
+      },
+      {
+        "type": "p",
+        "text": "If you do not know what something is, write unknown and where it is. Back right. Small bag. Blue lid. The next check becomes easier because the item has a location."
+      },
+      {
+        "type": "p",
+        "text": "An honest unknown is better than a confident guess."
+      },
+      {
+        "type": "h2",
+        "text": "Stop before it becomes a ledger"
+      },
+      {
+        "type": "p",
+        "text": "When the note starts asking for columns, totals, and constant updates, trim it back. A freezer note should help a tired person open the door and recognize one option."
+      },
+      {
+        "type": "p",
+        "text": "Two useful lines beat a perfect list that nobody wants to maintain."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-11 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_codex_quick_review_day_16_20",
+        "gemini": "passed_per_article_day_16_20",
+        "claude": "passed_per_article_day_16_20"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_codex_quick_review_day_16_20",
+      "gemini": "passed_per_article_day_16_20",
+      "claude": "passed_per_article_day_16_20",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-16"
+  },
+  {
+    "day": 18,
+    "date": "2026-12-12",
+    "slug": "use-frozen-food-without-complicated-dinner",
+    "title": "How to Use Frozen Food Without Making Dinner Complicated",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A low-pressure way to use frozen food as one ordinary dinner starting point instead of turning it into a full plan.",
+    "seo": {
+      "seoTitle": "Use Frozen Food Without Making Dinner Complicated | Daily Support Guide",
+      "metaDescription": "Use frozen food as one simple dinner starting point with loose pairs, visible notes, and low-pressure weeknight decisions.",
+      "primaryKeyword": "frozen food simple dinner",
+      "secondaryKeywords": [
+        "use frozen food for dinner",
+        "simple freezer dinner routine",
+        "frozen food weeknight meal"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Use Frozen Food Without Making Dinner Complicated",
+      "h2": [
+        "Let one item start the meal",
+        "Pair it with something already easy",
+        "Leave room for a plain dinner",
+        "Notice what actually helped"
+      ],
+      "faq": [
+        "How can frozen food make dinner easier?",
+        "Does frozen food need a full meal plan?",
+        "How can I keep freezer dinners flexible?"
+      ],
+      "internalLinks": [
+        "freezer-map-people-forget-inside",
+        "fridge-layout-for-tired-weeknights",
+        "dinner-notes-what-worked"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No brand or product examples",
+        "No diet rules",
+        "No strict meal planning",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general cooking and meal planning education.",
+      "USDA MyPlate supports broad meal composition language.",
+      "FoodSafety.gov provides general food handling education; this article avoids safety timing advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Frozen food can help dinner without becoming a dinner plan. Sometimes it only needs to be the first useful thing you find."
+      },
+      {
+        "type": "p",
+        "text": "The freezer works best on a hard evening when it gives you one beginning, not a list of expectations."
+      },
+      {
+        "type": "h2",
+        "text": "Let one item start the meal"
+      },
+      {
+        "type": "p",
+        "text": "Choose one frozen item that can begin dinner: cooked rice, soup, bread, vegetables, beans, sauce, or a portion of something saved from another meal."
+      },
+      {
+        "type": "p",
+        "text": "Do not ask the item to solve dinner by itself. Its job is to make the first decision smaller."
+      },
+      {
+        "type": "h2",
+        "text": "Pair it with something already easy"
+      },
+      {
+        "type": "p",
+        "text": "Look for a simple partner in the fridge, pantry, or on the counter. Leftovers, toast, eggs, salad, soup, fruit, or a plain base can be enough to move the meal forward."
+      },
+      {
+        "type": "p",
+        "text": "A pair does not have to be clever. It only has to make sense tonight."
+      },
+      {
+        "type": "h2",
+        "text": "Leave room for a plain dinner"
+      },
+      {
+        "type": "p",
+        "text": "A freezer dinner may look ordinary. That is allowed. The point is not to prove that the freezer was organized well. The point is to eat from what is already there."
+      },
+      {
+        "type": "p",
+        "text": "Plain can be a good sign. It means the system stayed close to real life."
+      },
+      {
+        "type": "h2",
+        "text": "Notice what actually helped"
+      },
+      {
+        "type": "p",
+        "text": "After dinner, write one small note if it would help: easy start, needs a partner, hard to find, use again, or leave for later. Stop there."
+      },
+      {
+        "type": "p",
+        "text": "Frozen food is useful when it lowers the pressure on dinner, not when it creates another plan to keep."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-12 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_codex_quick_review_day_16_20",
+        "gemini": "passed_per_article_day_16_20",
+        "claude": "passed_per_article_day_16_20"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_codex_quick_review_day_16_20",
+      "gemini": "passed_per_article_day_16_20",
+      "claude": "passed_per_article_day_16_20",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-17"
+  },
+  {
+    "day": 19,
+    "date": "2026-12-13",
+    "slug": "freezer-inventory-what-to-record",
+    "title": "Freezer Inventory: What to Record and What to Leave Alone",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical freezer inventory boundary guide that records useful fields while leaving unnecessary tracking alone.",
+    "seo": {
+      "seoTitle": "Freezer Inventory: What to Record and What to Leave Alone | Daily Support Guide",
+      "metaDescription": "Make a freezer inventory easier to maintain by recording useful fields and leaving unnecessary tracking out of the note.",
+      "primaryKeyword": "freezer inventory what to record",
+      "secondaryKeywords": [
+        "freezer inventory fields",
+        "simple freezer inventory",
+        "freezer note what to track"
+      ],
+      "searchIntent": "informational",
+      "h1": "Freezer Inventory: What to Record and What to Leave Alone",
+      "h2": [
+        "Record what changes a decision",
+        "Use location as a field",
+        "Leave out details nobody uses",
+        "Review the inventory lightly"
+      ],
+      "faq": [
+        "What should I record in a freezer inventory?",
+        "How detailed should a freezer inventory be?",
+        "How can I keep freezer tracking from getting too big?"
+      ],
+      "internalLinks": [
+        "two-line-freezer-note",
+        "freezer-map-people-forget-inside",
+        "kitchen-system-review"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No over-tracking",
+        "No exact storage-duration advice",
+        "No product recommendations",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general food handling education; this article avoids storage-duration guidance.",
+      "Nutrition.gov supports general meal planning education.",
+      "USDA MyPlate supports broad meal language without individualized rules."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A freezer inventory should answer the questions you actually ask at the door. What is here? Where is it? What could it help start?"
+      },
+      {
+        "type": "p",
+        "text": "Everything else has to earn its place on the note."
+      },
+      {
+        "type": "h2",
+        "text": "Record what changes a decision"
+      },
+      {
+        "type": "p",
+        "text": "Useful fields are usually plain: item, location, amount in ordinary words, and next use. These fields help when you are deciding whether dinner, lunch, or a grocery list can start from the freezer."
+      },
+      {
+        "type": "p",
+        "text": "If a field does not change a decision, it may not belong in the first version."
+      },
+      {
+        "type": "h2",
+        "text": "Use location as a field"
+      },
+      {
+        "type": "p",
+        "text": "Location matters because the freezer hides things. Write top shelf, door, front bin, back left, or small bag near the side. Use the words your household would understand."
+      },
+      {
+        "type": "p",
+        "text": "A vague item with a clear location is still easier to find than a perfect description with no place."
+      },
+      {
+        "type": "h2",
+        "text": "Leave out details nobody uses"
+      },
+      {
+        "type": "p",
+        "text": "Do not add columns because an inventory feels like it should have them. Extra identifiers, exact weight, long recipe plans, and future meal assignments often make the note heavier than the freezer needs."
+      },
+      {
+        "type": "p",
+        "text": "Leave those details alone unless someone truly uses them."
+      },
+      {
+        "type": "h2",
+        "text": "Review the inventory lightly"
+      },
+      {
+        "type": "p",
+        "text": "Before shopping or after a freezer-heavy meal, scan the note. Cross out one thing, move one location, or add one next use. Do not rebuild the whole list every time."
+      },
+      {
+        "type": "p",
+        "text": "A freezer inventory works when it stays small enough to survive an ordinary week."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-13 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_codex_quick_review_day_16_20",
+        "gemini": "passed_per_article_day_16_20",
+        "claude": "passed_per_article_day_16_20"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_codex_quick_review_day_16_20",
+      "gemini": "passed_per_article_day_16_20",
+      "claude": "passed_per_article_day_16_20",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-18"
+  },
+  {
+    "day": 20,
+    "date": "2026-12-14",
+    "slug": "backup-food-better-than-emergency-food",
+    "title": "Why \"Backup Food\" Is a Better Phrase Than \"Emergency Food\"",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful wording guide that uses backup food language to keep freezer notes practical and less fear-driven.",
+    "seo": {
+      "seoTitle": "Why Backup Food Is a Better Phrase Than Emergency Food | Daily Support Guide",
+      "metaDescription": "Use backup food language for freezer and pantry notes so ordinary dinner support stays practical, flexible, and less fear-driven.",
+      "primaryKeyword": "backup food kitchen system",
+      "secondaryKeywords": [
+        "backup food note",
+        "emergency food wording",
+        "freezer backup meal language"
+      ],
+      "searchIntent": "informational",
+      "h1": "Why \"Backup Food\" Is a Better Phrase Than \"Emergency Food\"",
+      "h2": [
+        "Backup lowers the volume",
+        "Use words that describe the job",
+        "Keep the note close to ordinary meals",
+        "Let backup stay flexible"
+      ],
+      "faq": [
+        "What does backup food mean?",
+        "Why avoid emergency food language for everyday kitchen notes?",
+        "How can backup food notes stay practical?"
+      ],
+      "internalLinks": [
+        "use-frozen-food-without-complicated-dinner",
+        "freezer-inventory-what-to-record",
+        "pantry-words-food-decisions-bigger"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No fear-based framing",
+        "No product recommendations",
+        "No diet rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general meal planning and cooking education.",
+      "FoodSafety.gov provides general home food handling education; this article avoids safety guarantees.",
+      "USDA MyPlate supports broad food language without moral labels."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.foodsafety.gov/",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The phrase emergency food can make an ordinary freezer shelf sound more dramatic than it needs to be. Most nights do not need alarm language. They need a usable fallback."
+      },
+      {
+        "type": "p",
+        "text": "Backup food is a calmer phrase. It describes a job without turning dinner into a crisis."
+      },
+      {
+        "type": "h2",
+        "text": "Backup lowers the volume"
+      },
+      {
+        "type": "p",
+        "text": "Backup means available if needed. It can be soup, bread, a cooked base, a frozen portion, or another food that helps when the first plan changes."
+      },
+      {
+        "type": "p",
+        "text": "The word keeps the shelf practical. It does not ask the freezer to solve every hard night."
+      },
+      {
+        "type": "h2",
+        "text": "Use words that describe the job"
+      },
+      {
+        "type": "p",
+        "text": "Try dinner backup, lunch backup, needs partner, easy start, or use when plans change. These phrases tell the next person how the food might help."
+      },
+      {
+        "type": "p",
+        "text": "Avoid words that add pressure, such as failure plan, last chance, panic meal, or rescue dinner. They make the note louder without making the food easier to use."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the note close to ordinary meals"
+      },
+      {
+        "type": "p",
+        "text": "A backup note should still sound like kitchen language. It can point to a weeknight, a lunch box, a simple side, or a meal starter. It does not need a big story."
+      },
+      {
+        "type": "p",
+        "text": "The more ordinary the note feels, the more likely it is to help when the day is already full."
+      },
+      {
+        "type": "h2",
+        "text": "Let backup stay flexible"
+      },
+      {
+        "type": "p",
+        "text": "Backup food does not have to be saved for a perfect reason. If it helps tonight, it belongs in the rotation. If it waits, keep it visible enough to remember."
+      },
+      {
+        "type": "p",
+        "text": "Careful wording makes the freezer feel like support instead of a warning sign."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-14 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_codex_quick_review_day_16_20",
+        "gemini": "passed_per_article_day_16_20",
+        "claude": "passed_per_article_day_16_20"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_codex_quick_review_day_16_20",
+      "gemini": "passed_per_article_day_16_20",
+      "claude": "passed_per_article_day_16_20",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-19"
+  }
+]

@@ -1,0 +1,728 @@
+[
+  {
+    "day": 6,
+    "date": "2026-11-30",
+    "slug": "pantry-shelf-you-actually-use",
+    "title": "How to Build a Pantry Shelf You Actually Use",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A structured pantry shelf method that starts with use frequency, visible open items, and plain zones instead of a full pantry overhaul.",
+    "seo": {
+      "seoTitle": "Build a Pantry Shelf You Actually Use | Daily Support Guide",
+      "metaDescription": "Build a pantry shelf you actually use by grouping open items, daily basics, and flexible foods without buying organizers or making rigid rules.",
+      "primaryKeyword": "pantry shelf you use",
+      "secondaryKeywords": [
+        "pantry shelf system",
+        "usable pantry routine",
+        "open pantry items"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Build a Pantry Shelf You Actually Use",
+      "h2": [
+        "Start with use frequency",
+        "Give open items the front row",
+        "Keep flexible food in one zone",
+        "Review the shelf before adding more"
+      ],
+      "faq": [
+        "How do I make a pantry shelf easier to use?",
+        "What should go in the front of a pantry shelf?",
+        "Do pantry systems require special storage products?"
+      ],
+      "internalLinks": [
+        "make-kitchen-easier-to-start-from",
+        "pantry-list-already-open",
+        "weekly-kitchen-map"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No storage product recommendations",
+        "No brand examples",
+        "No strict meal plan",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general shopping, cooking, and meal planning education.",
+      "USDA MyPlate provides broad food group language for general education.",
+      "FoodSafety.gov provides general home food handling context; this article avoids exact storage timelines."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A pantry shelf becomes useful when the easiest spaces match the foods that actually get used. Start with use, not appearance."
+      },
+      {
+        "type": "p",
+        "text": "The shelf does not need matching containers or a new label system. It needs a few visible zones that make the next meal or snack easier to begin."
+      },
+      {
+        "type": "h2",
+        "text": "Start with use frequency"
+      },
+      {
+        "type": "p",
+        "text": "Make three groups: used most days, used some weeks, and rarely used. Put the daily group where it can be reached without moving other items first."
+      },
+      {
+        "type": "p",
+        "text": "This is a function check. An item can be ordinary and still deserve the best shelf space if it starts breakfast, lunch packing, or a quick dinner often."
+      },
+      {
+        "type": "h2",
+        "text": "Give open items the front row"
+      },
+      {
+        "type": "p",
+        "text": "Open bags, jars, and boxes are easier to forget when they sit behind unopened food. Give them the front row for a week. If the front row gets crowded, that is information."
+      },
+      {
+        "type": "p",
+        "text": "The point is not to force every open item into a meal. It is to make the existing food easier to see before buying more of the same category."
+      },
+      {
+        "type": "h2",
+        "text": "Keep flexible food in one zone"
+      },
+      {
+        "type": "p",
+        "text": "Flexible pantry food is food that can help more than one meal: a grain, a canned item, a plain snack, or something that pairs with leftovers. Keep that group together."
+      },
+      {
+        "type": "p",
+        "text": "A flexible zone gives the shelf a backup role without turning the kitchen into a strict plan."
+      },
+      {
+        "type": "h2",
+        "text": "Review the shelf before adding more"
+      },
+      {
+        "type": "p",
+        "text": "Before the next grocery list, look at the daily group, the open row, and the flexible zone. Write one line: use first, replace soon, or leave alone."
+      },
+      {
+        "type": "p",
+        "text": "A pantry shelf you actually use is not the neatest shelf. It is the shelf that tells the truth about the week."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-11-30 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_6_10",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_6_10",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-05"
+  },
+  {
+    "day": 7,
+    "date": "2026-12-01",
+    "slug": "half-used-pantry-items",
+    "title": "What to Do With Half-Used Pantry Items",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm pantry routine for half-used bags, boxes, and jars that keeps food visible without guilt or a complicated system.",
+    "seo": {
+      "seoTitle": "What to Do With Half-Used Pantry Items | Daily Support Guide",
+      "metaDescription": "Use a simple half-used pantry item routine to keep open food visible, easier to use, and less likely to disappear behind unopened food.",
+      "primaryKeyword": "half used pantry items",
+      "secondaryKeywords": [
+        "open pantry food routine",
+        "pantry items going unused",
+        "simple pantry note"
+      ],
+      "searchIntent": "informational",
+      "h1": "What to Do With Half-Used Pantry Items",
+      "h2": [
+        "Put the half-used group where it can be seen",
+        "Pair one item with a real meal",
+        "Use a short note when memory is the problem",
+        "Let the shelf change slowly"
+      ],
+      "faq": [
+        "How can I remember half-used pantry items?",
+        "What should I do with open pantry food?",
+        "How do I avoid wasting pantry items without guilt?"
+      ],
+      "internalLinks": [
+        "pantry-shelf-you-actually-use",
+        "pantry-list-already-open",
+        "groceries-going-unused"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No waste shame",
+        "No product suggestions",
+        "No strict meal planning",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general kitchen and meal planning education.",
+      "FoodSafety.gov provides general home food handling education; this article does not provide storage-time rules.",
+      "USDA MyPlate supports broad, flexible meal language."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.foodsafety.gov/",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Half-used pantry items have a quiet way of becoming invisible. A bag gets folded over. A box slides behind another box. A jar waits for the meal you meant to make last week."
+      },
+      {
+        "type": "p",
+        "text": "This is normal kitchen drift. It can be handled with a small routine, not a scolding."
+      },
+      {
+        "type": "h2",
+        "text": "Put the half-used group where it can be seen"
+      },
+      {
+        "type": "p",
+        "text": "Choose one shelf edge or one shallow section for open items. The goal is visibility. If everything open has to be searched for, the kitchen is asking too much from memory."
+      },
+      {
+        "type": "p",
+        "text": "Keep the group imperfect. A folded bag and a jar with a note are still easier to use than a hidden item with no reminder."
+      },
+      {
+        "type": "h2",
+        "text": "Pair one item with a real meal"
+      },
+      {
+        "type": "p",
+        "text": "Pick one half-used item and connect it to a meal that already happens. Oats near breakfast. Crackers near lunch packing. Rice near the dinner shelf. The pair should feel ordinary."
+      },
+      {
+        "type": "p",
+        "text": "You do not have to use every open item this week. One useful pair is enough to bring the shelf back into the conversation."
+      },
+      {
+        "type": "h2",
+        "text": "Use a short note when memory is the problem"
+      },
+      {
+        "type": "p",
+        "text": "A note can be plain: open first, use with soup, add to lunch, check before shopping. Do not write a full plan if a few words will do."
+      },
+      {
+        "type": "p",
+        "text": "The note is not a command. It is a small kindness to the next version of the day."
+      },
+      {
+        "type": "h2",
+        "text": "Let the shelf change slowly"
+      },
+      {
+        "type": "p",
+        "text": "After a week, see which open items moved and which did not. That tells you more than a perfect pantry photo ever could."
+      },
+      {
+        "type": "p",
+        "text": "A half-used item is not a failure. It is simply food that needs to be seen again."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-01 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_6_10",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_6_10",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-06"
+  },
+  {
+    "day": 8,
+    "date": "2026-12-02",
+    "slug": "pantry-list-already-open",
+    "title": "The Pantry List That Starts With What Is Already Open",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A direct open-item pantry checklist that starts the grocery list from what is already open instead of what sounds useful later.",
+    "seo": {
+      "seoTitle": "The Pantry List That Starts With What Is Already Open | Daily Support Guide",
+      "metaDescription": "Start a pantry list with open items, repeated staples, and one next use so grocery planning stays practical and low-pressure.",
+      "primaryKeyword": "pantry list already open",
+      "secondaryKeywords": [
+        "open pantry checklist",
+        "simple pantry list",
+        "pantry grocery planning"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Pantry List That Starts With What Is Already Open",
+      "h2": [
+        "Write open items first",
+        "Mark repeat items separately",
+        "Add one next use",
+        "Keep the list short"
+      ],
+      "faq": [
+        "How do I start a pantry list?",
+        "Why should open pantry items go first?",
+        "How long should a pantry list be?"
+      ],
+      "internalLinks": [
+        "half-used-pantry-items",
+        "pantry-shelf-you-actually-use",
+        "grocery-list-from-meals"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No strict meal plan",
+        "No product recommendations",
+        "No brand examples",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general grocery and meal planning education.",
+      "USDA MyPlate supports broad food group language.",
+      "FoodSafety.gov provides general food handling context without requiring this article to give safety timelines."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Start with what is open. Not what sounds useful. Not what a future week might need. Open food is already part of the kitchen."
+      },
+      {
+        "type": "h2",
+        "text": "Write open items first"
+      },
+      {
+        "type": "p",
+        "text": "Make a short column. Open pasta. Open rice. Open crackers. Open flour. Open jar. Use plain names. Do not add a meal plan yet."
+      },
+      {
+        "type": "p",
+        "text": "If the item is hard to identify, write where it is. Top shelf. Back left. Door shelf. The location is part of the list."
+      },
+      {
+        "type": "h2",
+        "text": "Mark repeat items separately"
+      },
+      {
+        "type": "p",
+        "text": "Some pantry items come back every week or almost every week. Put those in a repeat section. Keep them separate from the open list so they do not hide what needs attention now."
+      },
+      {
+        "type": "p",
+        "text": "Repeat does not mean required. It means familiar enough to check before buying again."
+      },
+      {
+        "type": "h2",
+        "text": "Add one next use"
+      },
+      {
+        "type": "p",
+        "text": "Next to one open item, write one possible use. Lunch side. Soup add-in. Breakfast. Snack shelf. Dinner backup. One use is enough."
+      },
+      {
+        "type": "p",
+        "text": "Do not turn every item into a task. Pick the one most likely to help this week."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the list short"
+      },
+      {
+        "type": "p",
+        "text": "A useful pantry list can fit on a few lines. When it gets too long, it stops being a reminder and starts becoming another pile."
+      },
+      {
+        "type": "p",
+        "text": "The open-item list works because it begins with what the kitchen already has."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-02 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_6_10",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_6_10",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-07"
+  },
+  {
+    "day": 9,
+    "date": "2026-12-03",
+    "slug": "compare-pantry-staples-without-winner",
+    "title": "How to Compare Pantry Staples Without Picking a Winner",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical note-sheet approach to comparing pantry staples by use, fit, and unknowns without ranking foods or naming products.",
+    "seo": {
+      "seoTitle": "Compare Pantry Staples Without Picking a Winner | Daily Support Guide",
+      "metaDescription": "Compare pantry staples with a simple note sheet focused on use, fit, source, and unknowns instead of winners, brands, or product rankings.",
+      "primaryKeyword": "compare pantry staples",
+      "secondaryKeywords": [
+        "pantry staple comparison",
+        "compare staple foods",
+        "pantry note sheet"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Compare Pantry Staples Without Picking a Winner",
+      "h2": [
+        "Start with the source of the note",
+        "Compare use before preference",
+        "Write what remains unknown",
+        "Avoid winner language"
+      ],
+      "faq": [
+        "How can I compare pantry staples?",
+        "Should pantry staples be ranked?",
+        "What belongs in a pantry comparison note?"
+      ],
+      "internalLinks": [
+        "pantry-shelf-you-actually-use",
+        "source-aware-grocery-note",
+        "kitchen-system-review"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No product ranking",
+        "No brand examples",
+        "No nutrition superiority claims",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "USDA MyPlate supports broad food category language.",
+      "Nutrition.gov supports general shopping and meal planning education.",
+      "FoodSafety.gov provides general home food handling context; this article stays focused on notes."
+    ],
+    "sourceUrls": [
+      "https://www.myplate.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A pantry comparison note does not need a winner. It needs a reason the comparison exists."
+      },
+      {
+        "type": "p",
+        "text": "Put the source at the top: shelf check, grocery list, receipt memory, meal note, or household request. A comparison without a source is easy to overread later."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the source of the note"
+      },
+      {
+        "type": "p",
+        "text": "Write where the comparison came from. Maybe two similar staples keep showing up. Maybe one item is open and another is unopened. Maybe a repeated meal works better with one shape or texture."
+      },
+      {
+        "type": "p",
+        "text": "The source keeps the note practical. It prevents a small pantry question from becoming a general judgment about food."
+      },
+      {
+        "type": "h2",
+        "text": "Compare use before preference"
+      },
+      {
+        "type": "p",
+        "text": "Use four fields: used with, used by, used how often, and hard to use because. These fields are usually more helpful than best, worst, or perfect."
+      },
+      {
+        "type": "p",
+        "text": "Preference can still matter. It just belongs next to real use, not above it."
+      },
+      {
+        "type": "h2",
+        "text": "Write what remains unknown"
+      },
+      {
+        "type": "p",
+        "text": "Leave a line for unknowns. Maybe the item has not been used enough. Maybe the package is hard to store. Maybe it only worked for one meal. Unknown is a valid note."
+      },
+      {
+        "type": "p",
+        "text": "A visible unknown is better than a confident guess."
+      },
+      {
+        "type": "h2",
+        "text": "Avoid winner language"
+      },
+      {
+        "type": "p",
+        "text": "Winner language makes a pantry comparison sound larger than it is. Try fit this week, easy to reach, used twice, still open, or not needed now."
+      },
+      {
+        "type": "p",
+        "text": "The note should help the next grocery decision, not crown a permanent favorite."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-03 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_6_10",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_6_10",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-08"
+  },
+  {
+    "day": 10,
+    "date": "2026-12-04",
+    "slug": "pantry-words-food-decisions-bigger",
+    "title": "Pantry Words That Make Food Decisions Feel Bigger Than They Are",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A precise, language-first article about replacing pressure-heavy pantry words with practical terms that support ordinary food decisions.",
+    "seo": {
+      "seoTitle": "Pantry Words That Make Food Decisions Feel Bigger | Daily Support Guide",
+      "metaDescription": "Notice pantry words that add pressure to food decisions, and use practical language for open items, repeat foods, and food to decide soon.",
+      "primaryKeyword": "pantry food decision words",
+      "secondaryKeywords": [
+        "pantry language",
+        "food decision pressure",
+        "shame free pantry notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "Pantry Words That Make Food Decisions Feel Bigger Than They Are",
+      "h2": [
+        "Pressure words blur the real task",
+        "Use practical pantry categories",
+        "Do not upgrade a small note into a rule",
+        "Let the wording stay ordinary"
+      ],
+      "faq": [
+        "What pantry words add pressure?",
+        "How can pantry notes avoid shame?",
+        "Why does wording matter in kitchen routines?"
+      ],
+      "internalLinks": [
+        "what-to-notice-when-kitchen-feels-too-full",
+        "pantry-list-already-open",
+        "kitchen-system-vs-rule"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No moral labels",
+        "No shame language",
+        "No diet rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general home meal planning education.",
+      "USDA MyPlate offers broad food language without moral labels.",
+      "FoodSafety.gov provides general food handling context; this article avoids freshness or safety guarantees."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Pantry language can make a small decision feel heavier than it is. The food on the shelf may only need a place, a reminder, or a next use. The words around it can turn that into something larger."
+      },
+      {
+        "type": "p",
+        "text": "The wording matters because a pantry note is supposed to reduce friction, not add judgment."
+      },
+      {
+        "type": "h2",
+        "text": "Pressure words blur the real task"
+      },
+      {
+        "type": "p",
+        "text": "Words like always, never, ruined, wasted, and failed do not tell you what to do next. They often point at frustration, not at the shelf itself."
+      },
+      {
+        "type": "p",
+        "text": "More precise words are usually more useful: open, unopened, easy to reach, hard to see, used soon, not needed now."
+      },
+      {
+        "type": "h2",
+        "text": "Use practical pantry categories"
+      },
+      {
+        "type": "p",
+        "text": "A pantry can be described by function. Daily. Flexible. Open. Backup. Waiting. These words keep the decision close to the kitchen instead of turning it into a comment about discipline."
+      },
+      {
+        "type": "p",
+        "text": "Function words also leave room for real life. A food can wait without being wrong. An open item can need attention without becoming a problem."
+      },
+      {
+        "type": "h2",
+        "text": "Do not upgrade a small note into a rule"
+      },
+      {
+        "type": "p",
+        "text": "A note that says use open rice first is not the same as a rule about every dinner. Keep the sentence small enough to match the decision."
+      },
+      {
+        "type": "p",
+        "text": "When wording becomes too broad, it can make the kitchen feel supervised. Pantry notes work better when they stay close to one shelf, one item, or one week."
+      },
+      {
+        "type": "h2",
+        "text": "Let the wording stay ordinary"
+      },
+      {
+        "type": "p",
+        "text": "The best pantry sentence may be very plain: open first, move forward, check before shopping, use with lunch, leave for later. Plain language is easier to follow when the day is already full."
+      },
+      {
+        "type": "p",
+        "text": "A pantry word should make the next decision smaller, not louder."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-04 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_6_10",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_6_10",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-09"
+  }
+]

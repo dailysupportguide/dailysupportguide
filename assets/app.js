@@ -95,6 +95,7 @@
     root.innerHTML = "";
 
     const categoryOrder = [
+      ["kitchen-systems", "Kitchen Systems", "Practical guides for pantry, fridge, freezer, and everyday kitchen routines."],
       ["nutrient-notes", "Nutrient Notes", "General label-reading notes for nutrient lines, amounts, units, Daily Value, claim wording, and open questions."],
       ["label-reading", "Label Reading", "Plain guides for serving sizes, directions, ingredients, Supplement Facts, Nutrition Facts, and missing information."],
       ["comparison-skills", "Comparison Skills", "Neutral ways to compare similar labels, package sizes, formats, claim language, and source details."],

@@ -1,0 +1,720 @@
+[
+  {
+    "day": 1,
+    "date": "2026-11-25",
+    "slug": "make-kitchen-easier-to-start-from",
+    "title": "How to Make Your Kitchen Easier to Start From",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A warm, practical way to make the kitchen easier to enter on ordinary days without turning it into a full home project.",
+    "seo": {
+      "seoTitle": "Make Your Kitchen Easier to Start From | Daily Support Guide",
+      "metaDescription": "Make your kitchen easier to start from with small landing spots, visible basics, and low-pressure routines for ordinary food decisions.",
+      "primaryKeyword": "make kitchen easier to use",
+      "secondaryKeywords": [
+        "easy kitchen routine",
+        "kitchen starting point",
+        "low pressure kitchen reset"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Make Your Kitchen Easier to Start From",
+      "h2": [
+        "Start with the first surface you touch",
+        "Give daily items a plain landing place",
+        "Leave one next step visible",
+        "Keep the system smaller than the problem"
+      ],
+      "faq": [
+        "How can I make my kitchen easier to use?",
+        "Do I need to organize the whole kitchen first?",
+        "When should kitchen routines be adjusted for personal needs?"
+      ],
+      "internalLinks": [
+        "food-rhythm-without-tracking-everything",
+        "weekly-kitchen-map",
+        "one-page-kitchen-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No product recommendations",
+        "No perfection framing",
+        "No medical advice",
+        "No diet rules"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov provides general meal planning and shopping education suitable for non-personalized kitchen routines.",
+      "USDA MyPlate offers broad food group language without requiring strict tracking.",
+      "FoodSafety.gov provides general food handling education; this article avoids exact storage-time advice."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Some kitchens are not hard because anything is wrong with them. They are hard because every small decision asks for another decision first. Where is the cutting board? Which shelf has the open food? Is there a clear spot to put the bag down?"
+      },
+      {
+        "type": "p",
+        "text": "You do not need a full kitchen project to make the room easier to start from. A smaller first step usually holds better."
+      },
+      {
+        "type": "h2",
+        "text": "Start with the first surface you touch"
+      },
+      {
+        "type": "p",
+        "text": "Look at the place where food decisions begin most often. It might be a counter corner, a table edge, the front of the fridge, or the shelf where breakfast starts. Clear enough of that spot for one ordinary action."
+      },
+      {
+        "type": "p",
+        "text": "Not the whole counter. Not every cabinet. Just one place where a person can arrive, set something down, and begin without moving six other things first."
+      },
+      {
+        "type": "h2",
+        "text": "Give daily items a plain landing place"
+      },
+      {
+        "type": "p",
+        "text": "Daily items do better with boring homes. A mug shelf. A bowl stack. A small place for opened bread or cereal. A drawer for clips. The location only matters if it is easy to remember when the day is tired."
+      },
+      {
+        "type": "p",
+        "text": "If an item gets used most days, do not hide it behind the once-a-month things. The kitchen should not make regular food feel like a search task."
+      },
+      {
+        "type": "h2",
+        "text": "Leave one next step visible"
+      },
+      {
+        "type": "p",
+        "text": "A useful kitchen often leaves a clue for the next person, even if that person is you tomorrow. Put the open item near the front. Leave a short note. Move the food that should be used soon into the easiest line of sight."
+      },
+      {
+        "type": "p",
+        "text": "The point is not to control the whole week. It is to make the next meal a little less mysterious."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the system smaller than the problem"
+      },
+      {
+        "type": "p",
+        "text": "When a kitchen feels like too much, choose one small system: a clear start spot, a visible open-item shelf, or a tiny note for tomorrow. Let it work for a week before adding anything else."
+      },
+      {
+        "type": "p",
+        "text": "A kitchen that is easier to start from is not a perfect kitchen. It is a room that gives you one honest place to begin."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-11-25 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_1_5",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_1_5",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-09-30"
+  },
+  {
+    "day": 2,
+    "date": "2026-11-26",
+    "slug": "three-zone-counter-check-before-busy-week",
+    "title": "The Three-Zone Counter Check Before a Busy Week",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A structured counter check that separates prep space, landing space, and clear space before the week becomes crowded.",
+    "seo": {
+      "seoTitle": "Three-Zone Counter Check Before a Busy Week | Daily Support Guide",
+      "metaDescription": "Use a three-zone kitchen counter check to separate prep space, landing space, and clear space before a busy week starts.",
+      "primaryKeyword": "kitchen counter zones busy week",
+      "secondaryKeywords": [
+        "counter check routine",
+        "kitchen prep zone",
+        "busy week kitchen setup"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Three-Zone Counter Check Before a Busy Week",
+      "h2": [
+        "Zone one is for food that starts now",
+        "Zone two is for things arriving later",
+        "Zone three stays clear on purpose",
+        "Check the zones before adding a rule"
+      ],
+      "faq": [
+        "What are kitchen counter zones?",
+        "How can I prepare a counter for a busy week?",
+        "Do counter zones require special organizers?"
+      ],
+      "internalLinks": [
+        "weekly-kitchen-map",
+        "grocery-unpacking-routine",
+        "kitchen-closing-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No storage product examples",
+        "No perfection framing",
+        "No brand mentions",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general planning and cooking education.",
+      "USDA MyPlate supports broad meal-building language without personalized rules.",
+      "FoodSafety.gov provides general food handling context; this article stays at organization level."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A counter can look messy because it is doing three jobs at once. It holds food being prepared, things that just came in, and items that have no current job. Separate those jobs before deciding the kitchen needs a larger system."
+      },
+      {
+        "type": "h2",
+        "text": "Zone one is for food that starts now"
+      },
+      {
+        "type": "p",
+        "text": "Choose one section as the start zone. This is where chopping, pouring, packing, or assembling begins. It should be large enough for one action and clear enough that the action can start without sorting first."
+      },
+      {
+        "type": "p",
+        "text": "Keep the field simple: surface, tool, food, next step. If one of those is missing, the start zone is not ready yet."
+      },
+      {
+        "type": "h2",
+        "text": "Zone two is for things arriving later"
+      },
+      {
+        "type": "p",
+        "text": "The landing zone is for grocery bags, lunch containers, mail that came in with food, or anything that needs a short stop before it moves. It should not become permanent storage."
+      },
+      {
+        "type": "p",
+        "text": "Use a plain rule for this zone: arrive here, leave later. If it has been sitting there for days, it needs a real home or a decision."
+      },
+      {
+        "type": "h2",
+        "text": "Zone three stays clear on purpose"
+      },
+      {
+        "type": "p",
+        "text": "A clear zone is not wasted space. It is working space held in reserve. Busy weeks need at least one empty surface for a plate, bag, container, note, or quick decision."
+      },
+      {
+        "type": "p",
+        "text": "Do not fill the clear zone just because it is open. Its job is to stay available."
+      },
+      {
+        "type": "h2",
+        "text": "Check the zones before adding a rule"
+      },
+      {
+        "type": "p",
+        "text": "Write the three zones on one line: start, landing, clear. If each zone has a place, the counter has a system. If one zone keeps disappearing, adjust that zone first."
+      },
+      {
+        "type": "p",
+        "text": "The counter check is not a kitchen makeover. It is a small map for the week."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-11-26 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_1_5",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_1_5",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-01"
+  },
+  {
+    "day": 3,
+    "date": "2026-11-27",
+    "slug": "five-minute-kitchen-reset-no-plan",
+    "title": "A Five-Minute Kitchen Reset That Does Not Need a Plan",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A direct five-minute checklist for making the kitchen usable again without starting a full organizing project.",
+    "seo": {
+      "seoTitle": "Five-Minute Kitchen Reset Without a Plan | Daily Support Guide",
+      "metaDescription": "Use a five-minute kitchen reset to clear one surface, move food into view, and make the next kitchen step easier without a full plan.",
+      "primaryKeyword": "five minute kitchen reset",
+      "secondaryKeywords": [
+        "quick kitchen routine",
+        "make kitchen usable",
+        "small kitchen reset"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Five-Minute Kitchen Reset That Does Not Need a Plan",
+      "h2": [
+        "Clear one working spot",
+        "Move food back into view",
+        "Set up the next small action",
+        "Stop when the timer stops"
+      ],
+      "faq": [
+        "What can I do in a five-minute kitchen reset?",
+        "Should I clean the whole kitchen during a reset?",
+        "How can I keep a quick kitchen routine realistic?"
+      ],
+      "internalLinks": [
+        "midweek-kitchen-check-in",
+        "kitchen-closing-routine",
+        "useful-kitchen-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No body-reset language",
+        "No cleaning product recommendations",
+        "No strict rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general food planning and preparation topics.",
+      "USDA MyPlate supports flexible meal structure language.",
+      "FoodSafety.gov offers general handling education; this article does not give specific safety timelines."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Set a timer for five minutes. Do not make a list first. Do not open every cabinet. The job is to make the next kitchen action possible."
+      },
+      {
+        "type": "h2",
+        "text": "Clear one working spot"
+      },
+      {
+        "type": "p",
+        "text": "Pick one surface. Move anything that does not belong to the side. Throw away obvious trash. Put dishes together. Leave enough room for one plate, one board, or one bag."
+      },
+      {
+        "type": "p",
+        "text": "Stop there. One working spot is useful. Half-cleaning three spots usually gives you three unfinished spots."
+      },
+      {
+        "type": "h2",
+        "text": "Move food back into view"
+      },
+      {
+        "type": "p",
+        "text": "Look for food that needs a decision soon. Put it where it can be seen. Front of shelf. Eye-level fridge spot. Counter edge if it belongs there briefly."
+      },
+      {
+        "type": "p",
+        "text": "Do not solve every item. Visibility comes first."
+      },
+      {
+        "type": "h2",
+        "text": "Set up the next small action"
+      },
+      {
+        "type": "p",
+        "text": "Choose one next action. Wash one bowl. Put one open item away. Place tomorrow morning food where it is easy to reach. Write one note if the decision will not happen now."
+      },
+      {
+        "type": "p",
+        "text": "A next action should be small enough that you would still do it on a tired night."
+      },
+      {
+        "type": "h2",
+        "text": "Stop when the timer stops"
+      },
+      {
+        "type": "p",
+        "text": "When five minutes are up, stop. A short reset works because it ends. If you keep expanding it, the kitchen learns to feel like a project again."
+      },
+      {
+        "type": "p",
+        "text": "The goal is not a finished room. The goal is a kitchen that gives you a place to start."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-11-27 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_1_5",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_1_5",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-02"
+  },
+  {
+    "day": 4,
+    "date": "2026-11-28",
+    "slug": "what-to-notice-when-kitchen-feels-too-full",
+    "title": "What to Notice When the Kitchen Feels Too Full",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A careful, shame-free article about noticing kitchen fullness through function, language, and small decisions rather than blame.",
+    "seo": {
+      "seoTitle": "What to Notice When the Kitchen Feels Too Full | Daily Support Guide",
+      "metaDescription": "Notice why a kitchen feels too full by separating useful items, waiting items, and undecided items without shame or perfection language.",
+      "primaryKeyword": "kitchen feels too full",
+      "secondaryKeywords": [
+        "crowded kitchen notes",
+        "kitchen clutter without shame",
+        "kitchen decision pressure"
+      ],
+      "searchIntent": "informational",
+      "h1": "What to Notice When the Kitchen Feels Too Full",
+      "h2": [
+        "Full is not the same as failed",
+        "Separate useful from undecided",
+        "Watch for pressure words",
+        "Choose one decision, not a verdict"
+      ],
+      "faq": [
+        "Why does my kitchen feel too full?",
+        "How can I describe kitchen clutter without shame?",
+        "Should I remove everything from the kitchen at once?"
+      ],
+      "internalLinks": [
+        "kitchen-rule-never-worked",
+        "kitchen-language-after-messy-week",
+        "kitchen-system-vs-rule"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No shame language",
+        "No product recommendations",
+        "No food moralizing",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general home food planning education.",
+      "USDA MyPlate offers broad food language without personal judgment.",
+      "FoodSafety.gov provides general food handling context; this article avoids safety claims."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A kitchen can feel too full before it is objectively full. The feeling often comes from mixed jobs: food to use, tools to move, unopened bags, old notes, and decisions that were delayed for good reasons."
+      },
+      {
+        "type": "p",
+        "text": "The wording matters here. A crowded kitchen is not a character report. It is a room asking for clearer categories."
+      },
+      {
+        "type": "h2",
+        "text": "Full is not the same as failed"
+      },
+      {
+        "type": "p",
+        "text": "Try not to begin with a verdict. Too much, terrible, impossible, and never under control may feel true in the moment, but those words do not tell you what needs to move."
+      },
+      {
+        "type": "p",
+        "text": "Use more useful language: waiting food, daily tools, items with no current place, food to decide about soon. These phrases point to action without turning the room into a problem about you."
+      },
+      {
+        "type": "h2",
+        "text": "Separate useful from undecided"
+      },
+      {
+        "type": "p",
+        "text": "Some items are used often. Some are waiting for a meal. Some are undecided. When everything sits together, the useful items become harder to reach and the undecided items feel louder than they are."
+      },
+      {
+        "type": "p",
+        "text": "Make one small separation. Put daily items together. Put undecided items in one visible place. Do not ask every object to justify itself in the same hour."
+      },
+      {
+        "type": "h2",
+        "text": "Watch for pressure words"
+      },
+      {
+        "type": "p",
+        "text": "Words like should, always, and finally can make the kitchen feel more demanding. They may push a small home task into a performance."
+      },
+      {
+        "type": "p",
+        "text": "A softer sentence can still be honest: this shelf is hard to use, this item needs a place, this food needs a decision. Precision is kinder than pressure."
+      },
+      {
+        "type": "h2",
+        "text": "Choose one decision, not a verdict"
+      },
+      {
+        "type": "p",
+        "text": "When the kitchen feels too full, choose one decision that restores movement. Clear one start spot. Move one category. Put one undecided group where it can be reviewed later."
+      },
+      {
+        "type": "p",
+        "text": "The kitchen does not need to prove anything. It only needs to become a little easier to use."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-11-28 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_1_5",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_1_5",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-03"
+  },
+  {
+    "day": 5,
+    "date": "2026-11-29",
+    "slug": "simple-note-for-what-belongs-within-reach",
+    "title": "A Simple Note for What Belongs Within Reach",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical reach-based kitchen note for deciding which items deserve the easiest spots without buying anything new.",
+    "seo": {
+      "seoTitle": "A Simple Note for What Belongs Within Reach | Daily Support Guide",
+      "metaDescription": "Use a simple reach-based kitchen note to decide which everyday items should stay easiest to access without adding gear or strict rules.",
+      "primaryKeyword": "kitchen items within reach",
+      "secondaryKeywords": [
+        "reach based kitchen note",
+        "kitchen access system",
+        "everyday kitchen items"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Simple Note for What Belongs Within Reach",
+      "h2": [
+        "Make a reach list before moving things",
+        "Use frequency before preference",
+        "Keep the source of the note visible",
+        "Leave some easy space unassigned"
+      ],
+      "faq": [
+        "How do I decide what belongs within reach in the kitchen?",
+        "Should everyday kitchen items be stored together?",
+        "Do I need new organizers to make items easier to reach?"
+      ],
+      "internalLinks": [
+        "pantry-shelf-you-use",
+        "weekly-kitchen-map",
+        "one-page-kitchen-routine"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No gear recommendations",
+        "No brand examples",
+        "No rigid rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "Nutrition.gov supports general cooking and meal planning education.",
+      "USDA MyPlate supports broad meal structure language.",
+      "FoodSafety.gov offers general home food education; this article focuses on access and notes."
+    ],
+    "sourceUrls": [
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/",
+      "https://www.foodsafety.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Before moving the kitchen around, make a reach note. It is a short record of which items are used often enough to deserve the easiest spots. The note keeps the decision practical."
+      },
+      {
+        "type": "h2",
+        "text": "Make a reach list before moving things"
+      },
+      {
+        "type": "p",
+        "text": "Use three columns: item, how often it is used, and where it is now. Keep the entries plain. Mug. Cutting board. Oats. Lunch container. Tea. Pan. Bag clips."
+      },
+      {
+        "type": "p",
+        "text": "The first version does not need to be complete. Five to eight items are enough to show whether the easiest spaces match real use."
+      },
+      {
+        "type": "h2",
+        "text": "Use frequency before preference"
+      },
+      {
+        "type": "p",
+        "text": "An item can be liked and still not need the easiest spot. Another item can be boring and still deserve front-row access because it starts several meals or snacks each week."
+      },
+      {
+        "type": "p",
+        "text": "Put daily items first. Then several-times-a-week items. Occasional items can move farther back unless they are difficult to lift or need a safer place for another practical reason."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the source of the note visible"
+      },
+      {
+        "type": "p",
+        "text": "Write where the information came from: this week, weekday mornings, packed lunches, shared dinners, or weekend cooking. A reach note based on real use is easier to trust than one based on how the kitchen should work."
+      },
+      {
+        "type": "p",
+        "text": "If the week changes, the note can change. That is a feature, not a failure."
+      },
+      {
+        "type": "h2",
+        "text": "Leave some easy space unassigned"
+      },
+      {
+        "type": "p",
+        "text": "Do not fill every reachable spot. Empty access is useful. It gives the kitchen room for groceries, leftovers, tomorrow morning, or a temporary item that needs attention."
+      },
+      {
+        "type": "p",
+        "text": "A good reach note does not decide the whole kitchen. It identifies what deserves less friction today."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-11-29 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed",
+        "gemini": "passed_per_article_day_1_5",
+        "claude": "passed"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed",
+      "gemini": "passed_per_article_day_1_5",
+      "claude": "passed",
+      "grokRequired": false
+    },
+    "originalPlannedDate": "2026-10-04"
+  }
+]

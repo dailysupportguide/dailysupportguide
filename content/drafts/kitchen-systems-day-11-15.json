@@ -1,0 +1,733 @@
+[
+  {
+    "day": 11,
+    "date": "2026-12-05",
+    "slug": "fridge-layout-for-tired-weeknights",
+    "title": "A Fridge Layout for Tired Weeknights",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "mara-lin",
+      "name": "Mara Lin"
+    },
+    "summary": "A structured fridge layout for tired evenings, using visible zones for ready food, open items, and flexible dinner starters.",
+    "seo": {
+      "seoTitle": "A Fridge Layout for Tired Weeknights | Daily Support Guide",
+      "metaDescription": "Use a simple fridge layout for tired weeknights with ready food, open items, and flexible dinner starters kept easy to see.",
+      "primaryKeyword": "fridge layout weeknights",
+      "secondaryKeywords": [
+        "weeknight fridge system",
+        "fridge zones for dinner",
+        "easy fridge layout"
+      ],
+      "searchIntent": "informational",
+      "h1": "A Fridge Layout for Tired Weeknights",
+      "h2": [
+        "Put ready food in the first sight line",
+        "Keep open items together",
+        "Use one zone for dinner starters",
+        "Review the layout after a normal night"
+      ],
+      "faq": [
+        "How can I arrange a fridge for weeknight dinners?",
+        "What should be easiest to see in the fridge?",
+        "Do I need special containers for a fridge layout?"
+      ],
+      "internalLinks": [
+        "make-kitchen-easier-to-start-from",
+        "leftover-shelf-see-what-is-ready",
+        "weekly-kitchen-map"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No appliance or container brands",
+        "No food safety guarantees",
+        "No diet rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov offers general home food handling education; this article avoids exact freshness timelines.",
+      "Nutrition.gov supports general shopping, cooking, and meal planning education.",
+      "USDA MyPlate supports broad meal structure language without personalized rules."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A tired weeknight fridge should answer one question quickly: what can start dinner without a search? The layout does not have to be beautiful. It has to be readable."
+      },
+      {
+        "type": "p",
+        "text": "Use zones that match decisions, not zones that only look neat."
+      },
+      {
+        "type": "h2",
+        "text": "Put ready food in the first sight line"
+      },
+      {
+        "type": "p",
+        "text": "The first sight line is the area you notice when the door opens. Use it for food that can help now: leftovers, washed produce, a prepared side, or something already portioned for a meal."
+      },
+      {
+        "type": "p",
+        "text": "Do not bury ready food behind unopened items. Ready food is most useful when the tired version of the day can find it."
+      },
+      {
+        "type": "h2",
+        "text": "Keep open items together"
+      },
+      {
+        "type": "p",
+        "text": "Open items often create the most friction because they ask for memory. Keep them in one visible section. If the section fills up, check it before adding more food to the fridge."
+      },
+      {
+        "type": "p",
+        "text": "This is not a storage rule. It is a visibility rule."
+      },
+      {
+        "type": "h2",
+        "text": "Use one zone for dinner starters"
+      },
+      {
+        "type": "p",
+        "text": "A dinner starter is anything that can begin a meal: a cooked item, a vegetable, a sauce, a plain base, or a leftover that needs a partner. Keep this group near eye level if possible."
+      },
+      {
+        "type": "p",
+        "text": "The zone helps because dinner often begins with one visible starting point, not a complete plan."
+      },
+      {
+        "type": "h2",
+        "text": "Review the layout after a normal night"
+      },
+      {
+        "type": "p",
+        "text": "After one ordinary evening, ask which zone helped and which one disappeared. Move one category if needed. Leave the rest alone."
+      },
+      {
+        "type": "p",
+        "text": "A weeknight fridge layout works when it makes the next decision smaller."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-05 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_handoff_confirmed_not_resent",
+        "gemini": "passed_per_article_day_11_15",
+        "claude": "passed_per_article_day_11_15"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_handoff_confirmed_not_resent",
+      "gemini": "passed_per_article_day_11_15",
+      "claude": "passed_per_article_day_11_15",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-10"
+  },
+  {
+    "day": 12,
+    "date": "2026-12-06",
+    "slug": "stop-losing-small-things-in-fridge",
+    "title": "How to Stop Losing Small Things in the Fridge",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "eli-brooks",
+      "name": "Eli Brooks"
+    },
+    "summary": "A direct fridge visibility checklist for small jars, packets, leftovers, and opened foods that tend to disappear.",
+    "seo": {
+      "seoTitle": "How to Stop Losing Small Things in the Fridge | Daily Support Guide",
+      "metaDescription": "Stop losing small things in the fridge with a simple visibility checklist for jars, packets, leftovers, and opened foods.",
+      "primaryKeyword": "stop losing food in fridge",
+      "secondaryKeywords": [
+        "fridge visibility checklist",
+        "small fridge items",
+        "fridge organization routine"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Stop Losing Small Things in the Fridge",
+      "h2": [
+        "Find the repeat hiding places",
+        "Move small items into one sight line",
+        "Write a short door note",
+        "Check before buying again"
+      ],
+      "faq": [
+        "Why do small things get lost in the fridge?",
+        "How can I keep small fridge items visible?",
+        "Should I reorganize the whole fridge?"
+      ],
+      "internalLinks": [
+        "fridge-layout-for-tired-weeknights",
+        "fridge-note-helps-tomorrow",
+        "five-minute-kitchen-reset-no-plan"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No guilt language",
+        "No product recommendations",
+        "No food safety guarantees",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general food handling education; this article stays with visibility and decision support.",
+      "Nutrition.gov supports general home meal planning education.",
+      "USDA MyPlate supports broad meal language without personal rules."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Small fridge items get lost because they are small. Not because you failed the fridge."
+      },
+      {
+        "type": "p",
+        "text": "Use a quick visibility check. Keep it practical."
+      },
+      {
+        "type": "h2",
+        "text": "Find the repeat hiding places"
+      },
+      {
+        "type": "p",
+        "text": "Look in the back corners, door shelves, and behind taller containers. Write down what disappears more than once. Jars. Packets. Half containers. Small leftovers."
+      },
+      {
+        "type": "p",
+        "text": "Do not fix every shelf first. Find the pattern."
+      },
+      {
+        "type": "h2",
+        "text": "Move small items into one sight line"
+      },
+      {
+        "type": "p",
+        "text": "Put small items where your eyes already go. One shelf edge works. One door section works. A small group is easier to scan than five scattered spots."
+      },
+      {
+        "type": "p",
+        "text": "Keep the group loose. The goal is to see it, not display it."
+      },
+      {
+        "type": "h2",
+        "text": "Write a short door note"
+      },
+      {
+        "type": "p",
+        "text": "Use five words or fewer: small jars front shelf, use open sauce, check left door, lunch box inside. Short notes get read when the door is open."
+      },
+      {
+        "type": "p",
+        "text": "If the note needs a paragraph, the system is too big."
+      },
+      {
+        "type": "h2",
+        "text": "Check before buying again"
+      },
+      {
+        "type": "p",
+        "text": "Before adding another small item, check the sight line. If a similar item is already open, bring it forward first."
+      },
+      {
+        "type": "p",
+        "text": "The fridge gets easier when small things stop needing a search party."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-06 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_handoff_confirmed_not_resent",
+        "gemini": "passed_per_article_day_11_15",
+        "claude": "passed_per_article_day_11_15"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_handoff_confirmed_not_resent",
+      "gemini": "passed_per_article_day_11_15",
+      "claude": "passed_per_article_day_11_15",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-11"
+  },
+  {
+    "day": 13,
+    "date": "2026-12-07",
+    "slug": "leftover-shelf-see-what-is-ready",
+    "title": "The Leftover Shelf: A Calm Way to See What Is Ready",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "nora-vale",
+      "name": "Nora Vale"
+    },
+    "summary": "A gentle leftover shelf routine that helps ready food stay visible without turning dinner into a strict plan.",
+    "seo": {
+      "seoTitle": "The Leftover Shelf: A Calm Way to See What Is Ready | Daily Support Guide",
+      "metaDescription": "Use a leftover shelf to keep ready food visible, easier to pair, and less likely to be forgotten during ordinary weeknight decisions.",
+      "primaryKeyword": "leftover shelf system",
+      "secondaryKeywords": [
+        "leftover visibility",
+        "fridge leftover routine",
+        "easy dinner leftovers"
+      ],
+      "searchIntent": "informational",
+      "h1": "The Leftover Shelf: A Calm Way to See What Is Ready",
+      "h2": [
+        "Give ready food one place to land",
+        "Pair leftovers with something ordinary",
+        "Use notes without making demands",
+        "Keep the shelf honest"
+      ],
+      "faq": [
+        "What is a leftover shelf?",
+        "How can leftovers be easier to see?",
+        "Does a leftover shelf replace food safety guidance?"
+      ],
+      "internalLinks": [
+        "fridge-layout-for-tired-weeknights",
+        "fridge-note-helps-tomorrow",
+        "dinner-notes-what-worked"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No food safety guarantees",
+        "No shame language",
+        "No rigid meal rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general food handling education; readers should use appropriate safety guidance outside this article.",
+      "Nutrition.gov supports general meal planning and cooking education.",
+      "USDA MyPlate supports broad meal composition language."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Leftovers are easier to use when they do not have to introduce themselves every time the fridge opens. A leftover shelf gives ready food one place to be seen."
+      },
+      {
+        "type": "p",
+        "text": "It does not need to be fancy. It just needs to be obvious enough for a tired dinner moment."
+      },
+      {
+        "type": "h2",
+        "text": "Give ready food one place to land"
+      },
+      {
+        "type": "p",
+        "text": "Choose one shelf section for food that is already cooked, opened, or close to ready. Keep it separate from unopened groceries when you can."
+      },
+      {
+        "type": "p",
+        "text": "The shelf is a landing place, not a promise. It helps you see what is available before deciding what else the meal needs."
+      },
+      {
+        "type": "h2",
+        "text": "Pair leftovers with something ordinary"
+      },
+      {
+        "type": "p",
+        "text": "A leftover often becomes useful when it has a simple partner: bread, rice, salad, soup, eggs, fruit, or another food already in the kitchen. The pair does not have to be clever."
+      },
+      {
+        "type": "p",
+        "text": "When dinner feels hard, ordinary is a relief."
+      },
+      {
+        "type": "h2",
+        "text": "Use notes without making demands"
+      },
+      {
+        "type": "p",
+        "text": "A small note can help: use with lunch, add to dinner, needs a partner, ask before shopping. Keep the words kind and practical."
+      },
+      {
+        "type": "p",
+        "text": "Notes should help memory. They should not turn leftovers into homework."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the shelf honest"
+      },
+      {
+        "type": "p",
+        "text": "If the shelf fills up, pause before adding more. Move one item forward, pair one item, or decide that something no longer belongs in the ready-food section."
+      },
+      {
+        "type": "p",
+        "text": "A leftover shelf is calm because it makes food visible without asking the whole week to behave."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-07 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_handoff_confirmed_not_resent",
+        "gemini": "passed_per_article_day_11_15",
+        "claude": "passed_per_article_day_11_15"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_handoff_confirmed_not_resent",
+      "gemini": "passed_per_article_day_11_15",
+      "claude": "passed_per_article_day_11_15",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-12"
+  },
+  {
+    "day": 14,
+    "date": "2026-12-08",
+    "slug": "fridge-note-helps-tomorrow",
+    "title": "How to Write a Fridge Note That Helps Tomorrow",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "theo-grant",
+      "name": "Theo Grant"
+    },
+    "summary": "A practical fridge note format that records date, source, next use, and unknowns without becoming a rigid tracking system.",
+    "seo": {
+      "seoTitle": "How to Write a Fridge Note That Helps Tomorrow | Daily Support Guide",
+      "metaDescription": "Write a useful fridge note with date, source, next use, and unknowns so tomorrow's food decisions are easier to understand.",
+      "primaryKeyword": "fridge note leftovers",
+      "secondaryKeywords": [
+        "fridge note system",
+        "leftover note format",
+        "kitchen note for tomorrow"
+      ],
+      "searchIntent": "informational",
+      "h1": "How to Write a Fridge Note That Helps Tomorrow",
+      "h2": [
+        "Use four small fields",
+        "Keep the source visible",
+        "Write a next use, not a command",
+        "Leave unknowns in the note"
+      ],
+      "faq": [
+        "What should a fridge note include?",
+        "How can a leftover note help tomorrow?",
+        "Should fridge notes include food safety decisions?"
+      ],
+      "internalLinks": [
+        "leftover-shelf-see-what-is-ready",
+        "stop-losing-small-things-in-fridge",
+        "useful-kitchen-notes"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No rigid tracking",
+        "No food safety guarantees",
+        "No product recommendations",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general food handling education; this article does not replace safety guidance.",
+      "Nutrition.gov supports general meal planning education.",
+      "USDA MyPlate supports broad food group language."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A fridge note should be useful tomorrow, not impressive today. Put the information where the next decision can find it."
+      },
+      {
+        "type": "h2",
+        "text": "Use four small fields"
+      },
+      {
+        "type": "p",
+        "text": "Write four fields: date, source, next use, and unknown. Date means when the note was written. Source means where the food came from or why it is there."
+      },
+      {
+        "type": "p",
+        "text": "Next use is one possible direction. Unknown is whatever still needs checking, asking, or deciding later."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the source visible"
+      },
+      {
+        "type": "p",
+        "text": "A note that says sauce is less useful than a note that says opened sauce from dinner. The source gives the item a place in the week."
+      },
+      {
+        "type": "p",
+        "text": "Keep the source short. Grocery trip, Sunday dinner, lunch packing, neighbor meal, takeout side, opened for recipe. That is enough."
+      },
+      {
+        "type": "h2",
+        "text": "Write a next use, not a command"
+      },
+      {
+        "type": "p",
+        "text": "Use words like could, maybe, or try with if that fits the household. A note can guide without ordering anyone around."
+      },
+      {
+        "type": "p",
+        "text": "For example: could go with lunch, maybe dinner side, try with rice, ask before shopping. The note stays flexible."
+      },
+      {
+        "type": "h2",
+        "text": "Leave unknowns in the note"
+      },
+      {
+        "type": "p",
+        "text": "If something needs a check, write that plainly. Unknowns do not need to be solved while the fridge door is open."
+      },
+      {
+        "type": "p",
+        "text": "A useful fridge note keeps tomorrow from starting with a small mystery."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-08 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_handoff_confirmed_not_resent",
+        "gemini": "passed_per_article_day_11_15",
+        "claude": "passed_per_article_day_11_15"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_handoff_confirmed_not_resent",
+      "gemini": "passed_per_article_day_11_15",
+      "claude": "passed_per_article_day_11_15",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-13"
+  },
+  {
+    "day": 15,
+    "date": "2026-12-09",
+    "slug": "careful-language-food-used-soon",
+    "title": "Careful Language for Food That Needs to Be Used Soon",
+    "category": "Kitchen Systems",
+    "status": "approved",
+    "author": {
+      "id": "june-carter",
+      "name": "June Carter"
+    },
+    "summary": "A cautious wording guide for food that needs attention soon, keeping fridge notes practical without shame or unsafe freshness advice.",
+    "seo": {
+      "seoTitle": "Careful Language for Food That Needs to Be Used Soon | Daily Support Guide",
+      "metaDescription": "Use careful language for food that needs to be used soon, with practical fridge notes that avoid shame, pressure, and unsafe freshness advice.",
+      "primaryKeyword": "food needs to be used soon",
+      "secondaryKeywords": [
+        "fridge note language",
+        "food to use soon",
+        "shame free leftover notes"
+      ],
+      "searchIntent": "informational",
+      "h1": "Careful Language for Food That Needs to Be Used Soon",
+      "h2": [
+        "Attention is not the same as alarm",
+        "Use words that point to the next decision",
+        "Avoid freshness promises",
+        "Keep the note practical"
+      ],
+      "faq": [
+        "How should I label food that needs to be used soon?",
+        "How can fridge notes avoid shame?",
+        "Should a fridge note decide whether food is safe?"
+      ],
+      "internalLinks": [
+        "fridge-note-helps-tomorrow",
+        "leftover-shelf-see-what-is-ready",
+        "kitchen-language-after-messy-week"
+      ],
+      "schema": [
+        "Article",
+        "FAQPage"
+      ],
+      "riskNotes": [
+        "No unsafe freshness advice",
+        "No shame language",
+        "No rigid rules",
+        "No medical advice"
+      ]
+    },
+    "sourceNotes": [
+      "FoodSafety.gov provides general food safety education; this article avoids judging whether specific food is safe.",
+      "Nutrition.gov supports general meal planning and cooking education.",
+      "USDA MyPlate supports broad food language without moral labels."
+    ],
+    "sourceUrls": [
+      "https://www.foodsafety.gov/",
+      "https://www.nutrition.gov/topics/shopping-cooking-and-meal-planning",
+      "https://www.myplate.gov/"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Food that needs attention soon does not need dramatic language. It needs a clear next decision."
+      },
+      {
+        "type": "p",
+        "text": "The words on a fridge note can help or add pressure. Choose words that describe the task without making a judgment about the person who reads them."
+      },
+      {
+        "type": "h2",
+        "text": "Attention is not the same as alarm"
+      },
+      {
+        "type": "p",
+        "text": "Use needs attention, check today, or decide soon instead of panic words. These phrases keep the note close to the kitchen task."
+      },
+      {
+        "type": "p",
+        "text": "A calm phrase is not vague. It gives the food a visible status without turning the fridge into a warning board."
+      },
+      {
+        "type": "h2",
+        "text": "Use words that point to the next decision"
+      },
+      {
+        "type": "p",
+        "text": "Try use with lunch, move forward, ask first, pair with dinner, or check before shopping. Each phrase points to a next action."
+      },
+      {
+        "type": "p",
+        "text": "Avoid words that only scold: wasted, ruined, failed, should have, or never again. They do not help the food move."
+      },
+      {
+        "type": "h2",
+        "text": "Avoid freshness promises"
+      },
+      {
+        "type": "p",
+        "text": "A fridge note should not declare that food is safe, unsafe, good, or bad. If a safety question exists, use appropriate food safety guidance rather than guessing from a note."
+      },
+      {
+        "type": "p",
+        "text": "The note can say check. It does not have to decide."
+      },
+      {
+        "type": "h2",
+        "text": "Keep the note practical"
+      },
+      {
+        "type": "p",
+        "text": "A practical note is short enough to read with the door open. Food to decide soon. Use first. Ask before replacing. Move to dinner shelf."
+      },
+      {
+        "type": "p",
+        "text": "Careful language makes the next step clearer and keeps pressure out of the fridge."
+      },
+      {
+        "type": "p",
+        "text": "This article is general education only and is not medical advice."
+      }
+    ],
+    "review": {
+      "internalLint": "passed",
+      "humanPolish": "passed",
+      "externalAiReview": "passed",
+      "approvedForPublishing": true,
+      "grokRequired": false,
+      "notes": "Existing internal, human-polish and ChatGPT + Gemini + Claude passes retained. User approved publication and daily scheduling on 2026-11-24. Scheduled 2026-12-09 using America/New_York publishing dates.",
+      "externalReviewers": {
+        "chatgpt": "passed_handoff_confirmed_not_resent",
+        "gemini": "passed_per_article_day_11_15",
+        "claude": "passed_per_article_day_11_15"
+      },
+      "approvedAt": "2026-11-24",
+      "approvalSource": "Explicit user approval in DailySupportGuide chat on 2026-11-24 for Kitchen Systems Day 1-20 and daily scheduling."
+    },
+    "externalAiReview": {
+      "status": "passed",
+      "chatgpt": "passed_handoff_confirmed_not_resent",
+      "gemini": "passed_per_article_day_11_15",
+      "claude": "passed_per_article_day_11_15",
+      "grokRequired": false,
+      "grok": "not_required_not_used"
+    },
+    "originalPlannedDate": "2026-10-14"
+  }
+]

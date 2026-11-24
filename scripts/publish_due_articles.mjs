@@ -14,6 +14,10 @@ const scheduledSources = [
   },
   {
     path: path.join(root, "content", "scheduled", "food-rhythm-articles.json")
+  },
+  {
+    path: path.join(root, "content", "scheduled", "kitchen-systems-articles.json"),
+    dailyLimit: 1
   }
 ];
 
@@ -69,6 +73,9 @@ let publishedCount = 0;
 let changed = false;
 
 for (const source of sourceRecords) {
+  let sourcePublishedToday = source.articles.filter((article) =>
+    article.status === "published" && article.publishedOn === now.date
+  ).length;
   for (const article of source.articles) {
     const plannedArticle = Number.isInteger(source.plannedArticleDayOffset)
       ? content.plannedArticles?.find((item) => item.day === article.day + source.plannedArticleDayOffset)
@@ -110,9 +117,11 @@ for (const source of sourceRecords) {
       continue;
     }
 
+    if (source.dailyLimit && sourcePublishedToday >= source.dailyLimit) continue;
+
     const publishedArticle = {
       slug: article.slug,
-      date: article.date,
+      date: source.dailyLimit ? now.date : article.date,
       category: article.category,
       title: article.title,
       summary: article.summary,
@@ -125,6 +134,10 @@ for (const source of sourceRecords) {
     if (plannedArticle) plannedArticle.status = "published";
     existing.set(article.slug, publishedArticle);
     publishedCount += 1;
+    if (source.dailyLimit) {
+      article.publishedOn = now.date;
+      sourcePublishedToday += 1;
+    }
     source.changed = true;
     changed = true;
   }
