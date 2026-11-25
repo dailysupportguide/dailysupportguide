@@ -5,7 +5,7 @@
     "slug": "make-kitchen-easier-to-start-from",
     "title": "How to Make Your Kitchen Easier to Start From",
     "category": "Kitchen Systems",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "nora-vale",
       "name": "Nora Vale"
@@ -143,7 +143,8 @@
       "claude": "passed",
       "grokRequired": false
     },
-    "originalPlannedDate": "2026-09-30"
+    "originalPlannedDate": "2026-09-30",
+    "publishedOn": "2026-11-25"
   },
   {
     "day": 2,
