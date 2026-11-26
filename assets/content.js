@@ -1,6 +1,113 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "three-zone-counter-check-before-busy-week",
+      "date": "2026-11-26",
+      "category": "Kitchen Systems",
+      "title": "The Three-Zone Counter Check Before a Busy Week",
+      "summary": "A structured counter check that separates prep space, landing space, and clear space before the week becomes crowded.",
+      "author": {
+        "id": "mara-lin",
+        "name": "Mara Lin"
+      },
+      "seo": {
+        "seoTitle": "Three-Zone Counter Check Before a Busy Week | Daily Support Guide",
+        "metaDescription": "Use a three-zone kitchen counter check to separate prep space, landing space, and clear space before a busy week starts.",
+        "primaryKeyword": "kitchen counter zones busy week",
+        "secondaryKeywords": [
+          "counter check routine",
+          "kitchen prep zone",
+          "busy week kitchen setup"
+        ],
+        "searchIntent": "informational",
+        "h1": "The Three-Zone Counter Check Before a Busy Week",
+        "h2": [
+          "Zone one is for food that starts now",
+          "Zone two is for things arriving later",
+          "Zone three stays clear on purpose",
+          "Check the zones before adding a rule"
+        ],
+        "faq": [
+          "What are kitchen counter zones?",
+          "How can I prepare a counter for a busy week?",
+          "Do counter zones require special organizers?"
+        ],
+        "internalLinks": [
+          "weekly-kitchen-map",
+          "grocery-unpacking-routine",
+          "kitchen-closing-routine"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No storage product examples",
+          "No perfection framing",
+          "No brand mentions",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "A counter can look messy because it is doing three jobs at once. It holds food being prepared, things that just came in, and items that have no current job. Separate those jobs before deciding the kitchen needs a larger system."
+        },
+        {
+          "type": "h2",
+          "text": "Zone one is for food that starts now"
+        },
+        {
+          "type": "p",
+          "text": "Choose one section as the start zone. This is where chopping, pouring, packing, or assembling begins. It should be large enough for one action and clear enough that the action can start without sorting first."
+        },
+        {
+          "type": "p",
+          "text": "Keep the field simple: surface, tool, food, next step. If one of those is missing, the start zone is not ready yet."
+        },
+        {
+          "type": "h2",
+          "text": "Zone two is for things arriving later"
+        },
+        {
+          "type": "p",
+          "text": "The landing zone is for grocery bags, lunch containers, mail that came in with food, or anything that needs a short stop before it moves. It should not become permanent storage."
+        },
+        {
+          "type": "p",
+          "text": "Use a plain rule for this zone: arrive here, leave later. If it has been sitting there for days, it needs a real home or a decision."
+        },
+        {
+          "type": "h2",
+          "text": "Zone three stays clear on purpose"
+        },
+        {
+          "type": "p",
+          "text": "A clear zone is not wasted space. It is working space held in reserve. Busy weeks need at least one empty surface for a plate, bag, container, note, or quick decision."
+        },
+        {
+          "type": "p",
+          "text": "Do not fill the clear zone just because it is open. Its job is to stay available."
+        },
+        {
+          "type": "h2",
+          "text": "Check the zones before adding a rule"
+        },
+        {
+          "type": "p",
+          "text": "Write the three zones on one line: start, landing, clear. If each zone has a place, the counter has a system. If one zone keeps disappearing, adjust that zone first."
+        },
+        {
+          "type": "p",
+          "text": "The counter check is not a kitchen makeover. It is a small map for the week."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "make-kitchen-easier-to-start-from",
       "date": "2026-11-25",
       "category": "Kitchen Systems",

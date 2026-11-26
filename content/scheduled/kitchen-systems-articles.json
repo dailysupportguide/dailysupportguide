@@ -152,7 +152,7 @@
     "slug": "three-zone-counter-check-before-busy-week",
     "title": "The Three-Zone Counter Check Before a Busy Week",
     "category": "Kitchen Systems",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "mara-lin",
       "name": "Mara Lin"
@@ -286,7 +286,8 @@
       "claude": "passed",
       "grokRequired": false
     },
-    "originalPlannedDate": "2026-10-01"
+    "originalPlannedDate": "2026-10-01",
+    "publishedOn": "2026-11-26"
   },
   {
     "day": 3,
