@@ -1,6 +1,113 @@
 window.DSG_CONTENT = {
   "articles": [
     {
+      "slug": "five-minute-kitchen-reset-no-plan",
+      "date": "2026-11-27",
+      "category": "Kitchen Systems",
+      "title": "A Five-Minute Kitchen Reset That Does Not Need a Plan",
+      "summary": "A direct five-minute checklist for making the kitchen usable again without starting a full organizing project.",
+      "author": {
+        "id": "eli-brooks",
+        "name": "Eli Brooks"
+      },
+      "seo": {
+        "seoTitle": "Five-Minute Kitchen Reset Without a Plan | Daily Support Guide",
+        "metaDescription": "Use a five-minute kitchen reset to clear one surface, move food into view, and make the next kitchen step easier without a full plan.",
+        "primaryKeyword": "five minute kitchen reset",
+        "secondaryKeywords": [
+          "quick kitchen routine",
+          "make kitchen usable",
+          "small kitchen reset"
+        ],
+        "searchIntent": "informational",
+        "h1": "A Five-Minute Kitchen Reset That Does Not Need a Plan",
+        "h2": [
+          "Clear one working spot",
+          "Move food back into view",
+          "Set up the next small action",
+          "Stop when the timer stops"
+        ],
+        "faq": [
+          "What can I do in a five-minute kitchen reset?",
+          "Should I clean the whole kitchen during a reset?",
+          "How can I keep a quick kitchen routine realistic?"
+        ],
+        "internalLinks": [
+          "midweek-kitchen-check-in",
+          "kitchen-closing-routine",
+          "useful-kitchen-notes"
+        ],
+        "schema": [
+          "Article",
+          "FAQPage"
+        ],
+        "riskNotes": [
+          "No body-reset language",
+          "No cleaning product recommendations",
+          "No strict rules",
+          "No medical advice"
+        ]
+      },
+      "body": [
+        {
+          "type": "p",
+          "text": "Set a timer for five minutes. Do not make a list first. Do not open every cabinet. The job is to make the next kitchen action possible."
+        },
+        {
+          "type": "h2",
+          "text": "Clear one working spot"
+        },
+        {
+          "type": "p",
+          "text": "Pick one surface. Move anything that does not belong to the side. Throw away obvious trash. Put dishes together. Leave enough room for one plate, one board, or one bag."
+        },
+        {
+          "type": "p",
+          "text": "Stop there. One working spot is useful. Half-cleaning three spots usually gives you three unfinished spots."
+        },
+        {
+          "type": "h2",
+          "text": "Move food back into view"
+        },
+        {
+          "type": "p",
+          "text": "Look for food that needs a decision soon. Put it where it can be seen. Front of shelf. Eye-level fridge spot. Counter edge if it belongs there briefly."
+        },
+        {
+          "type": "p",
+          "text": "Do not solve every item. Visibility comes first."
+        },
+        {
+          "type": "h2",
+          "text": "Set up the next small action"
+        },
+        {
+          "type": "p",
+          "text": "Choose one next action. Wash one bowl. Put one open item away. Place tomorrow morning food where it is easy to reach. Write one note if the decision will not happen now."
+        },
+        {
+          "type": "p",
+          "text": "A next action should be small enough that you would still do it on a tired night."
+        },
+        {
+          "type": "h2",
+          "text": "Stop when the timer stops"
+        },
+        {
+          "type": "p",
+          "text": "When five minutes are up, stop. A short reset works because it ends. If you keep expanding it, the kitchen learns to feel like a project again."
+        },
+        {
+          "type": "p",
+          "text": "The goal is not a finished room. The goal is a kitchen that gives you a place to start."
+        },
+        {
+          "type": "p",
+          "text": "This article is general education only and is not medical advice."
+        }
+      ]
+    },
+    {
       "slug": "three-zone-counter-check-before-busy-week",
       "date": "2026-11-26",
       "category": "Kitchen Systems",

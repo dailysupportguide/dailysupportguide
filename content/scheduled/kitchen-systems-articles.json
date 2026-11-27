@@ -295,7 +295,7 @@
     "slug": "five-minute-kitchen-reset-no-plan",
     "title": "A Five-Minute Kitchen Reset That Does Not Need a Plan",
     "category": "Kitchen Systems",
-    "status": "approved",
+    "status": "published",
     "author": {
       "id": "eli-brooks",
       "name": "Eli Brooks"
@@ -429,7 +429,8 @@
       "claude": "passed",
       "grokRequired": false
     },
-    "originalPlannedDate": "2026-10-02"
+    "originalPlannedDate": "2026-10-02",
+    "publishedOn": "2026-11-27"
   },
   {
     "day": 4,
